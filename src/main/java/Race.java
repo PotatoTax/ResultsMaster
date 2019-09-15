@@ -1,29 +1,63 @@
-import com.google.gson.Gson;
-import com.google.gson.GsonBuilder;
+import org.json.JSONArray;
 
 import java.util.ArrayList;
 
 public class Race {
+    private ArrayList<Runner> runners;
+    private ArrayList<School> schools;
+    private ArrayList data;
+
     public ArrayList<Runner> getRunners() {
         return runners;
     }
 
-    private ArrayList<Runner> runners;
-    private ArrayList data;
+    Race() {
+        runners = new ArrayList<>();
+        schools = new ArrayList<>();
+    }
 
-    public Race()
-    {
-        runners = new ArrayList<Runner>();
+    public void score() {
+        boolean foundSchool;
+        for (Runner r : runners) {
+            foundSchool = false;
+            for (School s : schools) {
+                if (r.getSchool().equals(s.getName())) {
+                    s.addRunner(r);
+                    foundSchool = true;
+                    break;
+                }
+            }
+            if (!foundSchool) {
+                School s = new School(r.getSchool());
+                s.addRunner(r);
+                System.out.println(s.getName());
+                schools.add(s);
+            }
+        }
 
-        Gson gson = new GsonBuilder().create();
-        System.out.println(data);
-        runners.add(gson.fromJson(String.valueOf(data), Runner.class));
+        for (School s : schools) {
+            s.score();
+        }
+    }
+
+    void addRunner(JSONArray data) {
+        runners.add(new Runner(data));
+    }
+
+    ArrayList<School> getSchools() {
+        return schools;
     }
 
     @Override
     public String toString() {
-        return "Race{" +
-                "runners=" + runners +
-                '}';
+        StringBuilder stringBuilder = new StringBuilder();
+
+        for (Runner r : runners)
+        {
+            stringBuilder.append(r.toString());
+            stringBuilder.append("\n");
+        }
+
+        return stringBuilder.toString();
     }
 }
