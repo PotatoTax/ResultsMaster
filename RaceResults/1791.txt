@@ -1,0 +1,265 @@
+Race : 1791
+{place=1, name='Anders Roback', school='Rosemount', grade=9, gender='M', time=1133.37}
+{place=2, name='Aidan Belisle', school='Minnetonka', grade=10, gender='M', time=1144.34}
+{place=3, name='John Ziemkowski', school='Lakeville South', grade=9, gender='M', time=1147.17}
+{place=4, name='Paul March', school='St Agnes', grade=11, gender='M', time=1148.8}
+{place=5, name='Kyle  Schaeffler', school='Prior Lake', grade=10, gender='M', time=1149.81}
+{place=6, name='John Meagher', school='Prior Lake', grade=9, gender='M', time=1156.87}
+{place=7, name='Will Beaumaster', school='Northfield', grade=8, gender='M', time=1168.37}
+{place=8, name='Bennett Magnuson', school='Rosemount', grade=11, gender='M', time=1168.69}
+{place=9, name='Carson McCalvy', school='Prior Lake', grade=12, gender='M', time=1169.9}
+{place=10, name='OWEN BERNSTORF', school='Northfield', grade=10, gender='M', time=1173.55}
+{place=11, name='Dylan Kinney', school='Forest Lake', grade=10, gender='M', time=1176.21}
+{place=12, name='Clayton Roberts', school='Lakeville South', grade=10, gender='M', time=1178.21}
+{place=13, name='Gabriel Brand', school='Forest Lake', grade=11, gender='M', time=1180.25}
+{place=14, name='Stan Kohls', school='Minnetonka', grade=12, gender='M', time=1181.65}
+{place=15, name='Blake Vander Weide', school='Prior Lake', grade=9, gender='M', time=1182.62}
+{place=16, name='Ethan Erickson', school='Forest Lake', grade=10, gender='M', time=1185.35}
+{place=17, name='Mason Gehloff', school='Waseca', grade=9, gender='M', time=1185.87}
+{place=18, name='Collin Dufault', school='Waseca', grade=9, gender='M', time=1187.37}
+{place=19, name='Max Charlsen', school='Forest Lake', grade=10, gender='M', time=1193.55}
+{place=20, name='Steven Olson', school='Lakeville South', grade=10, gender='M', time=1196.22}
+{place=21, name='Zach Fuller', school='Prior Lake', grade=12, gender='M', time=1198.37}
+{place=22, name='George Grunklee', school='Rosemount', grade=10, gender='M', time=1198.85}
+{place=23, name='Jack Van Dyke', school='Lakeville South', grade=12, gender='M', time=1201.37}
+{place=24, name='Noah Barber', school='Lakeville South', grade=11, gender='M', time=1201.62}
+{place=25, name='Jake Richards', school='Rosemount', grade=10, gender='M', time=1203.5}
+{place=26, name='Quinlan Bonnett', school='Forest Lake', grade=9, gender='M', time=1204.32}
+{place=27, name='Zach Berry', school='Lakeville South', grade=10, gender='M', time=1206.97}
+{place=28, name='Jaden Setter', school='Prior Lake', grade=9, gender='M', time=1208.59}
+{place=29, name='Jacob Ivers', school='Northfield', grade=10, gender='M', time=1210.22}
+{place=30, name='Luke Kalb', school='Prior Lake', grade=9, gender='M', time=1210.62}
+{place=31, name='Niklas Barrett', school='Rosemount', grade=9, gender='M', time=1211.62}
+{place=32, name='Wilson Wilson P', school='Burnsville', grade=12, gender='M', time=1212.44}
+{place=33, name='Roger Abercrombie', school='Rosemount', grade=11, gender='M', time=1216.37}
+{place=34, name='Andrew Cavanaugh', school='Lakeville South', grade=9, gender='M', time=1217.5}
+{place=35, name='Joe Dimian', school='Farmington', grade=9, gender='M', time=1220.16}
+{place=36, name='CAVAN BLANDIN', school='Northfield', grade=10, gender='M', time=1222.36}
+{place=37, name='Andres Pope', school='Forest Lake', grade=8, gender='M', time=1223.87}
+{place=38, name='Preston Strop', school='Rosemount', grade=12, gender='M', time=1226.4}
+{place=39, name='Jacob Simons', school='Rosemount', grade=10, gender='M', time=1226.43}
+{place=40, name='Brett Cavanaugh', school='Farmington', grade=11, gender='M', time=1227.54}
+{place=41, name='Max Hjelmstad', school='Rosemount', grade=12, gender='M', time=1227.85}
+{place=42, name='Adam Butts', school='Lakeville South', grade=10, gender='M', time=1231.37}
+{place=43, name='Nick Dianchrist', school='Farmington', grade=11, gender='M', time=1231.87}
+{place=44, name='Gabriel Germain', school='Minnetonka', grade=10, gender='M', time=1237.19}
+{place=45, name='Owen Halls', school='Northfield', grade=10, gender='M', time=1237.59}
+{place=46, name='Jacob Zollar', school='Prior Lake', grade=10, gender='M', time=1239.12}
+{place=47, name='Ryan McClune', school='Waseca', grade=10, gender='M', time=1240.63}
+{place=48, name='Sean Loesch', school='Rosemount', grade=10, gender='M', time=1240.84}
+{place=49, name='Ross Hebel', school='Prior Lake', grade=8, gender='M', time=1243.87}
+{place=50, name='Ben Anderson', school='Forest Lake', grade=9, gender='M', time=1245.91}
+{place=51, name='Francis Adams', school='Burnsville', grade=11, gender='M', time=1247.53}
+{place=52, name='Amir Ally', school='Farmington', grade=11, gender='M', time=1248.12}
+{place=53, name='Andrew Horinek', school='Minnetonka', grade=12, gender='M', time=1252.26}
+{place=54, name='Henry Nomeland', school='Lakeville South', grade=9, gender='M', time=1252.41}
+{place=55, name='Nathan Amundson', school='Northfield', grade=7, gender='M', time=1253.63}
+{place=56, name='Jacob Larson', school='Lakeville South', grade=10, gender='M', time=1256.3}
+{place=57, name='BENJAMIN PALMQUIST', school='Northfield', grade=12, gender='M', time=1257.92}
+{place=58, name='Nicholas Gerda', school='Lakeville South', grade=10, gender='M', time=1260.57}
+{place=59, name='Tanner Cockrill', school='Lakeville South', grade=11, gender='M', time=1260.79}
+{place=60, name='Andrew Wilcox', school='Minnetonka', grade=10, gender='M', time=1261.79}
+{place=61, name='Sam Roehl', school='Minnetonka', grade=10, gender='M', time=1262.6}
+{place=62, name='JONATHAN WIESE', school='Northfield', grade=11, gender='M', time=1262.81}
+{place=63, name='Evan Freed', school='Minnetonka', grade=10, gender='M', time=1265.72}
+{place=64, name='William Preston', school='Lakeville South', grade=10, gender='M', time=1266.49}
+{place=65, name='Henry Trajano', school='Prior Lake', grade=11, gender='M', time=1266.49}
+{place=66, name='Kyle Wong', school='Prior Lake', grade=12, gender='M', time=1266.81}
+{place=67, name='ALEXANDER SCHEGLOWSKI', school='Northfield', grade=11, gender='M', time=1266.89}
+{place=68, name='Terry Cao', school='Farmington', grade=11, gender='M', time=1267.29}
+{place=69, name='Justin True', school='Waseca', grade=12, gender='M', time=1270.33}
+{place=70, name='Jackson Jedlicka', school='Rosemount', grade=10, gender='M', time=1272.78}
+{place=71, name='Malachi Fenske', school='Farmington', grade=8, gender='M', time=1273.58}
+{place=72, name='Andrew Kawas', school='Farmington', grade=10, gender='M', time=1274.38}
+{place=73, name='Sam Folland', school='Northfield', grade=7, gender='M', time=1275.8}
+{place=74, name='Mason Morehouse', school='Rosemount', grade=10, gender='M', time=1278.46}
+{place=75, name='MARSHALL NIELSEN', school='Northfield', grade=9, gender='M', time=1279.62}
+{place=76, name='Isaac Terrell', school='Waseca', grade=10, gender='M', time=1281.7}
+{place=77, name='Justin Garrison', school='Prior Lake', grade=11, gender='M', time=1283.12}
+{place=78, name='Cole Haugen', school='Lakeville South', grade=12, gender='M', time=1285.74}
+{place=79, name='Wilson P. Wilson', school='Burnsville', grade=12, gender='M', time=1286.13}
+{place=80, name='Ethan  Franzen', school='Prior Lake', grade=12, gender='M', time=1287.54}
+{place=81, name='Joey Henkemeyer', school='Rosemount', grade=9, gender='M', time=1289.62}
+{place=82, name='Michael Kawas', school='Farmington', grade=12, gender='M', time=1290.78}
+{place=83, name='Alex Gilley', school='Rosemount', grade=10, gender='M', time=1292.37}
+{place=84, name='Cole Kiecker', school='Lakeville South', grade=10, gender='M', time=1293.37}
+{place=85, name='Nicholas Knutson', school='Richfield', grade=11, gender='M', time=1296.87}
+{place=86, name='Ethan Snyder', school='Minnetonka', grade=9, gender='M', time=1296.96}
+{place=87, name='Kevin Coons', school='Lakeville South', grade=12, gender='M', time=1297.88}
+{place=88, name='Preston Alleman', school='CHOF', grade=10, gender='M', time=1297.88}
+{place=89, name='Sam Karrick', school='Minnetonka', grade=10, gender='M', time=1298.3}
+{place=90, name='Daniel Guille', school='Rosemount', grade=9, gender='M', time=1300.53}
+{place=91, name='Mitchell Frederick', school='Lakeville South', grade=10, gender='M', time=1300.62}
+{place=92, name='Darren Wong', school='Burnsville', grade=10, gender='M', time=1302.57}
+{place=93, name='Carter Busch', school='Prior Lake', grade=10, gender='M', time=1302.57}
+{place=94, name='Connor Niznick', school='Academy of Holy Angels', grade=9, gender='M', time=1307.25}
+{place=95, name='Brian Meyers', school='Lakeville South', grade=11, gender='M', time=1307.87}
+{place=96, name='Nick Niemi', school='Forest Lake', grade=10, gender='M', time=1308.12}
+{place=97, name='Josh Bisel', school='Northfield', grade=11, gender='M', time=1308.28}
+{place=98, name='Lucas Pessanha', school='Lakeville South', grade=9, gender='M', time=1308.38}
+{place=99, name='Alec Moseng', school='Forest Lake', grade=10, gender='M', time=1308.62}
+{place=100, name='Cole Keiper', school='Prior Lake', grade=10, gender='M', time=1308.81}
+{place=101, name='Jack Siegwart', school='Minnetonka', grade=10, gender='M', time=1309.49}
+{place=102, name='Joe Drexler', school='Lakeville South', grade=9, gender='M', time=1311.33}
+{place=103, name='Sheth Larson', school='Waseca', grade=11, gender='M', time=1316.38}
+{place=104, name='Joseph Hoffman', school='Minnetonka', grade=12, gender='M', time=1319.22}
+{place=105, name='Michael Taylor', school='Waseca', grade=8, gender='M', time=1319.83}
+{place=106, name='Cory St. Martin', school='Prior Lake', grade=10, gender='M', time=1321.37}
+{place=107, name='Ben Mandel', school='Lakeville South', grade=10, gender='M', time=1324.95}
+{place=108, name='Willaim Norton', school='Waseca', grade=11, gender='M', time=1326.12}
+{place=109, name='Zeb  Zimmer', school='Farmington', grade=11, gender='M', time=1326.32}
+{place=110, name='Kendrick Hjelmberg', school='Prior Lake', grade=11, gender='M', time=1328.54}
+{place=111, name='Max Kranz', school='Rosemount', grade=10, gender='M', time=1330.38}
+{place=112, name='Nate Stierman', school='Lakeville South', grade=10, gender='M', time=1330.57}
+{place=113, name='Aidan Anderson', school='Rosemount', grade=11, gender='M', time=1331.59}
+{place=114, name='Atticus Jacobson-Schulte', school='Farmington', grade=9, gender='M', time=1331.79}
+{place=115, name='Baptiste Lemercier', school='Prior Lake', grade=10, gender='M', time=1333.37}
+{place=116, name='Luke Finger', school='Prior Lake', grade=11, gender='M', time=1334.84}
+{place=117, name='Andrew Hartmann', school='Minnetonka', grade=10, gender='M', time=1336.64}
+{place=118, name='JT Oliver', school='Rosemount', grade=10, gender='M', time=1336.88}
+{place=119, name='Josh Lee', school='Farmington', grade=9, gender='M', time=1338.62}
+{place=120, name='Michael  Adams', school='Waseca', grade=8, gender='M', time=1339.74}
+{place=121, name='Cameron Estes', school='Rosemount', grade=9, gender='M', time=1340.36}
+{place=122, name='William Eikens', school='Academy of Holy Angels', grade=10, gender='M', time=1340.96}
+{place=123, name='Ethan Neurauter', school='Farmington', grade=9, gender='M', time=1342.37}
+{place=124, name='Nathan Manni', school='Forest Lake', grade=11, gender='M', time=1343.81}
+{place=125, name='Blake Sundby', school='Prior Lake', grade=8, gender='M', time=1344.84}
+{place=126, name='Jonathon Hudrilik', school='Forest Lake', grade=9, gender='M', time=1344.85}
+{place=127, name='Ryan Houseman', school='Forest Lake', grade=7, gender='M', time=1344.87}
+{place=128, name='Elijah Allen', school='Forest Lake', grade=8, gender='M', time=1348.32}
+{place=129, name='Jacob Mayer', school='Forest Lake', grade=7, gender='M', time=1349.74}
+{place=130, name='Alex Rodrigues', school='Forest Lake', grade=9, gender='M', time=1352.78}
+{place=131, name='Aidan Sharp', school='Waseca', grade=9, gender='M', time=1353.87}
+{place=132, name='Ryan Heglund', school='Northfield', grade=9, gender='M', time=1354.12}
+{place=133, name='Noel Preslicka', school='Prior Lake', grade=11, gender='M', time=1357.37}
+{place=134, name='Branden Williams', school='Farmington', grade=11, gender='M', time=1362.98}
+{place=135, name='Will Stahl', school='Waseca', grade=11, gender='M', time=1365.56}
+{place=136, name='Zander Hawks', school='Minnetonka', grade=9, gender='M', time=1365.56}
+{place=137, name='Jose Vazquez', school='Northfield', grade=9, gender='M', time=1365.96}
+{place=138, name='Zach Johnson', school='Prior Lake', grade=8, gender='M', time=1366.78}
+{place=139, name='Mason Schwen', school='Prior Lake', grade=10, gender='M', time=1366.98}
+{place=140, name='Jake  Bennett', school='Academy of Holy Angels', grade=9, gender='M', time=1369.63}
+{place=141, name='Joe Feldkamp', school='Waseca', grade=7, gender='M', time=1371.39}
+{place=142, name='Bo Claymore', school='Prior Lake', grade=11, gender='M', time=1374.27}
+{place=143, name='Abdirizak Khalif', school='Burnsville', grade=11, gender='M', time=1374.67}
+{place=144, name='Connor Hassing', school='Simley', grade=9, gender='M', time=1375.73}
+{place=145, name='Owen Dwyer', school='Prior Lake', grade=7, gender='M', time=1378.63}
+{place=146, name='Mikhail Geissler', school='Northfield', grade=11, gender='M', time=1379.96}
+{place=147, name='Bryce Beske', school='Prior Lake', grade=11, gender='M', time=1381.12}
+{place=148, name='Leif Walker', school='Minnetonka', grade=10, gender='M', time=1381.42}
+{place=149, name='Nico Losinski', school='Simley', grade=8, gender='M', time=1381.99}
+{place=150, name='Josh Lihnakevich', school='Farmington', grade=11, gender='M', time=1384.62}
+{place=151, name='Aaron Bloomberg', school='Forest Lake', grade=7, gender='M', time=1386.23}
+{place=152, name='Timmy Rosno', school='St Agnes', grade=10, gender='M', time=1387.37}
+{place=153, name='Sebastian Miezinanko', school='Northfield', grade=8, gender='M', time=1388.23}
+{place=154, name='Gilberto Campos Mijares', school='Northfield', grade=10, gender='M', time=1389.68}
+{place=155, name='Tyler Dewaard', school='Farmington', grade=9, gender='M', time=1390.28}
+{place=156, name='Austin Wendinger', school='Prior Lake', grade=11, gender='M', time=1390.62}
+{place=157, name='Aiden Harms', school='CHOF', grade=9, gender='M', time=1391.87}
+{place=158, name='Elliott Krohnke', school='Forest Lake', grade=12, gender='M', time=1394.12}
+{place=159, name='Evan Foster', school='Rosemount', grade=9, gender='M', time=1398.62}
+{place=160, name='Josh Kohnen', school='Minnetonka', grade=10, gender='M', time=1403.32}
+{place=161, name='Jackson Mishuk', school='Prior Lake', grade=9, gender='M', time=1405.55}
+{place=162, name='Khoi Le', school='Farmington', grade=11, gender='M', time=1408.6}
+{place=163, name='Jake Schouten', school='Burnsville', grade=10, gender='M', time=1417.71}
+{place=164, name='Kacey Moncur', school='Forest Lake', grade=12, gender='M', time=1418.32}
+{place=165, name='Henry  Cleary', school='Simley', grade=9, gender='M', time=1424.87}
+{place=166, name='Eddie Herman', school='Waseca', grade=7, gender='M', time=1429.29}
+{place=167, name='Ben Chayet', school='Minnetonka', grade=10, gender='M', time=1429.77}
+{place=168, name='Cooper Larson', school='Forest Lake', grade=7, gender='M', time=1431.3}
+{place=169, name='Andrew Lybeck', school='Richfield', grade=8, gender='M', time=1431.87}
+{place=170, name='Aaron Morris', school='Farmington', grade=12, gender='M', time=1432.71}
+{place=171, name='Gavin Donnelly', school='Burnsville', grade=12, gender='M', time=1434.12}
+{place=172, name='Max Fox', school='Burnsville', grade=12, gender='M', time=1437.21}
+{place=173, name='Nick Stoner', school='Rosemount', grade=12, gender='M', time=1448.37}
+{place=174, name='Nick Broske', school='Northfield', grade=10, gender='M', time=1448.99}
+{place=175, name='Noah Jenson', school='Farmington', grade=9, gender='M', time=1449.81}
+{place=176, name='Andy Soto-Moreno', school='Richfield', grade=9, gender='M', time=1452.65}
+{place=177, name='Alan Nguyen', school='Richfield', grade=11, gender='M', time=1453.26}
+{place=178, name='Plakhatnii Oleksiy', school='Minnetonka', grade=12, gender='M', time=1454.37}
+{place=179, name='Jacob Pacheco', school='Farmington', grade=8, gender='M', time=1456.87}
+{place=180, name='Matthew Hughes', school='Richfield', grade=12, gender='M', time=1457.92}
+{place=181, name='Johannes Schroeer', school='Northfield', grade=7, gender='M', time=1457.96}
+{place=182, name='Will Acheson', school='Northfield', grade=9, gender='M', time=1459.55}
+{place=183, name='Jonah Kolsrud', school='Prior Lake', grade=8, gender='M', time=1460.58}
+{place=184, name='Jack Hanzlik', school='Minnetonka', grade=12, gender='M', time=1466.89}
+{place=185, name='Juan Jose DiGrazia', school='Richfield', grade=9, gender='M', time=1468.92}
+{place=186, name='Max Casson', school='Northfield', grade=7, gender='M', time=1469.52}
+{place=187, name='Abriham Yunnus', school='Burnsville', grade=11, gender='M', time=1472.57}
+{place=188, name='Carter Loring', school='Northfield', grade=9, gender='M', time=1472.88}
+{place=189, name='Joe Schmidt', school='Waseca', grade=8, gender='M', time=1473.38}
+{place=190, name='TIMOTHY ROBACK', school='Northfield', grade=12, gender='M', time=1473.79}
+{place=191, name='OLIVER BLUNDRED', school='Northfield', grade=9, gender='M', time=1474.38}
+{place=192, name='Matt Spelbring', school='Prior Lake', grade=11, gender='M', time=1474.8}
+{place=193, name='DANIEL CASPER SANCHEZ', school='Northfield', grade=11, gender='M', time=1475.3}
+{place=194, name='John Hughes', school='Richfield', grade=10, gender='M', time=1480.71}
+{place=195, name='Gavin Wood', school='Farmington', grade=9, gender='M', time=1483.94}
+{place=196, name='Sam Auwarter', school='Farmington', grade=7, gender='M', time=1483.94}
+{place=197, name='Brayden Thaompson', school='Forest Lake', grade=7, gender='M', time=1486.61}
+{place=198, name='Anthony Armstrong', school='Waseca', grade=7, gender='M', time=1489.12}
+{place=199, name='Tristan Benson', school='Waseca', grade=12, gender='M', time=1493.5}
+{place=200, name='Ibreheem Malik', school='Burnsville', grade=9, gender='M', time=1496.62}
+{place=201, name='Benjamin Ouradnik', school='Lakeville South', grade=10, gender='M', time=1496.87}
+{place=202, name='Morgan Guinta', school='Simley', grade=9, gender='M', time=1496.92}
+{place=203, name='Mitchell Swenson', school='Northfield', grade=7, gender='M', time=1498.87}
+{place=204, name='Steven Schutz', school='CHOF', grade=9, gender='M', time=1501.21}
+{place=205, name='Sam Rudolph', school='Richfield', grade=8, gender='M', time=1501.62}
+{place=206, name='Ian  Anderson', school='Simley', grade=9, gender='M', time=1503.85}
+{place=207, name='Seth Braedael', school='Minnetonka', grade=9, gender='M', time=1507.51}
+{place=208, name='Kengo Osumi', school='Northfield', grade=9, gender='M', time=1509.56}
+{place=209, name='Nathan  Schauer', school='Simley', grade=8, gender='M', time=1512.81}
+{place=210, name='Soren Richardson', school='Northfield', grade=7, gender='M', time=1514.42}
+{place=211, name='Andrew Stromme', school='Northfield', grade=7, gender='M', time=1514.65}
+{place=212, name='Ethan Partida', school='Farmington', grade=11, gender='M', time=1518.31}
+{place=213, name='Jacob Scheffer', school='Simley', grade=8, gender='M', time=1519.12}
+{place=214, name='Josh Kuehn', school='Richfield', grade=9, gender='M', time=1519.12}
+{place=215, name='Shido Moallin', school='Waseca', grade=8, gender='M', time=1520.54}
+{place=216, name='Justin Lockwood', school='Academy of Holy Angels', grade=11, gender='M', time=1522.77}
+{place=217, name='Ryan Whitaker', school='Richfield', grade=10, gender='M', time=1532.76}
+{place=218, name='Henry Vrtis', school='Northfield', grade=7, gender='M', time=1544.51}
+{place=219, name='Owen Fuls', school='Academy of Holy Angels', grade=10, gender='M', time=1549.37}
+{place=220, name='Aidan Buesing', school='Rosemount', grade=12, gender='M', time=1554.48}
+{place=221, name='Braedon Kelly', school='Farmington', grade=11, gender='M', time=1554.88}
+{place=222, name='Bailey Carey', school='Farmington', grade=9, gender='M', time=1569.11}
+{place=223, name='Lennon Watkins', school='Northfield', grade=9, gender='M', time=1571.88}
+{place=224, name='Nick  Hardcopf', school='Academy of Holy Angels', grade=10, gender='M', time=1575.59}
+{place=225, name='James Perry', school='Rosemount', grade=9, gender='M', time=1577.38}
+{place=226, name='Ben  Meyer', school='Academy of Holy Angels', grade=11, gender='M', time=1577.82}
+{place=227, name='PETER NEEB', school='Northfield', grade=10, gender='M', time=1579.86}
+{place=228, name='Kit Geissler', school='Northfield', grade=10, gender='M', time=1580.28}
+{place=229, name='Jack Fritschel', school='Rosemount', grade=9, gender='M', time=1582.12}
+{place=230, name='Finn Olson', school='Academy of Holy Angels', grade=10, gender='M', time=1585.39}
+{place=231, name='Owen Wallace', school='Minnetonka', grade=9, gender='M', time=1588.63}
+{place=232, name='Isaac Leer', school='Northfield', grade=7, gender='M', time=1605.88}
+{place=233, name='NICHOLAS BORENE', school='Northfield', grade=9, gender='M', time=1606.31}
+{place=234, name='Ethan  Speikers', school='Waseca', grade=10, gender='M', time=1610.96}
+{place=235, name='Mark Huttman', school='Burnsville', grade=12, gender='M', time=1625.17}
+{place=236, name='Caleb Brinkman', school='Simley', grade=9, gender='M', time=1628.85}
+{place=237, name='Jaedon Soli', school='Richfield', grade=7, gender='M', time=1630.11}
+{place=238, name='Riley Kepler', school='Simley', grade=9, gender='M', time=1635.88}
+{place=239, name='Elijah Patterson', school='Rosemount', grade=10, gender='M', time=1646.63}
+{place=240, name='Sam Nelson', school='Burnsville', grade=12, gender='M', time=1650.58}
+{place=241, name='Cole Johannsen', school='Northfield', grade=10, gender='M', time=1663.41}
+{place=242, name='Ezekiel Gorshe', school='Richfield', grade=8, gender='M', time=1689.34}
+{place=243, name='Gabe Stedillie', school='Minnetonka', grade=9, gender='M', time=1689.63}
+{place=244, name='Reilly Kasper', school='Farmington', grade=7, gender='M', time=1691.77}
+{place=245, name='Logan Juell', school='Richfield', grade=12, gender='M', time=1693.18}
+{place=246, name='Matthew  Yokanovich', school='Academy of Holy Angels', grade=11, gender='M', time=1697.88}
+{place=247, name='Akira Ea', school='Rosemount', grade=12, gender='M', time=1711.47}
+{place=248, name='Alex Anaya', school='Simley', grade=7, gender='M', time=1748.26}
+{place=249, name='Sam Boime', school='Minnetonka', grade=9, gender='M', time=1750.1}
+{place=250, name='Adam  Nordquist', school='Richfield', grade=9, gender='M', time=1760.54}
+{place=251, name='Calvin Larson', school='Waseca', grade=11, gender='M', time=1763.37}
+{place=252, name='Lucas Wallenta', school='Farmington', grade=8, gender='M', time=1766.63}
+{place=253, name='Carter Gibson', school='Simley', grade=7, gender='M', time=1774.38}
+{place=254, name='Gabe Riley', school='Richfield', grade=8, gender='M', time=1778.61}
+{place=255, name='Gabe Kuehn', school='Richfield', grade=8, gender='M', time=1784.88}
+{place=256, name='Jordan Hackett', school='Waseca', grade=8, gender='M', time=1809.44}
+{place=257, name='Logan Samountry', school='Academy of Holy Angels', grade=12, gender='M', time=1815.53}
+{place=258, name='Nick Jurek', school='St Agnes', grade=7, gender='M', time=1846.9}
+{place=259, name='LINDEN FELTES', school='Northfield', grade=9, gender='M', time=1852.48}
+{place=260, name='Bailey Sauve', school='Northfield', grade=8, gender='M', time=1899.2}
+{place=261, name='Stephen Cooper', school='Richfield', grade=9, gender='M', time=1945.88}
+{place=262, name='Colin Herkinhoff', school='St Agnes', grade=7, gender='M', time=2020.39}
+{place=263, name='Ryder Whitaker', school='Richfield', grade=8, gender='M', time=2058.89}
+{place=264, name='Michael Berg', school='St Agnes', grade=7, gender='M', time=2127.89}

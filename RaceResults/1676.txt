@@ -1,0 +1,71 @@
+Race : 1676
+{place=1, name='Jake Andres', school='Pierz', grade=11, gender='M', time=1040.57}
+{place=2, name='Preston Poepping', school='Melrose', grade=11, gender='M', time=1072.148}
+{place=3, name='Noah Stewart', school='MACA', grade=10, gender='M', time=1085.309}
+{place=4, name='Tristan Thompson', school='New London-Spicer', grade=12, gender='M', time=1087.551}
+{place=5, name='Michael Miller', school='Maple Lake', grade=11, gender='M', time=1091.781}
+{place=6, name='Eli Weiss', school='Albany', grade=11, gender='M', time=1099.738}
+{place=7, name='Luke Ryan', school='Holdingford', grade=12, gender='M', time=1100.309}
+{place=8, name='Tabler Elliott', school='St Cloud Cathedral', grade=12, gender='M', time=1102.551}
+{place=9, name='Luc Westling', school='St Johns Prep', grade=10, gender='M', time=1102.859}
+{place=10, name='Christopher Borash', school='Royalton', grade=10, gender='M', time=1103.75}
+{place=11, name='Jared Thell', school='Holdingford', grade=12, gender='M', time=1109.59}
+{place=12, name='Ben Lange', school='New London-Spicer', grade=12, gender='M', time=1112.23}
+{place=13, name='Nicholas Berscheit', school='Melrose', grade=10, gender='M', time=1112.871}
+{place=14, name='Joe Stangler', school='St Cloud Cathedral', grade=12, gender='M', time=1115.672}
+{place=15, name='Mitchell Silkman', school='St Cloud Cathedral', grade=12, gender='M', time=1123.609}
+{place=16, name='Tate Nelson', school='MACA', grade=12, gender='M', time=1130.238}
+{place=17, name='Ben Grebinoski', school='Holdingford', grade=11, gender='M', time=1132.859}
+{place=18, name='Anthony Rozycki', school='Royalton', grade=10, gender='M', time=1133.52}
+{place=19, name='Peter Reisdorf', school='St Cloud Cathedral', grade=12, gender='M', time=1135.801}
+{place=20, name='Brock Chellgren', school='Melrose', grade=11, gender='M', time=1136.2109}
+{place=21, name='Stuart Hawn', school='Holdingford', grade=11, gender='M', time=1138.859}
+{place=22, name='Vincent Kahlhamer', school='Holdingford', grade=12, gender='M', time=1138.988}
+{place=23, name='Daniel Eickhoff', school='St Cloud Cathedral', grade=10, gender='M', time=1139.23}
+{place=24, name='Rishi Gulati', school='St Cloud Cathedral', grade=11, gender='M', time=1140.852}
+{place=25, name='Cole Andres', school='Pierz', grade=10, gender='M', time=1140.988}
+{place=26, name='Jeremiah Christiansen', school='Holdingford', grade=11, gender='M', time=1148.789}
+{place=27, name='Hayden Kulzer', school='Albany', grade=12, gender='M', time=1155.66}
+{place=28, name='Diego Rojas', school='New London-Spicer', grade=9, gender='M', time=1160.859}
+{place=29, name='Nathan Douvier', school='Melrose', grade=9, gender='M', time=1164.18}
+{place=30, name='Ty Bisek', school='New London-Spicer', grade=9, gender='M', time=1168.359}
+{place=31, name='Tyler Pohlmann', school='Melrose', grade=9, gender='M', time=1176.859}
+{place=32, name='Jacob Bushman', school='Albany', grade=12, gender='M', time=1177.109}
+{place=33, name='Carter Andresen', school='New London-Spicer', grade=11, gender='M', time=1178.391}
+{place=34, name='Wyatt  Shay', school='Albany', grade=10, gender='M', time=1184.621}
+{place=35, name='Tyler Reimers', school='MACA', grade=12, gender='M', time=1184.66}
+{place=36, name='Riley Halstrom', school='St Cloud Cathedral', grade=11, gender='M', time=1190.75}
+{place=37, name='Jacob Borgerding', school='Sauk Centre', grade=12, gender='M', time=1200.859}
+{place=38, name='Mensen Bryan', school='Sauk Centre', grade=11, gender='M', time=1201.988}
+{place=39, name='Ben  Smail', school='Maple Lake', grade=12, gender='M', time=1212.859}
+{place=40, name='Josh Proehl', school='New London-Spicer', grade=12, gender='M', time=1213.0}
+{place=41, name='Sam Scherping', school='Albany', grade=12, gender='M', time=1213.27}
+{place=42, name='Andrew Moen', school='St Johns Prep', grade=12, gender='M', time=1222.121}
+{place=43, name='Tyson Prentice', school='New London-Spicer', grade=12, gender='M', time=1226.551}
+{place=44, name='Elisha Duckson', school='Albany', grade=12, gender='M', time=1229.5}
+{place=45, name='John Meyer', school='Melrose', grade=11, gender='M', time=1245.309}
+{place=46, name='Nate Salzl ', school='St Johns Prep', grade=11, gender='M', time=1254.621}
+{place=47, name='Jacob Jennissen', school='Sauk Centre', grade=10, gender='M', time=1274.871}
+{place=48, name='Jacob Fynboh', school='Maple Lake', grade=12, gender='M', time=1275.699}
+{place=49, name='Bradley Rohloff', school='MACA', grade=10, gender='M', time=1282.98}
+{place=50, name='Nathan Kolbo', school='Royalton', grade=9, gender='M', time=1286.621}
+{place=51, name='Quinn Youngs', school='Maple Lake', grade=12, gender='M', time=1291.34}
+{place=52, name='Tristan  Aasen', school='Maple Lake', grade=8, gender='M', time=1296.609}
+{place=53, name='Jaden Hennen', school='Pierz', grade=10, gender='M', time=1301.738}
+{place=54, name='Zach Olmshenk', school='Sauk Centre', grade=10, gender='M', time=1317.871}
+{place=55, name='Marcos Gandara', school='Maple Lake', grade=11, gender='M', time=1322.34}
+{place=56, name='Patrick Montoya', school='St Johns Prep', grade=11, gender='M', time=1323.949}
+{place=57, name='Bradley Pawlu', school='Pierz', grade=9, gender='M', time=1329.422}
+{place=58, name='Jeremiah Weber', school='St Johns Prep', grade=10, gender='M', time=1335.738}
+{place=59, name='Tanner Marthaler', school='Sauk Centre', grade=9, gender='M', time=1337.559}
+{place=60, name='Chris Feldewerd', school='Melrose', grade=10, gender='M', time=1353.359}
+{place=61, name='Chris Ramirez', school='Royalton', grade=9, gender='M', time=1357.121}
+{place=62, name='Judah Malek', school='MACA', grade=12, gender='M', time=1359.629}
+{place=63, name='Gabe Smail', school='Maple Lake', grade=10, gender='M', time=1361.699}
+{place=64, name='Micah Aanerud', school='MACA', grade=11, gender='M', time=1377.52}
+{place=65, name='Jacob Zollman', school='Sauk Centre', grade=10, gender='M', time=1382.281}
+{place=66, name='Carson Yates', school='Pierz', grade=9, gender='M', time=1385.488}
+{place=67, name='Max Satterlee', school='Sauk Centre', grade=10, gender='M', time=1393.34}
+{place=68, name='William Heschke', school='Pierz', grade=9, gender='M', time=1407.441}
+{place=69, name='Jack Walburn', school='Royalton', grade=9, gender='M', time=1431.129}
+{place=70, name='Simon Kroll', school='Pierz', grade=10, gender='M', time=1436.0}

@@ -1,0 +1,71 @@
+Race : 2439
+{place=1, name='Wren Scott-Lumbar', school='St Cloud Tech', grade=9, gender='F', time=1015.0}
+{place=2, name='Stormy Hegg', school='Alexandria', grade=11, gender='F', time=1016.0}
+{place=3, name='Gabriela Hennes', school='St Cloud Tech', grade=12, gender='F', time=1024.0}
+{place=4, name='Sadie Hamrin', school='Bemidji', grade=12, gender='F', time=1025.0}
+{place=5, name='Bethany Miller', school='Alexandria', grade=10, gender='F', time=1032.0}
+{place=6, name='Grace Erholtz', school='Brainerd', grade=11, gender='F', time=1041.0}
+{place=7, name='Alice Foote', school='Little Falls', grade=12, gender='F', time=1042.0}
+{place=8, name='Molly Lange', school='Little Falls', grade=11, gender='F', time=1055.0}
+{place=9, name='Kate Ludwig', school='Moorhead', grade=12, gender='F', time=1069.0}
+{place=10, name='Kaisa Bosek', school='Alexandria', grade=9, gender='F', time=1070.0}
+{place=11, name='Sofie Overturf', school='Moorhead', grade=12, gender='F', time=1074.0}
+{place=12, name='Kinley Prestegard', school='Bemidji', grade=11, gender='F', time=1074.0}
+{place=13, name='Carli Vrchota', school='Alexandria', grade=12, gender='F', time=1074.0}
+{place=14, name='CALLIE KNAPP', school='Brainerd', grade=10, gender='F', time=1095.0}
+{place=15, name='Gwendoline Youso', school='Bemidji', grade=10, gender='F', time=1096.0}
+{place=16, name='LILIANA SCHAEFFER', school='Brainerd', grade=8, gender='F', time=1100.0}
+{place=17, name='Hannah Trtanj', school='Brainerd', grade=12, gender='F', time=1103.0}
+{place=18, name='Abigail Gans', school='St Cloud Tech', grade=11, gender='F', time=1108.0}
+{place=19, name='Gina Wasniewski', school='Brainerd', grade=10, gender='F', time=1134.0}
+{place=20, name='Katie Corbett', school='Little Falls', grade=11, gender='F', time=1135.0}
+{place=21, name='Emma Reineke', school='Alexandria', grade=9, gender='F', time=1136.0}
+{place=22, name='Alyse Stone', school='Bemidji', grade=11, gender='F', time=1138.0}
+{place=23, name='Colette Jemming', school='Cathedral-Sartell', grade=11, gender='F', time=1148.0}
+{place=24, name='Berit Skogen', school='Fergus Falls', grade=11, gender='F', time=1149.0}
+{place=25, name='Demi Fisher', school='Bemidji', grade=9, gender='F', time=1149.0}
+{place=26, name='Lydia Anderson', school='Cathedral-Sartell', grade=10, gender='F', time=1158.0}
+{place=27, name='Sarah Hanson', school='Brainerd', grade=12, gender='F', time=1169.0}
+{place=28, name='Lexi Maddux', school='Moorhead', grade=12, gender='F', time=1171.0}
+{place=29, name='Emma Wildeson', school='Cathedral-Sartell', grade=12, gender='F', time=1181.0}
+{place=30, name='Molly Dirks', school='Fergus Falls', grade=12, gender='F', time=1185.0}
+{place=31, name='Damaris Berg', school='Bemidji', grade=10, gender='F', time=1189.0}
+{place=32, name='Sarah Pollock', school='Bemidji', grade=11, gender='F', time=1192.0}
+{place=33, name='Ellie Inkster', school='St Cloud Tech', grade=11, gender='F', time=1207.0}
+{place=34, name='Adrienne Kresha', school='Little Falls', grade=10, gender='F', time=1209.0}
+{place=35, name='Camilla Johnson', school='Little Falls', grade=10, gender='F', time=1211.0}
+{place=36, name='Kendra Nusbaum', school='St Cloud Tech', grade=12, gender='F', time=1214.0}
+{place=37, name='Mickayla Allen', school='Moorhead', grade=12, gender='F', time=1225.0}
+{place=38, name='Emma Storbakken', school='Brainerd', grade=9, gender='F', time=1226.0}
+{place=39, name='Madison Marquette', school='Little Falls', grade=11, gender='F', time=1228.0}
+{place=40, name='Isabelle Rockstad', school='Moorhead', grade=12, gender='F', time=1232.0}
+{place=41, name='Olivia Watson', school='Moorhead', grade=9, gender='F', time=1238.0}
+{place=42, name='Jaden Nguyen', school='Cathedral-Sartell', grade=10, gender='F', time=1242.0}
+{place=43, name='Caitlin Gustafson', school='Little Falls', grade=11, gender='F', time=1252.0}
+{place=44, name='Kamryn Coauette', school='Alexandria', grade=9, gender='F', time=1253.0}
+{place=45, name='Josie Boelter', school='Cathedral-Sartell', grade=10, gender='F', time=1259.0}
+{place=46, name='Tessa Schwinn', school='Cathedral-Sartell', grade=11, gender='F', time=1287.0}
+{place=47, name='Erika Fenstad', school='St Cloud Tech', grade=11, gender='F', time=1297.0}
+{place=48, name='Cassidy O?eara', school='Moorhead', grade=11, gender='F', time=1298.0}
+{place=49, name='Julia Karls', school='St Cloud Apollo', grade=11, gender='F', time=1333.0}
+{place=50, name='Ella Boelter', school='Cathedral-Sartell', grade=8, gender='F', time=1333.0}
+{place=51, name='Olivia Hagstrom', school='Alexandria', grade=12, gender='F', time=1342.0}
+{place=52, name='Rebeka Zweiner', school='St Cloud Tech', grade=12, gender='F', time=1343.0}
+{place=53, name='Anna Erickson', school='Fergus Falls', grade=8, gender='F', time=1346.0}
+{place=54, name='Parker Cook', school='Willmar', grade=10, gender='F', time=1353.0}
+{place=55, name='Marina Moyers', school='Willmar', grade=11, gender='F', time=1386.0}
+{place=56, name='Laura Christianson', school='Willmar', grade=12, gender='F', time=1426.0}
+{place=57, name='MARGARET RINGSMUTH', school='St Cloud Apollo', grade=11, gender='F', time=1463.0}
+{place=58, name='RACHEL WARNER', school='St Cloud Apollo', grade=11, gender='F', time=1464.0}
+{place=59, name='Emma Rund', school='Fergus Falls', grade=10, gender='F', time=1488.0}
+{place=60, name='Katie McConkey', school='Detroit Lakes', grade=9, gender='F', time=1492.0}
+{place=61, name='MIKAYLA ZASKE', school='St Cloud Apollo', grade=11, gender='F', time=1606.0}
+{place=62, name='ABBIGAIL TANGEN', school='St Cloud Apollo', grade=9, gender='F', time=1640.0}
+{place=63, name='Daphne Barrera', school='Willmar', grade=11, gender='F', time=1648.0}
+{place=64, name='Emma Teiken', school='Detroit Lakes', grade=8, gender='F', time=1665.0}
+{place=65, name='Maddie Walz', school='Detroit Lakes', grade=9, gender='F', time=1688.0}
+{place=66, name='Joely Palmer', school='Willmar', grade=11, gender='F', time=1698.0}
+{place=67, name='Luisa Walz', school='Detroit Lakes', grade=8, gender='F', time=1813.0}
+{place=68, name='Maren Hoban', school='Detroit Lakes', grade=9, gender='F', time=1918.0}
+{place=69, name='Lexi Lundeen', school='Detroit Lakes', grade=9, gender='F', time=1955.0}
+{place=70, name='Rena McLeod', school='Detroit Lakes', grade=9, gender='F', time=2072.0}

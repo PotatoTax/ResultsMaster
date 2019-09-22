@@ -1,0 +1,245 @@
+Race : 972
+{place=1, name='Riley McGinnity', school='Spring Lake Park', grade=10, gender='F', time=916.17}
+{place=2, name='Sydney Shah', school='White Bear Lake', grade=8, gender='F', time=1004.18}
+{place=3, name='Tori Popham', school='White Bear Lake', grade=10, gender='F', time=1005.39}
+{place=4, name='Katelyn Gasperlin', school='Totino Grace', grade=9, gender='f', time=1013.28}
+{place=5, name='Emma Deutch', school='White Bear Lake', grade=10, gender='F', time=1014.17}
+{place=6, name='Drake Jenerette', school='Mounds View', grade=11, gender='F', time=1024.46}
+{place=7, name='Josie Moor', school='White Bear Lake', grade=8, gender='F', time=1030.13}
+{place=8, name='Isabel Brown', school='White Bear Lake', grade=11, gender='F', time=1030.68}
+{place=9, name='Leighlin Ahlstrom', school='White Bear Lake', grade=11, gender='F', time=1031.68}
+{place=10, name='Celeste Santiago', school='Anoka', grade=10, gender='F', time=1034.17}
+{place=11, name='Katie Adams', school='Totino Grace', grade=9, gender='f', time=1036.2}
+{place=12, name='Lydia Deutch', school='White Bear Lake', grade=7, gender='F', time=1038.62}
+{place=13, name='Jessica Schletzer', school='Robbinsdale Armstrong', grade=9, gender='F', time=1038.62}
+{place=14, name='Sarah Dohls-Graf', school='Mounds View', grade=12, gender='F', time=1039.23}
+{place=15, name='Emma Steffens', school='Anoka', grade=11, gender='F', time=1039.35}
+{place=16, name='Noelle Laske', school='Mounds View', grade=11, gender='F', time=1039.82}
+{place=17, name='Tori Taugner', school='White Bear Lake', grade=7, gender='F', time=1040.43}
+{place=18, name='Kaitsy Baker', school='Robbinsdale Armstrong', grade=8, gender='F', time=1045.12}
+{place=19, name='Hanna Boleman', school='Irondale', grade=12, gender='F', time=1046.93}
+{place=20, name='Alex Setchell', school='Benilde-St Margaret', grade=12, gender='F', time=1049.93}
+{place=21, name='Jen Hohn', school='Osseo', grade=12, gender='F', time=1050.3}
+{place=22, name='alison brecheisen', school='Robbinsdale Armstrong', grade=11, gender='F', time=1057.13}
+{place=23, name='Erin Edson', school='White Bear Lake', grade=12, gender='F', time=1058.17}
+{place=24, name='Clara Phillips', school='Mounds View', grade=9, gender='F', time=1061.16}
+{place=25, name='Lilly Nowatzke', school='Mounds View', grade=7, gender='F', time=1063.93}
+{place=26, name='Ashley Kluz', school='Irondale', grade=9, gender='F', time=1064.41}
+{place=27, name='Claire Larson', school='White Bear Lake', grade=7, gender='F', time=1066.18}
+{place=28, name='Heidi Samuelson', school='Mounds View', grade=12, gender='F', time=1066.64}
+{place=29, name='Gila Grad', school='St Louis Park', grade=12, gender='F', time=1068.18}
+{place=30, name='Lucia  Mesfin', school='Irondale', grade=10, gender='F', time=1071.68}
+{place=31, name='Stephanie Anderson', school='Mounds View', grade=9, gender='F', time=1078.18}
+{place=32, name='Laura Mayer', school='Robbinsdale Armstrong', grade=12, gender='F', time=1081.43}
+{place=33, name='Emma Jaschke', school='Cretin Derham-Hall', grade=12, gender='F', time=1082.13}
+{place=34, name='Anna Soderstrom', school='Osseo', grade=8, gender='F', time=1083.62}
+{place=35, name='Maddie Verkerke', school='White Bear Lake', grade=7, gender='F', time=1083.87}
+{place=36, name='Emma Blume', school='Mounds View', grade=12, gender='F', time=1085.96}
+{place=37, name='Emma Martin', school='Anoka', grade=11, gender='F', time=1090.69}
+{place=38, name='Audrey Krolnik', school='Park Center', grade=8, gender='F', time=1090.75}
+{place=39, name='Elise Ogden', school='White Bear Lake', grade=10, gender='F', time=1093.82}
+{place=40, name='Leah Motzko', school='White Bear Lake', grade=11, gender='F', time=1094.84}
+{place=41, name='Madeleine Etienne', school='Benilde-St Margaret', grade=11, gender='F', time=1095.18}
+{place=42, name='Kate Brinkman', school='St Louis Park', grade=9, gender='F', time=1103.18}
+{place=43, name='Jadie Wiles', school='Champlin Park', grade=9, gender='F', time=1103.68}
+{place=44, name='Mariah Wetzel', school='Osseo', grade=11, gender='F', time=1105.64}
+{place=45, name='Emma Hanson', school='Park Center', grade=8, gender='F', time=1106.43}
+{place=46, name='Michaela Craigan', school='White Bear Lake', grade=10, gender='F', time=1109.66}
+{place=47, name='Mary Schmitz', school='Totino Grace', grade=11, gender='f', time=1110.18}
+{place=48, name='Maren Strootman', school='Osseo', grade=10, gender='F', time=1111.87}
+{place=49, name='Izzy Wilson', school='Champlin Park', grade=12, gender='F', time=1111.87}
+{place=50, name='Aimee Almen', school='Park Center', grade=11, gender='F', time=1116.54}
+{place=51, name='Sam Munkeby', school='Benilde-St Margaret', grade=12, gender='F', time=1119.39}
+{place=52, name='Samantha Parsons', school='Robbinsdale Armstrong', grade=11, gender='F', time=1119.43}
+{place=53, name='Grace Lewis', school='Osseo', grade=9, gender='F', time=1120.19}
+{place=54, name='Emily Rose', school='Champlin Park', grade=12, gender='F', time=1120.64}
+{place=55, name='Kelsey Jonason', school='Champlin Park', grade=12, gender='F', time=1120.93}
+{place=56, name='Karson Sorby', school='STMA', grade=12, gender='F', time=1121.68}
+{place=57, name='Diana Tapia-Alvarado', school='Robbinsdale Armstrong', grade=10, gender='F', time=1123.26}
+{place=58, name='Melissa Moren', school='White Bear Lake', grade=10, gender='F', time=1124.68}
+{place=59, name='Kelli Richardson', school='Totino Grace', grade=11, gender='f', time=1125.28}
+{place=60, name='Emily Brand', school='Anoka', grade=11, gender='F', time=1128.32}
+{place=61, name='Madi St. Germain', school='Anoka', grade=9, gender='F', time=1129.35}
+{place=62, name='Megan  Frensko', school='Robbinsdale Armstrong', grade=11, gender='F', time=1130.36}
+{place=63, name='Natasha Chernyavsky', school='Northwest', grade=10, gender='F', time=1131.99}
+{place=64, name='Cassie  Rogers', school='Irondale', grade=10, gender='F', time=1132.6}
+{place=65, name='Etisha Punia', school='Mounds View', grade=11, gender='F', time=1133.4}
+{place=66, name='Hannah  Koehn', school='Irondale', grade=12, gender='F', time=1133.68}
+{place=67, name='Maureen Desmond', school='Benilde-St Margaret', grade=12, gender='F', time=1135.63}
+{place=68, name='Toneh Gaypia', school='STMA', grade=11, gender='F', time=1136.22}
+{place=69, name='Hannah Gams', school='Totino Grace', grade=11, gender='f', time=1137.44}
+{place=70, name='Cheyenne Vavrina', school='STMA', grade=12, gender='F', time=1137.85}
+{place=71, name='Ellie Tronnes', school='Park-Cottage Grove', grade=7, gender='F', time=1138.87}
+{place=72, name='Emily Christensen', school='Robbinsdale Armstrong', grade=10, gender='F', time=1138.87}
+{place=73, name='Megan Schmaltz', school='Totino Grace', grade=12, gender='f', time=1138.93}
+{place=74, name='Heidi Anderson', school='Mounds View', grade=11, gender='F', time=1140.0}
+{place=75, name='Amanda Speltz', school='Mounds View', grade=12, gender='F', time=1141.32}
+{place=76, name='Sidney Schreiner', school='STMA', grade=11, gender='F', time=1142.18}
+{place=77, name='Natalie Linders', school='Irondale', grade=12, gender='F', time=1144.57}
+{place=78, name='Kayla Brinkoetter', school='Park-Cottage Grove', grade=10, gender='F', time=1145.79}
+{place=79, name='Briana Umana', school='Robbinsdale Armstrong', grade=8, gender='F', time=1149.67}
+{place=80, name='Natalie Grogan', school='White Bear Lake', grade=11, gender='F', time=1149.67}
+{place=81, name='Taylor Madison', school='Benilde-St Margaret', grade=10, gender='F', time=1151.89}
+{place=82, name='Bronwyn Lundell', school='Champlin Park', grade=9, gender='F', time=1152.43}
+{place=83, name='Katie  Esboldt', school='White Bear Lake', grade=12, gender='F', time=1153.18}
+{place=84, name='Karina Erickson', school='Osseo', grade=9, gender='F', time=1153.68}
+{place=85, name='Irene Stringer', school='Cretin Derham-Hall', grade=10, gender='F', time=1154.31}
+{place=86, name='Samantha Tarnowski', school='Benilde-St Margaret', grade=9, gender='F', time=1157.43}
+{place=87, name='Lucy Grumbles', school='Cretin Derham-Hall', grade=9, gender='F', time=1160.41}
+{place=88, name='Sienna Chernyavsky', school='Northwest', grade=9, gender='F', time=1161.93}
+{place=89, name='Sophia Alvarez', school='Irondale', grade=9, gender='F', time=1167.13}
+{place=90, name='Aubree Jackson', school='STMA', grade=12, gender='F', time=1167.32}
+{place=91, name='Ellen Vaillant', school='Anoka', grade=1, gender='F', time=1167.33}
+{place=92, name='Alexis Studler', school='White Bear Lake', grade=12, gender='F', time=1170.15}
+{place=93, name='Claire Hamilton', school='Totino Grace', grade=9, gender='f', time=1171.16}
+{place=94, name='Megan Haakonson', school='Benilde-St Margaret', grade=12, gender='F', time=1171.17}
+{place=95, name='Kylie Nevells', school='Benilde-St Margaret', grade=9, gender='F', time=1171.68}
+{place=96, name='Cara Meyer', school='Robbinsdale Cooper', grade=11, gender='F', time=1171.68}
+{place=97, name='Grace Wegleitner', school='White Bear Lake', grade=12, gender='F', time=1176.21}
+{place=98, name='Sissay Shannon-Tamrat', school='Benilde-St Margaret', grade=11, gender='F', time=1177.18}
+{place=99, name='Cristin Curwick', school='Osseo', grade=10, gender='F', time=1179.94}
+{place=100, name='Nailah Abdullah', school='Minneapolis South', grade=10, gender='F', time=1181.1}
+{place=101, name='Hayley Lenz', school='STMA', grade=11, gender='F', time=1181.68}
+{place=102, name='Madison Veverka', school='Cretin Derham-Hall', grade=10, gender='F', time=1181.68}
+{place=103, name='Mary Herstel', school='Irondale', grade=9, gender='F', time=1181.95}
+{place=104, name='Emma Beckman', school='Irondale', grade=9, gender='F', time=1182.12}
+{place=105, name='Megan Masloski', school='Irondale', grade=8, gender='F', time=1182.68}
+{place=106, name='Megan Kern', school='Totino Grace', grade=10, gender='f', time=1182.74}
+{place=107, name='Alix Diaferio', school='Benilde-St Margaret', grade=12, gender='F', time=1183.55}
+{place=108, name='Greta Stanton', school='STMA', grade=11, gender='F', time=1184.8}
+{place=109, name='Anna Gallagher', school='Osseo', grade=10, gender='F', time=1185.4}
+{place=110, name='Brooke Powell', school='Champlin Park', grade=10, gender='F', time=1185.6}
+{place=111, name='Emily Robichaud', school='Osseo', grade=9, gender='F', time=1186.18}
+{place=112, name='Emma Nelson', school='White Bear Lake', grade=12, gender='F', time=1186.81}
+{place=113, name='Mari Coltvet', school='Mounds View', grade=9, gender='F', time=1189.19}
+{place=114, name='Keegan McSherry', school='Totino Grace', grade=11, gender='f', time=1189.43}
+{place=115, name='Rebecca Kolstad', school='Champlin Park', grade=10, gender='F', time=1190.18}
+{place=116, name='Zoey Randall', school='Mounds View', grade=11, gender='F', time=1191.43}
+{place=117, name='Elise Stahl', school='Northwest', grade=10, gender='F', time=1191.89}
+{place=118, name='Kenzie Lundstrom', school='Park Center', grade=12, gender='F', time=1192.1}
+{place=119, name='Greta Nundahl', school='Irondale', grade=11, gender='F', time=1192.11}
+{place=120, name='Eva Shellabarger', school='Minneapolis South', grade=11, gender='F', time=1193.1}
+{place=121, name='Hannah Wolk', school='St Louis Park', grade=9, gender='F', time=1193.1}
+{place=122, name='Tia Saddler', school='Robbinsdale Cooper', grade=10, gender='F', time=1194.93}
+{place=123, name='Sam Cummings', school='Champlin Park', grade=11, gender='F', time=1195.55}
+{place=124, name='Zoe Leuthner', school='St Louis Park', grade=12, gender='F', time=1195.94}
+{place=125, name='Lillie Albright', school='St Louis Park', grade=9, gender='F', time=1196.16}
+{place=126, name='Elaina Townley', school='White Bear Lake', grade=12, gender='F', time=1196.16}
+{place=127, name='Katheryn Opansky', school='Champlin Park', grade=10, gender='F', time=1196.36}
+{place=128, name='Madison Kozak', school='St Louis Park', grade=11, gender='F', time=1196.71}
+{place=129, name='Kitone Johnson', school='Mounds View', grade=11, gender='F', time=1197.38}
+{place=130, name='Madison Saniti', school='Mounds View', grade=10, gender='F', time=1198.6}
+{place=131, name='Erin Buck', school='STMA', grade=12, gender='F', time=1201.53}
+{place=132, name='Ashley  Bader', school='White Bear Lake', grade=10, gender='F', time=1202.73}
+{place=133, name='Kayla Horn', school='STMA', grade=11, gender='F', time=1207.58}
+{place=134, name='Ashley Jensen', school='Park-Cottage Grove', grade=9, gender='F', time=1208.18}
+{place=135, name='Sonrisa Gaulden', school='Minneapolis South', grade=12, gender='F', time=1210.18}
+{place=136, name='Nicole Dorn', school='Benilde-St Margaret', grade=9, gender='F', time=1210.61}
+{place=137, name='Jada Brown', school='STMA', grade=12, gender='F', time=1212.43}
+{place=138, name='Ruth Hope', school='St Louis Park', grade=10, gender='F', time=1214.68}
+{place=139, name='Christina Oagard', school='Mounds View', grade=9, gender='F', time=1215.85}
+{place=140, name='Krista Slavin', school='STMA', grade=12, gender='F', time=1220.14}
+{place=141, name='Danielle Pierre', school='Park-Cottage Grove', grade=10, gender='F', time=1221.15}
+{place=142, name='Karly Anderson', school='Park-Cottage Grove', grade=11, gender='F', time=1223.59}
+{place=143, name='Bethany Stevens', school='Anoka', grade=11, gender='F', time=1225.21}
+{place=144, name='Josie Wulff', school='Park Center', grade=11, gender='F', time=1225.68}
+{place=145, name='Erica Edstrom', school='Park Center', grade=11, gender='F', time=1225.82}
+{place=146, name='Christine Miller', school='STMA', grade=12, gender='F', time=1227.93}
+{place=147, name='Whtiney Perry', school='STMA', grade=11, gender='F', time=1228.25}
+{place=148, name='Sonia Bosire', school='STMA', grade=12, gender='F', time=1228.87}
+{place=149, name='Lauren Whalen', school='White Bear Lake', grade=10, gender='F', time=1229.28}
+{place=150, name='Elena Cameron', school='Benilde-St Margaret', grade=12, gender='F', time=1229.68}
+{place=151, name='Alex Goldsberry', school='Champlin Park', grade=12, gender='F', time=1229.88}
+{place=152, name='Marifer Antillon', school='Osseo', grade=11, gender='F', time=1233.33}
+{place=153, name='Tessa Pichotta', school='Irondale', grade=11, gender='F', time=1234.34}
+{place=154, name='Alex Gannaway', school='Totino Grace', grade=10, gender='f', time=1234.68}
+{place=155, name='Felicia Fox', school='Benilde-St Margaret', grade=9, gender='F', time=1235.35}
+{place=156, name='Mackenzie Swanson', school='Benilde-St Margaret', grade=10, gender='F', time=1235.56}
+{place=157, name='Sydney Snell', school='Totino Grace', grade=11, gender='f', time=1239.18}
+{place=158, name='Mya Hanson', school='Totino Grace', grade=9, gender='f', time=1240.63}
+{place=159, name='Julianne Brandes', school='Robbinsdale Armstrong', grade=9, gender='F', time=1242.93}
+{place=160, name='Brianna Ruth', school='Park Center', grade=11, gender='F', time=1243.44}
+{place=161, name='Cate Enrooth', school='Mounds View', grade=9, gender='F', time=1243.87}
+{place=162, name='Julia Rowles', school='Robbinsdale Armstrong', grade=8, gender='F', time=1245.51}
+{place=163, name='Allyson Spartz', school='Robbinsdale Armstrong', grade=10, gender='F', time=1246.12}
+{place=164, name='Hailey Weber', school='Robbinsdale Armstrong', grade=11, gender='F', time=1249.16}
+{place=165, name='Taylor Zopfi', school='STMA', grade=12, gender='F', time=1250.8}
+{place=166, name='Nancy Rutoh', school='Park Center', grade=11, gender='F', time=1251.61}
+{place=167, name='Rachel Himmenkamp', school='Totino Grace', grade=11, gender='f', time=1252.82}
+{place=168, name='Kelsey Wald', school='Mounds View', grade=12, gender='F', time=1253.28}
+{place=169, name='Katy Hiestand', school='Totino Grace', grade=12, gender='f', time=1254.64}
+{place=170, name='Ashley Ortizcazarin', school='Benilde-St Margaret', grade=9, gender='F', time=1255.68}
+{place=171, name='Tia Simpson', school='STMA', grade=12, gender='F', time=1257.68}
+{place=172, name='Natalie Pehl', school='Irondale', grade=9, gender='F', time=1258.68}
+{place=173, name='Sarah Graham', school='Mounds View', grade=10, gender='F', time=1259.44}
+{place=174, name='Maddie  Kinney', school='Irondale', grade=12, gender='F', time=1260.97}
+{place=175, name='Erin Daly', school='STMA', grade=12, gender='F', time=1262.55}
+{place=176, name='Katie Riedell', school='Mounds View', grade=11, gender='F', time=1263.93}
+{place=177, name='Ping Ping  He', school='Irondale', grade=9, gender='F', time=1265.42}
+{place=178, name='Gabriela Ayana', school='Minneapolis South', grade=10, gender='F', time=1267.43}
+{place=179, name='Emma Wallisch', school='St Paul Como Park', grade=9, gender='F', time=1268.43}
+{place=180, name='Gabby R. Vetsch', school='STMA', grade=12, gender='F', time=1270.18}
+{place=181, name='Ashlee Davis', school='Anoka', grade=12, gender='F', time=1278.84}
+{place=182, name='Celine Moos', school='Robbinsdale Armstrong', grade=11, gender='F', time=1278.93}
+{place=183, name='Katie Miller', school='White Bear Lake', grade=9, gender='F', time=1279.19}
+{place=184, name='Nkem Orjinta', school='Park Center', grade=11, gender='F', time=1286.95}
+{place=185, name='Sarah Martin', school='Spring Lake Park', grade=7, gender='F', time=1288.56}
+{place=186, name='Katherine Watts', school='Spring Lake Park', grade=11, gender='F', time=1290.6}
+{place=187, name='Anne Thompson', school='Totino Grace', grade=11, gender='f', time=1293.25}
+{place=188, name='Cindy Finnvik', school='Park Center', grade=12, gender='F', time=1295.19}
+{place=189, name='Caitlin Zachary', school='Spring Lake Park', grade=10, gender='F', time=1295.69}
+{place=190, name='Sydney Millard', school='White Bear Lake', grade=10, gender='F', time=1296.9}
+{place=191, name='Emily Durkot', school='Park Center', grade=11, gender='F', time=1296.93}
+{place=192, name='Anna McGrath', school='Totino Grace', grade=11, gender='f', time=1297.69}
+{place=193, name='Maria McGrath', school='Totino Grace', grade=9, gender='f', time=1297.92}
+{place=194, name='Mary Pat Thune', school='Osseo', grade=12, gender='F', time=1297.93}
+{place=195, name='Alison Mlekoday', school='Robbinsdale Armstrong', grade=7, gender='F', time=1301.93}
+{place=196, name='Maria Heuring', school='Irondale', grade=9, gender='F', time=1307.44}
+{place=197, name='Ashley Stecker', school='STMA', grade=12, gender='F', time=1308.26}
+{place=198, name='Hannah Brown', school='Robbinsdale Armstrong', grade=9, gender='F', time=1313.69}
+{place=199, name='Katherine Sprenger', school='Benilde-St Margaret', grade=12, gender='F', time=1318.4}
+{place=200, name='Angela Grill', school='White Bear Lake', grade=10, gender='F', time=1320.0}
+{place=201, name='Emma Fox', school='Robbinsdale Armstrong', grade=10, gender='F', time=1323.49}
+{place=202, name='Rachel Larson', school='Cretin Derham-Hall', grade=11, gender='F', time=1324.5}
+{place=203, name='Sarah Bruess', school='Totino Grace', grade=12, gender='f', time=1326.12}
+{place=204, name='Meghan Rice', school='Totino Grace', grade=12, gender='f', time=1326.12}
+{place=205, name='Sarah Kalsow', school='Champlin Park', grade=12, gender='F', time=1328.13}
+{place=206, name='Payton Krtinich', school='Irondale', grade=9, gender='F', time=1331.39}
+{place=207, name='Abby Erickson', school='Minneapolis South', grade=8, gender='F', time=1333.72}
+{place=208, name='Olayinka Salabiu', school='Totino Grace', grade=11, gender='f', time=1333.83}
+{place=209, name='Quinn Daniels', school='Spring Lake Park', grade=10, gender='F', time=1333.83}
+{place=210, name='Allison Kostreba', school='STMA', grade=11, gender='F', time=1339.11}
+{place=211, name='Aspen Marquette', school='STMA', grade=12, gender='F', time=1347.1}
+{place=212, name='Audrey Jewett', school='Benilde-St Margaret', grade=12, gender='F', time=1349.82}
+{place=213, name='Madeline Ocel', school='Irondale', grade=9, gender='F', time=1353.19}
+{place=214, name='Jenny Kisch', school='STMA', grade=11, gender='F', time=1359.4}
+{place=215, name='Hannah Bautch', school='Park Center', grade=9, gender='F', time=1360.41}
+{place=216, name='Mona Elsagher', school='Spring Lake Park', grade=11, gender='F', time=1363.43}
+{place=217, name='Daniela Fernandez', school='STMA', grade=12, gender='F', time=1366.47}
+{place=218, name='Kathryn Johnson', school='Cretin Derham-Hall', grade=9, gender='F', time=1380.93}
+{place=219, name='Jenna VanDenAvond', school='Park-Cottage Grove', grade=11, gender='F', time=1381.13}
+{place=220, name='Anna Leahy', school='Cretin Derham-Hall', grade=9, gender='F', time=1386.38}
+{place=221, name='Cornelia Lutz', school='Minneapolis South', grade=11, gender='F', time=1408.28}
+{place=222, name='Emilie Bukowski', school='Robbinsdale Armstrong', grade=11, gender='F', time=1421.71}
+{place=223, name='Erin Krotz', school='Benilde-St Margaret', grade=9, gender='F', time=1422.69}
+{place=224, name='Meghan Gil', school='Robbinsdale Armstrong', grade=7, gender='F', time=1425.34}
+{place=225, name='Minh-Uyen Nguyen', school='Robbinsdale Cooper', grade=11, gender='F', time=1425.54}
+{place=226, name='Tori Wood', school='Park-Cottage Grove', grade=11, gender='F', time=1430.81}
+{place=227, name='Aryn Stahl', school='Northwest', grade=9, gender='F', time=1448.86}
+{place=228, name='Tigist Abora', school='St Paul Como Park', grade=9, gender='F', time=1484.15}
+{place=229, name='Maureen Rein', school='St Paul Como Park', grade=9, gender='F', time=1499.36}
+{place=230, name='Elizabeth Jestrab', school='Spring Lake Park', grade=9, gender='F', time=1526.33}
+{place=231, name='Jennifer Mielke', school='Robbinsdale Armstrong', grade=10, gender='F', time=1535.44}
+{place=232, name='Sydney Meyer', school='Totino Grace', grade=12, gender='f', time=1535.76}
+{place=233, name='Michelle Frisbie', school='Totino Grace', grade=12, gender='f', time=1535.89}
+{place=234, name='Erika Berube', school='Park-Cottage Grove', grade=7, gender='F', time=1536.69}
+{place=235, name='Lydia Nielsen', school='St Paul Como Park', grade=11, gender='F', time=1538.94}
+{place=236, name='Sarem Ayalewe', school='St Paul Como Park', grade=9, gender='F', time=1539.94}
+{place=237, name='Bernadette Hepp', school='Robbinsdale Cooper', grade=10, gender='F', time=1543.6}
+{place=238, name='Katie Sixta', school='Northwest', grade=9, gender='F', time=1545.21}
+{place=239, name='Ellen Hiestand', school='Totino Grace', grade=9, gender='f', time=1547.19}
+{place=240, name='Maddy Langer', school='St Paul Como Park', grade=12, gender='F', time=1549.71}
+{place=241, name='Aylish Hilkert', school='Northwest', grade=11, gender='F', time=1749.92}
+{place=242, name='Margaret Demgen', school='Minneapolis South', grade=11, gender='F', time=1858.9}
+{place=243, name='Kylie Lydon', school='Cretin Derham-Hall', grade=10, gender='F', time=1874.1}
+{place=244, name='Leila Edeburn', school='Totino Grace', grade=9, gender='f', time=1937.4}

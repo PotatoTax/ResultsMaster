@@ -1,0 +1,53 @@
+Race : 32
+{place=1, name='Dan  Greeno', school='STMA', grade=12, gender='M', time=955.94}
+{place=2, name='Max Hanson', school='Buffalo', grade=12, gender='M', time=995.39}
+{place=3, name='Cory Denzer', school='Monticello', grade=12, gender='M', time=996.83}
+{place=4, name='Jeremy Kuhn', school='STMA', grade=11, gender='M', time=1001.33}
+{place=5, name='Neil Albares', school='Monticello', grade=11, gender='M', time=1011.57}
+{place=6, name='Dylan King', school='Princeton', grade=11, gender='M', time=1035.37}
+{place=7, name='Bobby Harris', school='Monticello', grade=11, gender='M', time=1039.69}
+{place=8, name='Luke Albares', school='Monticello', grade=10, gender='M', time=1041.13}
+{place=9, name='Bleys Zimmerman', school='Cambridge-Isanti', grade=10, gender='M', time=1044.2}
+{place=10, name='Sam Greeno', school='STMA', grade=10, gender='M', time=1044.75}
+{place=11, name='John Stanley', school='Buffalo', grade=10, gender='M', time=1045.62}
+{place=12, name='Sean Harper', school='Monticello', grade=11, gender='M', time=1046.14}
+{place=13, name='Nick Jamnick', school='Becker', grade=11, gender='M', time=1047.72}
+{place=14, name='Aaron Stolp', school='Big Lake', grade=11, gender='M', time=1052.61}
+{place=15, name='Lucas Rogness', school='Buffalo', grade=11, gender='M', time=1053.79}
+{place=16, name='Ben Rodriguez', school='Buffalo', grade=10, gender='M', time=1055.6}
+{place=17, name='Nick Nygaard', school='STMA', grade=10, gender='M', time=1056.75}
+{place=18, name='Jordan Bring', school='Big Lake', grade=11, gender='M', time=1060.03}
+{place=19, name='Erik Elmstrand', school='Cambridge-Isanti', grade=11, gender='M', time=1063.31}
+{place=20, name='Josh Johnson', school='Monticello', grade=10, gender='M', time=1076.75}
+{place=21, name='Connor Flynn', school='Buffalo', grade=11, gender='M', time=1077.1}
+{place=22, name='Joe Vassuer', school='Rogers', grade=10, gender='M', time=1085.66}
+{place=23, name='Ken St Marie', school='Big Lake', grade=8, gender='M', time=1087.02}
+{place=24, name='Jeremy Lewis', school='Cambridge-Isanti', grade=11, gender='M', time=1087.78}
+{place=25, name='Michael Carey', school='Big Lake', grade=10, gender='M', time=1090.03}
+{place=26, name='Mike Thorn', school='STMA', grade=12, gender='M', time=1097.97}
+{place=27, name='Matt Kotval', school='Cambridge-Isanti', grade=10, gender='M', time=1099.31}
+{place=28, name='Jake Rossman', school='Big Lake', grade=12, gender='M', time=1101.48}
+{place=29, name='Shane Goblirsch', school='STMA', grade=10, gender='M', time=1101.81}
+{place=30, name='Casey Quinn', school='Princeton', grade=11, gender='M', time=1102.4}
+{place=31, name='Aaron Oie', school='Buffalo', grade=9, gender='M', time=1106.23}
+{place=32, name='Shane Sontag', school='Big Lake', grade=9, gender='M', time=1106.67}
+{place=33, name='Seth Holmquist', school='Cambridge-Isanti', grade=11, gender='M', time=1107.45}
+{place=34, name='Andy Wentzel', school='Rogers', grade=9, gender='M', time=1109.35}
+{place=35, name='Jake Fourre', school='Buffalo', grade=12, gender='M', time=1109.96}
+{place=36, name='Drew Beres', school='Monticello', grade=11, gender='M', time=1111.48}
+{place=37, name='Carl Salonek', school='STMA', grade=9, gender='M', time=1115.03}
+{place=38, name='Jeremy Nelson', school='Rogers', grade=9, gender='M', time=1117.35}
+{place=39, name='Steve Vollhaber', school='Big Lake', grade=12, gender='M', time=1122.44}
+{place=40, name='BJ Elvendahl', school='Cambridge-Isanti', grade=11, gender='M', time=1135.71}
+{place=41, name='Carl Richard', school='Cambridge-Isanti', grade=12, gender='M', time=1146.64}
+{place=42, name='Logan Sakry', school='Becker', grade=11, gender='M', time=1149.34}
+{place=43, name='Vince Miller', school='Princeton', grade=12, gender='M', time=1149.97}
+{place=44, name='Blaine Backes', school='Becker', grade=10, gender='M', time=1153.93}
+{place=45, name='Bryan Osmondson', school='Princeton', grade=12, gender='M', time=1156.76}
+{place=46, name='Eric Anderson', school='Becker', grade=12, gender='M', time=1178.96}
+{place=47, name='Travis Bue', school='Becker', grade=9, gender='M', time=1188.47}
+{place=48, name='Jake Hovde', school='Becker', grade=12, gender='M', time=1203.4}
+{place=49, name='Robert Blais', school='Princeton', grade=11, gender='M', time=1211.68}
+{place=50, name='Alex Blenkush', school='Becker', grade=10, gender='M', time=1249.59}
+{place=51, name='Casey Arnold', school='Princeton', grade=7, gender='M', time=1261.66}
+{place=52, name='Scott Collins', school='Princeton', grade=9, gender='M', time=1319.09}

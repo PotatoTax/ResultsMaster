@@ -1,0 +1,59 @@
+Race : 2602
+{place=1, name='Mike Yocum', school='Fridley', grade=12, gender='M', time=684.7}
+{place=2, name='Owen Erickson', school='Spring Lake Park', grade=10, gender='M', time=702.8}
+{place=3, name='Connor McCoy', school='Fridley', grade=11, gender='M', time=719.1}
+{place=4, name='Don Pham', school='Spring Lake Park', grade=10, gender='M', time=737.6}
+{place=5, name='James  Frigstad', school='St Anthony Village', grade=11, gender='M', time=738.5}
+{place=6, name='Davin Dahl', school='St Anthony Village', grade=11, gender='M', time=740.5}
+{place=7, name='George Gerard', school='Spring Lake Park', grade=11, gender='M', time=744.3}
+{place=8, name='Collin Lief', school='Spring Lake Park', grade=9, gender='M', time=760.3}
+{place=9, name='Will Isaacson', school='St Anthony Village', grade=10, gender='M', time=760.3}
+{place=10, name='Jadon Skinner', school='St Anthony Village', grade=8, gender='M', time=760.5}
+{place=11, name='Eric Dean', school='Fridley', grade=9, gender='M', time=761.1}
+{place=12, name='Alex Bjork', school='St Anthony Village', grade=8, gender='M', time=762.1}
+{place=13, name='Milo Keyes', school='St Anthony Village', grade=9, gender='M', time=775.5}
+{place=14, name='Stanley Putnam', school='Spring Lake Park', grade=11, gender='M', time=789.6}
+{place=15, name='Jonah Martinez', school='St Anthony Village', grade=11, gender='M', time=793.8}
+{place=16, name='Quinn Olsen', school='Spring Lake Park', grade=12, gender='M', time=798.0}
+{place=17, name='Griffin Gaspersich', school='Spring Lake Park', grade=8, gender='M', time=802.5}
+{place=18, name='Graham  Hoglund', school='Fridley', grade=12, gender='M', time=806.0}
+{place=19, name='Caleb Niemi', school='St Anthony Village', grade=8, gender='M', time=806.5}
+{place=20, name='Zachary Anderson', school='Spring Lake Park', grade=9, gender='M', time=816.1}
+{place=21, name='Christian Henrikson', school='Fridley', grade=10, gender='M', time=818.4}
+{place=22, name='Mike Twohy', school='St Anthony Village', grade=12, gender='M', time=820.0}
+{place=23, name='Chas Gould', school='St Anthony Village', grade=9, gender='M', time=820.4}
+{place=24, name='Tryg Oberg', school='Spring Lake Park', grade=9, gender='M', time=823.2}
+{place=25, name='Fuchen Yang', school='St Anthony Village', grade=12, gender='M', time=832.8}
+{place=26, name='Luke Elsesser', school='Spring Lake Park', grade=9, gender='M', time=837.7}
+{place=27, name='Ian St. Martin', school='Spring Lake Park', grade=8, gender='M', time=845.4}
+{place=28, name='Timothy  Yocum', school='Fridley', grade=9, gender='M', time=861.5}
+{place=29, name='Will O'Brien', school='St Anthony Village', grade=10, gender='M', time=871.5}
+{place=30, name='Calvin Metcalf', school='St Anthony Village', grade=10, gender='M', time=872.7}
+{place=31, name='Logan York', school='Spring Lake Park', grade=10, gender='M', time=873.6}
+{place=32, name='Daniel Walczak', school='Spring Lake Park', grade=10, gender='M', time=874.5}
+{place=33, name='Stu Scamehorn', school='St Anthony Village', grade=12, gender='M', time=878.3}
+{place=34, name='Blake Berger', school='Fridley', grade=9, gender='M', time=878.3}
+{place=35, name='Sam Sheedlo', school='Spring Lake Park', grade=10, gender='M', time=885.6}
+{place=36, name='Benjamin Davis', school='Spring Lake Park', grade=9, gender='M', time=887.4}
+{place=37, name='Andrew Hjulberg', school='Spring Lake Park', grade=10, gender='M', time=890.5}
+{place=38, name='Mathew DeBoer', school='Fridley', grade=10, gender='M', time=899.8}
+{place=39, name='John Klaesges', school='St Anthony Village', grade=11, gender='M', time=908.4}
+{place=40, name='Tim Loutchko', school='St Anthony Village', grade=10, gender='M', time=909.4}
+{place=41, name='Michael Manson', school='St Anthony Village', grade=10, gender='M', time=910.2}
+{place=42, name='Otto Erickson', school='Spring Lake Park', grade=7, gender='M', time=935.5}
+{place=43, name='Isaac Bernal', school='St Anthony Village', grade=10, gender='M', time=936.5}
+{place=44, name='Sam Mandyck', school='St Anthony Village', grade=10, gender='M', time=942.8}
+{place=45, name='Walter Nordin', school='Fridley', grade=12, gender='M', time=943.8}
+{place=46, name='Andy Groebner', school='St Anthony Village', grade=10, gender='M', time=947.3}
+{place=47, name='Evan Prairie', school='Fridley', grade=11, gender='M', time=947.4}
+{place=48, name='Gabriel Olson', school='Spring Lake Park', grade=8, gender='M', time=954.2}
+{place=49, name='Andy Stevenson', school='Fridley', grade=9, gender='M', time=955.0}
+{place=50, name='Cameron Willcox', school='Fridley', grade=10, gender='M', time=956.2}
+{place=51, name='Logan  Wuertz', school='Fridley', grade=10, gender='M', time=969.0}
+{place=52, name='Chris Johnson', school='St Anthony Village', grade=10, gender='M', time=980.3}
+{place=53, name='Kyle Elleson', school='Spring Lake Park', grade=10, gender='M', time=986.4}
+{place=54, name='Logan Miller', school='Spring Lake Park', grade=11, gender='M', time=1008.0}
+{place=55, name='Braeden Skelly', school='Spring Lake Park', grade=8, gender='M', time=1028.0}
+{place=56, name='Jacob Skogen', school='Spring Lake Park', grade=9, gender='M', time=1033.3}
+{place=57, name='Jeremy  Fischer', school='Fridley', grade=10, gender='M', time=1113.3}
+{place=58, name='Aidan Salo', school='Fridley', grade=10, gender='M', time=1371.4}

@@ -1,0 +1,62 @@
+Race : 1369
+{place=1, name='Michael Schwinghamer', school='Mora', grade=12, gender='M', time=1030.83}
+{place=2, name='Alec Sanbeck', school='Mora', grade=12, gender='M', time=1031.14}
+{place=3, name='John Schwinghamer', school='Mora', grade=12, gender='M', time=1039.37}
+{place=4, name='Zach Garza', school='Mora', grade=11, gender='M', time=1039.89}
+{place=5, name='Matthew Trutna', school='Big Lake', grade=11, gender='M', time=1046.85}
+{place=6, name='Zack Anderson', school='Spectrum High School', grade=11, gender='M', time=1048.39}
+{place=7, name='Joel Ebel', school='St Cloud Cathedral', grade=10, gender='M', time=1065.64}
+{place=8, name='Jake Andres', school='Pierz', grade=10, gender='M', time=1070.81}
+{place=9, name='Nathan Williams', school='Mora', grade=10, gender='M', time=1074.87}
+{place=10, name='Alex Tomczik', school='St Cloud Cathedral', grade=11, gender='M', time=1080.6}
+{place=11, name='Eli Weiss', school='Albany', grade=10, gender='M', time=1086.64}
+{place=12, name='Ryan Young', school='Princeton', grade=9, gender='M', time=1086.96}
+{place=13, name='Cooper Lennox', school='Mora', grade=9, gender='M', time=1087.64}
+{place=14, name='Hayden Kulzer', school='Albany', grade=11, gender='M', time=1087.87}
+{place=15, name='Clayton Teff', school='St Cloud Cathedral', grade=12, gender='M', time=1088.89}
+{place=16, name='Ryan Munter', school='St Cloud Cathedral', grade=12, gender='M', time=1090.89}
+{place=17, name='Shane Corbett', school='St Cloud Cathedral', grade=9, gender='M', time=1091.89}
+{place=18, name='Joe Morris', school='Big Lake', grade=11, gender='M', time=1092.64}
+{place=19, name='Mitchell Silkman', school='St Cloud Cathedral', grade=11, gender='M', time=1097.39}
+{place=20, name='Eli Johnson', school='Albany', grade=12, gender='M', time=1099.23}
+{place=21, name='Matt Ergen', school='Mora', grade=12, gender='M', time=1107.54}
+{place=22, name='Wyatt  Pramann', school='Zimmerman', grade=12, gender='M', time=1107.77}
+{place=23, name='Ben Morris', school='Big Lake', grade=11, gender='M', time=1108.37}
+{place=24, name='Nevin Sagstetter', school='Spectrum High School', grade=11, gender='M', time=1108.98}
+{place=25, name='Ben Harvey', school='Spectrum High School', grade=11, gender='M', time=1111.02}
+{place=26, name='Jackson Rasmusson', school='Foley', grade=10, gender='M', time=1113.14}
+{place=27, name='Rishi Gulati', school='St Cloud Cathedral', grade=10, gender='M', time=1120.79}
+{place=28, name='Ben Nauman', school='Spectrum High School', grade=8, gender='M', time=1121.39}
+{place=29, name='Cole Andres', school='Pierz', grade=9, gender='M', time=1127.08}
+{place=30, name='Ezra Metzger', school='Foley', grade=8, gender='M', time=1127.08}
+{place=31, name='Drew Storkamp', school='Foley', grade=10, gender='M', time=1131.37}
+{place=32, name='Nathan Clausing', school='Big Lake', grade=10, gender='M', time=1131.64}
+{place=33, name='Tanner Burton', school='Big Lake', grade=11, gender='M', time=1136.39}
+{place=34, name='Parker Liebl', school='Big Lake', grade=11, gender='M', time=1138.83}
+{place=35, name='Adam Nygaard', school='Big Lake', grade=11, gender='M', time=1144.12}
+{place=36, name='Jared Pflipsen', school='Foley', grade=12, gender='M', time=1145.39}
+{place=37, name='Parker Carlberg', school='Princeton', grade=11, gender='M', time=1147.35}
+{place=38, name='Carter Smith', school='Spectrum High School', grade=9, gender='M', time=1152.62}
+{place=39, name='Joel Zimmerman', school='Spectrum High School', grade=12, gender='M', time=1154.83}
+{place=40, name='Jacob Luark', school='Princeton', grade=8, gender='M', time=1155.64}
+{place=41, name='Chris Budde', school='Albany', grade=12, gender='M', time=1158.64}
+{place=42, name='Jacob Bushman', school='Albany', grade=11, gender='M', time=1159.89}
+{place=43, name='Luke Schmitt', school='Albany', grade=11, gender='M', time=1162.79}
+{place=44, name='Wade Rhonemus', school='Foley', grade=10, gender='M', time=1164.39}
+{place=45, name='Quinn Clapper', school='Albany', grade=10, gender='M', time=1183.89}
+{place=46, name='A.J.  Martin', school='Zimmerman', grade=11, gender='M', time=1191.81}
+{place=47, name='Alex Gottwalt', school='Pierz', grade=9, gender='M', time=1193.39}
+{place=48, name='Jaden Hennen', school='Pierz', grade=9, gender='M', time=1194.24}
+{place=49, name='Aaron  Coons', school='Zimmerman', grade=9, gender='M', time=1196.39}
+{place=50, name='Alec James', school='Milaca', grade=9, gender='M', time=1210.64}
+{place=51, name='Sam Petty', school='Milaca', grade=12, gender='M', time=1212.33}
+{place=52, name='Andrew Hattling', school='Spectrum High School', grade=9, gender='M', time=1212.92}
+{place=53, name='Tanner Brosh', school='Foley', grade=12, gender='M', time=1218.81}
+{place=54, name='Jacob Hutchins', school='Foley', grade=12, gender='M', time=1231.14}
+{place=55, name='Tony McNiff', school='Princeton', grade=8, gender='M', time=1266.39}
+{place=56, name='Nathanael Russell', school='Princeton', grade=10, gender='M', time=1273.14}
+{place=57, name='Anders Wold', school='Princeton', grade=11, gender='M', time=1293.08}
+{place=58, name='Alex Karens', school='Zimmerman', grade=12, gender='M', time=1297.92}
+{place=59, name='Carson Yates', school='Pierz', grade=8, gender='M', time=1348.85}
+{place=60, name='Jacob  Waalk', school='Zimmerman', grade=12, gender='M', time=1388.0}
+{place=61, name='Charles Pekar', school='Pierz', grade=10, gender='M', time=1792.85}

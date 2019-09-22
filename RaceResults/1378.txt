@@ -1,0 +1,78 @@
+Race : 1378
+{place=1, name='Shalom Sulungaine', school='Northdale Middle School', grade=6, gender='F', time=786.72}
+{place=2, name='Erin Brousseau', school='St Louis Park', grade=8, gender='F', time=816.47}
+{place=3, name='Atley Schreiner', school='Champlin Park', grade=8, gender='F', time=817.69}
+{place=4, name='Haley Jiracek', school='Champlin Park', grade=8, gender='F', time=819.47}
+{place=5, name='Anna Marsolek', school='Champlin Park', grade=7, gender='F', time=821.92}
+{place=6, name='Mathea Bruns', school='St Louis Park', grade=7, gender='F', time=825.13}
+{place=7, name='Larissa Minshull', school='Anoka', grade=8, gender='F', time=839.24}
+{place=8, name='Jordyn Lang', school='Northdale Middle School', grade=8, gender='F', time=854.43}
+{place=9, name='Ava Kehr', school='Northdale Middle School', grade=7, gender='F', time=861.0}
+{place=10, name='Adriana Potts', school='Anoka', grade=7, gender='F', time=861.23}
+{place=11, name='Michelle Dyrdahl', school='Oak View Middle School ', grade=8, gender='F', time=862.63}
+{place=12, name='Claire Beckman', school='Oak View Middle School ', grade=8, gender='F', time=862.73}
+{place=13, name='Liz Vang', school='Osseo', grade=10, gender='F', time=864.69}
+{place=14, name='Saylor Landrum', school='St Paul Como Park', grade=7, gender='F', time=865.23}
+{place=15, name='Fredonia Zeigle', school='St Louis Park', grade=7, gender='F', time=874.47}
+{place=16, name='Catherine Donohue', school='St Paul Highland Park', grade=12, gender='F', time=903.97}
+{place=17, name='Lily O'Connor', school='Champlin Park', grade=6, gender='F', time=904.11}
+{place=18, name='Katie Holden', school='St Louis Park', grade=7, gender='F', time=904.49}
+{place=19, name='Linnea Krall', school='St Paul Highland Park', grade=10, gender='F', time=904.81}
+{place=20, name='Akala Lowe', school='Northdale Middle School', grade=7, gender='F', time=920.74}
+{place=21, name='Ali Tarnowski', school='Benilde-St Margaret', grade=7, gender='F', time=923.75}
+{place=22, name='Hawanni Benti', school='Irondale', grade=8, gender='F', time=924.21}
+{place=23, name='Carly Smithmier', school='Benilde-St Margaret', grade=7, gender='F', time=925.44}
+{place=24, name='Jaya Bird', school='St Paul Highland Park', grade=7, gender='F', time=925.59}
+{place=25, name='Betselet Frauenheim-Danke', school='Minneapolis South', grade=9, gender='F', time=943.23}
+{place=26, name='Silja Earl-Tornainen', school='St Paul Highland Park', grade=7, gender='F', time=944.38}
+{place=27, name='Annalise Groff', school='Osseo', grade=9, gender='F', time=945.6}
+{place=28, name='Alexandra Anderson', school='Oak View Middle School ', grade=6, gender='F', time=947.63}
+{place=29, name='Luca Collum', school='Oak View Middle School ', grade=6, gender='F', time=947.73}
+{place=30, name='Annie Heil', school='Totino Grace', grade=9, gender='F', time=952.88}
+{place=31, name='Claire  Olson', school='St Paul Como Park', grade=8, gender='F', time=965.38}
+{place=32, name='Samantha Mattson', school='Oak View Middle School ', grade=8, gender='F', time=983.0}
+{place=33, name='Ana LaBorde', school='Osseo', grade=9, gender='F', time=984.67}
+{place=34, name='Kether Laszlo', school='Anoka', grade=10, gender='F', time=985.23}
+{place=35, name='Maria Garrido-Lavender', school='Osseo', grade=8, gender='F', time=986.89}
+{place=36, name='Kyra Hinkel', school='Oak View Middle School ', grade=8, gender='F', time=997.47}
+{place=37, name='Cassidy Enos', school='Osseo', grade=7, gender='F', time=998.88}
+{place=38, name='Emjay Paavola', school='Park Center', grade=8, gender='F', time=1007.6}
+{place=39, name='Jazmyn Christen', school='Osseo', grade=7, gender='F', time=1009.0}
+{place=40, name='Giana Boich', school='Osseo', grade=9, gender='F', time=1010.04}
+{place=41, name='Hannah Morris', school='Northdale Middle School', grade=7, gender='F', time=1029.99}
+{place=42, name='Maria McGrath', school='Totino Grace', grade=11, gender='f', time=1039.91}
+{place=43, name='Caitlin McArdle', school='Champlin Park', grade=8, gender='F', time=1048.46}
+{place=44, name='Janey  Post', school='St Paul Como Park', grade=8, gender='F', time=1048.46}
+{place=45, name='Johanna Harding', school='St Paul Highland Park', grade=11, gender='F', time=1048.46}
+{place=46, name='Alex Gannaway', school='Totino Grace', grade=12, gender='f', time=1049.67}
+{place=47, name='Kerri Sheeler', school='Totino Grace', grade=9, gender='F', time=1058.2}
+{place=48, name='Olivia Lien', school='Oak View Middle School ', grade=6, gender='F', time=1075.08}
+{place=49, name='Eliana Cocchiarella', school='Northdale Middle School', grade=6, gender='F', time=1077.93}
+{place=50, name='Miranda Lathrop', school='Anoka', grade=9, gender='F', time=1078.24}
+{place=51, name='Tigist Frauenheim-Danke', school='Minneapolis South', grade=9, gender='F', time=1080.18}
+{place=52, name='Maddisyn Lee', school='Champlin Park', grade=8, gender='F', time=1080.99}
+{place=53, name='Trina Parlin', school='Irondale', grade=8, gender='F', time=1085.74}
+{place=54, name='Justine Wulff', school='St Paul Como Park', grade=7, gender='F', time=1099.25}
+{place=55, name='Brianna Fuchs', school='Park Center', grade=10, gender='F', time=1101.69}
+{place=56, name='Leah  Morris', school='Irondale', grade=9, gender='F', time=1101.74}
+{place=57, name='Audrey Janz', school='Minneapolis South', grade=9, gender='F', time=1102.88}
+{place=58, name='Marit Gabel', school='St Louis Park', grade=8, gender='F', time=1113.73}
+{place=59, name='Grace Fink', school='Anoka', grade=9, gender='F', time=1115.17}
+{place=60, name='Genevieve Wraneschetz', school='Totino Grace', grade=9, gender='F', time=1121.22}
+{place=61, name='Eavan Bobbe', school='Oak View Middle School ', grade=6, gender='F', time=1137.7}
+{place=62, name='Karina Boyer', school='Northdale Middle School', grade=6, gender='F', time=1141.93}
+{place=63, name='Hannah Bautch', school='Park Center', grade=11, gender='F', time=1144.31}
+{place=64, name='Marieclaire Mutumbo', school='Oak View Middle School ', grade=7, gender='F', time=1154.99}
+{place=65, name='Carissa Ellison', school='Anoka', grade=12, gender='F', time=1155.74}
+{place=66, name='Ella Michel', school='Northdale Middle School', grade=7, gender='F', time=1167.6}
+{place=67, name='Scarlett Jensen', school='Minneapolis South', grade=9, gender='F', time=1186.22}
+{place=68, name='Ellie Isakson', school='Osseo', grade=8, gender='F', time=1189.69}
+{place=69, name='Ella Nienow', school='Park-Cottage Grove', grade=8, gender='F', time=1208.16}
+{place=70, name='Autumn LaCroix', school='Park-Cottage Grove', grade=10, gender='F', time=1222.76}
+{place=71, name='Amanda Branum', school='Park-Cottage Grove', grade=10, gender='F', time=1227.26}
+{place=72, name='Ellie Wagner', school='Totino Grace', grade=10, gender='F', time=1227.71}
+{place=73, name='Ava Guylbrandson', school='Champlin Park', grade=6, gender='F', time=1278.5}
+{place=74, name='Leila Edeburn', school='Totino Grace', grade=11, gender='f', time=1287.22}
+{place=75, name='Theresa Lenberg', school='Champlin Park', grade=7, gender='F', time=1357.75}
+{place=76, name='Dicey Holmgren', school='Northdale Middle School', grade=8, gender='F', time=1373.38}
+{place=77, name='Amelia LaCroix', school='Park-Cottage Grove', grade=8, gender='F', time=1655.26}

@@ -1,0 +1,72 @@
+Race : 176
+{place=1, name='Hans Nygren', school='Lakeville South', grade=12, gender='M', time=721.9}
+{place=2, name='Erik Fagerstrom', school='Eden Prairie', grade=12, gender='M', time=753.6}
+{place=3, name='Andy Keller', school='Chaska', grade=11, gender='M', time=754.3}
+{place=4, name='Tyler Abery', school='ISD 196', grade=12, gender='M', time=782.8}
+{place=5, name='Stu Lombardo', school='Lakeville South', grade=11, gender='M', time=809.0}
+{place=6, name='Tyler  King', school='Lakeville', grade=12, gender='M', time=826.4}
+{place=7, name='Jason Mooty', school='Eden Prairie', grade=12, gender='M', time=826.7}
+{place=8, name='Harrison Okan', school='Burnsville', grade=11, gender='M', time=828.3}
+{place=9, name='Nathan Haggerty', school='Eden Prairie', grade=12, gender='M', time=831.6}
+{place=10, name='Andrew Cregg', school='Eden Prairie', grade=12, gender='M', time=832.8}
+{place=11, name='David Bain', school='Burnsville', grade=12, gender='M', time=840.1}
+{place=12, name='Nick Andresen', school='ISD 196', grade=11, gender='M', time=845.9}
+{place=13, name='Jacob Sandry', school='Jefferson', grade=11, gender='M', time=846.9}
+{place=14, name='Derek Schlager', school='Lakeville South', grade=11, gender='M', time=863.3}
+{place=15, name='Chris Mueller', school='Eden Prairie', grade=10, gender='M', time=863.6}
+{place=16, name='Nick Jefferson', school='Eden Prairie', grade=12, gender='M', time=867.1}
+{place=17, name='Andy Dodds', school='ISD 196', grade=9, gender='M', time=867.8}
+{place=18, name='Tyler Osegard', school='ISD 196', grade=12, gender='M', time=871.0}
+{place=19, name='Josh Eide', school='Burnsville', grade=12, gender='M', time=872.4}
+{place=20, name='Erik Brady', school='ISD 196', grade=11, gender='M', time=877.9}
+{place=21, name='Justin Brickman', school='Jefferson', grade=11, gender='M', time=881.7}
+{place=22, name='Sean Dougherty', school='ISD 196', grade=12, gender='M', time=886.5}
+{place=23, name='Nathan Eisenbeis', school='Burnsville', grade=12, gender='M', time=890.3}
+{place=24, name='Chad Furey', school='ISD 196', grade=12, gender='M', time=891.7}
+{place=25, name='Dan Bonham', school='Eden Prairie', grade=11, gender='M', time=895.1}
+{place=26, name='Satchell Mische-Richter', school='Kennedy', grade=11, gender='M', time=910.8}
+{place=27, name='Mac  Murphy', school='Prior Lake', grade=11, gender='M', time=912.5}
+{place=28, name='Jon  Knutson', school='Lakeville', grade=11, gender='M', time=919.6}
+{place=29, name='Blake Falk', school='Eden Prairie', grade=10, gender='M', time=934.4}
+{place=30, name='Jan Ketterson', school='Jefferson', grade=11, gender='M', time=937.3}
+{place=31, name='Chris Parr', school='ISD 196', grade=9, gender='M', time=942.7}
+{place=32, name='Mike Ludford', school='Chaska', grade=11, gender='M', time=953.7}
+{place=33, name='John Muenchow', school='Lakeville South', grade=11, gender='M', time=956.8}
+{place=34, name='Jon Rice', school='Eden Prairie', grade=12, gender='M', time=957.9}
+{place=35, name='Jersey Mische-Richter', school='Kennedy', grade=9, gender='M', time=960.0}
+{place=36, name='Eric Roudabush', school='Eden Prairie', grade=10, gender='M', time=966.8}
+{place=37, name='Ryan Lesch', school='ISD 196', grade=11, gender='M', time=969.2}
+{place=38, name='Matt Walker', school='Burnsville', grade=11, gender='M', time=980.8}
+{place=39, name='Ben Saxton', school='Lakeville', grade=8, gender='M', time=992.9}
+{place=40, name='Allen Andrys', school='Chaska', grade=11, gender='M', time=996.1}
+{place=41, name='Ben Koke', school='Jefferson', grade=11, gender='M', time=997.1}
+{place=42, name='Jake Endersbe', school='Lakeville', grade=12, gender='M', time=1000.3}
+{place=43, name='Travis Rivard', school='Lakeville South', grade=12, gender='M', time=1013.6}
+{place=44, name='Ben Sather', school='Chaska', grade=11, gender='M', time=1016.5}
+{place=45, name='Lewis Kunik', school='Lakeville', grade=8, gender='M', time=1020.2}
+{place=46, name='Justin Schlitz', school='Prior Lake', grade=11, gender='M', time=1043.9}
+{place=47, name='Ben Kothrade', school='Chaska', grade=11, gender='M', time=1049.6}
+{place=48, name='Ben Brockway', school='Prior Lake', grade=8, gender='M', time=1058.4}
+{place=49, name='Mike Johnson', school='Burnsville', grade=9, gender='M', time=1061.0}
+{place=50, name='Sam Bach', school='Lakeville', grade=9, gender='M', time=1068.7}
+{place=51, name='Riley Sinn', school='ISD 196', grade=11, gender='M', time=1078.0}
+{place=52, name='Matt Ruehling', school='Prior Lake', grade=9, gender='M', time=1092.9}
+{place=53, name='Andrew Dybvik', school='Prior Lake', grade=8, gender='M', time=1097.6}
+{place=54, name='Nathan Jackels', school='Chaska', grade=11, gender='M', time=1098.0}
+{place=55, name='Tyler Stunkel', school='Prior Lake', grade=8, gender='M', time=1104.3}
+{place=56, name='Dane Anderson', school='Burnsville', grade=12, gender='M', time=1110.5}
+{place=57, name='Ben Rydberg', school='Lakeville', grade=10, gender='M', time=1117.6}
+{place=58, name='Alec Eckberg', school='Jefferson', grade=11, gender='M', time=1135.7}
+{place=59, name='Chad Clybaugh', school='Chaska', grade=11, gender='M', time=1137.5}
+{place=60, name='Shawn Woods', school='Prior Lake', grade=11, gender='M', time=1138.2}
+{place=61, name='Christian Kvalseth', school='Prior Lake', grade=9, gender='M', time=1139.2}
+{place=62, name='Corey Peterson', school='Lakeville', grade=7, gender='M', time=1147.6}
+{place=63, name='Chris Broback', school='Lakeville', grade=11, gender='M', time=1153.5}
+{place=64, name='Michael Gerzewski', school='Kennedy', grade=10, gender='M', time=1179.5}
+{place=65, name='Preston Campbell', school='Lakeville', grade=9, gender='M', time=1191.8}
+{place=66, name='Mike McGraw', school='Chaska', grade=11, gender='M', time=1246.5}
+{place=67, name='Ben Pieper', school='Lakeville South', grade=9, gender='M', time=1264.8}
+{place=68, name='Cody Lott', school='Lakeville South', grade=10, gender='M', time=1276.0}
+{place=69, name='Cody Troop', school='Lakeville South', grade=10, gender='M', time=1705.6}
+{place=70, name='Bill Lieske', school='Lakeville South', grade=12, gender='M', time=1934.5}
+{place=71, name='Pat Bigoutte', school='Chaska', grade=11, gender='M', time=2074.9}

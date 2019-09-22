@@ -1,0 +1,108 @@
+Race : 410
+{place=1, name='SAMANTHA HENDRICKS', school='Elk River', grade=8, gender='F', time=664.12}
+{place=2, name='Rachel Ness', school='Elk River', grade=7, gender='F', time=666.66}
+{place=3, name='Hannah Martin', school='Edina', grade=8, gender='F', time=668.29}
+{place=4, name='Abby Counihan', school='Minneapolis Southwest', grade=9, gender='F', time=670.37}
+{place=5, name='Anna Hall', school='Hopkins', grade=8, gender='F', time=674.82}
+{place=6, name='Isabel Hall', school='Hopkins', grade=8, gender='F', time=675.63}
+{place=7, name='Anna Ryden', school='Minneapolis Southwest', grade=9, gender='F', time=680.45}
+{place=8, name='Alexis Miley', school='Willmar', grade=7, gender='F', time=683.58}
+{place=9, name='Logan Sweeney', school='Edina', grade=8, gender='F', time=684.62}
+{place=10, name='Ingrid Figenskau', school='Willmar', grade=7, gender='F', time=684.89}
+{place=11, name='Gabriella Jung', school='Elk River', grade=8, gender='F', time=695.37}
+{place=12, name='Kayla Rudie', school='Willmar', grade=6, gender='F', time=695.8}
+{place=13, name='Megan Stuart', school='Robbinsdale Armstrong', grade=8, gender='F', time=708.47}
+{place=14, name='Jessa Hanson', school='Willmar', grade=6, gender='F', time=708.87}
+{place=15, name='Susan Porter', school='Coon Rapids', grade=8, gender='F', time=709.95}
+{place=16, name='Katherine Craemer', school='Hopkins', grade=8, gender='F', time=711.45}
+{place=17, name='Elise Weimholt', school='Coon Rapids', grade=8, gender='F', time=715.26}
+{place=18, name='Kaitlyn Benson', school='Coon Rapids', grade=8, gender='F', time=715.6}
+{place=19, name='Kristyn Haar', school='Lakeville South', grade=7, gender='F', time=717.47}
+{place=20, name='Alexandra Freiberg', school='Willmar', grade=8, gender='F', time=723.66}
+{place=21, name='Allie Stalboerger', school='Coon Rapids', grade=8, gender='F', time=728.29}
+{place=22, name='Rosalie Bruns', school='Edina', grade=7, gender='F', time=730.91}
+{place=23, name='ALI MANTHEY', school='Elk River', grade=8, gender='F', time=746.5}
+{place=24, name='Hannah Rudd', school='Robbinsdale Armstrong', grade=7, gender='F', time=748.41}
+{place=25, name='Hannah Griaf', school='Elk River', grade=8, gender='F', time=749.68}
+{place=26, name='Ashlyn Boehme', school='Willmar', grade=8, gender='F', time=750.6}
+{place=27, name='Sophia Bornowski', school='Edina', grade=9, gender='F', time=760.29}
+{place=28, name='Matlida McFerson', school='Edina', grade=7, gender='F', time=762.41}
+{place=29, name='Claire Miller', school='Hopkins', grade=8, gender='F', time=763.74}
+{place=30, name='Sisay Shannon-Tamrat', school='Hopkins', grade=7, gender='F', time=765.26}
+{place=31, name='Sophia Holm', school='Hopkins', grade=8, gender='F', time=765.83}
+{place=32, name='Grace Jefferson', school='Edina', grade=8, gender='F', time=770.25}
+{place=33, name='EMMA CRANE', school='Elk River', grade=8, gender='F', time=774.41}
+{place=34, name='Grace Sawyer', school='Willmar', grade=6, gender='F', time=778.08}
+{place=35, name='COLETTE WOYKE', school='Elk River', grade=8, gender='F', time=778.41}
+{place=36, name='REECE HICKMAN', school='Elk River', grade=8, gender='F', time=778.7}
+{place=37, name='Lexi Lowe', school='Elk River', grade=7, gender='F', time=780.0}
+{place=38, name='Kallie Peterson', school='Elk River', grade=9, gender='F', time=780.14}
+{place=39, name='MADIE LEY', school='Elk River', grade=9, gender='F', time=780.41}
+{place=40, name='Maddie Maurer', school='Lakeville South', grade=8, gender='F', time=782.49}
+{place=41, name='Rachel Stege', school='Edina', grade=9, gender='F', time=787.41}
+{place=42, name='RACHEL HALLER', school='Elk River', grade=9, gender='F', time=788.24}
+{place=43, name='Kate Barrett-Murphy', school='Willmar', grade=6, gender='F', time=789.0}
+{place=44, name='Alice Lindgren', school='Willmar', grade=6, gender='F', time=792.09}
+{place=45, name='Savannah Anez', school='Willmar', grade=6, gender='F', time=793.24}
+{place=46, name='Julia Ziegler', school='Elk River', grade=7, gender='F', time=794.55}
+{place=47, name='Emily Everson', school='Lakeville South', grade=8, gender='F', time=795.47}
+{place=48, name='Emma Burnett', school='Hopkins', grade=8, gender='F', time=796.62}
+{place=49, name='Brenna Johnson', school='Lakeville South', grade=8, gender='F', time=797.66}
+{place=50, name='Casey Eckerson', school='Lakeville South', grade=7, gender='F', time=801.0}
+{place=51, name='Morgan Matson', school='Edina', grade=8, gender='F', time=801.76}
+{place=52, name='Emma Culshaw', school='Willmar', grade=6, gender='F', time=803.68}
+{place=53, name='Monica Bellin', school='Elk River', grade=9, gender='F', time=809.08}
+{place=54, name='Becca Beyer', school='Coon Rapids', grade=8, gender='F', time=810.62}
+{place=55, name='Teresa Lancette', school='Coon Rapids', grade=7, gender='F', time=815.25}
+{place=56, name='Heather Burt', school='Coon Rapids', grade=8, gender='F', time=819.51}
+{place=57, name='Morgan Shouck', school='Maple Grove', grade=7, gender='F', time=828.62}
+{place=58, name='Corin Kester', school='Willmar', grade=8, gender='F', time=828.91}
+{place=59, name='Emma Salmon', school='Maple Grove', grade=7, gender='F', time=829.17}
+{place=60, name='Catilin Houle', school='Edina', grade=8, gender='F', time=830.97}
+{place=61, name='Siri Thompson', school='Edina', grade=9, gender='F', time=831.62}
+{place=62, name='Grace Culshaw', school='Willmar', grade=6, gender='F', time=832.83}
+{place=63, name='Natalie Wrobleski', school='Maple Grove', grade=7, gender='F', time=835.54}
+{place=64, name='Rebecca Nelson', school='Edina', grade=8, gender='F', time=838.74}
+{place=65, name='Sunita Walker', school='Edina', grade=8, gender='F', time=839.33}
+{place=66, name='Corina Nohr', school='Maple Grove', grade=7, gender='F', time=840.54}
+{place=67, name='Allison MacCormick', school='Edina', grade=7, gender='F', time=843.3}
+{place=68, name='Mikaela Ellingson', school='Maple Grove', grade=7, gender='F', time=844.33}
+{place=69, name='Ellie Kania', school='Maple Grove', grade=7, gender='F', time=845.33}
+{place=70, name='Grace Graves', school='Willmar', grade=6, gender='F', time=849.16}
+{place=71, name='Paige Heinen', school='Maple Grove', grade=9, gender='F', time=851.04}
+{place=72, name='MANDY SAILOR', school='Elk River', grade=9, gender='F', time=853.66}
+{place=73, name='Carlee Berglund', school='Hopkins', grade=7, gender='F', time=854.43}
+{place=74, name='Laura Lehman', school='Edina', grade=7, gender='F', time=855.41}
+{place=75, name='Laura Kenney', school='Maple Grove', grade=9, gender='F', time=857.49}
+{place=76, name='Tiffany Miller', school='Maple Grove', grade=9, gender='F', time=858.95}
+{place=77, name='Briana Martinson', school='Lakeville South', grade=8, gender='F', time=860.12}
+{place=78, name='Pixie Rock', school='Edina', grade=8, gender='F', time=863.0}
+{place=79, name='Erin Balestri', school='Edina', grade=8, gender='F', time=864.57}
+{place=80, name='Siri Peterson', school='Edina', grade=8, gender='F', time=864.83}
+{place=81, name='Sloane Reckewey', school='Edina', grade=8, gender='F', time=867.66}
+{place=82, name='Jenna Miller', school='Maple Grove', grade=7, gender='F', time=870.47}
+{place=83, name='Gabrielle Gyswyt', school='Hopkins', grade=8, gender='F', time=874.45}
+{place=84, name='Charlotte McKlveen', school='Edina', grade=8, gender='F', time=876.91}
+{place=85, name='Sara Klos', school='Edina', grade=8, gender='F', time=880.05}
+{place=86, name='Anna Degiullo', school='Hopkins', grade=7, gender='F', time=889.16}
+{place=87, name='Maddie Hankins', school='Maple Grove', grade=7, gender='F', time=896.93}
+{place=88, name='Marissa Norby', school='Elk River', grade=9, gender='F', time=901.66}
+{place=89, name='Katrina Weinert', school='Edina', grade=8, gender='F', time=908.95}
+{place=90, name='Maddie Johnson', school='Maple Grove', grade=9, gender='F', time=912.47}
+{place=91, name='Riley Meyers', school='Lakeville South', grade=8, gender='F', time=917.45}
+{place=92, name='Katie Crocker', school='Elk River', grade=7, gender='F', time=917.72}
+{place=93, name='Shapiro Lilly', school='Hopkins', grade=7, gender='F', time=923.5}
+{place=94, name='Danielle Frazee', school='Coon Rapids', grade=8, gender='F', time=923.87}
+{place=95, name='Emma Walgren', school='Edina', grade=7, gender='F', time=926.58}
+{place=96, name='Shelby Marrs', school='Richfield', grade=6, gender='F', time=930.18}
+{place=97, name='Elise Stastny', school='Edina', grade=7, gender='F', time=931.2}
+{place=98, name='Hannah Hemp', school='Maple Grove', grade=9, gender='F', time=933.91}
+{place=99, name='Jennifer Jirsa', school='Edina', grade=8, gender='F', time=935.14}
+{place=100, name='Brittany Schlecht', school='Willmar', grade=6, gender='F', time=936.91}
+{place=101, name='Abby Tait', school='Willmar', grade=6, gender='F', time=949.87}
+{place=102, name='Magen Vlaminick', school='Willmar', grade=6, gender='F', time=953.7}
+{place=103, name='Amy Sherman', school='Edina', grade=9, gender='F', time=979.64}
+{place=104, name='Marble Elissa', school='Hopkins', grade=8, gender='F', time=980.7}
+{place=105, name='Lauren Berg', school='Maple Grove', grade=9, gender='F', time=993.66}
+{place=106, name='Anne Goodroad', school='Hopkins', grade=8, gender='F', time=1153.22}
+{place=107, name='Hannah Sommerville', school='Edina', grade=9, gender='F', time=1159.2}

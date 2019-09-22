@@ -1,0 +1,119 @@
+Race : 430
+{place=1, name='Sam  Westerberg', school='Cambridge-Isanti', grade=12, gender='M', time=1076.25}
+{place=2, name='Grant Piepkorn', school='Mound-Westonka', grade=10, gender='M', time=1116.95}
+{place=3, name='Cole Hoffman', school='Mound-Westonka', grade=11, gender='M', time=1132.95}
+{place=4, name='Danny Humbert', school='Mound-Westonka', grade=10, gender='M', time=1136.3}
+{place=5, name='Sam Renier', school='Cambridge-Isanti', grade=11, gender='M', time=1139.18}
+{place=6, name='Drew Davis', school='Mound-Westonka', grade=12, gender='M', time=1143.6}
+{place=7, name='James Edstrom', school='Cambridge-Isanti', grade=11, gender='M', time=1145.18}
+{place=8, name='Tyler Esser', school='Hutchinson', grade=11, gender='M', time=1150.52}
+{place=9, name='Kole Retterath', school='Mound-Westonka', grade=9, gender='M', time=1154.12}
+{place=10, name='Corey Grand', school='Hutchinson', grade=10, gender='M', time=1157.24}
+{place=11, name='Parker Nicatris', school='Cambridge-Isanti', grade=11, gender='M', time=1157.82}
+{place=12, name='Danny Eckhoff', school='Glencoe-Silver Lake', grade=12, gender='M', time=1161.91}
+{place=13, name='Andrew Zachman', school='Holdingford', grade=9, gender='M', time=1162.53}
+{place=14, name='Derek VonBerge', school='Glencoe-Silver Lake', grade=11, gender='M', time=1164.95}
+{place=15, name='Matt Seafolk', school='Cambridge-Isanti', grade=11, gender='M', time=1170.01}
+{place=16, name='Blaine. Stephenson', school='Hutchinson', grade=9, gender='M', time=1170.47}
+{place=17, name='Toby Beetz', school='Glencoe-Silver Lake', grade=12, gender='M', time=1178.25}
+{place=18, name='Adam W. Brandt', school='Mound-Westonka', grade=10, gender='M', time=1180.58}
+{place=19, name='Victor Brenk', school='Mound-Westonka', grade=11, gender='M', time=1186.99}
+{place=20, name='Tylor Nilson', school='Annandale ', grade=12, gender='M', time=1190.24}
+{place=21, name='Chris  Yanta', school='Annandale ', grade=10, gender='M', time=1190.6}
+{place=22, name='Riley Stenzel', school='Hutchinson', grade=9, gender='M', time=1193.7}
+{place=23, name='Galen Piwowar', school='Holdingford', grade=11, gender='M', time=1195.02}
+{place=24, name='Abe Skwira', school='Holdingford', grade=8, gender='M', time=1196.72}
+{place=25, name='Carter Collins', school='Hutchinson', grade=9, gender='M', time=1197.45}
+{place=26, name='Joey Lucas', school='Glencoe-Silver Lake', grade=11, gender='M', time=1198.3}
+{place=27, name='Ryan Wersal', school='Hutchinson', grade=10, gender='M', time=1200.0}
+{place=28, name='Bill Opheim', school='Mound-Westonka', grade=10, gender='M', time=1200.55}
+{place=29, name='Peyton Aller', school='Litchfield', grade=7, gender='M', time=1204.99}
+{place=30, name='Stuart Yurcyk', school='Cambridge-Isanti', grade=10, gender='M', time=1205.68}
+{place=31, name='Wyatt Smith', school='Glencoe-Silver Lake', grade=11, gender='M', time=1209.72}
+{place=32, name='Andrew  Bigalk', school='Annandale ', grade=12, gender='M', time=1215.39}
+{place=33, name='Connor McLaughlin', school='Orono', grade=11, gender='M', time=1216.43}
+{place=34, name='Austin Galligan', school='Cambridge-Isanti', grade=11, gender='M', time=1219.02}
+{place=35, name='Connor Peterson', school='Mound-Westonka', grade=12, gender='M', time=1219.82}
+{place=36, name='Mike Waataja', school='Litchfield', grade=10, gender='M', time=1223.95}
+{place=37, name='Jack Johnson', school='Orono', grade=10, gender='M', time=1224.84}
+{place=38, name='Andrew Mohr', school='Hutchinson', grade=9, gender='M', time=1225.5}
+{place=39, name='Bjorn Larson', school='Mound-Westonka', grade=11, gender='M', time=1226.1}
+{place=40, name='Jacob  Simmel', school='Cambridge-Isanti', grade=10, gender='M', time=1227.2}
+{place=41, name='Matt Mickolichek', school='Glencoe-Silver Lake', grade=10, gender='M', time=1228.14}
+{place=42, name='Cody Resmen', school='Litchfield', grade=9, gender='M', time=1228.59}
+{place=43, name='Tim Person', school='Cambridge-Isanti', grade=10, gender='M', time=1228.97}
+{place=44, name='Tyler Zajicek', school='Glencoe-Silver Lake', grade=10, gender='M', time=1229.36}
+{place=45, name='Kyle Polzin', school='Glencoe-Silver Lake', grade=10, gender='M', time=1229.62}
+{place=46, name='Eric Boser', school='Mound-Westonka', grade=12, gender='M', time=1230.22}
+{place=47, name='Michael Burns', school='Watertown-Mayer', grade=8, gender='M', time=1241.49}
+{place=48, name='Drew Casey', school='Orono', grade=10, gender='M', time=1242.56}
+{place=49, name='Jake Gieger', school='Orono', grade=10, gender='M', time=1246.89}
+{place=50, name='Aaron Karl', school='Hutchinson', grade=12, gender='M', time=1248.89}
+{place=51, name='Eric  Gilbertson', school='Annandale ', grade=9, gender='M', time=1254.7}
+{place=52, name='Jared Saunders', school='Hutchinson', grade=10, gender='M', time=1255.26}
+{place=53, name='Austin Anderson', school='Hutchinson', grade=10, gender='M', time=1255.84}
+{place=54, name='Bret Mattice', school='EV-W-K', grade=8, gender='M', time=1257.82}
+{place=55, name='Alex Rood', school='Cambridge-Isanti', grade=12, gender='M', time=1258.45}
+{place=56, name='Adam Greer', school='Mound-Westonka', grade=11, gender='M', time=1259.04}
+{place=57, name='Joel Getzke', school='Hutchinson', grade=10, gender='M', time=1263.93}
+{place=58, name='Joey Carlson', school='Orono', grade=11, gender='M', time=1264.41}
+{place=59, name='Caleb Harris', school='Hutchinson', grade=9, gender='M', time=1264.87}
+{place=60, name='Evan Hertwig', school='Maple Lake', grade=9, gender='M', time=1267.06}
+{place=61, name='Nick Rogers', school='Litchfield', grade=10, gender='M', time=1267.54}
+{place=62, name='Andrew Fosse', school='Cambridge-Isanti', grade=10, gender='M', time=1275.0}
+{place=63, name='Reggie Martin', school='Cambridge-Isanti', grade=11, gender='M', time=1277.6}
+{place=64, name='Brandon Wraspir', school='Glencoe-Silver Lake', grade=10, gender='M', time=1278.06}
+{place=65, name='Jack Martin', school='Litchfield', grade=10, gender='M', time=1280.57}
+{place=66, name='Eric Hoffman', school='Hutchinson', grade=9, gender='M', time=1281.89}
+{place=67, name='Cody Becker', school='Glencoe-Silver Lake', grade=9, gender='M', time=1285.41}
+{place=68, name='John Anderson', school='Litchfield', grade=7, gender='M', time=1286.16}
+{place=69, name='Jonah. Reid', school='Hutchinson', grade=9, gender='M', time=1287.41}
+{place=70, name='Tyler Solberg', school='Mound-Westonka', grade=10, gender='M', time=1287.76}
+{place=71, name='Josh Spreiter', school='Litchfield', grade=12, gender='M', time=1289.37}
+{place=72, name='Hugo Garcia', school='Glencoe-Silver Lake', grade=12, gender='M', time=1291.27}
+{place=73, name='Ryder  Johnson', school='Annandale ', grade=12, gender='M', time=1296.2}
+{place=74, name='Tanner  Asplund', school='Cambridge-Isanti', grade=11, gender='M', time=1297.97}
+{place=75, name='James Woods', school='Mound-Westonka', grade=11, gender='M', time=1301.16}
+{place=76, name='David  Hoien', school='Annandale ', grade=10, gender='M', time=1304.22}
+{place=77, name='Nick  Hiltner', school='Holdingford', grade=9, gender='M', time=1306.05}
+{place=78, name='Dillon Storm', school='Litchfield', grade=9, gender='M', time=1306.45}
+{place=79, name='Josiah Green', school='Litchfield', grade=9, gender='M', time=1306.84}
+{place=80, name='Tucker Ingenthron', school='Glencoe-Silver Lake', grade=11, gender='M', time=1308.83}
+{place=81, name='Zach Flemming', school='Annandale ', grade=11, gender='M', time=1335.86}
+{place=82, name='Shawn Wasser', school='Watertown-Mayer', grade=10, gender='M', time=1340.04}
+{place=83, name='Rudy Rice', school='Mound-Westonka', grade=10, gender='M', time=1340.32}
+{place=84, name='Nick Schwartz', school='Mound-Westonka', grade=12, gender='M', time=1352.18}
+{place=85, name='Ethan Fuhrman', school='Mound-Westonka', grade=10, gender='M', time=1353.55}
+{place=86, name='Josh Oak', school='Watertown-Mayer', grade=9, gender='M', time=1355.22}
+{place=87, name='Josh Fredlund', school='Cambridge-Isanti', grade=10, gender='M', time=1356.53}
+{place=88, name='Erik Paumen', school='Annandale ', grade=9, gender='M', time=1358.84}
+{place=89, name='Mason Slagle', school='Mound-Westonka', grade=9, gender='M', time=1361.55}
+{place=90, name='Sam Jackson', school='Mound-Westonka', grade=12, gender='M', time=1363.54}
+{place=91, name='Joel Vincent', school='Cambridge-Isanti', grade=9, gender='M', time=1363.99}
+{place=92, name='Alfredo Sandaval', school='Glencoe-Silver Lake', grade=12, gender='M', time=1380.0}
+{place=93, name='Caleb Farber', school='Watertown-Mayer', grade=10, gender='M', time=1383.82}
+{place=94, name='Matt Steinhaus', school='Glencoe-Silver Lake', grade=10, gender='M', time=1387.02}
+{place=95, name='Mitch Drong', school='Glencoe-Silver Lake', grade=11, gender='M', time=1392.64}
+{place=96, name='Peter Dunbar', school='Cambridge-Isanti', grade=10, gender='M', time=1394.05}
+{place=97, name='Randy Nolan', school='Annandale ', grade=11, gender='M', time=1399.66}
+{place=98, name='Nick Feikema', school='Maple Lake', grade=10, gender='M', time=1402.72}
+{place=99, name='Derek Deadrick', school='Litchfield', grade=9, gender='M', time=1413.75}
+{place=100, name='Josue Perez', school='Glencoe-Silver Lake', grade=12, gender='M', time=1414.93}
+{place=101, name='Drew Fobbe', school='Annandale ', grade=12, gender='M', time=1437.6}
+{place=102, name='Alex Lamp', school='Glencoe-Silver Lake', grade=10, gender='M', time=1444.86}
+{place=103, name='Dylan Bowman', school='Annandale ', grade=9, gender='M', time=1450.08}
+{place=104, name='James Knack', school='Cambridge-Isanti', grade=12, gender='M', time=1453.72}
+{place=105, name='Orlando Hahn', school='New London-Spicer', grade=11, gender='M', time=1463.59}
+{place=106, name='Matt Taray', school='Cambridge-Isanti', grade=11, gender='M', time=1463.91}
+{place=107, name='Kole Huiras', school='New London-Spicer', grade=10, gender='M', time=1467.47}
+{place=108, name='Morton Greenslit', school='Mound-Westonka', grade=11, gender='M', time=1476.26}
+{place=109, name='Adam Jude', school='Maple Lake', grade=9, gender='M', time=1482.99}
+{place=110, name='Paul Thorson', school='Glencoe-Silver Lake', grade=11, gender='M', time=1492.66}
+{place=111, name='Zach Hofkes', school='Orono', grade=10, gender='M', time=1508.31}
+{place=112, name='Connor Lindholm', school='Orono', grade=10, gender='M', time=1514.91}
+{place=113, name='Eric Bakken', school='Orono', grade=10, gender='M', time=1526.64}
+{place=114, name='Dylan Maas', school='Cambridge-Isanti', grade=12, gender='M', time=1561.52}
+{place=115, name='Johnathan Schreiber', school='Holdingford', grade=9, gender='M', time=1591.91}
+{place=116, name='Mike Casey', school='Annandale ', grade=11, gender='M', time=1629.47}
+{place=117, name='Jonathan Huesman', school='Cambridge-Isanti', grade=9, gender='M', time=1647.35}
+{place=118, name='Seth Hopkins', school='Glencoe-Silver Lake', grade=12, gender='M', time=1655.72}

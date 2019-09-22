@@ -1,0 +1,315 @@
+Race : 973
+{place=1, name='Parker  Phillips', school='Robbinsdale Armstrong', grade=10, gender='M', time=1071.17}
+{place=2, name='Harrison Hirsch', school='Mounds View', grade=11, gender='M', time=1082.18}
+{place=3, name='Michael Inniger', school='Robbinsdale Armstrong', grade=12, gender='M', time=1087.92}
+{place=4, name='Brandon Steer', school='Cretin-Derham Hall', grade=12, gender='M', time=1094.63}
+{place=5, name='Graham Fiebiger', school='Mounds View', grade=12, gender='M', time=1104.34}
+{place=6, name='Henry Henson', school='Mounds View', grade=11, gender='M', time=1107.17}
+{place=7, name='Thomas Leonard', school='Anoka', grade=11, gender='M', time=1107.81}
+{place=8, name='Tyler Jacobsen', school='Totino Grace', grade=11, gender='M', time=1110.83}
+{place=9, name='Thomas Odahl', school='Cretin-Derham Hall', grade=9, gender='M', time=1114.42}
+{place=10, name='Sam Himes', school='Robbinsdale Armstrong', grade=9, gender='M', time=1116.92}
+{place=11, name='Spenser Brown', school='Irondale', grade=9, gender='M', time=1117.67}
+{place=12, name='Joey Floeder', school='Mounds View', grade=10, gender='M', time=1119.48}
+{place=13, name='Derek Racek', school='Burnsville', grade=12, gender='M', time=1119.48}
+{place=14, name='Joey Gunderson', school='Osseo', grade=12, gender='M', time=1123.04}
+{place=15, name='Sam McGinnity', school='Mounds View', grade=11, gender='M', time=1123.66}
+{place=16, name='Joseph Frasier', school='Robbinsdale Armstrong', grade=10, gender='M', time=1124.84}
+{place=17, name='Zach Fritz', school='Anoka', grade=10, gender='M', time=1126.67}
+{place=18, name='Levi Johnson', school='Mounds View', grade=11, gender='M', time=1128.51}
+{place=19, name='Michael Urvig', school='Champlin Park', grade=10, gender='M', time=1128.51}
+{place=20, name='John Modl', school='Cretin-Derham Hall', grade=10, gender='M', time=1131.15}
+{place=21, name='Erik Strootman', school='Osseo', grade=11, gender='M', time=1132.37}
+{place=22, name='Dan Niemi', school='Robbinsdale Armstrong', grade=10, gender='M', time=1134.92}
+{place=23, name='Patrick Ongaro', school='Mounds View', grade=12, gender='M', time=1138.02}
+{place=24, name='Bruce Muehlhauser', school='Anoka', grade=8, gender='M', time=1142.11}
+{place=25, name='Gillit Nyang', school='Spring Lake Park', grade=12, gender='M', time=1142.32}
+{place=26, name='Andrew Briggs', school='Totino Grace', grade=12, gender='M', time=1143.73}
+{place=27, name='Zach Miller', school='Osseo', grade=10, gender='M', time=1144.43}
+{place=28, name='Tom Kuhlman', school='Osseo', grade=11, gender='M', time=1144.68}
+{place=29, name='Jacob Ballensky', school='Anoka', grade=11, gender='M', time=1147.7}
+{place=30, name='Zach Holmes', school='Burnsville', grade=9, gender='M', time=1148.56}
+{place=31, name='Jake Jacott', school='Champlin Park', grade=9, gender='M', time=1148.96}
+{place=32, name='Justin Escobar', school='Irondale', grade=11, gender='M', time=1149.57}
+{place=33, name='Brian Colgrove', school='STMA', grade=11, gender='M', time=1152.43}
+{place=34, name='Conor Quinn', school='Robbinsdale Armstrong', grade=11, gender='M', time=1152.64}
+{place=35, name='Matt Robinson', school='Irondale', grade=12, gender='M', time=1154.06}
+{place=36, name='Ranson Bergen', school='Irondale', grade=11, gender='M', time=1155.9}
+{place=37, name='Louis Burton', school='Totino Grace', grade=10, gender='M', time=1157.11}
+{place=38, name='Matthew Kinfu', school='Anoka', grade=10, gender='M', time=1160.93}
+{place=39, name='James Libbey', school='Benilde-St Margaret', grade=10, gender='M', time=1161.92}
+{place=40, name='Tyler Grant', school='Osseo', grade=11, gender='M', time=1168.66}
+{place=41, name='Sean LeFluer', school='Irondale', grade=11, gender='M', time=1169.69}
+{place=42, name='Tony Valerius', school='Benilde-St Margaret', grade=10, gender='M', time=1170.07}
+{place=43, name='John Boase', school='Benilde-St Margaret', grade=10, gender='M', time=1170.09}
+{place=44, name='Michael Fortuna', school='Cretin-Derham Hall', grade=12, gender='M', time=1172.67}
+{place=45, name='Ethan Brown', school='St Louis Park', grade=10, gender='M', time=1174.77}
+{place=46, name='Sean  Collins', school='Osseo', grade=10, gender='M', time=1175.98}
+{place=47, name='Ahmed Mohammed', school='Osseo', grade=11, gender='M', time=1176.68}
+{place=48, name='Nicholas Hadzima', school='Totino Grace', grade=10, gender='M', time=1177.92}
+{place=49, name='Michael  Burgoyne', school='Irondale', grade=12, gender='M', time=1178.65}
+{place=50, name='Dusty Rahier', school='Burnsville', grade=12, gender='M', time=1184.35}
+{place=51, name='Ryan Nelson', school='STMA', grade=11, gender='M', time=1184.67}
+{place=52, name='Kevin Lee', school='Robbinsdale Armstrong', grade=10, gender='M', time=1184.98}
+{place=53, name='Jonathan Soderstrom', school='Osseo', grade=11, gender='M', time=1185.92}
+{place=54, name='Karl Payette', school='Osseo', grade=11, gender='M', time=1187.67}
+{place=55, name='Quinn Shroyer', school='Spring Lake Park', grade=11, gender='M', time=1188.66}
+{place=56, name='Abdi Mohamud', school='St Louis Park', grade=12, gender='M', time=1188.84}
+{place=57, name='Calvin Libra', school='Robbinsdale Armstrong', grade=8, gender='M', time=1188.84}
+{place=58, name='Ryan E. Albrecht', school='STMA', grade=11, gender='M', time=1189.42}
+{place=59, name='Ben Aoki-Sherwood', school='Robbinsdale Armstrong', grade=8, gender='M', time=1189.65}
+{place=60, name='Joseph Tierney', school='Cretin-Derham Hall', grade=12, gender='M', time=1192.67}
+{place=61, name='Lorenzo Cerda', school='Benilde-St Margaret', grade=9, gender='M', time=1193.44}
+{place=62, name='Will  Dierberger', school='STMA', grade=11, gender='M', time=1196.17}
+{place=63, name='Sam Skoglund', school='Anoka', grade=10, gender='M', time=1196.17}
+{place=64, name='Ryan Opansky', school='Champlin Park', grade=12, gender='M', time=1197.38}
+{place=65, name='Sam Czech', school='STMA', grade=12, gender='M', time=1197.39}
+{place=66, name='Nolan Grambusch', school='STMA', grade=11, gender='M', time=1197.67}
+{place=67, name='Nick Backes', school='Benilde-St Margaret', grade=11, gender='M', time=1200.0}
+{place=68, name='Noah Ruud', school='Osseo', grade=8, gender='M', time=1202.43}
+{place=69, name='Chase Rizo', school='Benilde-St Margaret', grade=12, gender='M', time=1202.65}
+{place=70, name='Joe Paul', school='Totino Grace', grade=12, gender='M', time=1205.42}
+{place=71, name='Nolan Olsen', school='STMA', grade=11, gender='M', time=1206.51}
+{place=72, name='Ryan Dunn', school='Benilde-St Margaret', grade=11, gender='M', time=1207.11}
+{place=73, name='Andrew Schnabel', school='Champlin Park', grade=12, gender='M', time=1208.93}
+{place=74, name='Nathan Fox', school='Totino Grace', grade=10, gender='M', time=1210.67}
+{place=75, name='Nick Scovil', school='Totino Grace', grade=10, gender='M', time=1211.92}
+{place=76, name='Nathan Sixel', school='St Louis Park', grade=12, gender='M', time=1212.39}
+{place=77, name='Drew Billett', school='Anoka', grade=11, gender='M', time=1212.58}
+{place=78, name='Matt Theisen', school='Totino Grace', grade=11, gender='M', time=1214.01}
+{place=79, name='Kyle De Jesus', school='Robbinsdale Cooper', grade=11, gender='M', time=1214.17}
+{place=80, name='Carter DeWitt', school='Anoka', grade=10, gender='M', time=1214.62}
+{place=81, name='Logan Bergevin', school='Anoka', grade=12, gender='M', time=1214.63}
+{place=82, name='Josh Kraemer', school='Anoka', grade=12, gender='M', time=1214.82}
+{place=83, name='Alex Proctor', school='Robbinsdale Armstrong', grade=9, gender='M', time=1215.63}
+{place=84, name='Drew Carlson', school='Champlin Park', grade=10, gender='M', time=1216.84}
+{place=85, name='Jack Weinberger', school='Anoka', grade=9, gender='M', time=1217.17}
+{place=86, name='Matthew Helke', school='Burnsville', grade=10, gender='M', time=1219.07}
+{place=87, name='Chuck Thibault', school='Totino Grace', grade=11, gender='M', time=1222.11}
+{place=88, name='Noah Gannaway', school='Totino Grace', grade=12, gender='M', time=1222.32}
+{place=89, name='Ryan Larson', school='Burnsville', grade=10, gender='M', time=1222.67}
+{place=90, name='Alex Gude', school='Burnsville', grade=9, gender='M', time=1224.93}
+{place=91, name='John Fox', school='Cretin-Derham Hall', grade=10, gender='M', time=1225.42}
+{place=92, name='Sam Carroll', school='Osseo', grade=12, gender='M', time=1227.02}
+{place=93, name='Derek  Ness', school='Irondale', grade=10, gender='M', time=1228.64}
+{place=94, name='Nicholas Dacon', school='Anoka', grade=11, gender='M', time=1229.06}
+{place=95, name='Sam Rocheford', school='Benilde-St Margaret', grade=11, gender='M', time=1234.53}
+{place=96, name='Nolan  Anderson', school='STMA', grade=11, gender='M', time=1239.44}
+{place=97, name='Darian Clark', school='Osseo', grade=9, gender='M', time=1239.81}
+{place=98, name='Mitchell Kahl', school='Champlin Park', grade=9, gender='M', time=1240.61}
+{place=99, name='Jack Barthold', school='Champlin Park', grade=11, gender='M', time=1243.44}
+{place=100, name='Samuel Theisen', school='Robbinsdale Armstrong', grade=8, gender='M', time=1245.86}
+{place=101, name='Connor Maloney', school='Osseo', grade=9, gender='M', time=1246.07}
+{place=102, name='Jacob VanHoutan', school='Champlin Park', grade=11, gender='M', time=1249.52}
+{place=103, name='Mike Schoenke', school='STMA', grade=12, gender='M', time=1254.6}
+{place=104, name='Jason Lund', school='Burnsville', grade=12, gender='M', time=1258.88}
+{place=105, name='Elijah Uecker', school='Anoka', grade=11, gender='M', time=1258.93}
+{place=106, name='Michael Manalansan', school='St Paul Como Park', grade=10, gender='M', time=1260.43}
+{place=107, name='Sam Schulte', school='Park-Cottage Grove', grade=10, gender='M', time=1261.54}
+{place=108, name='Trygg Lysne', school='Robbinsdale Armstrong', grade=9, gender='M', time=1262.14}
+{place=109, name='Alan Garcia', school='Benilde-St Margaret', grade=12, gender='M', time=1262.34}
+{place=110, name='Nathaniel Langer', school='Anoka', grade=9, gender='M', time=1262.55}
+{place=111, name='Will Huyck', school='St Louis Park', grade=10, gender='M', time=1263.35}
+{place=112, name='Joe Rios', school='STMA', grade=11, gender='M', time=1263.56}
+{place=113, name='Eloi Descamps', school='Minneapolis South', grade=12, gender='M', time=1263.78}
+{place=114, name='Zach Kertz', school='Anoka', grade=10, gender='M', time=1264.16}
+{place=115, name='Peter Vandersanden', school='Minneapolis South', grade=9, gender='M', time=1267.4}
+{place=116, name='Giovanni Jessee', school='Champlin Park', grade=11, gender='M', time=1268.41}
+{place=117, name='Kyle Koch', school='Champlin Park', grade=9, gender='M', time=1269.79}
+{place=118, name='Alec Burgoyne', school='Irondale', grade=10, gender='M', time=1269.83}
+{place=119, name='Mason Busch', school='STMA', grade=12, gender='M', time=1270.43}
+{place=120, name='Sean Biwer', school='Benilde-St Margaret', grade=9, gender='M', time=1271.43}
+{place=121, name='William Scofield', school='Minneapolis South', grade=10, gender='M', time=1271.66}
+{place=122, name='Joey Pratte', school='St Paul Como Park', grade=12, gender='M', time=1271.86}
+{place=123, name='Phillip Moulton', school='St Paul Como Park', grade=11, gender='M', time=1271.93}
+{place=124, name='Henry Scott', school='Robbinsdale Armstrong', grade=9, gender='M', time=1273.18}
+{place=125, name='Trevor Culpepper', school='Burnsville', grade=10, gender='M', time=1273.9}
+{place=126, name='Wylie Britton', school='Minneapolis South', grade=10, gender='M', time=1274.11}
+{place=127, name='Jansoper Ly', school='Robbinsdale Cooper', grade=11, gender='M', time=1278.37}
+{place=128, name='Adam Koch', school='Champlin Park', grade=11, gender='M', time=1278.39}
+{place=129, name='Leighton Minshull', school='Anoka', grade=9, gender='M', time=1280.42}
+{place=130, name='John Fitzpatrick', school='Cretin-Derham Hall', grade=12, gender='M', time=1280.43}
+{place=131, name='Alex Thayer', school='Totino Grace', grade=9, gender='M', time=1280.62}
+{place=132, name='Josh Tillman', school='Irondale', grade=10, gender='M', time=1281.03}
+{place=133, name='Steven Jacobsen', school='Burnsville', grade=12, gender='M', time=1284.68}
+{place=134, name='Brendan Lempe', school='Benilde-St Margaret', grade=9, gender='M', time=1285.57}
+{place=135, name='Tyler Hubbell', school='Robbinsdale Armstrong', grade=10, gender='M', time=1287.29}
+{place=136, name='Peyton Anderson', school='Robbinsdale Armstrong', grade=11, gender='M', time=1287.33}
+{place=137, name='Alex Cross', school='Anoka', grade=11, gender='M', time=1288.68}
+{place=138, name='Matt Boston', school='Totino Grace', grade=9, gender='M', time=1291.29}
+{place=139, name='Bjorn Jensen', school='Robbinsdale Armstrong', grade=8, gender='M', time=1291.41}
+{place=140, name='Quinn Olsen', school='Spring Lake Park', grade=8, gender='M', time=1292.42}
+{place=141, name='Tyler Yehle', school='Anoka', grade=9, gender='M', time=1293.04}
+{place=142, name='Ben Anderson', school='Burnsville', grade=10, gender='M', time=1293.07}
+{place=143, name='Justin Morley', school='Champlin Park', grade=10, gender='M', time=1293.63}
+{place=144, name='Elliot  Murzyn', school='Irondale', grade=12, gender='M', time=1294.84}
+{place=145, name='Jacob Fleming', school='Benilde-St Margaret', grade=11, gender='M', time=1295.85}
+{place=146, name='Jacob Willette', school='St Louis Park', grade=10, gender='M', time=1296.43}
+{place=147, name='Thomas Ellis', school='Totino Grace', grade=11, gender='M', time=1297.88}
+{place=148, name='Tobias Mohr', school='Irondale', grade=11, gender='M', time=1299.09}
+{place=149, name='Bailey Kwong', school='Spring Lake Park', grade=9, gender='M', time=1299.68}
+{place=150, name='Quinn Stanley', school='Osseo', grade=10, gender='M', time=1300.11}
+{place=151, name='Luke Haddorff', school='Burnsville', grade=9, gender='M', time=1300.92}
+{place=152, name='Reid Neeser', school='Anoka', grade=11, gender='M', time=1301.43}
+{place=153, name='Peyton Haag', school='Park Center', grade=11, gender='M', time=1302.93}
+{place=154, name='Jacob Peterfeso', school='Cretin-Derham Hall', grade=10, gender='M', time=1303.68}
+{place=155, name='Jared Schuster', school='Anoka', grade=10, gender='M', time=1305.61}
+{place=156, name='Tim Urvig', school='Champlin Park', grade=9, gender='M', time=1311.12}
+{place=157, name='Edmund Hoes', school='Benilde-St Margaret', grade=10, gender='M', time=1311.54}
+{place=158, name='Carlos Zeigle', school='St Louis Park', grade=10, gender='M', time=1311.94}
+{place=159, name='Zuriel Adam', school='Minneapolis South', grade=9, gender='M', time=1312.76}
+{place=160, name='Elijah  Kozak', school='St Louis Park', grade=9, gender='M', time=1313.36}
+{place=161, name='Robert Hofmann', school='Cretin-Derham Hall', grade=11, gender='M', time=1313.57}
+{place=162, name='Thomas Ryan', school='Burnsville', grade=9, gender='M', time=1315.59}
+{place=163, name='Caleb Hill', school='St Louis Park', grade=12, gender='M', time=1315.93}
+{place=164, name='Nathan Byrne', school='Robbinsdale Armstrong', grade=10, gender='M', time=1315.94}
+{place=165, name='Nicholas Byrne', school='Robbinsdale Armstrong', grade=10, gender='M', time=1316.57}
+{place=166, name='William Madden', school='Benilde-St Margaret', grade=10, gender='M', time=1321.85}
+{place=167, name='Elliott Hopen', school='Burnsville', grade=9, gender='M', time=1322.48}
+{place=168, name='Jonah Campbell', school='Osseo', grade=9, gender='M', time=1322.87}
+{place=169, name='Nate Miller', school='Burnsville', grade=10, gender='M', time=1323.09}
+{place=170, name='Aaron Gehl', school='Mounds View', grade=12, gender='M', time=1323.68}
+{place=171, name='Peter Brinkman', school='Burnsville', grade=11, gender='M', time=1323.99}
+{place=172, name='Spencer Gearin', school='Northwest', grade=11, gender='M', time=1324.51}
+{place=173, name='Jack Iannazzo', school='Totino Grace', grade=10, gender='M', time=1325.72}
+{place=174, name='Alexander Naslund', school='Spring Lake Park', grade=12, gender='M', time=1325.93}
+{place=175, name='Sulayman Gibba', school='Robbinsdale Cooper', grade=11, gender='M', time=1328.15}
+{place=176, name='Drew Mueller', school='Northwest', grade=9, gender='M', time=1328.36}
+{place=177, name='Nick Steffens', school='Anoka', grade=9, gender='M', time=1331.6}
+{place=178, name='Ben Reynolds', school='St Paul Como Park', grade=12, gender='M', time=1332.02}
+{place=179, name='Tate Frauly', school='Anoka', grade=10, gender='M', time=1333.66}
+{place=180, name='Avery Fleischman', school='Anoka', grade=9, gender='M', time=1336.67}
+{place=181, name='Andy Peterson', school='Burnsville', grade=9, gender='M', time=1337.68}
+{place=182, name='Drew Eid', school='Robbinsdale Armstrong', grade=8, gender='M', time=1338.32}
+{place=183, name='David Hope', school='St Louis Park', grade=12, gender='M', time=1338.43}
+{place=184, name='Hunter Froelich', school='Park-Cottage Grove', grade=10, gender='M', time=1340.33}
+{place=185, name='Peter Valerius', school='Benilde-St Margaret', grade=11, gender='M', time=1341.56}
+{place=186, name='Nick Wallisch', school='St Paul Como Park', grade=10, gender='M', time=1341.68}
+{place=187, name='Stfan Ferreira', school='Totino Grace', grade=9, gender='M', time=1344.6}
+{place=188, name='Nicholas Krolnik', school='Park Center', grade=8, gender='M', time=1345.37}
+{place=189, name='Ron  Tanchin', school='STMA', grade=11, gender='M', time=1351.08}
+{place=190, name='Ryan Cummings', school='Totino Grace', grade=10, gender='M', time=1351.08}
+{place=191, name='Collin Perkins', school='St Louis Park', grade=9, gender='M', time=1351.89}
+{place=192, name='Logan Douglas', school='Anoka', grade=9, gender='M', time=1353.68}
+{place=193, name='Riley Sumner', school='Anoka', grade=9, gender='M', time=1355.93}
+{place=194, name='Nicolas Sanders', school='Robbinsdale Armstrong', grade=9, gender='M', time=1358.43}
+{place=195, name='Andrew Scherer', school='Benilde-St Margaret', grade=11, gender='M', time=1358.43}
+{place=196, name='Alex Webert', school='Benilde-St Margaret', grade=9, gender='M', time=1358.64}
+{place=197, name='Jackson Goins', school='St Louis Park', grade=9, gender='M', time=1359.85}
+{place=198, name='Edward Lewis', school='Benilde-St Margaret', grade=11, gender='M', time=1359.93}
+{place=199, name='Jack Schaaf', school='Totino Grace', grade=12, gender='M', time=1360.86}
+{place=200, name='Drew Hinkemeyer', school='STMA', grade=12, gender='M', time=1361.89}
+{place=201, name='Devin McGill', school='Robbinsdale Armstrong', grade=8, gender='M', time=1362.57}
+{place=202, name='Greg Pehl', school='Irondale', grade=10, gender='M', time=1362.68}
+{place=203, name='Eric Stoesz', school='Totino Grace', grade=12, gender='M', time=1362.68}
+{place=204, name='Luke Berndt', school='St Paul Como Park', grade=12, gender='M', time=1362.68}
+{place=205, name='Dylan Polich', school='Osseo', grade=9, gender='M', time=1364.12}
+{place=206, name='Josh Reed', school='Park Center', grade=7, gender='M', time=1364.68}
+{place=207, name='George Copeland', school='Spring Lake Park', grade=9, gender='M', time=1365.31}
+{place=208, name='Jack Neukircher', school='Park Center', grade=8, gender='M', time=1365.68}
+{place=209, name='Zach Pederson', school='Osseo', grade=10, gender='M', time=1366.43}
+{place=210, name='Alex Pederson', school='Osseo', grade=12, gender='M', time=1371.6}
+{place=211, name='Daniel Mayerchak', school='STMA', grade=11, gender='M', time=1373.43}
+{place=212, name='Sam Frauenheim Danke', school='Minneapolis South', grade=10, gender='M', time=1377.1}
+{place=213, name='Bryan Johnson', school='Benilde-St Margaret', grade=11, gender='M', time=1377.1}
+{place=214, name='Andrew Serumgard', school='Robbinsdale Armstrong', grade=9, gender='M', time=1378.14}
+{place=215, name='Corbin Halvorson', school='Totino Grace', grade=9, gender='M', time=1378.13}
+{place=216, name='Gavin Donnelly', school='Burnsville', grade=9, gender='M', time=1380.93}
+{place=217, name='Ethan Butler', school='Anoka', grade=11, gender='M', time=1384.99}
+{place=218, name='Tristan Khotsombath', school='Spring Lake Park', grade=9, gender='M', time=1386.61}
+{place=219, name='Damon Warren', school='Irondale', grade=10, gender='M', time=1386.82}
+{place=220, name='Eli Patterson', school='St Paul Como Park', grade=9, gender='M', time=1388.67}
+{place=221, name='Max Geiger', school='Minneapolis South', grade=12, gender='M', time=1391.06}
+{place=222, name='Ethan Womack', school='Robbinsdale Armstrong', grade=9, gender='M', time=1396.93}
+{place=223, name='Jacob Peterson', school='Robbinsdale Armstrong', grade=9, gender='M', time=1397.87}
+{place=224, name='Aedan Foner', school='St Louis Park', grade=11, gender='M', time=1399.43}
+{place=225, name='Jonathan Winters', school='Irondale', grade=10, gender='M', time=1399.68}
+{place=226, name='Tony Harter', school='Park-Cottage Grove', grade=11, gender='M', time=1400.29}
+{place=227, name='Zach Konkol', school='St Paul Como Park', grade=9, gender='M', time=1401.29}
+{place=228, name='Karl Jaschke', school='Cretin-Derham Hall', grade=10, gender='M', time=1402.43}
+{place=229, name='Cameron Hulett', school='Burnsville', grade=10, gender='M', time=1402.7}
+{place=230, name='Thomas Sheehan', school='Cretin-Derham Hall', grade=10, gender='M', time=1403.11}
+{place=231, name='Jack Conway', school='St Paul Como Park', grade=9, gender='M', time=1403.54}
+{place=232, name='Alex Meyers', school='Anoka', grade=10, gender='M', time=1404.34}
+{place=233, name='Joe Thompson', school='Robbinsdale Cooper', grade=11, gender='M', time=1407.17}
+{place=234, name='Earl Kampmeier', school='Cretin-Derham Hall', grade=9, gender='M', time=1408.6}
+{place=235, name='Darrin Gable', school='Anoka', grade=10, gender='M', time=1408.61}
+{place=236, name='Brock Schmitz', school='Totino Grace', grade=9, gender='M', time=1412.64}
+{place=237, name='Jack Delaney', school='St Louis Park', grade=12, gender='M', time=1416.93}
+{place=238, name='Marcos  Quinn', school='Robbinsdale Armstrong', grade=12, gender='M', time=1417.91}
+{place=239, name='Nick Brakob', school='St Louis Park', grade=10, gender='M', time=1417.92}
+{place=240, name='Thomas Ohmann', school='Park-Cottage Grove', grade=9, gender='M', time=1418.31}
+{place=241, name='Matthew Sheehan', school='Cretin-Derham Hall', grade=12, gender='M', time=1419.14}
+{place=242, name='Noah Spencer', school='Cretin-Derham Hall', grade=12, gender='M', time=1420.76}
+{place=243, name='Christian Sanderson', school='Benilde-St Margaret', grade=9, gender='M', time=1420.93}
+{place=244, name='Lukas Churchill', school='Osseo', grade=10, gender='M', time=1421.43}
+{place=245, name='Austin Jeffries', school='STMA', grade=11, gender='M', time=1424.46}
+{place=246, name='Ben Williams', school='St Paul Como Park', grade=9, gender='M', time=1424.62}
+{place=247, name='Jared Czech', school='St Paul Como Park', grade=9, gender='M', time=1425.03}
+{place=248, name='Jacob Weier', school='Park-Cottage Grove', grade=9, gender='M', time=1426.64}
+{place=249, name='Jon Meyers', school='Anoka', grade=12, gender='M', time=1427.46}
+{place=250, name='Lucas Latterell', school='Benilde-St Margaret', grade=10, gender='M', time=1427.46}
+{place=251, name='John Hower', school='Benilde-St Margaret', grade=9, gender='M', time=1437.42}
+{place=252, name='Samuel Swanson', school='Cretin-Derham Hall', grade=11, gender='M', time=1438.03}
+{place=253, name='Jack Meinert', school='Robbinsdale Armstrong', grade=8, gender='M', time=1440.43}
+{place=254, name='Tyler Gearin', school='Northwest', grade=9, gender='M', time=1444.1}
+{place=255, name='Anthony Sixta', school='Northwest', grade=10, gender='M', time=1447.68}
+{place=256, name='Christopher Stoesz', school='Totino Grace', grade=9, gender='M', time=1448.76}
+{place=257, name='Owen Schultz', school='Totino Grace', grade=9, gender='M', time=1449.93}
+{place=258, name='Michael Pupel', school='Benilde-St Margaret', grade=9, gender='M', time=1452.41}
+{place=259, name='Ethan Brown', school='Robbinsdale Armstrong', grade=9, gender='M', time=1453.56}
+{place=260, name='Jack Solien', school='Totino Grace', grade=9, gender='M', time=1453.79}
+{place=261, name='Ryan Hoedman', school='Benilde-St Margaret', grade=9, gender='M', time=1455.85}
+{place=262, name='Nathan Cuddihy', school='Park-Cottage Grove', grade=10, gender='M', time=1456.66}
+{place=263, name='Gunnar Bowman', school='Benilde-St Margaret', grade=12, gender='M', time=1460.16}
+{place=264, name='Charles Rocheford', school='Benilde-St Margaret', grade=9, gender='M', time=1460.43}
+{place=265, name='Jacob Berenberg', school='Robbinsdale Armstrong', grade=9, gender='M', time=1460.56}
+{place=266, name='Connor McBride', school='Benilde-St Margaret', grade=11, gender='M', time=1462.17}
+{place=267, name='Henry Hubred', school='Robbinsdale Armstrong', grade=8, gender='M', time=1464.83}
+{place=268, name='William Omodt', school='Robbinsdale Armstrong', grade=8, gender='M', time=1466.07}
+{place=269, name='Jason Flakne', school='Spring Lake Park', grade=11, gender='M', time=1467.93}
+{place=270, name='Joseph Krenik', school='Cretin-Derham Hall', grade=12, gender='M', time=1468.87}
+{place=271, name='Jordan Todhunter', school='Robbinsdale Armstrong', grade=10, gender='M', time=1480.42}
+{place=272, name='Brady  Welsch', school='Irondale', grade=9, gender='M', time=1486.31}
+{place=273, name='Sam Figlmiller', school='Park-Cottage Grove', grade=11, gender='M', time=1493.8}
+{place=274, name='Jack Grothaus', school='Osseo', grade=11, gender='M', time=1496.07}
+{place=275, name='Arlo Beckman', school='St Paul Como Park', grade=9, gender='M', time=1500.1}
+{place=276, name='Patrick Binish', school='Benilde-St Margaret', grade=9, gender='M', time=1502.55}
+{place=277, name='Bennett Putnam', school='Spring Lake Park', grade=9, gender='M', time=1503.36}
+{place=278, name='Grant Phillips', school='Robbinsdale Armstrong', grade=8, gender='M', time=1505.61}
+{place=279, name='Joe Stinson', school='Robbinsdale Cooper', grade=11, gender='M', time=1510.44}
+{place=280, name='David Nguyen', school='Robbinsdale Armstrong', grade=9, gender='M', time=1511.43}
+{place=281, name='George Benning', school='Benilde-St Margaret', grade=10, gender='M', time=1512.07}
+{place=282, name='Elijah Sutton', school='Robbinsdale Armstrong', grade=9, gender='M', time=1512.29}
+{place=283, name='Marco Thul', school='Spring Lake Park', grade=10, gender='M', time=1513.43}
+{place=284, name='Brennan Sorensen', school='Anoka', grade=10, gender='M', time=1517.14}
+{place=285, name='Connor Olson', school='Anoka', grade=11, gender='M', time=1518.6}
+{place=286, name='Logan Miller', school='Spring Lake Park', grade=7, gender='M', time=1518.94}
+{place=287, name='Tyler Matson', school='Benilde-St Margaret', grade=10, gender='M', time=1523.9}
+{place=288, name='Vincent Fricton', school='Benilde-St Margaret', grade=9, gender='M', time=1524.69}
+{place=289, name='Kameron Herndon', school='Benilde-St Margaret', grade=10, gender='M', time=1532.79}
+{place=290, name='Jerry Song', school='Benilde-St Margaret', grade=9, gender='M', time=1548.62}
+{place=291, name='Cole Engstrand', school='Benilde-St Margaret', grade=11, gender='M', time=1551.93}
+{place=292, name='Lucas Neill', school='Benilde-St Margaret', grade=9, gender='M', time=1553.1}
+{place=293, name='Connor Peltier', school='Cretin-Derham Hall', grade=11, gender='M', time=1564.44}
+{place=294, name='Torin McConkey', school='Spring Lake Park', grade=9, gender='M', time=1565.06}
+{place=295, name='Sam Herman', school='Robbinsdale Cooper', grade=10, gender='M', time=1566.88}
+{place=296, name='David Lindgren', school='Robbinsdale Cooper', grade=9, gender='M', time=1566.89}
+{place=297, name='Owen Adelsman', school='Irondale', grade=11, gender='M', time=1586.76}
+{place=298, name='Christopher Lee', school='Robbinsdale Cooper', grade=10, gender='M', time=1591.43}
+{place=299, name='Smith Madson', school='Robbinsdale Armstrong', grade=9, gender='M', time=1593.84}
+{place=300, name='Taylor Bekken', school='Champlin Park', grade=12, gender='M', time=1601.94}
+{place=301, name='John Kraemer', school='St Louis Park', grade=9, gender='M', time=1620.41}
+{place=302, name='Oliver Bissen', school='St Paul Como Park', grade=9, gender='M', time=1626.11}
+{place=303, name='Brady Solomon', school='Benilde-St Margaret', grade=9, gender='M', time=1635.6}
+{place=304, name='Earl Eldrige', school='St Paul Como Park', grade=9, gender='M', time=1637.62}
+{place=305, name='Nate Mills', school='Benilde-St Margaret', grade=9, gender='M', time=1661.56}
+{place=306, name='Liam Johnson', school='Park Center', grade=10, gender='M', time=1674.94}
+{place=307, name='Chase Valento', school='Robbinsdale Armstrong', grade=10, gender='M', time=1691.58}
+{place=308, name='Carter Schmelzle', school='St Louis Park', grade=10, gender='M', time=1699.86}
+{place=309, name='Nick Bergstrom', school='Park Center', grade=10, gender='M', time=1710.89}
+{place=310, name='Jonathan Mellor', school='Cretin-Derham Hall', grade=10, gender='M', time=1720.94}
+{place=311, name='Jackson Kerr', school='St Paul Como Park', grade=9, gender='M', time=1806.44}
+{place=312, name='Bryce Conlan', school='Robbinsdale Armstrong', grade=10, gender='M', time=1813.92}
+{place=313, name='Aaron MacMurdo', school='Park Center', grade=9, gender='M', time=1867.96}
+{place=314, name='Ryan Horejsi', school='Benilde-St Margaret', grade=11, gender='M', time=2142.3}

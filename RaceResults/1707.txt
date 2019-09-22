@@ -1,0 +1,73 @@
+Race : 1707
+{place=1, name='Eva Holmgren', school='Mora', grade=8, gender='F', time=1299.102}
+{place=2, name='Rachael Neu', school='Albany', grade=10, gender='F', time=1420.199}
+{place=3, name='Kelly Kotten', school='Albany', grade=10, gender='F', time=1422.422}
+{place=4, name='Ariella Onasch', school='Mora', grade=9, gender='F', time=1433.441}
+{place=5, name='Kristen Alickson', school='Princeton', grade=12, gender='F', time=1438.691}
+{place=6, name='Grace Guentzel', school='Zimmerman', grade=8, gender='F', time=1454.148}
+{place=7, name='Josie Parks', school='Big Lake', grade=7, gender='F', time=1454.34}
+{place=8, name='Claire Hagen', school='St Cloud Cathedral', grade=10, gender='F', time=1475.43}
+{place=9, name='Aaleaha Thieman', school='Pine City', grade=10, gender='F', time=1475.84}
+{place=10, name='Allison Cavallin', school='Pine City', grade=9, gender='F', time=1475.941}
+{place=11, name='Natalie Cigelske', school='Albany', grade=11, gender='F', time=1476.191}
+{place=12, name='Elizabeth Kerzman', school='Zimmerman', grade=7, gender='F', time=1477.25}
+{place=13, name='Leah Westerman', school='Pine City', grade=10, gender='F', time=1483.941}
+{place=14, name='Sarah Dvoracek', school='St Cloud Cathedral', grade=12, gender='F', time=1488.941}
+{place=15, name='Samantha Smith', school='Albany', grade=9, gender='F', time=1501.23}
+{place=16, name='Hailey Szczech', school='Foley', grade=9, gender='F', time=1514.648}
+{place=17, name='Kiley Kotzer', school='Albany', grade=10, gender='F', time=1520.93}
+{place=18, name='Jenna Bardson', school='Albany', grade=12, gender='F', time=1521.16}
+{place=19, name='Cassidy Baker', school='Milaca', grade=11, gender='F', time=1524.691}
+{place=20, name='Isabel Lukenbill', school='Princeton', grade=11, gender='F', time=1533.141}
+{place=21, name='Mackenzie Frederick', school='Big Lake', grade=12, gender='F', time=1539.41}
+{place=22, name='Carmen Eiynck', school='Albany', grade=7, gender='F', time=1543.2891}
+{place=23, name='Grace Eiynck', school='Albany', grade=8, gender='F', time=1543.691}
+{place=24, name='Madalyn Zack', school='St Cloud Cathedral', grade=11, gender='F', time=1548.441}
+{place=25, name='Laura Ansorge', school='Milaca', grade=11, gender='F', time=1550.621}
+{place=26, name='Katie  Langenfeld', school='Princeton', grade=11, gender='F', time=1568.461}
+{place=27, name='Anna Jeffrey', school='Big Lake', grade=9, gender='F', time=1571.52}
+{place=28, name='Kathryn Sands', school='Albany', grade=12, gender='F', time=1577.629}
+{place=29, name='Brigit Mackie', school='Mora', grade=9, gender='F', time=1581.891}
+{place=30, name='Sydney Schmid', school='St Cloud Cathedral', grade=11, gender='F', time=1582.98}
+{place=31, name='Kathleen Thompson', school='St Cloud Cathedral', grade=11, gender='F', time=1587.551}
+{place=32, name='Anna Weinreich', school='Mora', grade=10, gender='F', time=1589.18}
+{place=33, name='Cassandra Wendt', school='Foley', grade=9, gender='F', time=1589.398}
+{place=34, name='Catie  Pegg', school='Mora', grade=12, gender='F', time=1590.191}
+{place=35, name='Erin Rootes', school='Big Lake', grade=9, gender='F', time=1591.129}
+{place=36, name='Emma Young', school='Princeton', grade=9, gender='F', time=1595.91}
+{place=37, name='Rebecca Daniels', school='Princeton', grade=10, gender='F', time=1595.91}
+{place=38, name='Isabelle Burg', school='Albany', grade=10, gender='F', time=1596.441}
+{place=39, name='Sadie Opatz', school='Albany', grade=9, gender='F', time=1598.16}
+{place=40, name='Ava Tallarico', school='Pine City', grade=12, gender='F', time=1616.629}
+{place=41, name='Kaitlyn Ballou', school='Pine City', grade=12, gender='F', time=1617.43}
+{place=42, name='Lana Schultz', school='Zimmerman', grade=9, gender='F', time=1629.68}
+{place=43, name='Aubrey Ratka', school='Foley', grade=9, gender='F', time=1641.441}
+{place=44, name='Cailyn Smith', school='Mora', grade=10, gender='F', time=1660.199}
+{place=45, name='Maria Williams', school='St Cloud Cathedral', grade=11, gender='F', time=1660.941}
+{place=46, name='Brooklyn  Eggen', school='Milaca', grade=11, gender='F', time=1665.949}
+{place=47, name='Laia De Marti', school='St Cloud Cathedral', grade=12, gender='F', time=1680.199}
+{place=48, name='Alexis Studniski', school='Albany', grade=10, gender='F', time=1681.859}
+{place=49, name='Addison Hawkins', school='Mora', grade=11, gender='F', time=1686.352}
+{place=50, name='Emalie Bohachek', school='Mora', grade=10, gender='F', time=1689.781}
+{place=51, name='Emma Thompson', school='Big Lake', grade=12, gender='F', time=1709.672}
+{place=52, name='Morgan Voshell', school='Milaca', grade=11, gender='F', time=1714.34}
+{place=53, name='Brooke Schwieters', school='St Cloud Cathedral', grade=11, gender='F', time=1724.879}
+{place=54, name='Lauren  Limanen', school='Mora', grade=10, gender='F', time=1734.949}
+{place=55, name='Abigail Mackie', school='Mora', grade=11, gender='F', time=1735.199}
+{place=56, name='Hannah Weldon', school='St Cloud Cathedral', grade=11, gender='F', time=1745.949}
+{place=57, name='Homa Peyman', school='St Cloud Cathedral', grade=11, gender='F', time=1748.199}
+{place=58, name='Libby Pfannenstein', school='St Cloud Cathedral', grade=9, gender='F', time=1748.898}
+{place=59, name='Sydney Friederichs', school='Albany', grade=9, gender='F', time=1755.379}
+{place=60, name='Molly Herker', school='St Cloud Cathedral', grade=11, gender='F', time=1762.691}
+{place=61, name='Katelyn Zimmer', school='St Cloud Cathedral', grade=11, gender='F', time=1763.91}
+{place=62, name='Bailey Budde', school='Albany', grade=10, gender='F', time=1765.719}
+{place=63, name='Morgan Stommes', school='Albany', grade=12, gender='F', time=1765.93}
+{place=64, name='Tess Jacobson', school='St Cloud Cathedral', grade=12, gender='F', time=1828.41}
+{place=65, name='Veda Doerr', school='Mora', grade=10, gender='F', time=1857.828}
+{place=66, name='Codi Bunting', school='Big Lake', grade=9, gender='F', time=1893.621}
+{place=67, name='Josey Luettmer', school='Big Lake', grade=9, gender='F', time=1958.98}
+{place=68, name='Ellie Reeves', school='Mora', grade=9, gender='F', time=2102.871}
+{place=69, name='Kayla Jensen', school='Mora', grade=9, gender='F', time=2136.711}
+{place=70, name='Emma Hess', school='Big Lake', grade=9, gender='F', time=2351.211}
+{place=71, name='Ashley Vongsaphay', school='Big Lake', grade=9, gender='F', time=2516.141}
+{place=72, name='Grace Dion', school='Mora', grade=10, gender='F', time=2536.406}

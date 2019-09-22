@@ -1,0 +1,87 @@
+Race : 38
+{place=1, name='Sam Anderson', school='St Cloud Cathedral', grade=8, gender='M', time=519.6}
+{place=2, name='Grant Wintheiser', school='St Cloud Cathedral', grade=8, gender='M', time=537.52}
+{place=3, name='Matt  Nelson', school='Big Lake', grade=8, gender='M', time=544.22}
+{place=4, name='Phillip LaVallee', school='Monticello', grade=7, gender='M', time=551.65}
+{place=5, name='Caleb LeClaire', school='Rogers', grade=7, gender='M', time=552.36}
+{place=6, name='Andy Deters', school='Sartell', grade=8, gender='M', time=562.22}
+{place=7, name='Grant VanKeulen', school='Marshall', grade=7, gender='M', time=565.85}
+{place=8, name='Chris Veldhuisen', school='Marshall', grade=7, gender='M', time=567.84}
+{place=9, name='Chad DeAustin', school='Marshall', grade=7, gender='M', time=568.76}
+{place=10, name='Tyler Steele', school='Hutchinson', grade=8, gender='M', time=570.48}
+{place=11, name='Tyler Broadwell', school='Sartell', grade=7, gender='M', time=571.57}
+{place=12, name='Austin  Barkley', school='Sartell', grade=8, gender='M', time=582.15}
+{place=13, name='Luke Sanders', school='Marshall', grade=7, gender='M', time=582.6}
+{place=14, name='Dan Schuler', school='Rogers', grade=8, gender='M', time=583.06}
+{place=15, name='Jacob Yapp', school='Sartell', grade=7, gender='M', time=587.38}
+{place=16, name='David Joseph', school='STMA', grade=8, gender='M', time=589.57}
+{place=17, name='Joseph Wocken', school='St Cloud Cathedral', grade=8, gender='M', time=590.42}
+{place=18, name='Steven Thomalla', school='Big Lake', grade=8, gender='M', time=592.63}
+{place=19, name='Jake Neidenfeuhr', school='Big Lake', grade=7, gender='M', time=594.44}
+{place=20, name='Josh Flygare', school='Marshall', grade=8, gender='M', time=596.68}
+{place=21, name='Alex  VanHeel', school='Sartell', grade=7, gender='M', time=599.22}
+{place=22, name='Aaron French', school='Marshall', grade=8, gender='M', time=599.79}
+{place=23, name='Evan Gammell', school='STMA', grade=8, gender='M', time=601.11}
+{place=24, name='Drew Wolfe', school='Sartell', grade=7, gender='M', time=602.06}
+{place=25, name='Grant Bell', school='St Cloud Cathedral', grade=8, gender='M', time=603.68}
+{place=26, name='Dalton Sonenstahl', school='Big Lake', grade=8, gender='M', time=607.96}
+{place=27, name='Zac Floeder', school='Hutchinson', grade=8, gender='M', time=612.35}
+{place=28, name='Jeremy Delaney-Peterson', school='St Cloud Cathedral', grade=8, gender='M', time=619.51}
+{place=29, name='Joe Burt', school='St Cloud Cathedral', grade=7, gender='M', time=632.46}
+{place=30, name='Brandon Quast', school='Big Lake', grade=7, gender='M', time=633.52}
+{place=31, name='Parker Kohlman', school='Sartell', grade=7, gender='M', time=633.93}
+{place=32, name='Thomas Friebe', school='St Cloud Cathedral', grade=7, gender='M', time=635.21}
+{place=33, name='Ryan Weispfenning', school='Hutchinson', grade=7, gender='M', time=639.04}
+{place=34, name='Jonathon Chalupsky', school='St Cloud Cathedral', grade=7, gender='M', time=640.71}
+{place=35, name='Eric Ramerth', school='Big Lake', grade=8, gender='M', time=643.71}
+{place=36, name='Brandon Kresky', school='St Cloud Cathedral', grade=7, gender='M', time=649.75}
+{place=37, name='Adam Clark', school='Big Lake', grade=8, gender='M', time=650.96}
+{place=38, name='Austin Buchholz', school='Big Lake', grade=7, gender='M', time=652.23}
+{place=39, name='Austin Madsen', school='Big Lake', grade=7, gender='M', time=652.56}
+{place=40, name='Bailey Denzer', school='Monticello', grade=8, gender='M', time=652.91}
+{place=41, name='Ted Brakob', school='Monticello', grade=7, gender='M', time=653.29}
+{place=42, name='Eric Bullock', school='Sartell', grade=8, gender='M', time=653.83}
+{place=43, name='Taylor Block', school='Big Lake', grade=8, gender='M', time=654.44}
+{place=44, name='Michael Bruner', school='STMA', grade=7, gender='M', time=657.89}
+{place=45, name='Justin Prosser', school='Big Lake', grade=7, gender='M', time=659.39}
+{place=46, name='Kevin Burnam', school='Big Lake', grade=7, gender='M', time=660.76}
+{place=47, name='Charlie Patch', school='Monticello', grade=8, gender='M', time=662.49}
+{place=48, name='Collin Krueger', school='Big Lake', grade=7, gender='M', time=662.78}
+{place=49, name='Tyler Thomas', school='Big Lake', grade=8, gender='M', time=668.64}
+{place=50, name='Hunter Kopff', school='Monticello', grade=8, gender='M', time=669.12}
+{place=51, name='Peter Gorecki', school='St Cloud Cathedral', grade=8, gender='M', time=670.01}
+{place=52, name='Corey Grand', school='Hutchinson', grade=6, gender='M', time=670.57}
+{place=53, name='David Rossman', school='Big Lake', grade=8, gender='M', time=676.79}
+{place=54, name='Brad Evenson', school='Marshall', grade=7, gender='M', time=678.07}
+{place=55, name='Blake Kerfeld', school='St Cloud Cathedral', grade=7, gender='M', time=681.21}
+{place=56, name='Barry Rothstein', school='St Cloud Cathedral', grade=7, gender='M', time=681.76}
+{place=57, name='Arturo Ramirez', school='Big Lake', grade=8, gender='M', time=682.26}
+{place=58, name='Calab Johnson', school='Monticello', grade=7, gender='M', time=683.11}
+{place=59, name='Roman Schmid', school='St Cloud Cathedral', grade=7, gender='M', time=687.69}
+{place=60, name='Cody Black', school='Monticello', grade=7, gender='M', time=691.91}
+{place=61, name='Jasper Thompson', school='Big Lake', grade=8, gender='M', time=694.03}
+{place=62, name='Connor  Blasing', school='Big Lake', grade=7, gender='M', time=694.89}
+{place=63, name='Cullen McAnally', school='St Cloud Cathedral', grade=7, gender='M', time=701.28}
+{place=64, name='Zach Garberg', school='Hutchinson', grade=8, gender='M', time=704.73}
+{place=65, name='Alex Olson', school='Sartell', grade=7, gender='M', time=708.04}
+{place=66, name='Jonah Gilbert', school='Irondale', grade=7, gender='M', time=709.7}
+{place=67, name='Trevor Sorenson', school='Big Lake', grade=7, gender='M', time=712.88}
+{place=68, name='Mike Schnettler', school='St Cloud Cathedral', grade=7, gender='M', time=713.53}
+{place=69, name='Mitch Callander', school='Big Lake', grade=8, gender='M', time=714.23}
+{place=70, name='Josh  Salonek', school='STMA', grade=7, gender='M', time=715.3}
+{place=71, name='Taylor Hastings', school='STMA', grade=8, gender='M', time=716.09}
+{place=72, name='John Suddard-Bangsun', school='Monticello', grade=8, gender='M', time=718.98}
+{place=73, name='Zach Bismarck', school='Big Lake', grade=7, gender='M', time=730.11}
+{place=74, name='Zachary Ulmer', school='Big Lake', grade=8, gender='M', time=740.63}
+{place=75, name='Alex Johnson', school='STMA', grade=7, gender='M', time=743.1}
+{place=76, name='Luke Bock', school='Marshall', grade=7, gender='M', time=762.34}
+{place=77, name='Evan Borchert', school='Irondale', grade=7, gender='M', time=766.1}
+{place=78, name='Chase Lundgren', school='STMA', grade=7, gender='M', time=768.89}
+{place=79, name='Kevin Turner', school='Totino Grace', grade=9, gender='M', time=818.55}
+{place=80, name='Joe Jaye', school='St Cloud Cathedral', grade=7, gender='M', time=829.42}
+{place=81, name='Matthew Dymus', school='St Cloud Cathedral', grade=8, gender='M', time=839.49}
+{place=82, name='Mitchell Shuster', school='St Cloud Cathedral', grade=7, gender='M', time=839.95}
+{place=83, name='Michael Turner', school='Totino Grace', grade=10, gender='M', time=844.17}
+{place=84, name='Ted Johnson', school='St Cloud Cathedral', grade=7, gender='M', time=880.59}
+{place=85, name='Luke Travis', school='Big Lake', grade=7, gender='M', time=957.26}
+{place=86, name='James Blake', school='Totino Grace', grade=11, gender='M', time=959.67}

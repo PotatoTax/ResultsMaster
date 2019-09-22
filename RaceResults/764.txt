@@ -1,0 +1,43 @@
+Race : 764
+{place=1, name='Anna Ryden', school='Minneapolis Southwest', grade=12, gender='F', time=923.27}
+{place=2, name='Abby Counihan', school='Minneapolis Southwest', grade=12, gender='F', time=939.6}
+{place=3, name='Sarah Harrison', school='Orono', grade=10, gender='F', time=949.43}
+{place=4, name='Natalie Nachtsheim', school='Henry Sibley', grade=12, gender='F', time=951.33}
+{place=5, name='Marcie James', school='St Louis Park', grade=9, gender='F', time=957.93}
+{place=6, name='Kajsa Johansson', school='Breck', grade=9, gender='F', time=961.96}
+{place=7, name='Brittany Staab', school='St Croix Lutheran', grade=11, gender='F', time=965.85}
+{place=8, name='Grace Leslie', school='Orono', grade=9, gender='F', time=969.04}
+{place=9, name='Maria Pfister', school='Minneapolis Southwest', grade=12, gender='F', time=973.77}
+{place=10, name='Abi Arganbright', school='Henry Sibley', grade=11, gender='F', time=974.68}
+{place=11, name='Viola Schoen', school='Blake', grade=11, gender='F', time=987.68}
+{place=12, name='Greta Johnson', school='Orono', grade=10, gender='F', time=996.62}
+{place=13, name='Becky Boehlke', school='St Croix Lutheran', grade=10, gender='F', time=999.87}
+{place=14, name='Megan Perkins', school='St Louis Park', grade=8, gender='F', time=1005.77}
+{place=15, name='Katie Fredrickson', school='St Louis Park', grade=8, gender='F', time=1006.98}
+{place=16, name='Emily Gallagher', school='Henry Sibley', grade=8, gender='F', time=1023.89}
+{place=17, name='Carolyn Nye', school='Blake', grade=11, gender='F', time=1024.89}
+{place=18, name='Abby Wharram', school='Mound-Westonka', grade=8, gender='F', time=1028.75}
+{place=19, name='Samantha Ting', school='Orono', grade=10, gender='F', time=1028.96}
+{place=20, name='Mary Grace', school='Minneapolis Southwest', grade=12, gender='F', time=1029.77}
+{place=21, name='Lauren Rodby', school='Orono', grade=12, gender='F', time=1031.39}
+{place=22, name='Gila Grad', school='St Louis Park', grade=11, gender='F', time=1032.19}
+{place=23, name='Daisy Richmond', school='Minneapolis Southwest', grade=11, gender='F', time=1032.31}
+{place=24, name='Suh Koller', school='St Louis Park', grade=12, gender='F', time=1040.37}
+{place=25, name='Karissa Plath', school='St Croix Lutheran', grade=12, gender='F', time=1045.85}
+{place=26, name='Rose Dill', school='Henry Sibley', grade=12, gender='F', time=1047.89}
+{place=27, name='Kelly Segura', school='Henry Sibley', grade=11, gender='F', time=1060.66}
+{place=28, name='Anna Restemayer', school='Henry Sibley', grade=11, gender='F', time=1065.95}
+{place=29, name='Madison Martini', school='Orono', grade=12, gender='F', time=1074.73}
+{place=30, name='Ella Kohls', school='Mound-Westonka', grade=10, gender='F', time=1080.27}
+{place=31, name='Margaret  Graham', school='Blake', grade=12, gender='F', time=1081.27}
+{place=32, name='Sophie Babo', school='Orono', grade=11, gender='F', time=1081.31}
+{place=33, name='Emma Storkamp', school='Henry Sibley', grade=9, gender='F', time=1083.41}
+{place=34, name='Kara Plath', school='St Croix Lutheran', grade=12, gender='F', time=1091.27}
+{place=35, name='Cecelia Schmelzle', school='St Louis Park', grade=7, gender='F', time=1104.33}
+{place=36, name='Samira Champlin', school='Blake', grade=10, gender='F', time=1156.81}
+{place=37, name='Natalie Norberg', school='Blake', grade=11, gender='F', time=1163.31}
+{place=38, name='Ana Shoemate', school='Blake', grade=9, gender='F', time=1182.85}
+{place=39, name='Claudia Chute', school='Blake', grade=12, gender='F', time=1188.35}
+{place=40, name='Kaitlyn Hamann', school='St Croix Lutheran', grade=11, gender='F', time=1194.85}
+{place=41, name='Camila Bernaldez', school='Breck', grade=12, gender='F', time=1224.94}
+{place=42, name='Elena Berman', school='Breck', grade=9, gender='F', time=2608.35}

@@ -1,0 +1,83 @@
+Race : 1595
+{place=1, name='Ella Sorensen', school='Alexandria', grade=6, gender='F', time=846.4}
+{place=2, name='Giselle Jahner', school='Alexandria', grade=6, gender='F', time=847.47}
+{place=3, name='Kathrine Allen-Opp', school='Alexandria', grade=7, gender='F', time=854.97}
+{place=4, name='Lily Peterson', school='Crosby-Ironton', grade=8, gender='F', time=858.97}
+{place=5, name='Lauren Maras', school='Alexandria', grade=6, gender='F', time=860.06}
+{place=6, name='Karli Nixon', school='Crosby-Ironton', grade=8, gender='F', time=871.68}
+{place=7, name='Grace Rieland', school='Albany', grade=8, gender='F', time=883.36}
+{place=8, name='Sarah Bostrom', school='Crosby-Ironton', grade=7, gender='F', time=887.08}
+{place=9, name='Emma Ecker', school='Alexandria', grade=7, gender='F', time=888.4}
+{place=10, name='Aliejah Castle', school='Alexandria', grade=8, gender='F', time=889.25}
+{place=11, name='Brynn Kosters', school='Alexandria', grade=6, gender='F', time=889.84}
+{place=12, name='Brooke Kotten', school='Albany', grade=8, gender='F', time=900.88}
+{place=13, name='Gina Wege', school='Albany', grade=8, gender='F', time=902.93}
+{place=14, name='Maddie  Severson', school='Crosby-Ironton', grade=9, gender='F', time=907.18}
+{place=15, name='Emma Storbakken', school='Brainerd', grade=8, gender='F', time=914.91}
+{place=16, name='Abby Johnson', school='Brainerd', grade=7, gender='F', time=918.4}
+{place=17, name='Abby Peterschick', school='Albany', grade=7, gender='F', time=918.97}
+{place=18, name='Cate Bloom', school='Alexandria', grade=8, gender='F', time=920.72}
+{place=19, name='Amanda Bergerson', school='Alexandria', grade=6, gender='F', time=930.43}
+{place=20, name='Jessica Rosenberger', school='Albany', grade=8, gender='F', time=936.97}
+{place=21, name='Dani Schirmers', school='Little Falls', grade=7, gender='F', time=937.38}
+{place=22, name='Sienna Swanberg', school='Pillager', grade=6, gender='F', time=947.33}
+{place=23, name='Emily Bastian', school='Brainerd JH', grade=6, gender='F', time=948.97}
+{place=24, name='Greta Urke', school='Alexandria', grade=7, gender='F', time=949.81}
+{place=25, name='Evelyn Patrick', school='Brainerd JH', grade=5, gender='F', time=950.97}
+{place=26, name='Aleah Dokter', school='Alexandria', grade=7, gender='F', time=952.86}
+{place=27, name='Emily Becker', school='Little Falls', grade=7, gender='F', time=957.7}
+{place=28, name='Reise Waldorf', school='Alexandria', grade=8, gender='F', time=957.95}
+{place=29, name='Lilyanna Loshko', school='Brainerd', grade=8, gender='F', time=958.56}
+{place=30, name='Samantha Smith', school='Albany', grade=8, gender='F', time=958.77}
+{place=31, name='Brookelyn Stender', school='Alexandria', grade=7, gender='F', time=966.36}
+{place=32, name='Kaileigh Toews', school='Brainerd', grade=6, gender='F', time=966.9}
+{place=33, name='Ella Westlund', school='Alexandria', grade=6, gender='F', time=968.2}
+{place=34, name='Hannah Boraas', school='Alexandria', grade=6, gender='F', time=968.97}
+{place=35, name='Julia Rademacher', school='Brainerd JH', grade=6, gender='F', time=981.25}
+{place=36, name='Ellaina Johnson', school='Pine City', grade=8, gender='F', time=981.65}
+{place=37, name='Madelyn Wrght', school='Pillager', grade=6, gender='F', time=982.06}
+{place=38, name='Hadyn Halverson', school='Alexandria', grade=6, gender='F', time=984.43}
+{place=39, name='Gracie Uhde', school='Alexandria', grade=7, gender='F', time=984.93}
+{place=40, name='Abigail Dahl', school='Brainerd', grade=7, gender='F', time=986.45}
+{place=41, name='Kamryn Peterson', school='Brainerd', grade=7, gender='F', time=988.7}
+{place=42, name='Teresa Bitzan', school='Alexandria', grade=6, gender='F', time=989.38}
+{place=43, name='Lauren Englund', school='Alexandria', grade=7, gender='F', time=989.81}
+{place=44, name='Emma Hardy', school='Pillager', grade=9, gender='F', time=991.95}
+{place=45, name='Lilly Gertken', school='Albany', grade=7, gender='F', time=992.27}
+{place=46, name='Brooke Petrich', school='GNK', grade=7, gender='F', time=995.84}
+{place=47, name='Elena Fuglestad', school='Alexandria', grade=6, gender='F', time=1002.22}
+{place=48, name='Elizabeth Johnson', school='Albany', grade=7, gender='F', time=1004.54}
+{place=49, name='Aisling O'Connor', school='Alexandria', grade=6, gender='F', time=1005.75}
+{place=50, name='Emma Hochhalter', school='Alexandria', grade=6, gender='F', time=1008.7}
+{place=51, name='Lauren  Kalenberg', school='Brainerd', grade=5, gender='F', time=1010.68}
+{place=52, name='Olivia Brault', school='Alexandria', grade=7, gender='F', time=1011.29}
+{place=53, name='Allison Cavallin', school='Pine City', grade=8, gender='F', time=1012.45}
+{place=54, name='Grace Eiynck', school='Albany', grade=7, gender='F', time=1019.38}
+{place=55, name='Ella Peterson', school='Pequot Lakes', grade=7, gender='F', time=1022.97}
+{place=56, name='Alexa Johnson', school='Alexandria', grade=6, gender='F', time=1023.45}
+{place=57, name='Kelly Boyden', school='Alexandria', grade=6, gender='F', time=1023.58}
+{place=58, name='Catharine Neumann', school='Alexandria', grade=6, gender='F', time=1023.95}
+{place=59, name='Jocelyn Daniels', school='Brainerd JH', grade=5, gender='F', time=1029.88}
+{place=60, name='Adrianna Hansen', school='GNK', grade=6, gender='F', time=1047.86}
+{place=61, name='Abby Kalla', school='Albany', grade=7, gender='F', time=1050.5}
+{place=62, name='Makayla Loftis', school='Pillager', grade=9, gender='F', time=1071.72}
+{place=63, name='Sophia Wiseman', school='Alexandria', grade=6, gender='F', time=1078.5}
+{place=64, name='Evelyn  Rollins', school='Brainerd', grade=5, gender='F', time=1095.18}
+{place=65, name='Abbigale Abramson', school='Brainerd', grade=8, gender='F', time=1099.25}
+{place=66, name='Erin Juhl', school='Albany', grade=8, gender='F', time=1116.77}
+{place=67, name='Anja Storbakken', school='Brainerd JH', grade=5, gender='F', time=1116.93}
+{place=68, name='Lila Collins', school='Brainerd', grade=5, gender='F', time=1180.93}
+{place=69, name='Cenah Barker', school='Albany', grade=7, gender='F', time=1181.0}
+{place=70, name='Angelina Doughty', school='Pequot Lakes', grade=6, gender='F', time=1183.93}
+{place=71, name='Lilianna Blomer', school='Pequot Lakes', grade=6, gender='F', time=1184.66}
+{place=72, name='Sydnie Wgeishofski', school='Pequot Lakes', grade=7, gender='F', time=1184.88}
+{place=73, name='Ally Smith', school='Pillager', grade=8, gender='F', time=1202.93}
+{place=74, name='Hannah Olson', school='Little Falls', grade=7, gender='F', time=1235.0}
+{place=75, name='Kylee Wilson', school='Pillager', grade=6, gender='F', time=1244.83}
+{place=76, name='Hailey Carlson', school='Pequot Lakes', grade=8, gender='F', time=1281.18}
+{place=77, name='Dylan Ellis', school='GNK', grade=6, gender='F', time=1287.38}
+{place=78, name='Jasemine Ritter', school='Alexandria', grade=6, gender='F', time=1291.65}
+{place=79, name='Cassidy Boeckermann', school='Albany', grade=7, gender='F', time=1325.9}
+{place=80, name='Lily Habighorst', school='Crosby-Ironton', grade=8, gender='F', time=1364.4}
+{place=81, name='Kylie Bisted', school='Brainerd', grade=7, gender='F', time=1399.31}
+{place=82, name='Sydney Friederichs', school='Albany', grade=8, gender='F', time=1461.88}

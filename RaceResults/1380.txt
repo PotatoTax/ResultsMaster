@@ -1,0 +1,81 @@
+Race : 1380
+{place=1, name='Paul Guertin', school='Monticello', grade=8, gender='M', time=730.94}
+{place=2, name='Josh Rawls', school='Mora', grade=8, gender='M', time=738.62}
+{place=3, name='Habtamu Schaller', school='St Cloud Tech', grade=8, gender='M', time=748.19}
+{place=4, name='Marcus Guertin', school='Monticello', grade=7, gender='M', time=768.94}
+{place=5, name='Jacob Johnson', school='Mora', grade=8, gender='M', time=771.03}
+{place=6, name='Carlton Kayden', school='St Cloud Tech', grade=8, gender='M', time=771.14}
+{place=7, name='Logan Thorsten', school='Foley', grade=8, gender='M', time=776.25}
+{place=8, name='Trenten Rupar', school='Big Lake', grade=8, gender='M', time=782.24}
+{place=9, name='Jack Sampson', school='Mora', grade=8, gender='M', time=785.1}
+{place=10, name='Gabe Juhl', school='Big Lake', grade=8, gender='M', time=787.98}
+{place=11, name='Joe  Anderson', school='St Cloud Tech', grade=8, gender='M', time=790.21}
+{place=12, name='Jagger Steiner', school='Mora', grade=8, gender='M', time=790.42}
+{place=13, name='Reece Morgan', school='Mora', grade=7, gender='M', time=793.53}
+{place=14, name='Henry Statz', school='St Cloud Tech', grade=8, gender='M', time=794.46}
+{place=15, name='Anton Erickson', school='Milaca', grade=8, gender='M', time=798.5}
+{place=16, name='Logan Winkelman', school='Foley', grade=7, gender='M', time=799.5}
+{place=17, name='Tre Gordy', school='Big Lake', grade=8, gender='M', time=801.14}
+{place=18, name='Zach Kadlec', school='Foley', grade=7, gender='M', time=809.48}
+{place=19, name='Zack Jennissen', school='Foley', grade=7, gender='M', time=809.69}
+{place=20, name='Mason Doucette', school='Becker', grade=7, gender='M', time=817.75}
+{place=21, name='Freddy Visci', school='Big Lake', grade=8, gender='M', time=819.42}
+{place=22, name='Ben Schreder', school='Princeton', grade=8, gender='M', time=819.51}
+{place=23, name='Carver Huber', school='Big Lake', grade=8, gender='M', time=826.69}
+{place=24, name='Noah Nielsen', school='Mora', grade=8, gender='M', time=828.76}
+{place=25, name='Owen Haubenschild', school='Princeton', grade=7, gender='M', time=829.17}
+{place=26, name='Carter Wavrin', school='St Cloud Tech', grade=9, gender='M', time=834.25}
+{place=27, name='Zane Pemberton', school='Monticello', grade=7, gender='M', time=834.51}
+{place=28, name='Aidan Welch', school='Pine City', grade=7, gender='M', time=835.46}
+{place=29, name='Wyatt Hiltner', school='Becker', grade=8, gender='M', time=840.73}
+{place=30, name='Zander Gravening', school='Mora', grade=8, gender='M', time=848.64}
+{place=31, name='Jack Budd', school='Becker', grade=8, gender='M', time=858.19}
+{place=32, name='Tucker Schmoll', school='Becker', grade=8, gender='M', time=858.39}
+{place=33, name='Parker Mitchell', school='Mora', grade=7, gender='M', time=858.5}
+{place=34, name='Nic Sobalvarro', school='St Cloud Tech', grade=7, gender='M', time=863.44}
+{place=35, name='Blake Lahn', school='Zimmerman', grade=7, gender='M', time=864.87}
+{place=36, name='Tyler Schmitt', school='Big Lake', grade=8, gender='M', time=865.48}
+{place=37, name='Charlie Emmons', school='Pine City', grade=8, gender='M', time=870.17}
+{place=38, name='Austin  Kitzberger', school='Zimmerman', grade=7, gender='M', time=874.46}
+{place=39, name='Asher Wyganowski', school='Princeton', grade=7, gender='M', time=886.25}
+{place=40, name='Evan Lindberg', school='Foley', grade=8, gender='M', time=887.83}
+{place=41, name='Gavin Swanson', school='Monticello', grade=7, gender='M', time=890.66}
+{place=42, name='Riley Siegrist', school='Big Lake', grade=7, gender='M', time=891.75}
+{place=43, name='Cade Hansen', school='Monticello', grade=7, gender='M', time=893.89}
+{place=44, name='Lukas Struss', school='Pine City', grade=8, gender='M', time=895.89}
+{place=45, name='Kyle Segner', school='Big Lake', grade=7, gender='M', time=897.76}
+{place=46, name='Robert Bohachek', school='Mora', grade=8, gender='M', time=899.26}
+{place=47, name='Chris Allie', school='Foley', grade=8, gender='M', time=900.19}
+{place=48, name='Kallen Murphy', school='St Cloud Tech', grade=8, gender='M', time=902.42}
+{place=49, name='Austin Eccless', school='Big Lake', grade=7, gender='M', time=903.23}
+{place=50, name='Garrett Honstrom', school='Mora', grade=7, gender='M', time=904.24}
+{place=51, name='Jack Petty', school='Milaca', grade=8, gender='M', time=906.69}
+{place=52, name='Preston Cousin', school='Foley', grade=7, gender='M', time=907.71}
+{place=53, name='Abram Liszka', school='Mora', grade=7, gender='M', time=908.3}
+{place=54, name='Tommy Mulford', school='Mora', grade=7, gender='M', time=910.51}
+{place=55, name='Bo Dahlheimer', school='Monticello', grade=7, gender='M', time=911.26}
+{place=56, name='Derek Diethlem', school='Mora', grade=7, gender='M', time=912.51}
+{place=57, name='Christian Wells', school='Zimmerman', grade=8, gender='M', time=916.23}
+{place=58, name='Casey Foecke', school='Monticello', grade=8, gender='M', time=919.71}
+{place=59, name='Cody  Waterhouse', school='Zimmerman', grade=7, gender='M', time=924.98}
+{place=60, name='Zach  Johnson', school='North Branch', grade=7, gender='M', time=929.87}
+{place=61, name='Alex  Dick', school='North Branch', grade=7, gender='M', time=948.58}
+{place=62, name='William Nord', school='Milaca', grade=7, gender='M', time=949.6}
+{place=63, name='Logan Holm', school='St Cloud Tech', grade=8, gender='M', time=961.26}
+{place=64, name='Jack Firkus', school='Zimmerman', grade=8, gender='M', time=963.51}
+{place=65, name='Jacob  Swirtz', school='Zimmerman', grade=8, gender='M', time=971.89}
+{place=66, name='Bryce Roberts', school='Pine City', grade=7, gender='M', time=976.76}
+{place=67, name='Adam Euteneuer', school='Princeton', grade=7, gender='M', time=976.96}
+{place=68, name='Sam Hagberg', school='Big Lake', grade=8, gender='M', time=1005.19}
+{place=69, name='William Ashton', school='Big Lake', grade=7, gender='M', time=1059.16}
+{place=70, name='Evan Scales', school='Big Lake', grade=8, gender='M', time=1070.26}
+{place=71, name='Brayden Bombard', school='Pine City', grade=8, gender='M', time=1076.6}
+{place=72, name='Zachariah Rothwell', school='St Cloud Tech', grade=7, gender='M', time=1101.28}
+{place=73, name='Ethean Wiechman', school='Pine City', grade=8, gender='M', time=1126.76}
+{place=74, name='Ben Hutchins', school='Foley', grade=7, gender='M', time=1211.6}
+{place=75, name='Logan Bigelow', school='Becker', grade=8, gender='M', time=1238.51}
+{place=76, name='Zach Dostal', school='Big Lake', grade=8, gender='M', time=1260.0}
+{place=77, name='Julian Robles', school='Big Lake', grade=7, gender='M', time=1293.26}
+{place=78, name='Bob Benner', school='Big Lake', grade=7, gender='M', time=1303.51}
+{place=79, name='Cole Wilhelm', school='Becker', grade=7, gender='M', time=1309.76}
+{place=80, name='Trenten Woolhouse', school='Becker', grade=7, gender='M', time=1369.28}

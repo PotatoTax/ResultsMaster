@@ -1,0 +1,139 @@
+Race : 2750
+{place=1, name='Carter Vonderahe', school='Sartell', grade=10, gender='M', time=1071.6}
+{place=2, name='Daniel Binsfeld', school='Sartell', grade=10, gender='M', time=1072.4}
+{place=3, name='Abdiweli Mohamed', school='Willmar', grade=9, gender='M', time=1086.6}
+{place=4, name='Fred Damhof', school='Willmar', grade=9, gender='M', time=1091.7}
+{place=5, name='Elijah Kigozi', school='Sartell', grade=11, gender='M', time=1091.7}
+{place=6, name='Mateo Marin-Mera', school='Willmar', grade=12, gender='M', time=1105.7}
+{place=7, name='Will Nemeth', school='Sartell', grade=11, gender='M', time=1112.3}
+{place=8, name='Ryley Emslander', school='Sartell', grade=12, gender='M', time=1114.5}
+{place=9, name='Cole Gauerke', school='Sauk Rapids-Rice', grade=10, gender='M', time=1117.4}
+{place=10, name='Jonas Anez', school='Willmar', grade=9, gender='M', time=1120.5}
+{place=11, name='Sam May', school='Willmar', grade=10, gender='M', time=1123.3}
+{place=12, name='Jalen Winburn', school='Sartell', grade=10, gender='M', time=1123.4}
+{place=13, name='Ian Koosman', school='Willmar', grade=9, gender='M', time=1133.6}
+{place=14, name='Andrew Flolo', school='Willmar', grade=10, gender='M', time=1133.9}
+{place=15, name='Johnny Nemeth', school='Sartell', grade=8, gender='M', time=1136.2}
+{place=16, name='Brandon Janu', school='Sartell', grade=9, gender='M', time=1139.5}
+{place=17, name='Joe  Anderson', school='St Cloud Tech', grade=10, gender='M', time=1141.1}
+{place=18, name='Ryan Grossback', school='St Cloud Tech', grade=11, gender='M', time=1141.5}
+{place=19, name='Ben Hoeschen', school='Sartell', grade=12, gender='M', time=1142.6}
+{place=20, name='Carter Schow', school='Willmar', grade=9, gender='M', time=1143.3}
+{place=21, name='Aden Aden', school='Willmar', grade=11, gender='M', time=1144.5}
+{place=22, name='Luke Jones', school='Sartell', grade=12, gender='M', time=1145.7}
+{place=23, name='Mattieu Jobin', school='Sartell', grade=10, gender='M', time=1148.7}
+{place=24, name='Joel Brault', school='Alexandria', grade=9, gender='M', time=1148.8}
+{place=25, name='Kory Behm', school='Willmar', grade=9, gender='M', time=1149.7}
+{place=26, name='Cruz Lemmerhirt', school='Brainerd', grade=11, gender='M', time=1149.8}
+{place=27, name='Isaac Herrlich', school='Brainerd', grade=11, gender='M', time=1154.8}
+{place=28, name='Harris Duininck', school='Willmar', grade=9, gender='M', time=1158.3}
+{place=29, name='AJ Thompson', school='Brainerd', grade=11, gender='M', time=1159.5}
+{place=30, name='Calen O'Connell', school='Sartell', grade=9, gender='M', time=1163.8}
+{place=31, name='Sergio Fernandez', school='Willmar', grade=9, gender='M', time=1164.4}
+{place=32, name='Callahan Mechelke', school='Sartell', grade=10, gender='M', time=1167.9}
+{place=33, name='Cooper Gerads', school='St Cloud Apollo', grade=12, gender='M', time=1168.5}
+{place=34, name='Alex Ehrlichman', school='Sartell', grade=9, gender='M', time=1170.8}
+{place=35, name='Brady Krupa', school='Willmar', grade=12, gender='M', time=1174.8}
+{place=36, name='Bennett Wirth', school='Alexandria', grade=10, gender='M', time=1176.3}
+{place=37, name='Rylan Groese', school='St Cloud Tech', grade=11, gender='M', time=1177.7}
+{place=38, name='Ethan Berndt', school='Sartell', grade=12, gender='M', time=1178.1}
+{place=39, name='Caden Carlson', school='Willmar', grade=10, gender='M', time=1179.3}
+{place=40, name='Taton Hansen', school='Willmar', grade=9, gender='M', time=1180.5}
+{place=41, name='Carter Larson', school='Sartell', grade=10, gender='M', time=1183.7}
+{place=42, name='Cameron Hochsprung', school='Alexandria', grade=10, gender='M', time=1187.3}
+{place=43, name='Jon Jemming', school='Sartell', grade=9, gender='M', time=1188.5}
+{place=44, name='Riley O'Connell', school='Sartell', grade=11, gender='M', time=1188.5}
+{place=45, name='Jason Malmgren', school='Willmar', grade=9, gender='M', time=1190.5}
+{place=46, name='Logan Severson', school='Brainerd', grade=11, gender='M', time=1194.4}
+{place=47, name='Kallen  Hanzsek-Brill', school='St Cloud Apollo', grade=9, gender='M', time=1194.8}
+{place=48, name='Garrett Goeden', school='Brainerd', grade=12, gender='M', time=1197.8}
+{place=49, name='Gabriel Maurer', school='Brainerd', grade=10, gender='M', time=1198.1}
+{place=50, name='Ben Renner', school='Brainerd', grade=12, gender='M', time=1198.3}
+{place=51, name='Ismail Kadir', school='Willmar', grade=11, gender='M', time=1198.5}
+{place=52, name='Ridge Hagemeister', school='St Cloud Tech', grade=10, gender='M', time=1201.5}
+{place=53, name='Ross Minnick', school='Willmar', grade=10, gender='M', time=1203.4}
+{place=54, name='Nolan Wollum', school='Sartell', grade=12, gender='M', time=1207.5}
+{place=55, name='Isaac Eichhorst', school='Willmar', grade=9, gender='M', time=1209.8}
+{place=56, name='Adam Dawson', school='Willmar', grade=11, gender='M', time=1212.2}
+{place=57, name='Alex Host', school='Brainerd', grade=12, gender='M', time=1214.3}
+{place=58, name='Ben Meyer', school='Sartell', grade=12, gender='M', time=1217.3}
+{place=59, name='Malcolm Snowberg', school='St Cloud Apollo', grade=9, gender='M', time=1223.5}
+{place=60, name='Zach Schaeffer', school='Brainerd', grade=9, gender='M', time=1226.2}
+{place=61, name='Brandon Zimmer', school='St Cloud Apollo', grade=9, gender='M', time=1228.8}
+{place=62, name='Daniel Perrault', school='St Cloud Tech', grade=11, gender='M', time=1229.2}
+{place=63, name='Atticus Osborne', school='Brainerd', grade=10, gender='M', time=1230.4}
+{place=64, name='Nathan Halstead', school='Alexandria', grade=10, gender='M', time=1231.4}
+{place=65, name='Logan Holm', school='St Cloud Tech', grade=10, gender='M', time=1233.6}
+{place=66, name='Sam Lafond', school='St Cloud Tech', grade=11, gender='M', time=1233.7}
+{place=67, name='Weston Hansen', school='Willmar', grade=10, gender='M', time=1238.4}
+{place=68, name='Braden Capelle', school='Brainerd', grade=9, gender='M', time=1239.4}
+{place=69, name='Matthew Johnson', school='Alexandria', grade=9, gender='M', time=1244.7}
+{place=70, name='Hayden  Prill', school='Rocori', grade=9, gender='M', time=1245.7}
+{place=71, name='Samuel Burtow', school='Willmar', grade=9, gender='M', time=1250.9}
+{place=72, name='Noah Huss', school='Alexandria', grade=12, gender='M', time=1251.1}
+{place=73, name='Bryce Kraker', school='Alexandria', grade=10, gender='M', time=1251.3}
+{place=74, name='Luke Sellmann', school='Willmar', grade=11, gender='M', time=1257.5}
+{place=75, name='Nick Mohr', school='Willmar', grade=9, gender='M', time=1259.6}
+{place=76, name='Mekhi Kigozi', school='Sartell', grade=9, gender='M', time=1259.8}
+{place=77, name='Jack Kraemer', school='Rocori', grade=10, gender='M', time=1263.6}
+{place=78, name='Karl Schroeder', school='St Cloud Tech', grade=10, gender='M', time=1267.3}
+{place=79, name='Gabe Qualley', school='Brainerd', grade=10, gender='M', time=1269.4}
+{place=80, name='Jordan Lee', school='Fergus Falls', grade=9, gender='M', time=1275.3}
+{place=81, name='Nate Martin', school='Sauk Rapids-Rice', grade=8, gender='M', time=1276.4}
+{place=82, name='Jack Spoden', school='Rocori', grade=9, gender='M', time=1281.2}
+{place=83, name='Nathan  Staudinger', school='St Cloud Apollo', grade=9, gender='M', time=1281.5}
+{place=84, name='Zach Lobb', school='Fergus Falls', grade=11, gender='M', time=1282.8}
+{place=85, name='Nate Spencer', school='Willmar', grade=12, gender='M', time=1285.6}
+{place=86, name='Gavin Fuchs', school='Sauk Rapids-Rice', grade=11, gender='M', time=1286.7}
+{place=87, name='Josh  Meixell', school='St Cloud Apollo', grade=9, gender='M', time=1288.2}
+{place=88, name='Sam Rothstein', school='Rocori', grade=10, gender='M', time=1290.5}
+{place=89, name='Ben  Hansen', school='Rocori', grade=10, gender='M', time=1293.1}
+{place=90, name='Isaac Harris', school='St Cloud Tech', grade=11, gender='M', time=1293.9}
+{place=91, name='Evan  Schneiderhan', school='Alexandria', grade=12, gender='M', time=1297.3}
+{place=92, name='Jackson  Gerads', school='St Cloud Apollo', grade=9, gender='M', time=1303.9}
+{place=93, name='Sebastian Lau', school='Sartell', grade=9, gender='M', time=1304.8}
+{place=94, name='Abdi Sheef', school='Willmar', grade=12, gender='M', time=1307.3}
+{place=95, name='Bennet Capelle', school='Brainerd', grade=9, gender='M', time=1307.3}
+{place=96, name='Cameron Huse', school='Sartell', grade=9, gender='M', time=1311.6}
+{place=97, name='Charlie Magnuson', school='Sartell', grade=9, gender='M', time=1312.4}
+{place=98, name='Zach Lambert', school='St Cloud Apollo', grade=10, gender='M', time=1312.4}
+{place=99, name='Ridgley Hulstein', school='Willmar', grade=9, gender='M', time=1316.6}
+{place=100, name='Jacob Aanes', school='Brainerd', grade=11, gender='M', time=1325.6}
+{place=101, name='Rowan Winter', school='Rocori', grade=9, gender='M', time=1328.8}
+{place=102, name='Anthony Preusser', school='St Cloud Tech', grade=10, gender='M', time=1334.3}
+{place=103, name='Henry Statz', school='St Cloud Tech', grade=10, gender='M', time=1336.4}
+{place=104, name='Noah Schaeffer', school='Brainerd', grade=9, gender='M', time=1336.8}
+{place=105, name='Charlie Matuska', school='Rocori', grade=11, gender='M', time=1340.7}
+{place=106, name='Dallas Frueh', school='Alexandria', grade=10, gender='M', time=1341.3}
+{place=107, name='Quinn Vos', school='Sartell', grade=9, gender='M', time=1345.8}
+{place=108, name='Logan Rekedal', school='Alexandria', grade=10, gender='M', time=1345.8}
+{place=109, name='Colin Bos', school='Willmar', grade=9, gender='M', time=1346.7}
+{place=110, name='Tucker Rowlan', school='Fergus Falls', grade=9, gender='M', time=1346.7}
+{place=111, name='Andy Lochen', school='Sauk Rapids-Rice', grade=11, gender='M', time=1353.5}
+{place=112, name='Jack Mueller', school='St Cloud Tech', grade=11, gender='M', time=1359.8}
+{place=113, name='CJ Beasley', school='Brainerd', grade=11, gender='M', time=1360.3}
+{place=114, name='Henry Sherwood', school='Sauk Rapids-Rice', grade=10, gender='M', time=1360.8}
+{place=115, name='Jackson Callian', school='Brainerd', grade=10, gender='M', time=1372.6}
+{place=116, name='Nic Sobalvarro', school='St Cloud Tech', grade=9, gender='M', time=1374.4}
+{place=117, name='Anthony Berndt', school='Sartell', grade=9, gender='M', time=1401.9}
+{place=118, name='Jacob  Kruger', school='Sauk Rapids-Rice', grade=12, gender='M', time=1409.7}
+{place=119, name='Truman Kluempke', school='St Cloud Tech', grade=9, gender='M', time=1437.4}
+{place=120, name='Josh Venenga', school='Willmar', grade=9, gender='M', time=1453.5}
+{place=121, name='Jack Knudson', school='Sartell', grade=9, gender='M', time=1457.1}
+{place=122, name='Mark Amundson', school='Sartell', grade=10, gender='M', time=1457.6}
+{place=123, name='Jones Logan', school='Sartell', grade=9, gender='M', time=1465.3}
+{place=124, name='Peyton Fischer', school='Alexandria', grade=12, gender='M', time=1467.2}
+{place=125, name='Jacob Spangler', school='Fergus Falls', grade=11, gender='M', time=1476.1}
+{place=126, name='Musab Nuh', school='Sauk Rapids-Rice', grade=10, gender='M', time=1492.2}
+{place=127, name='William  Galler', school='St Cloud Tech', grade=12, gender='M', time=1497.1}
+{place=128, name='Carter Bright', school='Sartell', grade=9, gender='M', time=1497.3}
+{place=129, name='Nathan Goenner', school='St Cloud Tech', grade=11, gender='M', time=1540.7}
+{place=130, name='Ben Hanzsek-Brill', school='St Cloud Tech', grade=12, gender='M', time=1562.4}
+{place=131, name='Caden  Collins', school='Sauk Rapids-Rice', grade=9, gender='M', time=1576.3}
+{place=132, name='Alex Sevre', school='Sauk Rapids-Rice', grade=10, gender='M', time=1577.6}
+{place=133, name='Michael King', school='Alexandria', grade=12, gender='M', time=1605.5}
+{place=134, name='Cade Young', school='Brainerd', grade=10, gender='M', time=1621.3}
+{place=135, name='Jeremiah Nord', school='Fergus Falls', grade=12, gender='M', time=1671.4}
+{place=136, name='Reed Boeckermann', school='Brainerd', grade=9, gender='M', time=1785.3}
+{place=137, name='Landon Garay', school='St Cloud Apollo', grade=10, gender='M', time=1785.7}
+{place=138, name='Paul Rothanburg', school='Sauk Rapids-Rice', grade=9, gender='M', time=1959.4}

@@ -1,0 +1,11 @@
+Race : 2064
+{place=1, name='Vars A Highland Park', school='St Paul Highland Park', grade=12, gender='F', time=926.7}
+{place=2, name='Vars A Lakeville', school='Lakeville', grade=12, gender='F', time=933.01}
+{place=3, name='Vars A Irondale', school='Irondale', grade=12, gender='F', time=981.02}
+{place=4, name='Vars A Eastview', school='Eastview', grade=12, gender='F', time=992.78}
+{place=5, name='Vars A Eden Pr', school='Eden Prairie', grade=12, gender='F', time=1025.23}
+{place=6, name='Vars B Highland Park', school='St Paul Highland Park', grade=12, gender='F', time=1042.7}
+{place=7, name='Vars A Armstrong', school='Armstrong', grade=12, gender='F', time=1043.51}
+{place=8, name='Vars A PWER', school='PWER', grade=12, gender='F', time=1063.28}
+{place=9, name='Vars B Irondale', school='Irondale', grade=12, gender='F', time=1094.24}
+{place=10, name='Vars B Eden Pr', school='Eden Prairie', grade=12, gender='F', time=1114.1}

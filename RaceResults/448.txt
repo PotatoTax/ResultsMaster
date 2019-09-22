@@ -1,0 +1,120 @@
+Race : 448
+{place=1, name='Clare Flanagan', school='Blake', grade=9, gender='F', time=882.42}
+{place=2, name='Molly Eastman', school='Holy Family Catholic', grade=9, gender='F', time=893.16}
+{place=3, name='Jordan Chancellor', school='Blake', grade=8, gender='F', time=913.57}
+{place=4, name='Rebecca Wilkin', school='Trinity', grade=8, gender='F', time=928.79}
+{place=5, name='Janessa  Meuleners', school='Belle Plaine', grade=8, gender='F', time=932.1}
+{place=6, name='Michaela Rasmussen', school='Holy Family Catholic', grade=9, gender='F', time=936.72}
+{place=7, name='Carolyn Nye', school='Blake', grade=8, gender='F', time=937.52}
+{place=8, name='Abigail New', school='Holy Family Catholic', grade=12, gender='F', time=941.01}
+{place=9, name='Casey Haffield', school='Minnehaha Academy', grade=10, gender='F', time=942.53}
+{place=10, name='Allie Picard', school='St Anthony Village', grade=11, gender='F', time=946.66}
+{place=11, name='Lotus Schifsky', school='Trinity', grade=8, gender='F', time=952.03}
+{place=12, name='Julia Orlow', school='Holy Family Catholic', grade=9, gender='F', time=972.14}
+{place=13, name='Aly Anton', school='Holy Family Catholic', grade=10, gender='F', time=974.51}
+{place=14, name='Greta Siekmeier', school='Math & Science Academy', grade=8, gender='F', time=975.25}
+{place=15, name='Elise Lohmann', school='Math & Science Academy', grade=8, gender='F', time=975.97}
+{place=16, name='Tori Burr', school='Glencoe-Silver Lake', grade=9, gender='F', time=976.64}
+{place=17, name='Katherine Lubar', school='Minnehaha Academy', grade=10, gender='F', time=984.9}
+{place=18, name='Lucy Leighton', school='Trinity', grade=10, gender='F', time=985.98}
+{place=19, name='Hudson Van Slooten', school='Blake', grade=11, gender='F', time=986.39}
+{place=20, name='Aliya Feroe', school='Blake', grade=10, gender='F', time=988.45}
+{place=21, name='Camille LaBerge', school='St Anthony Village', grade=12, gender='F', time=989.39}
+{place=22, name='Parry Larson', school='Norwood Young America', grade=9, gender='F', time=990.87}
+{place=23, name='Lily Rogers-Grant', school='St Paul Academy', grade=10, gender='F', time=991.29}
+{place=24, name='Emily Schroeder', school='Math & Science Academy', grade=12, gender='F', time=991.9}
+{place=25, name='Manasa Melachuri', school='Math & Science Academy', grade=8, gender='F', time=992.87}
+{place=26, name='Ellen Swenson', school='St Paul Academy', grade=10, gender='F', time=993.62}
+{place=27, name='Michaela Vogel', school='Jordan', grade=10, gender='F', time=998.14}
+{place=28, name='Jada Wensman', school='St Paul Academy', grade=12, gender='F', time=1000.26}
+{place=29, name='Susie Krikava', school='Mounds Park Academy', grade=11, gender='F', time=1004.11}
+{place=30, name='Alison McManus', school='Blake', grade=11, gender='F', time=1005.71}
+{place=31, name='Adria Duncan', school='Breck', grade=9, gender='F', time=1006.69}
+{place=32, name='Alex Sopata', school='Jordan', grade=11, gender='F', time=1007.43}
+{place=33, name='Amber  Matzoll', school='St Anthony Village', grade=8, gender='F', time=1008.51}
+{place=34, name='Elena  Forsline', school='St Anthony Village', grade=7, gender='F', time=1009.34}
+{place=35, name='Emily  Longley', school='Blake', grade=11, gender='F', time=1013.73}
+{place=36, name='Kelly Morrison', school='Belle Plaine', grade=10, gender='F', time=1014.15}
+{place=37, name='Payton Schultz', school='Norwood Young America', grade=11, gender='F', time=1017.38}
+{place=38, name='Melissa  Marsh', school='St Anthony Village', grade=9, gender='F', time=1019.15}
+{place=39, name='Alexa Mogck', school='St Anthony Village', grade=9, gender='F', time=1020.39}
+{place=40, name='Christina Hammerstrom', school='Concordia Acad-Rs', grade=11, gender='F', time=1022.21}
+{place=41, name='Anna Maunu', school='Trinity', grade=11, gender='F', time=1023.07}
+{place=42, name='Siri McCord', school='Minnehaha Academy', grade=12, gender='F', time=1023.81}
+{place=43, name='Kirstin Geerdes', school='CHOF', grade=12, gender='F', time=1024.58}
+{place=44, name='Jackie Lis', school='St Paul Academy', grade=12, gender='F', time=1025.11}
+{place=45, name='Adelae Gerten', school='Minnehaha Academy', grade=9, gender='F', time=1025.75}
+{place=46, name='Lauren LaVelle', school='Holy Family Catholic', grade=11, gender='F', time=1026.32}
+{place=47, name='Nicole Nipper', school='Minnehaha Academy', grade=10, gender='F', time=1029.31}
+{place=48, name='Maria Stephenson', school='Trinity', grade=9, gender='F', time=1029.8}
+{place=49, name='Taylor Kirkham', school='Breck', grade=11, gender='F', time=1031.89}
+{place=50, name='Monika Bueltel', school='St Anthony Village', grade=10, gender='F', time=1032.29}
+{place=51, name='Abby Swanson', school='Minnehaha Academy', grade=12, gender='F', time=1032.65}
+{place=52, name='Jenna Haag', school='Glencoe-Silver Lake', grade=10, gender='F', time=1034.59}
+{place=53, name='Miranda Buesing', school='LP-HT-ML', grade=10, gender='F', time=1034.94}
+{place=54, name='Kristen Bourne', school='Mounds Park Academy', grade=10, gender='F', time=1036.87}
+{place=55, name='Sarah Short', school='Breck', grade=11, gender='F', time=1038.85}
+{place=56, name='McKayla Siemon', school='Belle Plaine', grade=11, gender='F', time=1039.37}
+{place=57, name='Alissa  Schultz', school='Belle Plaine', grade=10, gender='F', time=1039.94}
+{place=58, name='Katie Baumann', school='Math & Science Academy', grade=8, gender='F', time=1041.5}
+{place=59, name='Karissa Plath', school='St Croix Lutheran', grade=9, gender='F', time=1043.2}
+{place=60, name='Kara Plath', school='St Croix Lutheran', grade=9, gender='F', time=1044.52}
+{place=61, name='Katie Hauge', school='Minnehaha Academy', grade=12, gender='F', time=1044.88}
+{place=62, name='Jeni Vasko', school='Glencoe-Silver Lake', grade=12, gender='F', time=1051.89}
+{place=63, name='Melanie  Luikart', school='St Paul Academy', grade=10, gender='F', time=1061.1}
+{place=64, name='Taylor Venier', school='Glencoe-Silver Lake', grade=8, gender='F', time=1061.64}
+{place=65, name='Ahna Neil', school='Trinity', grade=11, gender='F', time=1062.13}
+{place=66, name='Angie Esselman', school='Norwood Young America', grade=12, gender='F', time=1063.29}
+{place=67, name='Ashley Graudin', school='LP-HT-ML', grade=11, gender='F', time=1063.75}
+{place=68, name='Dana Richter', school='Norwood Young America', grade=11, gender='F', time=1066.43}
+{place=69, name='Katie Michalak', school='Trinity', grade=11, gender='F', time=1067.03}
+{place=70, name='Ellie Mockenhaupt', school='Math & Science Academy', grade=10, gender='F', time=1072.29}
+{place=71, name='Cheyene Westin', school='Belle Plaine', grade=11, gender='F', time=1073.36}
+{place=72, name='Holly Johnson', school='LP-HT-ML', grade=10, gender='F', time=1073.98}
+{place=73, name='Claire O'Brien', school='St Paul Academy', grade=10, gender='F', time=1076.57}
+{place=74, name='Cozy Hannula', school='Math & Science Academy', grade=12, gender='F', time=1077.73}
+{place=75, name='Marie Landskroener', school='LP-HT-ML', grade=10, gender='F', time=1081.76}
+{place=76, name='Elizabeth Haefner', school='Belle Plaine', grade=12, gender='F', time=1084.83}
+{place=77, name='Elise Jessup', school='Concordia Acad-Rs', grade=10, gender='F', time=1085.35}
+{place=78, name='Mary Roach', school='Glencoe-Silver Lake', grade=9, gender='F', time=1088.89}
+{place=79, name='Molly Larson', school='Norwood Young America', grade=11, gender='F', time=1090.14}
+{place=80, name='Sally Caruso', school='Breck', grade=12, gender='F', time=1091.01}
+{place=81, name='Caroline Bachmann', school='St Croix Lutheran', grade=12, gender='F', time=1093.48}
+{place=82, name='Casey O'Hern', school='Jordan', grade=7, gender='F', time=1096.55}
+{place=83, name='Rena Ratcliff', school='DeLaSalle', grade=12, gender='F', time=1097.32}
+{place=84, name='Abby Heil', school='Glencoe-Silver Lake', grade=11, gender='F', time=1099.17}
+{place=85, name='Kaylee Venier', school='Glencoe-Silver Lake', grade=9, gender='F', time=1100.07}
+{place=86, name='Alex Gougeon', school='Breck', grade=12, gender='F', time=1102.44}
+{place=87, name='Hailey Brumley', school='New Life Academy', grade=9, gender='F', time=1107.59}
+{place=88, name='Amber Tolly', school='Jordan', grade=12, gender='F', time=1107.99}
+{place=89, name='Dana Norman', school='Norwood Young America', grade=11, gender='F', time=1109.05}
+{place=90, name='Kiley Hallgren', school='Belle Plaine', grade=10, gender='F', time=1110.22}
+{place=91, name='Olivia Lien', school='Concordia Acad-Rs', grade=11, gender='F', time=1111.13}
+{place=92, name='Danica White', school='Concordia Acad-Rs', grade=9, gender='F', time=1116.53}
+{place=93, name='Kerra Sieve', school='Jordan', grade=9, gender='F', time=1123.06}
+{place=94, name='Kate Gunderson', school='Jordan', grade=12, gender='F', time=1136.97}
+{place=95, name='Ana Schaff', school='DeLaSalle', grade=10, gender='F', time=1146.14}
+{place=96, name='Erica Stever', school='Jordan', grade=10, gender='F', time=1146.8}
+{place=97, name='Louise Edwards', school='Mounds Park Academy', grade=11, gender='F', time=1159.3}
+{place=98, name='Charlotte Hughes', school='St Paul Academy', grade=9, gender='F', time=1167.67}
+{place=99, name='Mary Miles', school='Great River School', grade=7, gender='F', time=1169.5}
+{place=100, name='Geraldine Muller', school='LP-HT-ML', grade=12, gender='F', time=1171.06}
+{place=101, name='Katelyn Buesgens', school='Norwood Young America', grade=12, gender='F', time=1181.66}
+{place=102, name='Chaltu Doto', school='St Paul Humboldt', grade=10, gender='F', time=1182.26}
+{place=103, name='Miriam Nordquist', school='Concordia Acad-Rs', grade=9, gender='F', time=1195.08}
+{place=104, name='Halle McDonough', school='Concordia Acad-Rs', grade=10, gender='F', time=1195.52}
+{place=105, name='Chi  Cheng', school='St Croix Lutheran', grade=11, gender='F', time=1200.0}
+{place=106, name='Ally Hommerding', school='DeLaSalle', grade=9, gender='F', time=1200.33}
+{place=107, name='Clara Dockter', school='DeLaSalle', grade=11, gender='F', time=1202.16}
+{place=108, name='Anna Wilson', school='LP-HT-ML', grade=12, gender='F', time=1223.46}
+{place=109, name='Autumn Ryan', school='DeLaSalle', grade=9, gender='F', time=1233.53}
+{place=110, name='Emily Wilczynski', school='DeLaSalle', grade=10, gender='F', time=1234.74}
+{place=111, name='Erin Marshall', school='St Croix Lutheran', grade=12, gender='F', time=1235.07}
+{place=112, name='Ellen Dunn', school='Great River School', grade=8, gender='F', time=1240.38}
+{place=113, name='Kathleen Miles', school='Great River School', grade=8, gender='F', time=1240.72}
+{place=114, name='Darartu Worku', school='St Paul Humboldt', grade=10, gender='F', time=1247.59}
+{place=115, name='Maren Rodriguez', school='St Paul Humboldt', grade=11, gender='F', time=1250.33}
+{place=116, name='Jasmine Riley', school='Breck', grade=12, gender='F', time=1288.35}
+{place=117, name='Melissa Gonsalez', school='St Paul Humboldt', grade=8, gender='F', time=1288.93}
+{place=118, name='Amelia Dunavan', school='Concordia Acad-Rs', grade=10, gender='F', time=1304.64}
+{place=119, name='Catherine Yang', school='St Paul Humboldt', grade=11, gender='F', time=1346.72}

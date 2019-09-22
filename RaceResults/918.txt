@@ -1,0 +1,86 @@
+Race : 918
+{place=1, name='SOPHIE WHICHER', school='Minnetonka', grade=9, gender='F', time=874.12}
+{place=2, name='LUCILLE HOELSCHER', school='Minnetonka', grade=11, gender='F', time=878.19}
+{place=3, name='Amanda Montplaisir', school='Buffalo', grade=0, gender='F', time=879.4}
+{place=4, name='ELIZABETH HALBMAIER', school='Minnetonka', grade=9, gender='F', time=884.86}
+{place=5, name='GRACE HOELSCHER', school='Minnetonka', grade=9, gender='F', time=887.09}
+{place=6, name='Carissa Dock', school='Waconia', grade=11, gender='F', time=889.94}
+{place=7, name='KYLIE MELZ', school='Minnetonka', grade=7, gender='F', time=895.59}
+{place=8, name='Madison McDermott', school='Monticello', grade=8, gender='F', time=906.16}
+{place=9, name='MARLA BAILEY', school='Minnetonka', grade=9, gender='F', time=906.7}
+{place=10, name='Patty Bray', school='Monticello', grade=12, gender='F', time=917.76}
+{place=11, name='Mallory Vacek', school='Waconia', grade=7, gender='F', time=919.18}
+{place=12, name='Allison Hendrickson', school='Becker', grade=9, gender='F', time=929.39}
+{place=13, name='TESS SUTTON', school='Minnetonka', grade=10, gender='F', time=932.34}
+{place=14, name='Anna Fasen', school='Monticello', grade=11, gender='F', time=932.34}
+{place=15, name='Bree Erickson', school='Cambridge-Isanti', grade=11, gender='F', time=936.39}
+{place=16, name='Erica O'Borsky', school='Buffalo', grade=8, gender='F', time=955.45}
+{place=17, name='Alora Rands', school='Waconia', grade=12, gender='F', time=958.45}
+{place=18, name='Lexi Dehmer', school='Becker', grade=7, gender='F', time=960.0}
+{place=19, name='Tara Cady', school='Delano', grade=9, gender='F', time=960.33}
+{place=20, name='Brooke Johnson', school='STMA', grade=9, gender='F', time=963.95}
+{place=21, name='Ellie Zemlin', school='Chisago Lakes', grade=9, gender='F', time=964.37}
+{place=22, name='Samantha Swedzinski', school='Princeton', grade=10, gender='F', time=964.58}
+{place=23, name='Alexa  Yeager', school='Monticello', grade=10, gender='F', time=965.6}
+{place=24, name='Rebekah Olinger', school='Chisago Lakes', grade=9, gender='F', time=966.83}
+{place=25, name='Rachel Olson', school='Big Lake', grade=12, gender='F', time=969.67}
+{place=26, name='Areefa Seepersaud', school='Buffalo', grade=8, gender='F', time=971.7}
+{place=27, name='Madison Denzer', school='Waconia', grade=8, gender='F', time=972.32}
+{place=28, name='Krista Steele', school='Monticello', grade=12, gender='F', time=976.59}
+{place=29, name='Abbey Berg', school='Cambridge-Isanti', grade=8, gender='F', time=979.63}
+{place=30, name='Sydney Mastey', school='Becker', grade=12, gender='F', time=982.51}
+{place=31, name='Laura Kisner', school='Big Lake', grade=12, gender='F', time=982.89}
+{place=32, name='Kathryn Sistruck', school='Chisago Lakes', grade=12, gender='F', time=985.93}
+{place=33, name='Kelsey Nelson', school='Big Lake', grade=12, gender='F', time=986.33}
+{place=34, name='Baylee Iaquinto', school='Monticello', grade=7, gender='F', time=988.76}
+{place=35, name='Natalie Sandstrom', school='Chisago Lakes', grade=12, gender='F', time=989.16}
+{place=36, name='Lily  Johnson', school='Monticello', grade=8, gender='F', time=990.18}
+{place=37, name='Emily Kruschek', school='Princeton', grade=11, gender='F', time=991.45}
+{place=38, name='Shea McCabe', school='Waconia', grade=7, gender='F', time=995.45}
+{place=39, name='Katie Zachman', school='STMA', grade=10, gender='F', time=999.53}
+{place=40, name='Meredith Reynolds', school='Buffalo', grade=9, gender='F', time=1000.95}
+{place=41, name='Madyson Shafer', school='Princeton', grade=8, gender='F', time=1003.81}
+{place=42, name='Makenna Noaiell', school='Becker', grade=7, gender='F', time=1007.95}
+{place=43, name='Naomi Eskola', school='Delano', grade=8, gender='F', time=1015.96}
+{place=44, name='Tate Spinner', school='Becker', grade=8, gender='F', time=1019.2}
+{place=45, name='Linsey Tolkkinen', school='Delano', grade=12, gender='F', time=1019.2}
+{place=46, name='Emily Daniels', school='St Francis', grade=11, gender='F', time=1020.0}
+{place=47, name='Katie Christy', school='Chisago Lakes', grade=12, gender='F', time=1021.0}
+{place=48, name='Benedicte Foget', school='St Francis', grade=11, gender='F', time=1021.44}
+{place=49, name='Annika Dubbs', school='Chisago Lakes', grade=9, gender='F', time=1024.45}
+{place=50, name='Emma Weber', school='Buffalo', grade=9, gender='F', time=1024.96}
+{place=51, name='Abbie Herbst', school='STMA', grade=12, gender='F', time=1026.92}
+{place=52, name='Olivia Schweitzer', school='Chisago Lakes', grade=10, gender='F', time=1027.92}
+{place=53, name='Emma Eastman', school='St Francis', grade=12, gender='F', time=1029.15}
+{place=54, name='Ellie Schwartz', school='Becker', grade=9, gender='F', time=1032.83}
+{place=55, name='Madison Berwald', school='St Francis', grade=12, gender='F', time=1040.94}
+{place=56, name='Ashley Urman', school='Princeton', grade=12, gender='F', time=1041.95}
+{place=57, name='Madison Jung', school='Princeton', grade=9, gender='F', time=1047.7}
+{place=58, name='Rachel Adams', school='Big Lake', grade=10, gender='F', time=1049.64}
+{place=59, name='Shelby Kline', school='Big Lake', grade=12, gender='F', time=1049.64}
+{place=60, name='Clair Rousu', school='Delano', grade=7, gender='F', time=1053.69}
+{place=61, name='Chloe  Nelson', school='Cambridge-Isanti', grade=7, gender='F', time=1053.69}
+{place=62, name='Mary Schmitz', school='STMA', grade=11, gender='F', time=1053.7}
+{place=63, name='Breanna Schultz', school='Princeton', grade=12, gender='F', time=1058.45}
+{place=64, name='Kaydan Geiger', school='STMA', grade=9, gender='F', time=1058.71}
+{place=65, name='Madeline Sladek', school='Delano', grade=11, gender='F', time=1060.95}
+{place=66, name='Jada Rositas', school='Becker', grade=10, gender='F', time=1073.61}
+{place=67, name='Kaitlin Kittock', school='Princeton', grade=12, gender='F', time=1073.7}
+{place=68, name='Lauren Degn', school='Delano', grade=9, gender='F', time=1074.43}
+{place=69, name='Jaymie Hansen', school='STMA', grade=12, gender='F', time=1081.94}
+{place=70, name='Ellie Murphy', school='Big Lake', grade=9, gender='F', time=1084.71}
+{place=71, name='Emily Ruhland', school='STMA', grade=11, gender='F', time=1088.61}
+{place=72, name='Brynna Guimont', school='Cambridge-Isanti', grade=8, gender='F', time=1093.45}
+{place=73, name='Naomi Johnson', school='Delano', grade=7, gender='F', time=1096.7}
+{place=74, name='Kylie Guimont', school='Cambridge-Isanti', grade=11, gender='F', time=1099.4}
+{place=75, name='Sarah Willner', school='St Francis', grade=10, gender='F', time=1110.45}
+{place=76, name='Maddie Ouellette', school='Cambridge-Isanti', grade=12, gender='F', time=1125.34}
+{place=77, name='Becca Knudson', school='Cambridge-Isanti', grade=11, gender='F', time=1126.45}
+{place=78, name='Ellie Cargill', school='Rogers', grade=9, gender='F', time=1216.59}
+{place=79, name='Leah Lyngen', school='Rogers', grade=8, gender='F', time=1216.59}
+{place=80, name='Jenna Karls', school='Rogers', grade=11, gender='F', time=1216.71}
+{place=81, name='Whitney  Meyer', school='Rogers', grade=7, gender='F', time=1217.41}
+{place=82, name='Sarah Janckila', school='Rogers', grade=10, gender='F', time=1217.61}
+{place=83, name='Madison  Hansen', school='Rogers', grade=9, gender='F', time=1217.61}
+{place=84, name='Marissa LeClaire', school='Rogers', grade=9, gender='F', time=1218.62}
+{place=85, name='Hannah Teasdale', school='Rogers', grade=9, gender='F', time=1218.95}

@@ -1,0 +1,66 @@
+Race : 1427
+{place=1, name='Simon Razidlo', school='Waconia', grade=10, gender='M', time=1094.22}
+{place=2, name='Ryan Russek', school='Buffalo', grade=10, gender='M', time=1096.87}
+{place=3, name='Mitchell Rebehl', school='Buffalo', grade=10, gender='M', time=1109.31}
+{place=4, name='Matt Fenton', school='Buffalo', grade=12, gender='M', time=1133.22}
+{place=5, name='Trigg Capistrant-Kinney', school='Waconia', grade=10, gender='M', time=1145.93}
+{place=6, name='Frank Emerick', school='Buffalo', grade=9, gender='M', time=1153.49}
+{place=7, name='Max Kappel', school='Waconia', grade=9, gender='M', time=1157.74}
+{place=8, name='Tanner McDonald', school='Waconia', grade=9, gender='M', time=1162.81}
+{place=9, name='Joshua Thompson', school='Waconia', grade=12, gender='M', time=1174.6}
+{place=10, name='Carson Dock', school='Waconia', grade=10, gender='M', time=1175.62}
+{place=11, name='Alec Andreae', school='Delano', grade=12, gender='M', time=1176.81}
+{place=12, name='Luke Lichtenberg', school='Buffalo', grade=9, gender='M', time=1178.04}
+{place=13, name='Alex Murphy', school='Waconia', grade=9, gender='M', time=1180.49}
+{place=14, name='Eithan Warne', school='Buffalo', grade=10, gender='M', time=1186.97}
+{place=15, name='Natnan  Smith', school='Buffalo', grade=10, gender='M', time=1194.01}
+{place=16, name='Jack Balsiger', school='Delano', grade=9, gender='M', time=1205.2}
+{place=17, name='Otto Klaverkamp', school='St Cloud Tech', grade=9, gender='M', time=1206.47}
+{place=18, name='J. T. Weiman', school='Delano', grade=12, gender='M', time=1210.72}
+{place=19, name='Benjamin Roth', school='Buffalo', grade=9, gender='M', time=1213.01}
+{place=20, name='Daniel Perrault', school='St Cloud Tech', grade=9, gender='M', time=1240.26}
+{place=21, name='Caleb Bonick', school='Waconia', grade=9, gender='M', time=1242.76}
+{place=22, name='Isayas Rodriguez', school='Delano', grade=8, gender='M', time=1244.99}
+{place=23, name='Caden Turner', school='Waconia', grade=11, gender='M', time=1246.22}
+{place=24, name='Austin Carlson', school='Delano', grade=8, gender='M', time=1249.76}
+{place=25, name='Sam Yunker', school='Delano', grade=11, gender='M', time=1269.35}
+{place=26, name='Samson Streachek', school='Delano', grade=10, gender='M', time=1269.51}
+{place=27, name='Reier Sjomeling', school='Delano', grade=10, gender='M', time=1269.54}
+{place=28, name='Jonah Eskola', school='Delano', grade=8, gender='M', time=1269.56}
+{place=29, name='Jacob Bergh', school='Delano', grade=7, gender='M', time=1272.18}
+{place=30, name='Thomas Hoepner', school='Buffalo', grade=9, gender='M', time=1277.68}
+{place=31, name='Tyson Kroells', school='Delano', grade=9, gender='M', time=1281.33}
+{place=32, name='Roman Parpart', school='Waconia', grade=10, gender='M', time=1289.76}
+{place=33, name='Troy Giggings', school='Buffalo', grade=9, gender='M', time=1291.1}
+{place=34, name='Sam Schuler', school='Delano', grade=8, gender='M', time=1291.72}
+{place=35, name='Matt Clark', school='Delano', grade=10, gender='M', time=1304.62}
+{place=36, name='Ben Anderson', school='Waconia', grade=10, gender='M', time=1304.72}
+{place=37, name='Kenny  Bloudek', school='Waconia', grade=11, gender='M', time=1307.51}
+{place=38, name='Noah Zimmerman', school='Buffalo', grade=10, gender='M', time=1308.76}
+{place=39, name='Matt Reardon', school='Delano', grade=9, gender='M', time=1313.97}
+{place=40, name='Benjamin Cravens', school='Waconia', grade=11, gender='M', time=1317.51}
+{place=41, name='Carter Wavrin', school='St Cloud Tech', grade=9, gender='M', time=1318.01}
+{place=42, name='Josh Anderson', school='Buffalo', grade=11, gender='M', time=1320.0}
+{place=43, name='Jonah Forsyth', school='Buffalo', grade=10, gender='M', time=1321.78}
+{place=44, name='Aaron Lao', school='Buffalo', grade=9, gender='M', time=1331.72}
+{place=45, name='Noahh Peterson', school='Waconia', grade=11, gender='M', time=1334.26}
+{place=46, name='Christian Brooks', school='Waconia', grade=11, gender='M', time=1340.85}
+{place=47, name='Caleb  Drews', school='Buffalo', grade=11, gender='M', time=1341.51}
+{place=48, name='Sam Brown', school='Delano', grade=10, gender='M', time=1377.37}
+{place=49, name='Roger Rousu', school='Delano', grade=7, gender='M', time=1385.01}
+{place=50, name='Alan Leukuma', school='Delano', grade=9, gender='M', time=1410.66}
+{place=51, name='Hunter Ulferts', school='Delano', grade=8, gender='M', time=1410.87}
+{place=52, name='Jake Stoudt', school='Delano', grade=7, gender='M', time=1430.03}
+{place=53, name='Connor Lundgren', school='St Cloud Tech', grade=10, gender='M', time=1430.14}
+{place=54, name='Nathan Goenner', school='St Cloud Tech', grade=9, gender='M', time=1433.53}
+{place=55, name='Gavin Wightman', school='Waconia', grade=10, gender='M', time=1456.28}
+{place=56, name='Brock Kjelden', school='Waconia', grade=11, gender='M', time=1475.16}
+{place=57, name='David Perrault', school='St Cloud Tech', grade=12, gender='M', time=1478.53}
+{place=58, name='Zach Peterson', school='Waconia', grade=9, gender='M', time=1486.7}
+{place=59, name='Lucius LaFromboise', school='Delano', grade=10, gender='M', time=1508.86}
+{place=60, name='Kyle Baloun', school='Buffalo', grade=9, gender='M', time=1515.91}
+{place=61, name='Max MacCallum', school='Buffalo', grade=9, gender='M', time=1517.12}
+{place=62, name='Kaiden Warne', school='Buffalo', grade=9, gender='M', time=1528.31}
+{place=63, name='Pearson Anderson', school='Waconia', grade=9, gender='M', time=1597.49}
+{place=64, name='Kylie Yniierto', school='Buffalo', grade=9, gender='M', time=1603.53}
+{place=65, name='Aidan Carver', school='Waconia', grade=11, gender='M', time=1603.54}

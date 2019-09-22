@@ -1,0 +1,245 @@
+Race : 1862
+{place=1, name='OTTO SCHREINER', school='Edina', grade=8, gender='M', time=676.96}
+{place=2, name='Aaron Cavanaugh', school='Lakeville South', grade=9, gender='M', time=698.24}
+{place=3, name='Jonas Anez', school='Willmar', grade=8, gender='M', time=706.4}
+{place=4, name='Kaden Kreienbrink', school='Hopkins', grade=8, gender='M', time=718.03}
+{place=5, name='ETHAN BERNSTEIN', school='Edina', grade=9, gender='M', time=718.27}
+{place=6, name='John Ziemkowski', school='Lakeville South', grade=9, gender='M', time=722.3}
+{place=7, name='Lucas Cvancara', school='Prior Lake', grade=9, gender='M', time=722.3}
+{place=8, name='Kai Bergquist', school='Central Middle School', grade=8, gender='M', time=723.94}
+{place=9, name='Ian Koosman', school='Willmar', grade=8, gender='M', time=724.32}
+{place=10, name='Andrew Cavanaugh', school='Lakeville South', grade=9, gender='M', time=727.81}
+{place=11, name='John Meagher', school='Prior Lake', grade=9, gender='M', time=735.97}
+{place=12, name='Hae Poh Wah', school='Marshall', grade=9, gender='M', time=739.06}
+{place=13, name='Logan Legatt', school='Marshall', grade=8, gender='M', time=739.45}
+{place=14, name='Blake Vander Weide', school='Prior Lake', grade=9, gender='M', time=739.64}
+{place=15, name='Sam Fellner', school='Minnetonka', grade=7, gender='M', time=742.71}
+{place=16, name='Colin O'Farrell', school='Willmar', grade=8, gender='M', time=744.76}
+{place=17, name='Carter Schow', school='Willmar', grade=8, gender='M', time=746.07}
+{place=18, name='Fred Damhof', school='Willmar', grade=8, gender='M', time=748.47}
+{place=19, name='KURT LEBAKKEN', school='Edina', grade=8, gender='M', time=748.81}
+{place=20, name='Jaden Setter', school='Prior Lake', grade=9, gender='M', time=749.82}
+{place=21, name='Christian Batchlor', school='Central Middle School', grade=7, gender='M', time=752.88}
+{place=22, name='Max Johnson', school='Central Middle School', grade=8, gender='M', time=753.7}
+{place=23, name='Adam Cavanaugh', school='Lakeville South', grade=7, gender='M', time=756.78}
+{place=24, name='ETHAN RICHTER', school='Edina', grade=8, gender='M', time=762.69}
+{place=25, name='Henry Nomeland', school='Lakeville South', grade=9, gender='M', time=763.45}
+{place=26, name='Luke Kalb', school='Prior Lake', grade=9, gender='M', time=766.19}
+{place=27, name='Jason Malmgren', school='Willmar', grade=8, gender='M', time=766.39}
+{place=28, name='Braeden Erickson', school='Willmar', grade=7, gender='M', time=766.39}
+{place=29, name='Kory Behm', school='Willmar', grade=8, gender='M', time=766.8}
+{place=30, name='Michael Gross', school='Central Middle School', grade=7, gender='M', time=769.06}
+{place=31, name='Ross Hebel', school='Prior Lake', grade=8, gender='M', time=771.44}
+{place=32, name='Peyton Martinek', school='Coon Rapids', grade=7, gender='M', time=771.73}
+{place=33, name='JAY LEBAKKEN', school='Edina', grade=8, gender='M', time=776.19}
+{place=34, name='JACK ELLIOTT', school='Edina', grade=8, gender='M', time=777.0}
+{place=35, name='Matthew Whittaker', school='Lakeville South', grade=8, gender='M', time=778.0}
+{place=36, name='Dylan Ehlers', school='Central Middle School', grade=8, gender='M', time=779.0}
+{place=37, name='Gavin Hilyar', school='Elk River', grade=8, gender='M', time=780.21}
+{place=38, name='Eli Frenkel', school='Edina', grade=9, gender='M', time=783.17}
+{place=39, name='Suhayb Ali', school='Hopkins', grade=7, gender='M', time=783.67}
+{place=40, name='OWEN SIMONSEN', school='Edina', grade=8, gender='M', time=788.19}
+{place=41, name='Liam Fronek', school='Central Middle School', grade=8, gender='M', time=789.59}
+{place=42, name='Luke Miller', school='Minnetonka', grade=7, gender='M', time=789.8}
+{place=43, name='Joel Landstrom', school='Minnetonka', grade=7, gender='M', time=791.23}
+{place=44, name='Evan Bode', school='Lakeville South', grade=8, gender='M', time=795.28}
+{place=45, name='Zach Johnson', school='Prior Lake', grade=8, gender='M', time=798.07}
+{place=46, name='WILLIAM LIETHEN', school='Edina', grade=8, gender='M', time=799.92}
+{place=47, name='Sergio Fernandez', school='Willmar', grade=8, gender='M', time=802.08}
+{place=48, name='Cameron Lehmann', school='Elk River', grade=8, gender='M', time=802.18}
+{place=49, name='Brett Regnier', school='Marshall', grade=9, gender='M', time=803.78}
+{place=50, name='Tunde Olofinboba', school='Central Middle School', grade=8, gender='M', time=805.32}
+{place=51, name='Joe Drexler', school='Lakeville South', grade=9, gender='M', time=809.07}
+{place=52, name='BENJAMIN SPRIGGS', school='Edina', grade=9, gender='M', time=810.72}
+{place=53, name='Cormac Kelly', school='Edina', grade=9, gender='M', time=811.45}
+{place=54, name='Gabriel Hirshman', school='Hopkins', grade=8, gender='M', time=814.79}
+{place=55, name='Hudson Spears', school='Central Middle School', grade=8, gender='M', time=814.82}
+{place=56, name='Davis Artisensi-Skime', school='Elk River', grade=7, gender='M', time=818.82}
+{place=57, name='Matthew Holje', school='Central Middle School', grade=7, gender='M', time=820.3}
+{place=58, name='Samuel Gausmann', school='Hopkins', grade=8, gender='M', time=822.73}
+{place=59, name='Lucas Pessanha', school='Lakeville South', grade=9, gender='M', time=823.33}
+{place=60, name='TOREN HOWE', school='Edina', grade=7, gender='M', time=823.34}
+{place=61, name='Luca Cuneo', school='Minnetonka', grade=6, gender='M', time=824.32}
+{place=62, name='Drew Geiser', school='Hopkins', grade=8, gender='M', time=824.76}
+{place=63, name='Niklas Svenson', school='Lakeville South', grade=8, gender='M', time=827.61}
+{place=64, name='Ethan Starfield', school='Lakeville South', grade=7, gender='M', time=831.47}
+{place=65, name='NIck Gilles', school='Minnetonka', grade=7, gender='M', time=833.32}
+{place=66, name='OWEN JOHNSON', school='Edina', grade=8, gender='M', time=836.58}
+{place=67, name='Ruben Margolis', school='Minneapolis Southwest', grade=8, gender='M', time=836.8}
+{place=68, name='Dylan Flottomesch', school='Lakeville South', grade=7, gender='M', time=838.02}
+{place=69, name='Mark Lichtenberger', school='Prior Lake', grade=9, gender='M', time=838.58}
+{place=70, name='Owen Dwyer', school='Prior Lake', grade=7, gender='M', time=838.58}
+{place=71, name='Nathan Emerson', school='Lakeville South', grade=8, gender='M', time=839.26}
+{place=72, name='Jackson Mishuk', school='Prior Lake', grade=9, gender='M', time=841.65}
+{place=73, name='Isaac Wilkey', school='Minnetonka', grade=7, gender='M', time=841.7}
+{place=74, name='Bennett Christensen', school='Minnetonka', grade=8, gender='M', time=842.92}
+{place=75, name='ADAM RODEGHIER', school='Edina', grade=7, gender='M', time=843.32}
+{place=76, name='Joshua Thoen', school='Coon Rapids', grade=8, gender='M', time=844.21}
+{place=77, name='Joey Johnston', school='Coon Rapids', grade=8, gender='M', time=844.32}
+{place=78, name='Blake Sundby', school='Prior Lake', grade=8, gender='M', time=845.58}
+{place=79, name='Colin Bos', school='Willmar', grade=8, gender='M', time=847.83}
+{place=80, name='Isaac Eichhorst', school='Willmar', grade=8, gender='M', time=848.45}
+{place=81, name='Henry Muehlhausen', school='Edina', grade=7, gender='M', time=849.66}
+{place=82, name='Hudson Will', school='Marshall', grade=9, gender='M', time=850.08}
+{place=83, name='Quinn Risken', school='Minnetonka', grade=7, gender='M', time=850.7}
+{place=84, name='Andrew Voss', school='Minnetonka', grade=8, gender='M', time=850.91}
+{place=85, name='David Castillion', school='Minnetonka', grade=6, gender='M', time=853.16}
+{place=86, name='Brenden Kath', school='Willmar', grade=7, gender='M', time=853.17}
+{place=87, name='Nick Mohr', school='Willmar', grade=8, gender='M', time=856.58}
+{place=88, name='Mason Molina', school='Lakeville South', grade=8, gender='M', time=857.23}
+{place=89, name='Sam VanSloan', school='Central Middle School', grade=7, gender='M', time=858.25}
+{place=90, name='Devin Strong', school='Lakeville South', grade=7, gender='M', time=860.82}
+{place=91, name='HARRISON LAWLER', school='Edina', grade=7, gender='M', time=861.16}
+{place=92, name='Ethan Best', school='Minnetonka', grade=8, gender='M', time=862.58}
+{place=93, name='Remy Owen', school='Minneapolis Southwest', grade=8, gender='M', time=863.8}
+{place=94, name='Luke Legrand', school='Minneapolis Southwest', grade=8, gender='M', time=864.01}
+{place=95, name='FINLEY WEBB', school='Edina', grade=8, gender='M', time=865.45}
+{place=96, name='Nicholas Wyatt', school='Minneapolis Southwest', grade=8, gender='M', time=865.83}
+{place=97, name='GAGE CURRY', school='Edina', grade=7, gender='M', time=867.28}
+{place=98, name='Patrick McManus', school='Lakeville South', grade=8, gender='M', time=870.73}
+{place=99, name='Sam Caswell', school='Lakeville South', grade=8, gender='M', time=872.04}
+{place=100, name='Breckyn Lovaas', school='Hopkins', grade=8, gender='M', time=872.33}
+{place=101, name='JOSHUA BRONKALA', school='Edina', grade=9, gender='M', time=873.82}
+{place=102, name='Owen Sterner', school='Hopkins', grade=7, gender='M', time=875.17}
+{place=103, name='Kaleb Gibson', school='Willmar', grade=8, gender='M', time=877.01}
+{place=104, name='Zach Leibfried', school='Marshall', grade=7, gender='M', time=878.58}
+{place=105, name='Nolan Bakken', school='Central Middle School', grade=7, gender='M', time=878.64}
+{place=106, name='Erick Lundeen', school='Central Middle School', grade=7, gender='M', time=881.08}
+{place=107, name='Cole Nelson', school='Central Middle School', grade=8, gender='M', time=881.82}
+{place=108, name='Aidan Rosenboom', school='Marshall', grade=8, gender='M', time=882.94}
+{place=109, name='Luke Rubin', school='Edina', grade=9, gender='M', time=882.95}
+{place=110, name='Jonah Kolsrud', school='Prior Lake', grade=8, gender='M', time=883.09}
+{place=111, name='HOKEN OPSAHL', school='Edina', grade=8, gender='M', time=884.18}
+{place=112, name='MITCHELL HOLDERNESS', school='Edina', grade=9, gender='M', time=885.07}
+{place=113, name='Marcus Fritel', school='Elk River', grade=8, gender='M', time=885.79}
+{place=114, name='PETER MANS', school='Edina', grade=8, gender='M', time=886.16}
+{place=115, name='Alex Searcy', school='Prior Lake', grade=8, gender='M', time=886.33}
+{place=116, name='Will Koppen', school='Minnetonka', grade=7, gender='M', time=889.28}
+{place=117, name='Cooper Hemink', school='Minnetonka', grade=6, gender='M', time=889.68}
+{place=118, name='JASPER BLANCHETT', school='Edina', grade=8, gender='M', time=890.7}
+{place=119, name='Aidan Mokalla', school='Minneapolis Southwest', grade=9, gender='M', time=891.47}
+{place=120, name='Patrick Moss', school='Central Middle School', grade=8, gender='M', time=893.96}
+{place=121, name='Henry Scheible', school='Hopkins', grade=8, gender='M', time=895.44}
+{place=122, name='Andre Kristal', school='Hopkins', grade=8, gender='M', time=900.71}
+{place=123, name='Harris Duininck', school='Willmar', grade=8, gender='M', time=901.11}
+{place=124, name='Eidem Nolan', school='Central Middle School', grade=7, gender='M', time=905.46}
+{place=125, name='Benson Kozitka', school='Elk River', grade=8, gender='M', time=906.32}
+{place=126, name='Jack Link', school='Marshall', grade=8, gender='M', time=907.18}
+{place=127, name='Will Tomanek', school='Hopkins', grade=7, gender='M', time=908.2}
+{place=128, name='Easton Freed', school='Minnetonka', grade=9, gender='M', time=909.58}
+{place=129, name='Riley Cofiel', school='Edina', grade=9, gender='M', time=909.83}
+{place=130, name='Nolan Telthoester', school='Lakeville South', grade=9, gender='M', time=910.24}
+{place=131, name='Zach Stennes', school='Minnetonka', grade=6, gender='M', time=911.06}
+{place=132, name='Colton Benedict', school='Minnetonka', grade=6, gender='M', time=911.06}
+{place=133, name='Benjamin Pullen', school='Hopkins', grade=8, gender='M', time=913.29}
+{place=134, name='Jacob Guggisberg', school='Minnetonka', grade=7, gender='M', time=915.08}
+{place=135, name='GAVIN RICHARDS', school='Edina', grade=9, gender='M', time=915.13}
+{place=136, name='Matthew Siegwart', school='Minnetonka', grade=7, gender='M', time=915.74}
+{place=137, name='Aiden Chalmers', school='Minnetonka', grade=8, gender='M', time=916.08}
+{place=138, name='Andy Temple', school='Minneapolis Southwest', grade=9, gender='M', time=917.36}
+{place=139, name='ANDREW DEFOR', school='Edina', grade=7, gender='M', time=917.97}
+{place=140, name='Carter Versaevel', school='Marshall', grade=8, gender='M', time=918.37}
+{place=141, name='Charley Mayes', school='Minnetonka', grade=7, gender='M', time=918.78}
+{place=142, name='Seth Kristal', school='Hopkins', grade=8, gender='M', time=918.98}
+{place=143, name='OWEN SANDERSON', school='Edina', grade=7, gender='M', time=920.41}
+{place=144, name='David Hartman', school='Central Middle School', grade=8, gender='M', time=920.58}
+{place=145, name='CHARLES OLSON', school='Edina', grade=7, gender='M', time=922.33}
+{place=146, name='Ridgley Hulstein', school='Willmar', grade=8, gender='M', time=926.71}
+{place=147, name='Zachary Fier', school='Central Middle School', grade=7, gender='M', time=927.94}
+{place=148, name='OWEN NIELSON', school='Edina', grade=7, gender='M', time=929.46}
+{place=149, name='SOREN EPPLE', school='Edina', grade=7, gender='M', time=930.41}
+{place=150, name='Vincent Becchetti', school='Hopkins', grade=7, gender='M', time=933.58}
+{place=151, name='Jacob Loerzel', school='Willmar', grade=6, gender='M', time=936.94}
+{place=152, name='HAMILTON KEHOE', school='Edina', grade=7, gender='M', time=942.42}
+{place=153, name='Sean Carroll', school='Minnetonka', grade=7, gender='M', time=942.42}
+{place=154, name='DAVID KIM', school='Edina', grade=7, gender='M', time=952.14}
+{place=155, name='Ben Schubbe', school='Minnetonka', grade=7, gender='M', time=953.19}
+{place=156, name='Mateo Suarez', school='Prior Lake', grade=8, gender='M', time=956.08}
+{place=157, name='Will Ross', school='Central Middle School', grade=7, gender='M', time=957.0}
+{place=158, name='Dobbin Chong', school='Eagle Ridge Academy-ISM', grade=6, gender='M', time=960.65}
+{place=159, name='Eric Sellmann', school='Willmar', grade=7, gender='M', time=965.75}
+{place=160, name='ERIC KAMP', school='Edina', grade=7, gender='M', time=967.8}
+{place=161, name='Keegan Rian', school='Minneapolis Southwest', grade=7, gender='M', time=968.22}
+{place=162, name='Garrett Haughawout', school='Prior Lake', grade=9, gender='M', time=968.58}
+{place=163, name='Leo Kampen', school='Prior Lake', grade=9, gender='M', time=970.25}
+{place=164, name='Ryan Draginis', school='Prior Lake', grade=7, gender='M', time=970.45}
+{place=165, name='WESLEY ROSENBERG', school='Edina', grade=9, gender='M', time=972.07}
+{place=166, name='Ronald Mishiev', school='Central Middle School', grade=8, gender='M', time=975.08}
+{place=167, name='Max Ehalt', school='Minneapolis Southwest', grade=7, gender='M', time=976.58}
+{place=168, name='Trevor Olson', school='Hopkins', grade=8, gender='M', time=976.83}
+{place=169, name='Griffin Goetze', school='Central Middle School', grade=8, gender='M', time=978.32}
+{place=170, name='COLE BRAZEL', school='Edina', grade=7, gender='M', time=988.93}
+{place=171, name='Garrett Rotzien', school='Coon Rapids', grade=8, gender='M', time=988.93}
+{place=172, name='Will Reidy', school='Central Middle School', grade=7, gender='M', time=989.07}
+{place=173, name='OWEN SULLIVAN', school='Edina', grade=8, gender='M', time=990.77}
+{place=174, name='Kyle  Barke', school='Lakeville South', grade=8, gender='M', time=992.08}
+{place=175, name='Micah Christopherson ', school='Minneapolis Southwest', grade=8, gender='M', time=995.4}
+{place=176, name='Jack Maring', school='Central Middle School', grade=8, gender='M', time=995.58}
+{place=177, name='David Woolner', school='Edina', grade=9, gender='M', time=996.21}
+{place=178, name='Andrew Fristad', school='Hopkins', grade=7, gender='M', time=998.83}
+{place=179, name='Ian Morrison', school='Central Middle School', grade=7, gender='M', time=1000.26}
+{place=180, name='Max Mobley', school='Willmar', grade=7, gender='M', time=1001.07}
+{place=181, name='NOLAN RANGER', school='Edina', grade=7, gender='M', time=1005.33}
+{place=182, name='MICAH BERGE', school='Edina', grade=8, gender='M', time=1005.33}
+{place=183, name='Calvin Saunders', school='Hopkins', grade=8, gender='M', time=1007.83}
+{place=184, name='Logan Schuchard', school='Hopkins', grade=8, gender='M', time=1010.47}
+{place=185, name='Tony Kitzerow', school='Central Middle School', grade=8, gender='M', time=1013.3}
+{place=186, name='Van Marcus', school='Marshall', grade=7, gender='M', time=1014.12}
+{place=187, name='Ethan Miller', school='Central Middle School', grade=8, gender='M', time=1014.32}
+{place=188, name='Pat DiazMunoz', school='Central Middle School', grade=7, gender='M', time=1014.93}
+{place=189, name='Miles Harris', school='Hopkins', grade=7, gender='M', time=1015.94}
+{place=190, name='Brooks Davis', school='Lakeville South', grade=7, gender='M', time=1017.33}
+{place=191, name='Mikolas Grafenstein-Kinzel', school='Minneapolis Southwest', grade=7, gender='M', time=1017.78}
+{place=192, name='ADAM ERICKSON', school='Edina', grade=7, gender='M', time=1019.33}
+{place=193, name='Brandan Zepeda', school='Willmar', grade=6, gender='M', time=1020.82}
+{place=194, name='Jackson Kohls', school='Central Middle School', grade=7, gender='M', time=1021.04}
+{place=195, name='ETHAN PETRELLA', school='Edina', grade=7, gender='M', time=1021.04}
+{place=196, name='Coleman Madland', school='Central Middle School', grade=8, gender='M', time=1029.58}
+{place=197, name='LEIF MICHAELSON', school='Edina', grade=7, gender='M', time=1039.08}
+{place=198, name='Jonathan Gruhot', school='Marshall', grade=7, gender='M', time=1054.33}
+{place=199, name='ROWAN NORDIN', school='Edina', grade=7, gender='M', time=1055.37}
+{place=200, name='Peter Ciaccio', school='Minnetonka', grade=7, gender='M', time=1061.44}
+{place=201, name='Cooper Keddie', school='Central Middle School', grade=7, gender='M', time=1066.08}
+{place=202, name='Thomas Burke', school='Hopkins', grade=8, gender='M', time=1073.06}
+{place=203, name='Sam Brower', school='Prior Lake', grade=9, gender='M', time=1076.9}
+{place=204, name='Jack Allenburg', school='Minnetonka', grade=7, gender='M', time=1079.08}
+{place=205, name='Eli Pawelek', school='Central Middle School', grade=7, gender='M', time=1083.35}
+{place=206, name='Colin Middlekauff', school='Hopkins', grade=8, gender='M', time=1084.33}
+{place=207, name='Owen Omdahl', school='Hopkins', grade=8, gender='M', time=1088.33}
+{place=208, name='Alexander Beck', school='Coon Rapids', grade=8, gender='M', time=1093.33}
+{place=209, name='James Lund', school='Minnetonka', grade=7, gender='M', time=1094.14}
+{place=210, name='Eli Christiansen', school='Coon Rapids', grade=8, gender='M', time=1094.77}
+{place=211, name='Lucas Henderson', school='Central Middle School', grade=7, gender='M', time=1098.03}
+{place=212, name='Keiran Sullivan', school='Minneapolis Southwest', grade=9, gender='M', time=1100.28}
+{place=213, name='Franklin Wolfe', school='Minneapolis Southwest', grade=9, gender='M', time=1113.58}
+{place=214, name='Alex Lage', school='Elk River', grade=8, gender='M', time=1115.7}
+{place=215, name='GABRIEL GONDEK', school='Edina', grade=7, gender='M', time=1119.86}
+{place=216, name='Sam Olson', school='Prior Lake', grade=9, gender='M', time=1125.66}
+{place=217, name='Xander Hopp', school='Hopkins', grade=7, gender='M', time=1129.32}
+{place=218, name='Ryan Sweeney', school='Central Middle School', grade=7, gender='M', time=1131.58}
+{place=219, name='Henry Larson', school='Central Middle School', grade=7, gender='M', time=1142.01}
+{place=220, name='NATHAN WAGNER', school='Edina', grade=7, gender='M', time=1144.58}
+{place=221, name='Nathan Witty', school='Eagle Ridge Academy-ISM', grade=7, gender='M', time=1147.83}
+{place=222, name='Jack Davis', school='Eagle Ridge Academy-ISM', grade=6, gender='M', time=1148.47}
+{place=223, name='Dain Volz', school='Central Middle School', grade=7, gender='M', time=1150.91}
+{place=224, name='Jason (JT) Amberg', school='Central Middle School', grade=7, gender='M', time=1155.19}
+{place=225, name='John Struyk', school='Hopkins', grade=8, gender='M', time=1165.27}
+{place=226, name='Max Wallace', school='Central Middle School', grade=7, gender='M', time=1165.78}
+{place=227, name='Ben Pankratz', school='Central Middle School', grade=8, gender='M', time=1176.73}
+{place=228, name='Zachary Eisenmann', school='Minnetonka', grade=7, gender='M', time=1176.73}
+{place=229, name='AARON PENCE', school='Edina', grade=7, gender='M', time=1179.79}
+{place=230, name='Riley Franzen', school='Prior Lake', grade=7, gender='M', time=1210.08}
+{place=231, name='Colten Behn', school='Hopkins', grade=8, gender='M', time=1214.17}
+{place=232, name='JACKSON MOON', school='Edina', grade=7, gender='M', time=1232.3}
+{place=233, name='Colin Burggraff', school='Hopkins', grade=7, gender='M', time=1259.78}
+{place=234, name='Erik Nowak', school='Central Middle School', grade=7, gender='M', time=1302.83}
+{place=235, name='CAMPBELL WILLMUTH', school='Edina', grade=7, gender='M', time=1305.33}
+{place=236, name='NICHOLAS NIELSON', school='Edina', grade=7, gender='M', time=1317.59}
+{place=237, name='TIMMY RUPPERT', school='Edina', grade=7, gender='M', time=1349.85}
+{place=238, name='Bode Springer', school='Central Middle School', grade=8, gender='M', time=1358.01}
+{place=239, name='Andrew Segal', school='Hopkins', grade=7, gender='M', time=1375.59}
+{place=240, name='Braiden Schaver', school='Prior Lake', grade=7, gender='M', time=1377.08}
+{place=241, name='Ben Jorgenson', school='Coon Rapids', grade=8, gender='M', time=1391.33}
+{place=242, name='MILES VANNORMAN', school='Edina', grade=7, gender='M', time=1420.09}
+{place=243, name='Kai Gaida', school='Eagle Ridge Academy-ISM', grade=7, gender='M', time=1433.46}
+{place=244, name='Jake Rodby', school='Hopkins', grade=7, gender='M', time=1621.81}

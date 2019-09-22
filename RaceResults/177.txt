@@ -1,0 +1,69 @@
+Race : 177
+{place=1, name='Sarah Daniels', school='Burnsville', grade=11, gender='F', time=869.2}
+{place=2, name='Danielle Berndt', school='Kennedy', grade=12, gender='F', time=885.0}
+{place=3, name='Maria Tinebra', school='Burnsville', grade=11, gender='F', time=918.2}
+{place=4, name='Lauren Rantala', school='Eden Prairie', grade=12, gender='F', time=919.0}
+{place=5, name='Olivia Bagnall', school='Lakeville South', grade=11, gender='F', time=923.1}
+{place=6, name='Sharmilla Ahmed', school='Burnsville', grade=9, gender='F', time=947.3}
+{place=7, name='Erica Hett', school='Burnsville', grade=11, gender='F', time=952.0}
+{place=8, name='Cassie Johnson', school='Burnsville', grade=11, gender='F', time=960.0}
+{place=9, name='Kari Mlynar', school='Eden Prairie', grade=12, gender='F', time=964.2}
+{place=10, name='Faith Brisbois', school='Eden Prairie', grade=11, gender='F', time=969.5}
+{place=11, name='Grace Chandler', school='Prior Lake', grade=9, gender='F', time=970.7}
+{place=12, name='Jenna Bjorkman', school='Eden Prairie', grade=12, gender='F', time=991.3}
+{place=13, name='Katie Stiles', school='Lakeville South', grade=10, gender='F', time=997.7}
+{place=14, name='Shannon Evans', school='Eden Prairie', grade=10, gender='F', time=1007.5}
+{place=15, name='Sameena Ahmed', school='Burnsville', grade=12, gender='F', time=1008.8}
+{place=16, name='Alyssa Sybilrud', school='Burnsville', grade=12, gender='F', time=1009.1}
+{place=17, name='Cassie Opitz', school='Eden Prairie', grade=12, gender='F', time=1010.6}
+{place=18, name='Jordyn Ross', school='Lakeville South', grade=10, gender='F', time=1011.4}
+{place=19, name='Erica Borden', school='Eden Prairie', grade=12, gender='F', time=1012.3}
+{place=20, name='Anna Williams', school='ISD 196', grade=11, gender='F', time=1042.2}
+{place=21, name='Alex Zayed', school='Jefferson', grade=11, gender='F', time=1043.3}
+{place=22, name='Shannon McEvoy', school='Jefferson', grade=11, gender='F', time=1048.7}
+{place=23, name='Taylor Bates', school='Eden Prairie', grade=11, gender='F', time=1059.3}
+{place=24, name='Kryslyn Kalkbrenner', school='Eden Prairie', grade=12, gender='F', time=1063.5}
+{place=25, name='Albany Zweber-Langer', school='Lakeville South', grade=10, gender='F', time=1067.6}
+{place=26, name='Jennifer Anderson', school='ISD 196', grade=12, gender='F', time=1073.9}
+{place=27, name='Lynn Perszyk', school='Eden Prairie', grade=10, gender='F', time=1080.5}
+{place=28, name='Hanne Guthrie', school='Chaska', grade=11, gender='F', time=1085.9}
+{place=29, name='Elise Gale', school='Jefferson', grade=11, gender='F', time=1088.4}
+{place=30, name='Kaiti Porter', school='Prior Lake', grade=9, gender='F', time=1095.5}
+{place=31, name='Katie  Roemer', school='Prior Lake', grade=10, gender='F', time=1099.0}
+{place=32, name='Niki Porter', school='Prior Lake', grade=10, gender='F', time=1130.1}
+{place=33, name='Alyssa Landin', school='ISD 196', grade=10, gender='F', time=1144.9}
+{place=34, name='Hilary Bull', school='Kennedy', grade=11, gender='F', time=1150.5}
+{place=35, name='Emma Wright', school='ISD 196', grade=11, gender='F', time=1155.8}
+{place=36, name='Haley Sorensen', school='Prior Lake', grade=8, gender='F', time=1156.5}
+{place=37, name='MacKenzie Burkstrand', school='ISD 196', grade=9, gender='F', time=1157.2}
+{place=38, name='Sam  Mansfeldt', school='Prior Lake', grade=11, gender='F', time=1160.1}
+{place=39, name='Jennie Sirota', school='Chaska', grade=11, gender='F', time=1168.0}
+{place=40, name='Rachel Barnes', school='Lakeville South', grade=9, gender='F', time=1172.8}
+{place=41, name='Maggie Mitchell', school='ISD 196', grade=11, gender='F', time=1173.8}
+{place=42, name='Mallory Maiers', school='Lakeville South', grade=12, gender='F', time=1175.0}
+{place=43, name='Amanda Tveite', school='Jefferson', grade=11, gender='F', time=1177.1}
+{place=44, name='Annie Kleaver', school='Prior Lake', grade=10, gender='F', time=1180.9}
+{place=45, name='Hannah Anderson', school='Jefferson', grade=11, gender='F', time=1181.8}
+{place=46, name='Lauren  Larson', school='Prior Lake', grade=10, gender='F', time=1183.8}
+{place=47, name='Jenna Saunders', school='Lakeville', grade=9, gender='F', time=1189.6}
+{place=48, name='Taylor Vonasek', school='Lakeville South', grade=9, gender='F', time=1197.2}
+{place=49, name='Halle Weisman', school='Chaska', grade=11, gender='F', time=1204.4}
+{place=50, name='Stephanie Swam', school='Prior Lake', grade=10, gender='F', time=1212.7}
+{place=51, name='Maurita Denley', school='Lakeville South', grade=9, gender='F', time=1213.6}
+{place=52, name='Mary Schweich', school='ISD 196', grade=11, gender='F', time=1216.0}
+{place=53, name='Lauren Carlson', school='Chaska', grade=11, gender='F', time=1237.6}
+{place=54, name='Becca Nichols', school='Lakeville South', grade=11, gender='F', time=1250.7}
+{place=55, name='Jordan Cahill', school='Lakeville', grade=11, gender='F', time=1251.6}
+{place=56, name='Cassie Bodette', school='Lakeville', grade=11, gender='F', time=1263.5}
+{place=57, name='Megan Peer', school='Prior Lake', grade=9, gender='F', time=1313.6}
+{place=58, name='Jane Kirby', school='Lakeville South', grade=9, gender='F', time=1318.9}
+{place=59, name='Emma Johnson', school='Lakeville', grade=8, gender='F', time=1320.3}
+{place=60, name='Anika Clark', school='Lakeville', grade=10, gender='F', time=1323.7}
+{place=61, name='Claire Bulat', school='Chaska', grade=11, gender='F', time=1329.2}
+{place=62, name='Kristina Hernandez', school='Chaska', grade=11, gender='F', time=1337.4}
+{place=63, name='Nicole Franz', school='Chaska', grade=11, gender='F', time=1340.1}
+{place=64, name='Zoe Kesselring', school='ISD 196', grade=11, gender='F', time=1345.3}
+{place=65, name='Jessica Sorensen', school='Chaska', grade=11, gender='F', time=1375.0}
+{place=66, name='Lauren Schweich', school='ISD 196', grade=11, gender='F', time=1401.1}
+{place=67, name='Caity Andersh', school='Lakeville', grade=9, gender='F', time=1415.5}
+{place=68, name='Nicole Roach', school='Lakeville', grade=8, gender='F', time=1472.8}

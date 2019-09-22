@@ -1,0 +1,273 @@
+Race : 1781
+{place=1, name='Heidi Engman', school='Edina', grade=10, gender='F', time=1250.14}
+{place=2, name='Isabel Fredrickson', school='Bloomington Jefferson', grade=12, gender='F', time=1307.42}
+{place=3, name='Emily Berger', school='Belle Plaine', grade=10, gender='F', time=1323.23}
+{place=4, name='Grace Kassebaum', school='Minnehaha Academy', grade=7, gender='F', time=1327.91}
+{place=5, name='HEATHER WILABY', school='Rochester Century', grade=10, gender='F', time=1333.75}
+{place=6, name='Megan Sieve', school='Edina', grade=9, gender='F', time=1334.81}
+{place=7, name='Savanna DeYoung', school='Belle Plaine', grade=9, gender='F', time=1334.988}
+{place=8, name='Alaina Herrmann', school='Belle Plaine', grade=8, gender='F', time=1334.99}
+{place=9, name='Grace Cocchiarella', school='Owatonna', grade=11, gender='F', time=1341.76}
+{place=10, name='Jeni Burtis', school='Owatonna', grade=8, gender='F', time=1342.5}
+{place=11, name='Chloe Schmidt', school='Owatonna', grade=10, gender='F', time=1346.57}
+{place=12, name='Ella Graff', school='Bloomington Jefferson', grade=9, gender='F', time=1347.78}
+{place=13, name='Andrea Zantek', school='Edina', grade=11, gender='F', time=1348.61}
+{place=14, name='EMILY WAGNER', school='Edina', grade=11, gender='F', time=1350.82}
+{place=15, name='Laura Stephenson', school='Owatonna', grade=8, gender='F', time=1351.57}
+{place=16, name='HALLE DWINNELL', school='Eastview', grade=11, gender='F', time=1358.54}
+{place=17, name='Greta Steinhagen', school='Belle Plaine', grade=9, gender='F', time=1362.38}
+{place=18, name='Halle Whitman', school='Minnehaha Academy', grade=7, gender='F', time=1366.24}
+{place=19, name='KYLIE LUND', school='Rochester Century', grade=11, gender='F', time=1367.82}
+{place=20, name='Rita Moran', school='Shakopee', grade=7, gender='F', time=1369.28}
+{place=21, name='SOFIA CARLSON', school='Edina', grade=10, gender='F', time=1373.77}
+{place=22, name='LAUREN DOLAN', school='Eastview', grade=11, gender='F', time=1375.82}
+{place=23, name='GRACIE SHANNON', school='Rochester Century', grade=9, gender='F', time=1377.42}
+{place=24, name='Bailey Bahr', school='Belle Plaine', grade=8, gender='F', time=1379.57}
+{place=25, name='Alyssa  Wolfe', school='Belle Plaine', grade=9, gender='F', time=1379.67}
+{place=26, name='Katherine Nelson', school='St Louis Park', grade=7, gender='F', time=1379.82}
+{place=27, name='KYLIE WEES', school='Rochester Century', grade=10, gender='F', time=1380.49}
+{place=28, name='ELLIE FLODSTROM', school='Rochester Century', grade=8, gender='F', time=1380.57}
+{place=29, name='JULIA NOWAK', school='Edina', grade=9, gender='F', time=1384.95}
+{place=30, name='SARAH LIFFRIG', school='Eastview', grade=12, gender='F', time=1386.32}
+{place=31, name='JANE SCHAUERMAN', school='Edina', grade=9, gender='F', time=1391.78}
+{place=32, name='Hannah St. Martin', school='Owatonna', grade=8, gender='F', time=1392.51}
+{place=33, name='MARGARET HEALY', school='Edina', grade=9, gender='F', time=1392.92}
+{place=34, name='Kylee Kassbaum', school='Minnehaha Academy', grade=10, gender='F', time=1395.76}
+{place=35, name='Charlotte Opp', school='Blake', grade=7, gender='F', time=1397.6}
+{place=36, name='Rose Goldenberg', school='Blake', grade=7, gender='F', time=1398.82}
+{place=37, name='Jules Noteboom', school='Blake', grade=7, gender='F', time=1400.57}
+{place=38, name='Annabelle Wellnitz', school='Owatonna', grade=11, gender='F', time=1402.66}
+{place=39, name='Julia Nowak', school='St Louis Park', grade=7, gender='F', time=1403.47}
+{place=40, name='Anna Gaul', school='Bloomington Jefferson', grade=9, gender='F', time=1405.3}
+{place=41, name='Abigal Demars-Welte', school='Eastview', grade=10, gender='F', time=1407.76}
+{place=42, name='ANNA KLIMAS', school='Rochester Century', grade=12, gender='F', time=1413.67}
+{place=43, name='EMMA HUDSON', school='Edina', grade=9, gender='F', time=1414.27}
+{place=44, name='Lainy Boedecker', school='Owatonna', grade=11, gender='F', time=1415.89}
+{place=45, name='Darby O'Neil', school='Eastview', grade=10, gender='F', time=1419.82}
+{place=46, name='Dani Burtis', school='Owatonna', grade=11, gender='F', time=1420.33}
+{place=47, name='Molly Bjerke', school='Eastview', grade=11, gender='F', time=1422.58}
+{place=48, name='Sadie Stoffers', school='Shakopee', grade=8, gender='F', time=1425.9}
+{place=49, name='ABBEY FLODSTROM', school='Rochester Century', grade=8, gender='F', time=1427.441}
+{place=50, name='Abigail Hall', school='Bloomington Jefferson', grade=10, gender='F', time=1428.46}
+{place=51, name='Liv Larson', school='Owatonna', grade=10, gender='F', time=1431.5}
+{place=52, name='Erin West', school='Belle Plaine', grade=9, gender='F', time=1437.58}
+{place=53, name='Avary Lessard', school='Minnehaha Academy', grade=7, gender='F', time=1441.51}
+{place=54, name='Sydney  Weiland', school='Belle Plaine', grade=8, gender='F', time=1443.68}
+{place=55, name='Sarah Savage', school='Shakopee', grade=7, gender='F', time=1443.79}
+{place=56, name='Kaitlin Bruessel', school='Owatonna', grade=7, gender='F', time=1448.81}
+{place=57, name='Olivia Grabianowski', school='Shakopee', grade=8, gender='F', time=1449.77}
+{place=58, name='Gabrielle Rylance', school='Shakopee', grade=8, gender='F', time=1450.78}
+{place=59, name='SUZANNE WANDREI', school='Edina', grade=10, gender='F', time=1452.58}
+{place=60, name='Alexis Yi', school='Edina', grade=9, gender='F', time=1453.81}
+{place=61, name='EMMA ROSIN', school='Rochester Century', grade=12, gender='F', time=1453.81}
+{place=62, name='Ellery Mahlum', school='Edina', grade=12, gender='F', time=1455.83}
+{place=63, name='Madison McKenzie', school='Owatonna', grade=11, gender='F', time=1457.86}
+{place=64, name='Randi Fiskewold', school='Belle Plaine', grade=11, gender='F', time=1458.46}
+{place=65, name='Nicole Mattson', school='Richfield', grade=12, gender='F', time=1458.828}
+{place=66, name='Jessica Brueggemeier', school='Belle Plaine', grade=11, gender='F', time=1459.28}
+{place=67, name='Madison McKinney', school='Shakopee', grade=7, gender='F', time=1460.69}
+{place=68, name='Taylor  Szymanski', school='Owatonna', grade=12, gender='F', time=1460.83}
+{place=69, name='Lucy Zumbrunnen', school='St Louis Park', grade=9, gender='F', time=1463.83}
+{place=70, name='Grace Solberg', school='Heritage Christian', grade=9, gender='F', time=1469.23}
+{place=71, name='HANNAH MYERS', school='Edina', grade=9, gender='F', time=1470.67}
+{place=72, name='SAMANTHA SOROOS', school='Rochester Century', grade=11, gender='F', time=1472.49}
+{place=73, name='MARA MCGRAIN', school='Edina', grade=9, gender='F', time=1473.82}
+{place=74, name='RUTH LUNDBERG', school='Edina', grade=9, gender='F', time=1475.79}
+{place=75, name='Rebecca  Brueggemeier', school='Belle Plaine', grade=9, gender='F', time=1476.14}
+{place=76, name='Faith Miner', school='Belle Plaine', grade=9, gender='F', time=1476.58}
+{place=77, name='Danielle Wagner', school='Shakopee', grade=8, gender='F', time=1478.33}
+{place=78, name='Mathea Bruns', school='St Louis Park', grade=8, gender='F', time=1480.33}
+{place=79, name='Fredonia Zeigle', school='St Louis Park', grade=8, gender='F', time=1481.82}
+{place=80, name='Zinash Valen', school='Owatonna', grade=9, gender='F', time=1483.87}
+{place=81, name='MELISSA MAGRUDER', school='Rochester Century', grade=8, gender='F', time=1484.328}
+{place=82, name='Sofia Berens', school='Shakopee', grade=9, gender='F', time=1485.27}
+{place=83, name='Betsy Wunderlich', school='Owatonna', grade=8, gender='F', time=1485.46}
+{place=84, name='Hanna Brekke', school='Owatonna', grade=12, gender='F', time=1485.67}
+{place=85, name='ELLIE JOHNSON', school='Eastview', grade=11, gender='F', time=1489.53}
+{place=86, name='Laura Ebeling', school='Owatonna', grade=12, gender='F', time=1489.83}
+{place=87, name='JULIA FABBRO', school='Edina', grade=12, gender='F', time=1492.58}
+{place=88, name='Emma Kim', school='Edina', grade=10, gender='F', time=1492.96}
+{place=89, name='CELIA NAPTON', school='Rochester Century', grade=11, gender='F', time=1493.82}
+{place=90, name='JORDAN HUNTER', school='Rochester Century', grade=8, gender='F', time=1495.648}
+{place=91, name='Karissa Lageson', school='Eastview', grade=10, gender='F', time=1498.82}
+{place=92, name='Katrina Wrase', school='Bloomington Kennedy', grade=7, gender='F', time=1499.51}
+{place=93, name='Anna  Alswager', school='Eastview', grade=11, gender='F', time=1504.33}
+{place=94, name='Auden Whitlow', school='St Louis Park', grade=7, gender='F', time=1504.55}
+{place=95, name='Regan Cronk', school='Eastview', grade=10, gender='F', time=1504.55}
+{place=96, name='Mikayla Dinse', school='Owatonna', grade=10, gender='F', time=1505.79}
+{place=97, name='Cecie Bourbour', school='Edina', grade=11, gender='F', time=1506.41}
+{place=98, name='Isabella Evans', school='Edina', grade=12, gender='F', time=1508.84}
+{place=99, name='ANNA GUENTHER', school='Rochester Century', grade=12, gender='F', time=1509.24}
+{place=100, name='LILY HARVEY', school='Rochester Century', grade=9, gender='F', time=1510.26}
+{place=101, name='Divya Danthuluri', school='Edina', grade=9, gender='F', time=1510.26}
+{place=102, name='Anna Frigstad', school='Eastview', grade=9, gender='F', time=1510.46}
+{place=103, name='Emma Heyer', school='Shakopee', grade=7, gender='F', time=1510.83}
+{place=104, name='Angela Zaccaria', school='Owatonna', grade=8, gender='F', time=1518.43}
+{place=105, name='Grace Zdechlik', school='Edina', grade=12, gender='F', time=1519.83}
+{place=106, name='Zoe Younger', school='St Louis Park', grade=10, gender='F', time=1528.79}
+{place=107, name='ANNE CEPEK', school='Edina', grade=9, gender='F', time=1529.81}
+{place=108, name='Mirah Eichten', school='Owatonna', grade=8, gender='F', time=1530.21}
+{place=109, name='Becca Sattler', school='Owatonna', grade=12, gender='F', time=1530.4}
+{place=110, name='Ava Noack', school='Richfield', grade=10, gender='F', time=1531.422}
+{place=111, name='Amelia VandeZande', school='Owatonna', grade=10, gender='F', time=1533.24}
+{place=112, name='Sarah Collier', school='Edina', grade=12, gender='F', time=1533.44}
+{place=113, name='Katie Holden', school='St Louis Park', grade=8, gender='F', time=1534.26}
+{place=114, name='Dayna Krause', school='St Louis Park', grade=10, gender='F', time=1535.91}
+{place=115, name='Monica Calkins', school='Cretin Derham-Hall', grade=10, gender='F', time=1536.83}
+{place=116, name='GRECIA TORIZ-LUGARDO', school='Edina', grade=11, gender='F', time=1536.91}
+{place=117, name='Mandy Hukee', school='Shakopee', grade=8, gender='F', time=1538.33}
+{place=118, name='Helen Propson', school='Edina', grade=10, gender='F', time=1539.95}
+{place=119, name='Hannah  Witt', school='Belle Plaine', grade=11, gender='F', time=1540.34}
+{place=120, name='Grace Thompson', school='Owatonna', grade=12, gender='F', time=1540.77}
+{place=121, name='Katherine Mendel', school='Edina', grade=12, gender='F', time=1543.58}
+{place=122, name='PAIGE HAMMILL', school='Eastview', grade=12, gender='F', time=1544.84}
+{place=123, name='Abby Titus', school='Bloomington Jefferson', grade=8, gender='F', time=1547.8}
+{place=124, name='Susan Walker', school='Owatonna', grade=8, gender='F', time=1548.31}
+{place=125, name='Annika Andrix', school='Owatonna', grade=9, gender='F', time=1548.31}
+{place=126, name='Bella Thurston', school='Bloomington Jefferson', grade=7, gender='F', time=1551.55}
+{place=127, name='KENDRA OLSON', school='Eastview', grade=11, gender='F', time=1559.46}
+{place=128, name='JENA MANDERSCHEID', school='Edina', grade=9, gender='F', time=1562.86}
+{place=129, name='Caitlyn DeGeir', school='Shakopee', grade=7, gender='F', time=1563.93}
+{place=130, name='Chloe Raines', school='Shakopee', grade=8, gender='F', time=1564.34}
+{place=131, name='Maia Latvala', school='Burnsville', grade=10, gender='F', time=1564.56}
+{place=132, name='MYA BENIKE', school='Rochester Century', grade=8, gender='F', time=1564.949}
+{place=133, name='Elizabeth Ebner', school='Edina', grade=11, gender='F', time=1565.16}
+{place=134, name='MADELINE TORBENSON', school='Rochester Century', grade=10, gender='F', time=1565.98}
+{place=135, name='ALEXIS FERRIS', school='Edina', grade=9, gender='F', time=1566.8}
+{place=136, name='Leah Weier', school='Shakopee', grade=11, gender='F', time=1568.59}
+{place=137, name='LAUREN HOVELSRUD', school='Edina', grade=9, gender='F', time=1568.6}
+{place=138, name='Kayla Brinkman', school='Shakopee', grade=7, gender='F', time=1569.3}
+{place=139, name='ARYA JACOBSON', school='Rochester Century', grade=7, gender='F', time=1569.578}
+{place=140, name='Lwizar Odhiambo', school='Shakopee', grade=12, gender='F', time=1569.64}
+{place=141, name='Frances Hoffman', school='Edina', grade=11, gender='F', time=1569.84}
+{place=142, name='Hannah Pflipson', school='Shakopee', grade=10, gender='F', time=1570.45}
+{place=143, name='Isabelle Hoversten', school='Shakopee', grade=10, gender='F', time=1570.58}
+{place=144, name='KATELYN FITZGERALD', school='Rochester Century', grade=12, gender='F', time=1570.85}
+{place=145, name='KENDRA NELSON', school='Rochester Century', grade=11, gender='F', time=1574.93}
+{place=146, name='ELIZABETH ERICKSON', school='Rochester Century', grade=10, gender='F', time=1575.33}
+{place=147, name='Ellie DeCrans', school='Academy of Holy Angels', grade=8, gender='F', time=1576.14}
+{place=148, name='EMILEE MOSMAN', school='Rochester Century', grade=9, gender='F', time=1579.2}
+{place=149, name='Kailey Noll', school='Belle Plaine', grade=11, gender='F', time=1583.66}
+{place=150, name='Lexie Knutson', school='Shakopee', grade=9, gender='F', time=1588.57}
+{place=151, name='Jessica Yevu', school='Shakopee', grade=9, gender='F', time=1588.97}
+{place=152, name='Kate Koller', school='Shakopee', grade=7, gender='F', time=1589.33}
+{place=153, name='Venessa Agyapong', school='Shakopee', grade=8, gender='F', time=1594.28}
+{place=154, name='Alina Oelberg', school='Shakopee', grade=8, gender='F', time=1594.82}
+{place=155, name='Maggie Yuhas', school='Edina', grade=10, gender='F', time=1595.49}
+{place=156, name='Anna Hanson', school='Totino Grace', grade=10, gender='F', time=1597.31}
+{place=157, name='McKenna Davis', school='Shakopee', grade=8, gender='F', time=1598.94}
+{place=158, name='Molly Stewart', school='Shakopee', grade=10, gender='F', time=1600.58}
+{place=159, name='Kayla Poncius', school='Edina', grade=11, gender='F', time=1600.78}
+{place=160, name='Macy Bell', school='Heritage Christian', grade=7, gender='F', time=1601.18}
+{place=161, name='CAROLINE MACHART', school='Edina', grade=11, gender='F', time=1601.58}
+{place=162, name='Elisabeth Bademan', school='Edina', grade=11, gender='F', time=1601.86}
+{place=163, name='AVERY SCHMIDT', school='Eastview', grade=12, gender='F', time=1605.66}
+{place=164, name='Maddie Silton', school='Breck', grade=12, gender='F', time=1606.83}
+{place=165, name='Mia Cahalan', school='St Louis Park', grade=10, gender='F', time=1609.52}
+{place=166, name='Chloe Benadum', school='Eastview', grade=9, gender='F', time=1609.87}
+{place=167, name='Annis Carins', school='Minnehaha Academy', grade=8, gender='F', time=1610.85}
+{place=168, name='MARA BOWDEN', school='Edina', grade=10, gender='F', time=1611.55}
+{place=169, name='Olivia Etz', school='St Louis Park', grade=9, gender='F', time=1616.33}
+{place=170, name='LAUREN HEYDT', school='Rochester Century', grade=12, gender='F', time=1618.33}
+{place=171, name='Chloe Witherington', school='Shakopee', grade=7, gender='F', time=1620.83}
+{place=172, name='ANNA HEDLUND', school='Rochester Century', grade=10, gender='F', time=1626.58}
+{place=173, name='Ana Setter', school='Totino Grace', grade=10, gender='F', time=1628.62}
+{place=174, name='Cassidy Matter', school='Totino Grace', grade=12, gender='F', time=1629.58}
+{place=175, name='Greta Nelson', school='Burnsville', grade=10, gender='F', time=1631.83}
+{place=176, name='Camryn Bartz', school='Owatonna', grade=10, gender='F', time=1632.7}
+{place=177, name='Shalu Arun', school='Shakopee', grade=7, gender='F', time=1633.58}
+{place=178, name='KATRINA MARQUARDT', school='Rochester Century', grade=10, gender='F', time=1633.72}
+{place=179, name='Tayah Hoffman', school='Owatonna', grade=11, gender='F', time=1635.34}
+{place=180, name='JAIDEN NIICHEL', school='Rochester Century', grade=10, gender='F', time=1635.83}
+{place=181, name='Anna Tinklenberg', school='Bloomington Kennedy', grade=9, gender='F', time=1637.56}
+{place=182, name='Samyuktha Ravikumar', school='Shakopee', grade=10, gender='F', time=1640.83}
+{place=183, name='Ellen Hiestand', school='Totino Grace', grade=12, gender='f', time=1646.33}
+{place=184, name='Abby Karr', school='Shakopee', grade=8, gender='F', time=1649.16}
+{place=185, name='Talia Fladager', school='Owatonna', grade=12, gender='F', time=1649.96}
+{place=186, name='SOPHIE HEROLD', school='Eastview', grade=11, gender='F', time=1653.14}
+{place=187, name='Precious Takata', school='Minnehaha Academy', grade=7, gender='F', time=1656.25}
+{place=188, name='Thea Iverson', school='Belle Plaine', grade=12, gender='F', time=1656.61}
+{place=189, name='Emily Ruschy', school='Edina', grade=12, gender='F', time=1659.74}
+{place=190, name='Courtney Parker', school='Shakopee', grade=8, gender='F', time=1660.55}
+{place=191, name='Nina  Froats', school='Shakopee', grade=9, gender='F', time=1661.96}
+{place=192, name='Holly Brinkman', school='Edina', grade=12, gender='F', time=1661.96}
+{place=193, name='Becca Torgerson', school='Heritage Christian', grade=9, gender='F', time=1662.56}
+{place=194, name='MARGARET KOEPPL', school='Edina', grade=12, gender='F', time=1665.59}
+{place=195, name='Libby Ramsperger', school='St Louis Park', grade=11, gender='F', time=1667.24}
+{place=196, name='Riley Perterson', school='Shakopee', grade=8, gender='F', time=1667.24}
+{place=197, name='Meridith Grob', school='Bloomington Jefferson', grade=12, gender='F', time=1670.84}
+{place=198, name='ANN MASON', school='Eastview', grade=11, gender='F', time=1674.34}
+{place=199, name='Emma Amon', school='St Louis Park', grade=9, gender='F', time=1675.34}
+{place=200, name='GRACE BURGESS', school='Rochester Century', grade=7, gender='F', time=1677.773}
+{place=201, name='JIMENA MARIA CALVET MOLINA', school='Rochester Century', grade=12, gender='F', time=1678.58}
+{place=202, name='Katie Struzyk', school='Burnsville', grade=10, gender='F', time=1679.82}
+{place=203, name='Hannah Pope', school='Minnehaha Academy', grade=12, gender='F', time=1684.48}
+{place=204, name='Emma Peterson', school='St Louis Park', grade=11, gender='F', time=1687.94}
+{place=205, name='Libby Hanson', school='Owatonna', grade=10, gender='F', time=1689.9}
+{place=206, name='Heiby Hidalgo-Blanco', school='Minnehaha Academy', grade=9, gender='F', time=1690.17}
+{place=207, name='LAUREN PAVELKO', school='Rochester Century', grade=7, gender='F', time=1690.344}
+{place=208, name='Kate Szarlotta', school='Belle Plaine', grade=9, gender='F', time=1693.19}
+{place=209, name='Claire Hamilton', school='Totino Grace', grade=12, gender='f', time=1693.8}
+{place=210, name='KORINA PEKAREK', school='Edina', grade=12, gender='F', time=1695.59}
+{place=211, name='Brooke McGlinchey', school='Belle Plaine', grade=9, gender='F', time=1696.84}
+{place=212, name='Alayna  Phongsavath', school='Eastview', grade=10, gender='F', time=1697.25}
+{place=213, name='Katie Christiansen', school='St Louis Park', grade=11, gender='F', time=1704.81}
+{place=214, name='Paige Boedecker', school='Owatonna', grade=11, gender='F', time=1704.9}
+{place=215, name='Valaree Hart', school='Eastview', grade=9, gender='F', time=1708.3}
+{place=216, name='Logan Epp', school='St Louis Park', grade=8, gender='F', time=1712.55}
+{place=217, name='Olivia Thanadabout Vang', school='Breck', grade=12, gender='F', time=1713.83}
+{place=218, name='Aly Thorn', school='Shakopee', grade=10, gender='F', time=1715.34}
+{place=219, name='Payton Mason', school='Shakopee', grade=11, gender='F', time=1715.81}
+{place=220, name='ADDIE HARVEY', school='Rochester Century', grade=10, gender='F', time=1718.34}
+{place=221, name='Ahn Lien', school='Burnsville', grade=10, gender='F', time=1718.84}
+{place=222, name='Maria McGrath', school='Totino Grace', grade=12, gender='f', time=1727.96}
+{place=223, name='Grace Brant', school='Fridley', grade=9, gender='F', time=1730.59}
+{place=224, name='Jessica Brook', school='Shakopee', grade=8, gender='F', time=1730.93}
+{place=225, name='Anastasia Ingstad', school='Cretin Derham-Hall', grade=12, gender='F', time=1731.42}
+{place=226, name='Brooke Schultz', school='Bloomington Jefferson', grade=9, gender='F', time=1741.58}
+{place=227, name='Rachel Petties', school='Burnsville', grade=9, gender='F', time=1742.92}
+{place=228, name='Reine Whitaker', school='Richfield', grade=12, gender='F', time=1756.2}
+{place=229, name='MARGRETHE HAWTHORNE', school='Edina', grade=10, gender='F', time=1757.24}
+{place=230, name='Olivia Versluis', school='Edina', grade=10, gender='F', time=1758.25}
+{place=231, name='Molly Molloy', school='DeLaSalle', grade=12, gender='F', time=1759.69}
+{place=232, name='Sam Mohn', school='Shakopee', grade=10, gender='F', time=1761.32}
+{place=233, name='Kasey Wahlin', school='Totino Grace', grade=11, gender='F', time=1778.59}
+{place=234, name='HANNAH NELSON', school='Edina', grade=12, gender='F', time=1779.23}
+{place=235, name='KENNEDY MAYER', school='Rochester Century', grade=10, gender='F', time=1806.34}
+{place=236, name='Genevieve Wraneschetz', school='Totino Grace', grade=10, gender='F', time=1811.48}
+{place=237, name='Alli Biermaier', school='DeLaSalle', grade=11, gender='F', time=1812.5}
+{place=238, name='Anna Eidum', school='Eastview', grade=11, gender='F', time=1836.22}
+{place=239, name='Savannah Christenson', school='Burnsville', grade=10, gender='F', time=1843.53}
+{place=240, name='Sydney Mason', school='Shakopee', grade=8, gender='F', time=1844.75}
+{place=241, name='Udaya Gadiparthi', school='Eastview', grade=9, gender='F', time=1846.58}
+{place=242, name='Katelyn Gillson', school='Shakopee', grade=7, gender='F', time=1847.59}
+{place=243, name='Marit Gabel', school='St Louis Park', grade=9, gender='F', time=1847.79}
+{place=244, name='ALLISON KAISER', school='Rochester Century', grade=12, gender='F', time=1848.6}
+{place=245, name='Mary Sager', school='Owatonna', grade=11, gender='F', time=1859.2}
+{place=246, name='Amanda  Markert', school='Shakopee', grade=11, gender='F', time=1870.34}
+{place=247, name='Megan Medvec', school='Owatonna', grade=12, gender='F', time=1877.34}
+{place=248, name='Arissa Lewis', school='Edina', grade=12, gender='F', time=1880.77}
+{place=249, name='Marie Miller', school='Totino Grace', grade=11, gender='F', time=1889.1}
+{place=250, name='Sophia Baker', school='Totino Grace', grade=11, gender='F', time=1889.35}
+{place=251, name='Victoria Hoekstra', school='Minnehaha Academy', grade=9, gender='F', time=1906.85}
+{place=252, name='Sophia Whelan', school='Totino Grace', grade=9, gender='F', time=1921.85}
+{place=253, name='Pamela Molina Mejia', school='Burnsville', grade=12, gender='F', time=1922.85}
+{place=254, name='Molly Setter', school='Totino Grace', grade=9, gender='F', time=1923.95}
+{place=255, name='Megan  Seefeldt', school='Heritage Christian', grade=12, gender='F', time=1933.24}
+{place=256, name='Maggie Arms', school='Academy of Holy Angels', grade=11, gender='F', time=1933.24}
+{place=257, name='Erin Boehme', school='DeLaSalle', grade=12, gender='F', time=1949.49}
+{place=258, name='Elsie  Porter', school='Eastview', grade=9, gender='F', time=1954.55}
+{place=259, name='Raveena Xiong', school='Burnsville', grade=9, gender='F', time=1961.45}
+{place=260, name='Ryanne Theisen', school='Totino Grace', grade=9, gender='F', time=1961.45}
+{place=261, name='Sierra Lewis', school='Fridley', grade=11, gender='F', time=1999.59}
+{place=262, name='Patsy Gwoleh', school='Burnsville', grade=9, gender='F', time=2002.83}
+{place=263, name='Isabelle Cavazos', school='Eastview', grade=11, gender='F', time=2005.67}
+{place=264, name='Saabiriin Mohamed', school='Burnsville', grade=11, gender='F', time=2011.94}
+{place=265, name='Stephanie Douhe', school='Fridley', grade=10, gender='F', time=2037.31}
+{place=266, name='Skyla Doa', school='Burnsville', grade=10, gender='F', time=2064.92}
+{place=267, name='Leila Edeburn', school='Totino Grace', grade=12, gender='f', time=2126.6}
+{place=268, name='GRACE KOEPPL', school='Edina', grade=9, gender='F', time=2136.1}
+{place=269, name='Giselle Burg', school='DeLaSalle', grade=9, gender='F', time=2168.77}
+{place=270, name='Rachel Ryan', school='Burnsville', grade=10, gender='F', time=2174.57}
+{place=271, name='Hripsime Manukyan', school='Burnsville', grade=12, gender='F', time=2244.84}
+{place=272, name='Ellie Wagner', school='Totino Grace', grade=11, gender='F', time=2245.43}

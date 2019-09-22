@@ -1,27 +1,34 @@
 import org.json.JSONArray;
 import org.json.JSONObject;
 
-import java.io.BufferedReader;
-import java.io.IOException;
-import java.io.InputStreamReader;
+import java.io.*;
 import java.net.HttpURLConnection;
 import java.net.URL;
-import java.util.Scanner;
+import java.util.ArrayList;
 
 public class ResultsMaster {
-    private Race race;
-    private Scanner scanner;
+    private ArrayList<Race> races;
 
-    ResultsMaster() {
-        race = new Race();
-        scanner = new Scanner(System.in);
+    private ResultsMaster() {
+        races = new ArrayList<>();
+        for (int i = 1373; i < 2777; i++) {
+            try {
+                races.add(gopherStateEvents(i));
+                raceToFile(i, races.get(races.size()-1));
+                System.out.println("Race : " + i + " successful.");
+            } catch (IOException e) {
+                System.out.println("NO RACE WITH ID : " + i);
+            } catch (org.json.JSONException e) {
+                System.out.println("JSON MACHINE BROKE");
+            } catch (java.lang.NumberFormatException e) {
+                System.out.println("CONFUSING NUMBERS");
+            }
+        }
     }
 
-    void gopherStateEvents() throws IOException {
+    private Race gopherStateEvents(int raceID) throws IOException {
+        Race race = new Race(raceID);
         String url = "https://www.gopherstateevents.com/results/cc_rslts/results_source.asp?race_id=";
-
-        System.out.println("Race ID : ");
-        int raceID = scanner.nextInt();
 
         URL obj = new URL(url + raceID);
 
@@ -29,29 +36,33 @@ public class ResultsMaster {
 
         con.setRequestMethod("GET");
 
-        BufferedReader in = new BufferedReader(new InputStreamReader(con.getInputStream()));
-        String inputLine;
         StringBuilder response = new StringBuilder();
 
-        while ((inputLine = in.readLine()) != null) {
-            response.append(inputLine);
+        try (BufferedReader in = new BufferedReader(new InputStreamReader(con.getInputStream()));) {
+            String inputLine;
+
+            while ((inputLine = in.readLine()) != null) {
+                response.append(inputLine);
+            }
         }
-        in.close();
+
 
         JSONObject jsonObject = new JSONObject(response.toString());
         JSONArray arr = jsonObject.getJSONArray("data");
         for (int i = 0; i < arr.length(); i++) {
             race.addRunner((JSONArray) arr.get(i));
         }
+        return race;
     }
 
-    @Override
-    public String toString() {
-        return "ResultsMaster{\n" +
-                race.toString();
+    private void raceToFile(int raceID, Race race) throws IOException {
+        String content = race.toString();
+        BufferedWriter writer = new BufferedWriter(new FileWriter("RaceResults/" + raceID + ".txt"));
+        writer.write(content);
+        writer.close();
     }
 
-    public static void main(String[] args) {
+    public static void main(String[] args) throws IOException {
         new ResultsMaster();
     }
 }

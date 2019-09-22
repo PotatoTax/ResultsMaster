@@ -1,0 +1,299 @@
+Race : 2276
+{place=1, name='Julia Kloiber', school='Edina', grade=12, gender='F', time=1268.2}
+{place=2, name='Penny Berens', school='Shakopee', grade=9, gender='F', time=1284.8}
+{place=3, name='Maya Rachel', school='Shakopee', grade=12, gender='F', time=1290.0}
+{place=4, name='Katelyn Buth', school='Shakopee', grade=10, gender='F', time=1297.1}
+{place=5, name='MARGARET HEALY', school='Edina', grade=10, gender='F', time=1298.4}
+{place=6, name='CHRISTY LEE', school='Edina', grade=9, gender='F', time=1302.5}
+{place=7, name='Abby Meger', school='Shakopee', grade=11, gender='F', time=1306.0}
+{place=8, name='Olivia  Hayer', school='Shakopee', grade=7, gender='F', time=1311.2}
+{place=9, name='Ellie Hall', school='Shakopee', grade=7, gender='F', time=1312.4}
+{place=10, name='Sydney  Weiland', school='Belle Plaine', grade=9, gender='F', time=1318.5}
+{place=11, name='Marissa Long', school='Chanhassen', grade=7, gender='F', time=1332.4}
+{place=12, name='Greta Steinhagen', school='Belle Plaine', grade=10, gender='F', time=1333.7}
+{place=13, name='Isabella Roemer', school='Chanhassen', grade=9, gender='F', time=1335.6}
+{place=14, name='EVA DOESCHER', school='Edina', grade=9, gender='F', time=1338.5}
+{place=15, name='Claire Helgemo', school='Shakopee', grade=7, gender='F', time=1343.6}
+{place=16, name='Emma Kim', school='Edina', grade=11, gender='F', time=1345.3}
+{place=17, name='Grace Cocchiarella', school='Owatonna', grade=12, gender='F', time=1345.7}
+{place=18, name='Rita Moran', school='Shakopee', grade=8, gender='F', time=1346.2}
+{place=19, name='ADELINE HINKIE', school='Edina', grade=9, gender='F', time=1347.1}
+{place=20, name='Chloe Schmidt', school='Owatonna', grade=11, gender='F', time=1348.7}
+{place=21, name='SUZANNE WANDREI', school='Edina', grade=11, gender='F', time=1350.8}
+{place=22, name='Anika  Elvrum', school='Eastview', grade=10, gender='F', time=1352.1}
+{place=23, name='Addie Collier', school='Edina', grade=9, gender='F', time=1352.5}
+{place=24, name='SOFIA CARLSON', school='Edina', grade=11, gender='F', time=1353.1}
+{place=25, name='Catherine Landelle', school='Edina', grade=9, gender='F', time=1355.1}
+{place=26, name='Mackenzie Kinney', school='Shakopee', grade=8, gender='F', time=1363.3}
+{place=27, name='Abby  Mickus', school='Belle Plaine', grade=9, gender='F', time=1368.0}
+{place=28, name='Flannery McGreevy', school='Cretin Derham-Hall', grade=10, gender='F', time=1374.6}
+{place=29, name='Emily Hubmer', school='Shakopee', grade=7, gender='F', time=1376.4}
+{place=30, name='Betsy Wunderlich', school='Owatonna', grade=9, gender='F', time=1378.5}
+{place=31, name='Shelby Unger-Wilson', school='Shakopee', grade=9, gender='F', time=1379.6}
+{place=32, name='LAUREN DOLAN', school='Eastview', grade=12, gender='F', time=1382.0}
+{place=33, name='Callie Sellner', school='Shakopee', grade=12, gender='F', time=1382.5}
+{place=34, name='Abigail Hall', school='Bloomington Jefferson', grade=11, gender='F', time=1383.1}
+{place=35, name='Katelyn  Lindquist', school='Shakopee', grade=10, gender='F', time=1384.6}
+{place=36, name='Cecie Bourbour', school='Edina', grade=12, gender='F', time=1388.4}
+{place=37, name='Katherine Burnham', school='Edina', grade=9, gender='F', time=1390.6}
+{place=38, name='Lauren Gizinski', school='Chanhassen', grade=10, gender='F', time=1392.6}
+{place=39, name='Hannah St. Martin', school='Owatonna', grade=9, gender='F', time=1399.4}
+{place=40, name='Natalie Vesterby', school='Owatonna', grade=8, gender='F', time=1400.8}
+{place=41, name='Ashley Wagner', school='Eastview', grade=12, gender='F', time=1401.6}
+{place=42, name='Rebecca  Brueggemeier', school='Belle Plaine', grade=10, gender='F', time=1405.6}
+{place=43, name='Bella Thurston', school='Bloomington Jefferson', grade=8, gender='F', time=1406.3}
+{place=44, name='Mackenzie Norskog', school='Shakopee', grade=8, gender='F', time=1407.1}
+{place=45, name='Ellie Brothers', school='Edina', grade=9, gender='F', time=1407.2}
+{place=46, name='Abby Tapajna', school='Bloomington Jefferson', grade=9, gender='F', time=1407.4}
+{place=47, name='Liliana Ellingson', school='Eastview', grade=10, gender='F', time=1414.3}
+{place=48, name='Madison McKinney', school='Shakopee', grade=8, gender='F', time=1415.1}
+{place=49, name='Olivia Grabianowski', school='Shakopee', grade=9, gender='F', time=1416.0}
+{place=50, name='Bailey Bahr', school='Belle Plaine', grade=9, gender='F', time=1420.0}
+{place=51, name='Kira Gunawan', school='Eastview', grade=12, gender='F', time=1422.0}
+{place=52, name='Lainey Dwinnell', school='Eastview', grade=10, gender='F', time=1427.0}
+{place=53, name='Madison McKenzie', school='Owatonna', grade=12, gender='F', time=1432.5}
+{place=54, name='Darby O'Neil', school='Eastview', grade=11, gender='F', time=1434.2}
+{place=55, name='Mirah Eichten', school='Owatonna', grade=9, gender='F', time=1435.7}
+{place=56, name='Maggie Amaris', school='Benilde-St Margaret', grade=9, gender='F', time=1436.5}
+{place=57, name='Amanda Siemienas', school='Chaska', grade=7, gender='F', time=1436.5}
+{place=58, name='Rachel Benson', school='Owatonna', grade=11, gender='F', time=1438.3}
+{place=59, name='Jalisa Mathews-Schmidt', school='Owatonna', grade=12, gender='F', time=1439.6}
+{place=60, name='Maren Myers', school='Bloomington Jefferson', grade=7, gender='F', time=1441.5}
+{place=61, name='Darrian Gardner', school='Burnsville', grade=9, gender='F', time=1442.6}
+{place=62, name='Brittany Rasmussen', school='Chaska', grade=12, gender='F', time=1442.7}
+{place=63, name='Zoe Erpelding', school='Chanhassen', grade=10, gender='F', time=1443.7}
+{place=64, name='Mia Czoschke', school='Bloomington Jefferson', grade=9, gender='F', time=1444.3}
+{place=65, name='KELLY HURLEY', school='Edina', grade=9, gender='F', time=1444.5}
+{place=66, name='Leah Weier', school='Shakopee', grade=12, gender='F', time=1444.6}
+{place=67, name='Grace Randall', school='Owatonna', grade=11, gender='F', time=1445.1}
+{place=68, name='Anna Frigstad', school='Eastview', grade=10, gender='F', time=1445.7}
+{place=69, name='Janice Cole', school='St Paul Washington', grade=12, gender='F', time=1446.6}
+{place=70, name='Gabrielle Rylance', school='Shakopee', grade=9, gender='F', time=1447.2}
+{place=71, name='Kate Koller', school='Shakopee', grade=8, gender='F', time=1447.7}
+{place=72, name='GRECIA TORIZ-LUGARDO', school='Edina', grade=12, gender='F', time=1451.1}
+{place=73, name='Kiera Johnson', school='Shakopee', grade=8, gender='F', time=1453.5}
+{place=74, name='Macy Bell', school='Heritage Christian', grade=8, gender='F', time=1454.5}
+{place=75, name='Paige Schwenn', school='Burnsville', grade=8, gender='F', time=1458.6}
+{place=76, name='Cora Adam', school='Edina', grade=9, gender='F', time=1459.8}
+{place=77, name='Mikayla Gillson', school='Shakopee', grade=10, gender='F', time=1463.6}
+{place=78, name='HALLE DWINNELL', school='Eastview', grade=12, gender='F', time=1464.2}
+{place=79, name='Samyuktha Ravikumar', school='Shakopee', grade=11, gender='F', time=1464.3}
+{place=80, name='Liv Larson', school='Owatonna', grade=11, gender='F', time=1465.6}
+{place=81, name='Jessica Brueggemeier', school='Belle Plaine', grade=12, gender='F', time=1466.8}
+{place=82, name='Sadie Stoffers', school='Shakopee', grade=9, gender='F', time=1467.7}
+{place=83, name='Zoe Jones', school='Chaska', grade=8, gender='F', time=1468.8}
+{place=84, name='Madeleine Maravigli', school='Chanhassen', grade=11, gender='F', time=1469.4}
+{place=85, name='Angela Zaccaria', school='Owatonna', grade=9, gender='F', time=1470.6}
+{place=86, name='Mariah Deuth', school='Shakopee', grade=8, gender='F', time=1472.0}
+{place=87, name='Lily Penniman', school='Nova Classical Academy', grade=7, gender='F', time=1472.4}
+{place=88, name='Edda Pederson', school='Bloomington Kennedy', grade=10, gender='F', time=1474.3}
+{place=89, name='Maia Latvala', school='Burnsville', grade=11, gender='F', time=1474.8}
+{place=90, name='Maddie  Wacker', school='Chaska', grade=11, gender='F', time=1476.8}
+{place=91, name='Karissa Wichmann', school='Chanhassen', grade=9, gender='F', time=1478.4}
+{place=92, name='Carson Gisel', school='Chaska', grade=10, gender='F', time=1478.5}
+{place=93, name='Hannah Painschab', school='Chaska', grade=12, gender='F', time=1478.6}
+{place=94, name='EMILY ROGERS', school='Edina', grade=11, gender='F', time=1478.8}
+{place=95, name='Divya Danthuluri', school='Edina', grade=10, gender='F', time=1479.2}
+{place=96, name='Courtney Parker', school='Shakopee', grade=9, gender='F', time=1481.6}
+{place=97, name='Belle Handt', school='Shakopee', grade=11, gender='F', time=1481.7}
+{place=98, name='Annika Andrix', school='Owatonna', grade=10, gender='F', time=1482.1}
+{place=99, name='EMILY WAGNER', school='Edina', grade=12, gender='F', time=1482.7}
+{place=100, name='RUTH LUNDBERG', school='Edina', grade=10, gender='F', time=1483.3}
+{place=101, name='Surina Arora', school='Blake', grade=10, gender='F', time=1484.7}
+{place=102, name='Hannah  Witt', school='Belle Plaine', grade=12, gender='F', time=1485.1}
+{place=103, name='Emma Heyer', school='Shakopee', grade=8, gender='F', time=1487.7}
+{place=104, name='Anna Gaul', school='Bloomington Jefferson', grade=10, gender='F', time=1488.6}
+{place=105, name='Carly Smithmier', school='Benilde-St Margaret', grade=9, gender='F', time=1489.1}
+{place=106, name='Randi Fiskwold', school='Belle Plaine', grade=12, gender='F', time=1490.5}
+{place=107, name='Madelyn Bouten', school='Shakopee', grade=10, gender='F', time=1490.5}
+{place=108, name='Sarah Savage', school='Shakopee', grade=8, gender='F', time=1493.2}
+{place=109, name='Elsa Bademan', school='Edina', grade=12, gender='F', time=1495.5}
+{place=110, name='Susan Walker', school='Owatonna', grade=9, gender='F', time=1495.5}
+{place=111, name='Abbey McAleer', school='Burnsville', grade=10, gender='F', time=1497.5}
+{place=112, name='Gabrielle Bjugan', school='Chaska', grade=7, gender='F', time=1498.3}
+{place=113, name='LINDSEY BALLINGER', school='Edina', grade=9, gender='F', time=1502.5}
+{place=114, name='Amelia VandeZande', school='Owatonna', grade=11, gender='F', time=1503.6}
+{place=115, name='Becca Torgerson', school='Heritage Christian', grade=10, gender='F', time=1504.4}
+{place=116, name='Mari Podas', school='Bloomington Kennedy', grade=9, gender='F', time=1506.1}
+{place=117, name='Trinity Belmares', school='Cretin Derham-Hall', grade=10, gender='F', time=1507.8}
+{place=118, name='Mandy Hukee', school='Shakopee', grade=9, gender='F', time=1509.0}
+{place=119, name='Erin West', school='Belle Plaine', grade=10, gender='F', time=1509.2}
+{place=120, name='ALEXIS FERRIS', school='Edina', grade=10, gender='F', time=1510.7}
+{place=121, name='Anna  Alswager', school='Eastview', grade=12, gender='F', time=1511.5}
+{place=122, name='Amanda Handt', school='Shakopee', grade=10, gender='F', time=1512.5}
+{place=123, name='Mikayla McCarvel', school='Shakopee', grade=7, gender='F', time=1514.0}
+{place=124, name='Sophia  Kvam', school='Shakopee', grade=12, gender='F', time=1514.3}
+{place=125, name='Abigal Demars-Welte', school='Eastview', grade=11, gender='F', time=1515.1}
+{place=126, name='Taylor Laube', school='Chanhassen', grade=10, gender='F', time=1515.8}
+{place=127, name='Olivia Etz', school='St Louis Park', grade=10, gender='F', time=1516.6}
+{place=128, name='Dani Burtis', school='Owatonna', grade=12, gender='F', time=1518.4}
+{place=129, name='Monica Calkins', school='Cretin Derham-Hall', grade=11, gender='F', time=1520.8}
+{place=130, name='Jordan Mjoen', school='Bloomington Jefferson', grade=9, gender='F', time=1522.1}
+{place=131, name='Lillie Powell', school='Chaska', grade=7, gender='F', time=1522.2}
+{place=132, name='Regan Cronk', school='Eastview', grade=11, gender='F', time=1522.6}
+{place=133, name='Ellie Frobom', school='Chaska', grade=12, gender='F', time=1525.1}
+{place=134, name='Maia Kyllonen', school='Shakopee', grade=7, gender='F', time=1525.8}
+{place=135, name='Shaina Cox', school='Eastview', grade=11, gender='F', time=1526.8}
+{place=136, name='Abigail Prestholdt', school='St Louis Park', grade=10, gender='F', time=1530.8}
+{place=137, name='Rylee Collins', school='Chaska', grade=12, gender='F', time=1532.3}
+{place=138, name='Tea Boerner', school='Owatonna', grade=10, gender='F', time=1532.3}
+{place=139, name='Avary Lessard', school='Minnehaha Academy', grade=8, gender='F', time=1533.1}
+{place=140, name='Breklyn Skattum', school='Shakopee', grade=7, gender='F', time=1534.1}
+{place=141, name='Bella  Bryan', school='Chaska', grade=9, gender='F', time=1534.5}
+{place=142, name='Alaina Jesh', school='Totino Grace', grade=10, gender='F', time=1534.7}
+{place=143, name='Iringo Bocskay', school='Owatonna', grade=11, gender='F', time=1536.3}
+{place=144, name='LAUREN HOVELSRUD', school='Edina', grade=10, gender='F', time=1538.4}
+{place=145, name='RORI CURTI', school='Edina', grade=11, gender='F', time=1538.6}
+{place=146, name='Izzy Stokes', school='Edina', grade=11, gender='F', time=1540.4}
+{place=147, name='Annalise Chapdelaine', school='Eastview', grade=11, gender='F', time=1541.0}
+{place=148, name='Faith Miner', school='Belle Plaine', grade=10, gender='F', time=1542.7}
+{place=149, name='JENNIFER AI', school='Edina', grade=11, gender='F', time=1543.7}
+{place=150, name='Annabelle Wellnitz', school='Owatonna', grade=12, gender='F', time=1547.2}
+{place=151, name='Chloe Raines', school='Shakopee', grade=9, gender='F', time=1547.8}
+{place=152, name='Sadie Holman', school='Chanhassen', grade=8, gender='F', time=1549.5}
+{place=153, name='Chloe Witherington', school='Shakopee', grade=8, gender='F', time=1550.3}
+{place=154, name='Danielle Sutcliffe', school='Shakopee', grade=8, gender='F', time=1552.5}
+{place=155, name='Kailey Noll', school='Belle Plaine', grade=12, gender='F', time=1558.8}
+{place=156, name='Helen Oblonsky', school='Bloomington Jefferson', grade=8, gender='F', time=1559.4}
+{place=157, name='LILY CARROLL', school='Edina', grade=10, gender='F', time=1560.4}
+{place=158, name='Hannah Pflipson', school='Shakopee', grade=11, gender='F', time=1562.0}
+{place=159, name='Frances Hoffman', school='Edina', grade=12, gender='F', time=1563.2}
+{place=160, name='ANNE CEPEK', school='Edina', grade=10, gender='F', time=1563.7}
+{place=161, name='Lucia Brooks', school='Benilde-St Margaret', grade=12, gender='F', time=1564.1}
+{place=162, name='Mathea Bruns', school='St Louis Park', grade=9, gender='F', time=1565.3}
+{place=163, name='Anni Moran', school='Owatonna', grade=8, gender='F', time=1566.8}
+{place=164, name='Delaney Cashin', school='Eastview', grade=11, gender='F', time=1568.1}
+{place=165, name='Roxy Manzano', school='Owatonna', grade=12, gender='F', time=1571.2}
+{place=166, name='Ayelel Meyen', school='St Louis Park', grade=7, gender='F', time=1571.4}
+{place=167, name='PHOEBE ZAMOFF', school='Edina', grade=9, gender='F', time=1573.2}
+{place=168, name='Ciara McCarthy', school='Chanhassen', grade=9, gender='F', time=1575.8}
+{place=169, name='Shea Kerry', school='Chanhassen', grade=12, gender='F', time=1581.1}
+{place=170, name='HARPER CARSELLO', school='Edina', grade=9, gender='F', time=1583.2}
+{place=171, name='Avery Lorenz', school='Chanhassen', grade=9, gender='F', time=1583.6}
+{place=172, name='Sydney Walton', school='Chanhassen', grade=12, gender='F', time=1584.5}
+{place=173, name='Lydia Jackels', school='Chanhassen', grade=12, gender='F', time=1587.0}
+{place=174, name='Alina Oelberg', school='Shakopee', grade=9, gender='F', time=1588.2}
+{place=175, name='Mara Risto', school='Eastview', grade=10, gender='F', time=1593.7}
+{place=176, name='Karissa Lageson', school='Eastview', grade=11, gender='F', time=1593.8}
+{place=177, name='Annika  Fulkerson', school='Chaska', grade=11, gender='F', time=1596.5}
+{place=178, name='ISABELLE WAGENER', school='Edina', grade=9, gender='F', time=1596.7}
+{place=179, name='Ali Tarnowski', school='Benilde-St Margaret', grade=9, gender='F', time=1596.8}
+{place=180, name='CAROLINE MACHART', school='Edina', grade=12, gender='F', time=1597.6}
+{place=181, name='Kayla Brinkman', school='Shakopee', grade=8, gender='F', time=1600.8}
+{place=182, name='Gabby McDonald', school='Totino Grace', grade=11, gender='F', time=1604.6}
+{place=183, name='SOPHIE HEROLD', school='Eastview', grade=12, gender='F', time=1607.1}
+{place=184, name='Claire Markes', school='Shakopee', grade=7, gender='F', time=1607.7}
+{place=185, name='Dayna Krause', school='St Louis Park', grade=11, gender='F', time=1615.5}
+{place=186, name='Grace Belanger', school='Chaska', grade=9, gender='F', time=1616.3}
+{place=187, name='Jeanna Edlund', school='Benilde-St Margaret', grade=12, gender='F', time=1616.7}
+{place=188, name='Mikayla Dinse', school='Owatonna', grade=11, gender='F', time=1620.0}
+{place=189, name='Kasia Bursey', school='Nova Classical Academy', grade=7, gender='F', time=1620.6}
+{place=190, name='Molly Stewart', school='Shakopee', grade=11, gender='F', time=1620.7}
+{place=191, name='Tayah Hoffman', school='Owatonna', grade=12, gender='F', time=1623.5}
+{place=192, name='Kinzie Williams', school='Owatonna', grade=12, gender='F', time=1623.6}
+{place=193, name='Kayla Poncius', school='Edina', grade=12, gender='F', time=1629.3}
+{place=194, name='Greta Nelson', school='Burnsville', grade=11, gender='F', time=1630.3}
+{place=195, name='Paige Vaughn', school='Edina', grade=12, gender='F', time=1631.8}
+{place=196, name='CALLAGHAN SMITH', school='Edina', grade=10, gender='F', time=1632.0}
+{place=197, name='Amara Sok', school='Shakopee', grade=11, gender='F', time=1632.7}
+{place=198, name='Katelyn Gillson', school='Shakopee', grade=8, gender='F', time=1634.0}
+{place=199, name='Sofia Berens', school='Shakopee', grade=10, gender='F', time=1637.5}
+{place=200, name='Olivia Crowley', school='Chanhassen', grade=10, gender='F', time=1637.5}
+{place=201, name='Anastasia Morton', school='Cretin Derham-Hall', grade=11, gender='F', time=1637.5}
+{place=202, name='Samantha Morrison', school='Chanhassen', grade=9, gender='F', time=1640.8}
+{place=203, name='Isabella  Robertson', school='Chaska', grade=9, gender='F', time=1643.2}
+{place=204, name='Amelie Brazelton', school='Nova Classical Academy', grade=9, gender='F', time=1643.6}
+{place=205, name='Sarah Kinney', school='Benilde-St Margaret', grade=12, gender='F', time=1646.1}
+{place=206, name='Stephanie  Frier', school='Chaska', grade=12, gender='F', time=1648.1}
+{place=207, name='Bridget Carlson', school='Shakopee', grade=12, gender='F', time=1649.5}
+{place=208, name='Ryanne Theisen', school='Totino Grace', grade=10, gender='F', time=1650.3}
+{place=209, name='kayla yang', school='Edina', grade=11, gender='F', time=1651.6}
+{place=210, name='Pa Chee Thao', school='St Paul Washington', grade=10, gender='F', time=1653.3}
+{place=211, name='Kasey Wahlin', school='Totino Grace', grade=12, gender='F', time=1654.6}
+{place=212, name='Issabella (Izzy Lauer', school='Cretin Derham-Hall', grade=9, gender='F', time=1655.8}
+{place=213, name='Olivia Frobom', school='Chaska', grade=12, gender='F', time=1660.4}
+{place=214, name='Sydney Kirmeier', school='Chanhassen', grade=9, gender='F', time=1664.6}
+{place=215, name='Katie Struzyk', school='Burnsville', grade=11, gender='F', time=1666.7}
+{place=216, name='Nina  Froats', school='Shakopee', grade=10, gender='F', time=1669.7}
+{place=217, name='Ava Kerndt', school='Eastview', grade=9, gender='F', time=1677.3}
+{place=218, name='Caitlyn DeGeir', school='Shakopee', grade=8, gender='F', time=1678.4}
+{place=219, name='Megan Hakanson', school='Chanhassen', grade=11, gender='F', time=1679.1}
+{place=220, name='Kailyn Pedersen', school='Benilde-St Margaret', grade=12, gender='F', time=1679.2}
+{place=221, name='Aria Jamison', school='Belle Plaine', grade=9, gender='F', time=1685.5}
+{place=222, name='Nicole Lewis', school='Eastview', grade=10, gender='F', time=1687.7}
+{place=223, name='Riley Perterson', school='Shakopee', grade=9, gender='F', time=1692.6}
+{place=224, name='Annis Carins', school='Minnehaha Academy', grade=9, gender='F', time=1699.4}
+{place=225, name='Phoebe Kans', school='Chanhassen', grade=9, gender='F', time=1705.3}
+{place=226, name='SOPHIA FERNANDES', school='Edina', grade=10, gender='F', time=1707.4}
+{place=227, name='Cassandra Thompson', school='Chanhassen', grade=8, gender='F', time=1708.3}
+{place=228, name='Madi McGrane', school='Belle Plaine', grade=11, gender='F', time=1710.2}
+{place=229, name='Emma Atkinson', school='Nova Classical Academy', grade=9, gender='F', time=1714.8}
+{place=230, name='Grace Clements', school='Academy of Holy Angels', grade=9, gender='F', time=1717.1}
+{place=231, name='Arlyn Adan', school='Minneapolis Patrick Henry', grade=11, gender='F', time=1717.8}
+{place=232, name='Maeve Murphy', school='Cretin Derham-Hall', grade=10, gender='F', time=1718.8}
+{place=233, name='Grace Burnside', school='Edina', grade=11, gender='F', time=1721.5}
+{place=234, name='Jessica Brook', school='Shakopee', grade=9, gender='F', time=1721.7}
+{place=235, name='Udinin Erskine', school='Totino Grace', grade=10, gender='F', time=1722.5}
+{place=236, name='Jenna Lindstrom', school='Totino Grace', grade=9, gender='F', time=1722.7}
+{place=237, name='SOPHIE PEKAREK', school='Edina', grade=9, gender='F', time=1724.5}
+{place=238, name='Ashley Onofre', school='Totino Grace', grade=11, gender='F', time=1725.6}
+{place=239, name='Aislyn Brogdon', school='Minneapolis Patrick Henry', grade=9, gender='F', time=1725.6}
+{place=240, name='Rah'quel Smith', school='Minneapolis Patrick Henry', grade=12, gender='F', time=1725.8}
+{place=241, name='Claudia Gute', school='Chaska', grade=9, gender='F', time=1733.5}
+{place=242, name='Abigail Dick', school='Benilde-St Margaret', grade=9, gender='F', time=1737.6}
+{place=243, name='Jamie Zahn', school='Belle Plaine', grade=12, gender='F', time=1739.2}
+{place=244, name='Isabella Blett', school='Chanhassen', grade=9, gender='F', time=1743.0}
+{place=245, name='Lara  Mackenberg', school='Shakopee', grade=11, gender='F', time=1744.1}
+{place=246, name='Mia Strassburg', school='Heritage Christian', grade=9, gender='F', time=1745.1}
+{place=247, name='Stella Bartsh', school='Bloomington Jefferson', grade=9, gender='F', time=1749.6}
+{place=248, name='Elena Coarasa', school='Bloomington Jefferson', grade=9, gender='F', time=1750.0}
+{place=249, name='Victoria Hoekstra', school='Minnehaha Academy', grade=10, gender='F', time=1752.0}
+{place=250, name='Quanisha Hill', school='St Paul Washington', grade=12, gender='F', time=1752.3}
+{place=251, name='Payton Mason', school='Shakopee', grade=12, gender='F', time=1757.6}
+{place=252, name='Maddie Eslinger', school='Shakopee', grade=9, gender='F', time=1764.8}
+{place=253, name='Alanna Moe', school='Burnsville', grade=8, gender='F', time=1767.1}
+{place=254, name='Rowan Keenan', school='DeLaSalle', grade=12, gender='F', time=1768.5}
+{place=255, name='Savannah Christenson', school='Burnsville', grade=11, gender='F', time=1774.3}
+{place=256, name='Udaya Gadiparthi', school='Eastview', grade=10, gender='F', time=1779.2}
+{place=257, name='Sydney Mason', school='Shakopee', grade=9, gender='F', time=1791.6}
+{place=258, name='Brooke McGlinchey', school='Belle Plaine', grade=10, gender='F', time=1793.6}
+{place=259, name='Kee Lah Soe', school='St Paul Washington', grade=11, gender='F', time=1800.5}
+{place=260, name='SARAH RUSCHY', school='Edina', grade=11, gender='F', time=1807.2}
+{place=261, name='Anna Eidum', school='Eastview', grade=12, gender='F', time=1808.3}
+{place=262, name='Elisabeth Picka', school='Chaska', grade=12, gender='F', time=1809.0}
+{place=263, name='Caroline Wraneschetz', school='Totino Grace', grade=9, gender='F', time=1811.3}
+{place=264, name='MORGAN SHEEHY', school='Edina', grade=12, gender='F', time=1812.6}
+{place=265, name='Amanda  Kasper', school='St Louis Park', grade=7, gender='F', time=1813.2}
+{place=266, name='Natalie Delgado', school='DeLaSalle', grade=12, gender='F', time=1826.2}
+{place=267, name='Marie Miller', school='Totino Grace', grade=12, gender='F', time=1828.7}
+{place=268, name='Camryn Bartz', school='Owatonna', grade=11, gender='F', time=1843.7}
+{place=269, name='Dilcia Fuentes', school='Bloomington Kennedy', grade=10, gender='F', time=1845.7}
+{place=270, name='Alli Biermaier', school='DeLaSalle', grade=12, gender='F', time=1860.6}
+{place=271, name='Margaret Klein', school='St Louis Park', grade=11, gender='F', time=1869.8}
+{place=272, name='Morgan Machtemes', school='Cretin Derham-Hall', grade=9, gender='F', time=1870.6}
+{place=273, name='Brooke Schultz', school='Bloomington Jefferson', grade=10, gender='F', time=1875.6}
+{place=274, name='Mackenzie Stanfield', school='Shakopee', grade=8, gender='F', time=1876.5}
+{place=275, name='Yer Yang', school='St Paul Washington', grade=12, gender='F', time=1884.3}
+{place=276, name='Gabby Anderson', school='Shakopee', grade=9, gender='F', time=1890.7}
+{place=277, name='Ellie Leach', school='Totino Grace', grade=10, gender='F', time=1891.6}
+{place=278, name='BRYNN SHAW-STRACK', school='Edina', grade=9, gender='F', time=1899.3}
+{place=279, name='Maddie Florida', school='Blake', grade=11, gender='F', time=1901.7}
+{place=280, name='Lindsey Czarneki', school='Belle Plaine', grade=9, gender='F', time=1918.3}
+{place=281, name='Amanda  Markert', school='Shakopee', grade=12, gender='F', time=1932.1}
+{place=282, name='Jennah Karr', school='Shakopee', grade=11, gender='F', time=1937.5}
+{place=283, name='Alyssa  Colvin', school='Shakopee', grade=9, gender='F', time=1938.5}
+{place=284, name='Nisha Walker', school='St Paul Washington', grade=11, gender='F', time=1944.4}
+{place=285, name='Maggie Arms', school='Academy of Holy Angels', grade=12, gender='F', time=1946.7}
+{place=286, name='Theresa Lang', school='Academy of Holy Angels', grade=12, gender='F', time=1946.7}
+{place=287, name='MaiChang Xiong', school='St Paul Washington', grade=9, gender='F', time=1986.8}
+{place=288, name='Lydia Larson', school='Chanhassen', grade=9, gender='F', time=2021.5}
+{place=289, name='Saida Abdirahman', school='Burnsville', grade=10, gender='F', time=2028.0}
+{place=290, name='Ann Lee', school='St Paul Washington', grade=12, gender='F', time=2028.1}
+{place=291, name='Maggie Knutson', school='Richfield', grade=10, gender='F', time=2052.0}
+{place=292, name='Julia Barrett', school='Edina', grade=9, gender='F', time=2126.2}
+{place=293, name='Carolyn Osterbauer', school='DeLaSalle', grade=10, gender='F', time=2143.6}
+{place=294, name='Ella Anderson', school='Chanhassen', grade=9, gender='F', time=2146.2}
+{place=295, name='Adalyn Lucina', school='Shakopee', grade=8, gender='F', time=2170.7}
+{place=296, name='GRACE KOEPPL', school='Edina', grade=10, gender='F', time=2301.4}
+{place=297, name='Katherine Markert', school='Shakopee', grade=10, gender='F', time=2562.7}
+{place=298, name='Anna Tinklenberg', school='Bloomington Kennedy', grade=10, gender='F', time=2772.2}

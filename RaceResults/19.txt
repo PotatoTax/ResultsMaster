@@ -1,0 +1,46 @@
+Race : 19
+{place=1, name='Mike Mommsen', school='St Louis Park', grade=12, gender='M', time=999.79}
+{place=2, name='Chad Ernst', school='Richfield', grade=12, gender='M', time=1003.22}
+{place=3, name='Nick Saucedo', school='Henry Sibley', grade=11, gender='M', time=1013.74}
+{place=4, name='Jonathan Stubliski', school='Henry Sibley', grade=11, gender='M', time=1024.29}
+{place=5, name='Jon Vallez', school='Henry Sibley', grade=12, gender='M', time=1032.16}
+{place=6, name='Pieter Gagnon', school='Washburn', grade=10, gender='M', time=1064.75}
+{place=7, name='Matt Walstrom', school='Mound-Westonka', grade=11, gender='M', time=1079.25}
+{place=8, name='Scott Vaughn', school='Henry Sibley', grade=10, gender='M', time=1086.77}
+{place=9, name='Josh Phenow', school='Richfield', grade=10, gender='M', time=1087.08}
+{place=10, name='Luke Sperduto', school='Orono', grade=11, gender='M', time=1099.52}
+{place=11, name='Sam Shidla', school='Mound-Westonka', grade=11, gender='M', time=1106.29}
+{place=12, name='William Hermanson', school='Richfield', grade=12, gender='M', time=1110.08}
+{place=13, name='Chad Richards', school='Mound-Westonka', grade=11, gender='M', time=1113.29}
+{place=14, name='Andrew Tilman', school='St Louis Park', grade=11, gender='M', time=1114.81}
+{place=15, name='Patrick Marshall', school='Henry Sibley', grade=10, gender='M', time=1115.12}
+{place=16, name='Tony Stellon', school='Richfield', grade=9, gender='M', time=1120.99}
+{place=17, name='Adam Luesse', school='Mound-Westonka', grade=11, gender='M', time=1128.75}
+{place=18, name='Oumar Cherif', school='St Louis Park', grade=12, gender='M', time=1139.41}
+{place=19, name='Hady Cherif', school='St Louis Park', grade=12, gender='M', time=1146.5}
+{place=20, name='Tyler Hendrickson', school='St Louis Park', grade=11, gender='M', time=1149.39}
+{place=21, name='Brian Hejna', school='Mound-Westonka', grade=12, gender='M', time=1150.89}
+{place=22, name='Erik Lee', school='Mound-Westonka', grade=12, gender='M', time=1162.54}
+{place=23, name='Will Nielsen', school='Richfield', grade=10, gender='M', time=1185.0}
+{place=24, name='Ryan Macey', school='Henry Sibley', grade=11, gender='M', time=1186.89}
+{place=25, name='Jake Senn', school='Washburn', grade=11, gender='M', time=1190.29}
+{place=26, name='Mitch Miller', school='Mound-Westonka', grade=10, gender='M', time=1191.97}
+{place=27, name='Tom DeRoma', school='Richfield', grade=10, gender='M', time=1194.68}
+{place=28, name='Ryan Vassar', school='Richfield', grade=11, gender='M', time=1195.79}
+{place=29, name='Bryson Uhrig-Fox', school='St Louis Park', grade=12, gender='M', time=1228.74}
+{place=30, name='Zack George', school='St Louis Park', grade=10, gender='M', time=1247.39}
+{place=31, name='Robert S Mrkonich', school='Orono', grade=11, gender='M', time=1252.79}
+{place=32, name='Eric Frieberg', school='Henry Sibley', grade=12, gender='M', time=1258.41}
+{place=33, name='Sona Yi', school='Washburn', grade=11, gender='M', time=1267.89}
+{place=34, name='Cameron Soojian', school='Breck', grade=8, gender='M', time=1284.58}
+{place=35, name='Brandon Onopa', school='Breck', grade=8, gender='M', time=1321.1}
+{place=36, name='Brandon Lew', school='Breck', grade=11, gender='M', time=1328.43}
+{place=37, name='Daniel Geiger', school='Orono', grade=11, gender='M', time=1333.72}
+{place=38, name='Egal Gorse', school='Breck', grade=11, gender='M', time=1351.49}
+{place=39, name='Jordan Carter', school='Washburn', grade=12, gender='M', time=1356.45}
+{place=40, name='Zach Jenson', school='Breck', grade=10, gender='M', time=1378.99}
+{place=41, name='Caleb Dayton', school='Breck', grade=9, gender='M', time=1385.83}
+{place=42, name='Brent Schultz', school='Orono', grade=9, gender='M', time=1390.37}
+{place=43, name='Sean Millam', school='Washburn', grade=8, gender='M', time=1392.62}
+{place=44, name='James Harstad', school='Orono', grade=9, gender='M', time=1403.24}
+{place=45, name='Ben Brewer', school='Breck', grade=11, gender='M', time=1414.5}

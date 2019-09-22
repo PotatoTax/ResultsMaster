@@ -1,0 +1,39 @@
+Race : 435
+{place=1, name='Kara Steele', school='Monticello', grade=10, gender='F', time=1004.95}
+{place=2, name='Bri Johnson', school='Monticello', grade=10, gender='F', time=1020.64}
+{place=3, name='Erica Nordin', school='Monticello', grade=12, gender='F', time=1039.12}
+{place=4, name='Kate Johnson', school='Monticello', grade=10, gender='F', time=1046.1}
+{place=5, name='Bailey Rasmussen', school='Monticello', grade=9, gender='F', time=1092.96}
+{place=6, name='Jordan Kotek', school='Pine City', grade=7, gender='F', time=1110.35}
+{place=7, name='Natasha Shir', school='North Branch', grade=10, gender='F', time=1115.85}
+{place=8, name='Haley  Heitz', school='Monticello', grade=10, gender='F', time=1122.2}
+{place=9, name='Jena Wilkening', school='Becker', grade=8, gender='F', time=1126.41}
+{place=10, name='Lisa Nygaard', school='Monticello', grade=10, gender='F', time=1138.41}
+{place=11, name='Jenna Sypnieski', school='Monticello', grade=9, gender='F', time=1143.58}
+{place=12, name='Courtney Wall', school='Monticello', grade=10, gender='F', time=1144.56}
+{place=13, name='Jackie Westeren', school='Pine City', grade=8, gender='F', time=1147.08}
+{place=14, name='Courtney Muenchow', school='Monticello', grade=10, gender='F', time=1149.75}
+{place=15, name='Mari Liestman', school='Becker', grade=12, gender='F', time=1161.04}
+{place=16, name='Rachel Fitcha', school='North Branch', grade=12, gender='F', time=1162.08}
+{place=17, name='Allison Gusk', school='Pine City', grade=7, gender='F', time=1165.5}
+{place=18, name='Esther Watson', school='Monticello', grade=9, gender='F', time=1182.62}
+{place=19, name='Lindsey Otte', school='Becker', grade=8, gender='F', time=1189.69}
+{place=20, name='Madison Kealy', school='Becker', grade=9, gender='F', time=1195.08}
+{place=21, name='Marissa Morgenstern', school='North Branch', grade=9, gender='F', time=1219.68}
+{place=22, name='Kaylyn Utecht', school='Pine City', grade=8, gender='F', time=1231.14}
+{place=23, name='Gillian Kolling', school='Pine City', grade=8, gender='F', time=1236.47}
+{place=24, name='Rebecca  Ramberg', school='North Branch', grade=11, gender='F', time=1252.48}
+{place=25, name='Allie Graving', school='Big Lake', grade=11, gender='F', time=1253.93}
+{place=26, name='Laura Drew', school='Monticello', grade=10, gender='F', time=1254.75}
+{place=27, name='Cody Vander Heyden', school='Monticello', grade=9, gender='F', time=1263.87}
+{place=28, name='Robin Holtman', school='Monticello', grade=11, gender='F', time=1282.14}
+{place=29, name='Katie LaBau', school='Monticello', grade=10, gender='F', time=1308.2}
+{place=30, name='Kelsey Coleman', school='North Branch', grade=10, gender='F', time=1316.69}
+{place=31, name='Erika Gudmundson', school='Becker', grade=11, gender='F', time=1342.81}
+{place=32, name='Lauren DeZelar', school='Big Lake', grade=10, gender='F', time=1347.41}
+{place=33, name='Annie Henry', school='Monticello', grade=11, gender='F', time=1356.46}
+{place=34, name='Annalise Reitsma', school='Big Lake', grade=11, gender='F', time=1361.54}
+{place=35, name='Celeste Schroeder', school='Monticello', grade=10, gender='F', time=1394.2}
+{place=36, name='Mia Shaw', school='Big Lake', grade=9, gender='F', time=1479.68}
+{place=37, name='Ashley Suchy', school='Monticello', grade=11, gender='F', time=1677.96}
+{place=38, name='Lauren VanBeek', school='Monticello', grade=11, gender='F', time=1682.18}

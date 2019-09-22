@@ -1,0 +1,81 @@
+Race : 2680
+{place=1, name='Cameron Simon', school='Alexandria', grade=8, gender='M', time=727.0}
+{place=2, name='Payton Gessford', school='Alexandria', grade=8, gender='M', time=734.1}
+{place=3, name='Owen Draper', school='Alexandria', grade=8, gender='M', time=764.8}
+{place=4, name='Throck Lehmann', school='Alexandria', grade=8, gender='M', time=769.7}
+{place=5, name='Landon Runge', school='Alexandria', grade=8, gender='M', time=769.8}
+{place=6, name='Jameson Dale', school='Brainerd', grade=8, gender='M', time=776.7}
+{place=7, name='Logan Fogarty', school='Pequot Lakes', grade=8, gender='M', time=790.5}
+{place=8, name='Karl Franson', school='Alexandria', grade=8, gender='M', time=790.6}
+{place=9, name='Ben Stadum', school='Brainerd', grade=7, gender='M', time=797.3}
+{place=10, name='Cameron O'Shea', school='Alexandria', grade=7, gender='M', time=803.4}
+{place=11, name='Carter Mielke', school='Pillager', grade=7, gender='M', time=808.7}
+{place=12, name='Ian Dickinson', school='Pillager', grade=7, gender='M', time=819.3}
+{place=13, name='Jacob Nicholoson', school='Alexandria', grade=7, gender='M', time=820.5}
+{place=14, name='Thomas Wilmesmeier', school='Alexandria', grade=8, gender='M', time=822.5}
+{place=15, name='Levi  Fricke', school='Pequot Lakes', grade=8, gender='M', time=829.2}
+{place=16, name='Hudsen Carlson', school='Alexandria', grade=7, gender='M', time=830.7}
+{place=17, name='Drew Englund', school='Alexandria', grade=6, gender='M', time=833.7}
+{place=18, name='Holden Zak', school='St Cloud Tech', grade=7, gender='M', time=842.5}
+{place=19, name='Riley Koran', school='GNK', grade=6, gender='M', time=843.3}
+{place=20, name='William Sprang', school='Little Falls', grade=7, gender='M', time=844.7}
+{place=21, name='Hunter Mohr', school='Alexandria', grade=8, gender='M', time=849.2}
+{place=22, name='James Rabasco', school='Brainerd', grade=8, gender='M', time=850.5}
+{place=23, name='Nick Meyers', school='Alexandria', grade=8, gender='M', time=851.5}
+{place=24, name='Zachary Richards', school='Alexandria', grade=7, gender='M', time=858.1}
+{place=25, name='Camron Mann', school='GNK', grade=7, gender='M', time=861.7}
+{place=26, name='Gabe Hallgren', school='Brainerd', grade=7, gender='M', time=864.3}
+{place=27, name='Owen Jensen', school='Alexandria', grade=8, gender='M', time=864.7}
+{place=28, name='Eli Knapp', school='Brainerd', grade=8, gender='M', time=866.2}
+{place=29, name='Baylon Larsen', school='Little Falls', grade=8, gender='M', time=867.5}
+{place=30, name='Khelden Ritter', school='Alexandria', grade=8, gender='M', time=869.3}
+{place=31, name='Joe Neumann', school='Brainerd', grade=7, gender='M', time=870.3}
+{place=32, name='Cooper  Running ', school='Alexandria', grade=7, gender='M', time=871.2}
+{place=33, name='Connor Bacigalupi', school='Brainerd', grade=5, gender='M', time=871.5}
+{place=34, name='TJ Swanberg', school='Pillager', grade=8, gender='M', time=871.7}
+{place=35, name='Aden Larson', school='Little Falls', grade=8, gender='M', time=877.2}
+{place=36, name='Cole Sposito', school='Pequot Lakes', grade=8, gender='M', time=878.2}
+{place=37, name='John Sanden', school='Alexandria', grade=7, gender='M', time=878.7}
+{place=38, name='Bodie Kapsner', school='Little Falls', grade=6, gender='M', time=882.0}
+{place=39, name='Devin Goss', school='GNK', grade=8, gender='M', time=882.2}
+{place=40, name='Preston Troumbly', school='GNK', grade=6, gender='M', time=886.0}
+{place=41, name='Jackson Meemken', school='St Cloud Tech', grade=7, gender='M', time=893.9}
+{place=42, name='Antonio Becker', school='Little Falls', grade=8, gender='M', time=896.5}
+{place=43, name='Nate Chaussee', school='Brainerd', grade=7, gender='M', time=896.6}
+{place=44, name='Michael Christiansen', school='Alexandria', grade=7, gender='M', time=898.5}
+{place=45, name='Charlie Johnston', school='Alexandria', grade=7, gender='M', time=914.3}
+{place=46, name='Maxwell Gangl', school='GNK', grade=7, gender='M', time=923.3}
+{place=47, name='Alex Kueppers', school='Brainerd', grade=6, gender='M', time=927.2}
+{place=48, name='Jesse  Goble', school='Brainerd', grade=5, gender='M', time=934.0}
+{place=49, name='Axton Svir', school='Brainerd', grade=7, gender='M', time=934.3}
+{place=50, name='Elliot Oberton', school='Little Falls', grade=7, gender='M', time=940.4}
+{place=51, name='Evan LeMieur', school='Little Falls', grade=6, gender='M', time=942.8}
+{place=52, name='Gunnar Casuse', school='Pillager', grade=8, gender='M', time=943.5}
+{place=53, name='Brenden Brichacek', school='Pillager', grade=8, gender='M', time=944.5}
+{place=54, name='Logan Kueppers', school='Brainerd', grade=6, gender='M', time=945.5}
+{place=55, name='Benjamin Beasley', school='Brainerd', grade=8, gender='M', time=948.8}
+{place=56, name='Parker Grant', school='Little Falls', grade=7, gender='M', time=950.3}
+{place=57, name='Connor Garrison', school='Alexandria', grade=8, gender='M', time=954.0}
+{place=58, name='Austin Mohr', school='Alexandria', grade=7, gender='M', time=974.5}
+{place=59, name='Judah Smith', school='Brainerd', grade=6, gender='M', time=977.6}
+{place=60, name='Ryan Yearley', school='Brainerd', grade=6, gender='M', time=977.7}
+{place=61, name='Cameron Wilson', school='Brainerd', grade=5, gender='M', time=982.0}
+{place=62, name='Alexander  Walk ', school='St Cloud Tech', grade=8, gender='M', time=984.4}
+{place=63, name='Hudson Nyberg', school='Alexandria', grade=6, gender='M', time=987.7}
+{place=64, name='Jack Keogh', school='Alexandria', grade=7, gender='M', time=988.1}
+{place=65, name='Nick Sprang', school='Little Falls', grade=6, gender='M', time=998.2}
+{place=66, name='Seth Becker', school='Little Falls', grade=7, gender='M', time=1018.5}
+{place=67, name='Sam Kalina', school='Alexandria', grade=6, gender='M', time=1023.7}
+{place=68, name='Lane Thoennes', school='Alexandria', grade=8, gender='M', time=1031.1}
+{place=69, name='John Ahlin', school='Little Falls', grade=6, gender='M', time=1031.7}
+{place=70, name='Tristan Wilson', school='Brainerd', grade=7, gender='M', time=1068.6}
+{place=71, name='Kaegan Museus', school='Brainerd', grade=5, gender='M', time=1073.8}
+{place=72, name='Noah Ecker', school='Alexandria', grade=7, gender='M', time=1074.5}
+{place=73, name='Owen Swisher', school='Little Falls', grade=6, gender='M', time=1075.3}
+{place=74, name='Owen Ecker', school='Alexandria', grade=8, gender='M', time=1082.7}
+{place=75, name='Tyler Harth', school='Alexandria', grade=6, gender='M', time=1108.2}
+{place=76, name='Elijah Nichals', school='Pillager', grade=6, gender='M', time=1160.7}
+{place=77, name='Eddie Super-Peterson', school='Pequot Lakes', grade=7, gender='M', time=1219.7}
+{place=78, name='Silas Osborne', school='Brainerd', grade=7, gender='M', time=1369.2}
+{place=79, name='Aiden Martinez', school='Brainerd', grade=5, gender='M', time=1374.1}
+{place=80, name='DJ Merritt', school='Brainerd', grade=5, gender='M', time=1381.6}

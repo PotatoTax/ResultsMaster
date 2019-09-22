@@ -1,0 +1,43 @@
+Race : 1561
+{place=1, name='Casey Porter', school='Bloomington', grade=10, gender='M', time=878.69}
+{place=2, name='Josh Hapler', school='St Louis Park', grade=10, gender='M', time=903.43}
+{place=3, name='Anders Nackerud', school='St Louis Park', grade=11, gender='M', time=928.95}
+{place=4, name='Carter Schmelzle', school='St Louis Park', grade=11, gender='M', time=931.78}
+{place=5, name='Luke Reich', school='Chaska-Chan', grade=10, gender='M', time=934.76}
+{place=6, name='Jack Reddan', school='St Louis Park', grade=12, gender='M', time=939.11}
+{place=7, name='Derek Wendland', school='Chaska-Chan', grade=8, gender='M', time=950.67}
+{place=8, name='Eric Sather', school='Chaska-Chan', grade=7, gender='M', time=958.43}
+{place=9, name='Max Holden', school='St Louis Park', grade=9, gender='M', time=965.18}
+{place=10, name='Tanner Jensen', school='St Louis Park', grade=9, gender='M', time=974.34}
+{place=11, name='Reed Lewis', school='Richfield', grade=8, gender='M', time=974.8}
+{place=12, name='David Klein', school='St Louis Park', grade=8, gender='M', time=1023.7}
+{place=13, name='Owen Laumbach', school='Chaska-Chan', grade=9, gender='M', time=1033.32}
+{place=14, name='Nathan  Glenna', school='Bloomington', grade=11, gender='M', time=1050.92}
+{place=15, name='Aaron Anderson', school='Richfield', grade=11, gender='M', time=1078.09}
+{place=16, name='Daniel Diaz Ontiveros', school='Chaska-Chan', grade=10, gender='M', time=1080.43}
+{place=17, name='Raymond Stack-Vanasse', school='St Louis Park', grade=12, gender='M', time=1111.45}
+{place=18, name='Rakesh Plantz', school='St Louis Park', grade=8, gender='M', time=1123.91}
+{place=19, name='Aidan Ishaug', school='Bloomington', grade=7, gender='M', time=1125.18}
+{place=20, name='Zachary Vizecky', school='Richfield', grade=10, gender='M', time=1161.2}
+{place=21, name='Jack Steigauf', school='Bloomington', grade=8, gender='M', time=1163.39}
+{place=22, name='Aiden Lee-Gilligan', school='Benilde-St Margaret', grade=7, gender='M', time=1197.42}
+{place=23, name='Joe Munkeby', school='Benilde-St Margaret', grade=7, gender='M', time=1231.17}
+{place=24, name='Johnathan Audette', school='Bloomington', grade=7, gender='M', time=1239.2}
+{place=25, name='Michael LeBlanc', school='Benilde-St Margaret', grade=7, gender='M', time=1265.45}
+{place=26, name='Parker Lindstrom', school='Richfield', grade=7, gender='M', time=1297.97}
+{place=27, name='Carter Stromberg', school='Cooper', grade=9, gender='M', time=1315.7}
+{place=28, name='Rafael Ribeiro', school='Cooper', grade=12, gender='M', time=1323.78}
+{place=29, name='Andy Soto Moreno', school='Richfield', grade=7, gender='M', time=1404.95}
+{place=30, name='Sulayman Gibba', school='Cooper', grade=12, gender='M', time=1431.45}
+{place=31, name='Landon Knipp', school='Richfield', grade=9, gender='M', time=1484.47}
+{place=32, name='Ryan Bailey', school='Cooper', grade=10, gender='M', time=1485.09}
+{place=33, name='Juan Jose Di Garzia', school='Richfield', grade=7, gender='M', time=1486.72}
+{place=34, name='Dmitri  Houle', school='Benilde-St Margaret', grade=7, gender='M', time=1510.56}
+{place=35, name='Jamie Cline', school='Richfield', grade=9, gender='M', time=1573.91}
+{place=36, name='Joaquin Carey', school='Richfield', grade=7, gender='M', time=1596.17}
+{place=37, name='Samuel Bermond', school='Richfield', grade=8, gender='M', time=1607.86}
+{place=38, name='Weldon Makori', school='Bloomington', grade=11, gender='M', time=1617.97}
+{place=39, name='Luke Wolterstroff', school='Richfield', grade=7, gender='M', time=1631.97}
+{place=40, name='Nathaniel Desborough', school='Richfield', grade=8, gender='M', time=1815.38}
+{place=41, name='Nick Eggen', school='Richfield', grade=7, gender='M', time=2164.43}
+{place=42, name='Gage Vizecky', school='Richfield', grade=7, gender='M', time=2367.13}

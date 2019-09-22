@@ -1,0 +1,99 @@
+Race : 2754
+{place=1, name='Logan Tung', school='Alexandria', grade=8, gender='M', time=683.5}
+{place=2, name='Iid Ali', school='Willmar', grade=7, gender='M', time=690.4}
+{place=3, name='Sully Anez', school='Willmar', grade=6, gender='M', time=697.2}
+{place=4, name='George Larson', school='Sartell', grade=7, gender='M', time=698.0}
+{place=5, name='Fathi Dubet', school='Willmar', grade=7, gender='M', time=702.4}
+{place=6, name='Eli Hanson', school='Sartell', grade=7, gender='M', time=706.4}
+{place=7, name='David Binsfeld', school='Sartell', grade=8, gender='M', time=717.9}
+{place=8, name='Harrison Greathouse', school='Alexandria', grade=8, gender='M', time=724.4}
+{place=9, name='Steven Selisker', school='Brainerd JH', grade=8, gender='M', time=731.2}
+{place=10, name='Jaymis Bauer', school='Rocori', grade=7, gender='M', time=740.2}
+{place=11, name='Owen Draper', school='Alexandria', grade=7, gender='M', time=743.2}
+{place=12, name='Blake Reiman', school='Willmar', grade=6, gender='M', time=746.2}
+{place=13, name='Conlan Carlson', school='Willmar', grade=6, gender='M', time=749.2}
+{place=14, name='Luke Panther', school='Alexandria', grade=8, gender='M', time=749.4}
+{place=15, name='Sean Pickle', school='St Cloud Tech', grade=8, gender='M', time=752.2}
+{place=16, name='Throck Lehmann', school='Alexandria', grade=7, gender='M', time=759.0}
+{place=17, name='Seth Westrup', school='Sartell', grade=8, gender='M', time=759.9}
+{place=18, name='Eli Heinen', school='Willmar', grade=6, gender='M', time=760.7}
+{place=19, name='Jameson Dale', school='Brainerd JH', grade=7, gender='M', time=760.7}
+{place=20, name='Kaleb Cremers', school='Rocori', grade=7, gender='M', time=762.5}
+{place=21, name='Mason Kueppers', school='Brainerd JH', grade=8, gender='M', time=773.4}
+{place=22, name='Nolan Peterson', school='Alexandria', grade=8, gender='M', time=774.4}
+{place=23, name='Steven Cruze', school='Willmar', grade=6, gender='M', time=775.2}
+{place=24, name='Brandan Zepeda', school='Willmar', grade=7, gender='M', time=775.4}
+{place=25, name='Alex Klimek', school='Alexandria', grade=7, gender='M', time=776.4}
+{place=26, name='Brady Rushin', school='Brainerd JH', grade=7, gender='M', time=778.0}
+{place=27, name='Caleb Bolstad', school='Alexandria', grade=7, gender='M', time=783.2}
+{place=28, name='Karson Heinen', school='Rocori', grade=7, gender='M', time=787.7}
+{place=29, name='Gabe LaRue', school='Willmar', grade=6, gender='M', time=791.7}
+{place=30, name='Yoseb Brewer', school='St Cloud Apollo', grade=8, gender='M', time=792.9}
+{place=31, name='Brady Weber', school='Rocori', grade=8, gender='M', time=795.7}
+{place=32, name='Aiden Lindgren', school='Fergus Falls', grade=8, gender='M', time=795.7}
+{place=33, name='Ben  Stadum', school='Brainerd JH', grade=6, gender='M', time=796.4}
+{place=34, name='Oliver Thorson', school='Fergus Falls', grade=8, gender='M', time=796.5}
+{place=35, name='Joseph Neumann', school='Brainerd JH', grade=6, gender='M', time=798.7}
+{place=36, name='Maxwell  Holstrom', school='Brainerd JH', grade=8, gender='M', time=799.7}
+{place=37, name='Braydon Blonigen', school='Sartell', grade=7, gender='M', time=800.9}
+{place=38, name='Josh Lefeber', school='Sartell', grade=7, gender='M', time=803.0}
+{place=39, name='Eric Eidenschink', school='Brainerd JH', grade=8, gender='M', time=808.7}
+{place=40, name='Brenden Kath', school='Willmar', grade=8, gender='M', time=810.9}
+{place=41, name='Burg Adien', school='Rocori', grade=7, gender='M', time=817.2}
+{place=42, name='Dylan Schroeder', school='Sauk Rapids-Rice', grade=8, gender='M', time=819.4}
+{place=43, name='Hunter Mohr', school='Alexandria', grade=7, gender='M', time=826.2}
+{place=44, name='Ethan Guggenberger', school='Rocori', grade=6, gender='M', time=829.9}
+{place=45, name='Caleb Zabinski', school='Rocori', grade=7, gender='M', time=830.4}
+{place=46, name='Gavin Kasparek', school='Sartell', grade=8, gender='M', time=831.4}
+{place=47, name='Nick Meyers', school='Alexandria', grade=7, gender='M', time=834.2}
+{place=48, name='Thomas Wilmesmeier', school='Alexandria', grade=7, gender='M', time=835.2}
+{place=49, name='Jacob Loerzel', school='Willmar', grade=7, gender='M', time=837.7}
+{place=50, name='Welsey Johnson', school='Sartell', grade=7, gender='M', time=858.7}
+{place=51, name='Zachary Richards', school='Alexandria', grade=6, gender='M', time=859.2}
+{place=52, name='Matthew Dotzler', school='Rocori', grade=7, gender='M', time=859.5}
+{place=53, name='Isaac Richmond', school='Alexandria', grade=6, gender='M', time=859.7}
+{place=54, name='Eugene Lubbers', school='Willmar', grade=6, gender='M', time=860.0}
+{place=55, name='Gavin Pendergast', school='Rocori', grade=7, gender='M', time=861.9}
+{place=56, name='John Sanden', school='Alexandria', grade=6, gender='M', time=870.0}
+{place=57, name='Aaron Marthaler', school='Willmar', grade=6, gender='M', time=872.5}
+{place=58, name='Cooper  Running ', school='Alexandria', grade=6, gender='M', time=875.2}
+{place=59, name='Ty Leiser', school='Rocori', grade=8, gender='M', time=875.4}
+{place=60, name='Tyler Hibbison', school='Rocori', grade=8, gender='M', time=875.7}
+{place=61, name='Cole Fjeld', school='Brainerd JH', grade=8, gender='M', time=876.2}
+{place=62, name='Izaya Bruso', school='Alexandria', grade=7, gender='M', time=878.4}
+{place=63, name='Damian Lara', school='Sauk Rapids-Rice', grade=8, gender='M', time=881.2}
+{place=64, name='Khelden Ritter', school='Alexandria', grade=7, gender='M', time=882.7}
+{place=65, name='Derik Johnson', school='Willmar', grade=6, gender='M', time=884.2}
+{place=66, name='Josiah Sanchez', school='Sauk Rapids-Rice', grade=8, gender='M', time=885.2}
+{place=67, name='Garrett Krantz', school='Brainerd JH', grade=8, gender='M', time=886.7}
+{place=68, name='Colton Hern', school='Rocori', grade=8, gender='M', time=886.9}
+{place=69, name='Nathan  Chaussee', school='Brainerd JH', grade=6, gender='M', time=888.7}
+{place=70, name='James Rabasco', school='Brainerd JH', grade=7, gender='M', time=889.5}
+{place=71, name='Jackson Lysne', school='Fergus Falls', grade=7, gender='M', time=894.5}
+{place=72, name='Eyan Potter', school='Brainerd JH', grade=7, gender='M', time=894.7}
+{place=73, name='Axton Svir', school='Brainerd JH', grade=6, gender='M', time=897.5}
+{place=74, name='Andrew Fleming', school='Alexandria', grade=6, gender='M', time=911.7}
+{place=75, name='Milton Tungseth', school='Fergus Falls', grade=7, gender='M', time=914.7}
+{place=76, name='Brett Schlangen', school='Sartell', grade=7, gender='M', time=915.4}
+{place=77, name='Nolan Kelly', school='Rocori', grade=7, gender='M', time=934.2}
+{place=78, name='Jacob Nicholoson', school='Alexandria', grade=6, gender='M', time=935.0}
+{place=79, name='William Nuss', school='Fergus Falls', grade=7, gender='M', time=942.7}
+{place=80, name='Charlie Johnston', school='Alexandria', grade=6, gender='M', time=945.0}
+{place=81, name='Myles Frueh', school='Alexandria', grade=6, gender='M', time=946.0}
+{place=82, name='Benjamin Beasley', school='Brainerd JH', grade=7, gender='M', time=954.2}
+{place=83, name='Sebastian Bromenschenkle', school='Sauk Rapids-Rice', grade=8, gender='M', time=956.4}
+{place=84, name='Andrew  Kron', school='Rocori', grade=8, gender='M', time=960.9}
+{place=85, name='Austin Mohr', school='Alexandria', grade=6, gender='M', time=962.9}
+{place=86, name='Dustin Suebert', school='Willmar', grade=6, gender='M', time=964.9}
+{place=87, name='Illies Cole', school='Rocori', grade=6, gender='M', time=970.2}
+{place=88, name='Alexander  Walk ', school='St Cloud Tech', grade=7, gender='M', time=974.7}
+{place=89, name='Carsyn Fairchild', school='Willmar', grade=7, gender='M', time=992.0}
+{place=90, name='Caleb Staples', school='Alexandria', grade=7, gender='M', time=994.0}
+{place=91, name='Lane Thoennes', school='Alexandria', grade=7, gender='M', time=1000.1}
+{place=92, name='Adrian Blondeau', school='Fergus Falls', grade=7, gender='M', time=1027.4}
+{place=93, name='Talin Villnow', school='Brainerd JH', grade=6, gender='M', time=1031.2}
+{place=94, name='Eric Sellmann', school='Willmar', grade=8, gender='M', time=1035.7}
+{place=95, name='Simon Thompson', school='Sauk Rapids-Rice', grade=8, gender='M', time=1039.3}
+{place=96, name='Collin  Wiebe', school='Sauk Rapids-Rice', grade=7, gender='M', time=1079.8}
+{place=97, name='Silas Osborne', school='Brainerd JH', grade=6, gender='M', time=1164.1}
+{place=98, name='Sam Oswood', school='Willmar', grade=6, gender='M', time=1183.8}

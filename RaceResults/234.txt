@@ -1,0 +1,53 @@
+Race : 234
+{place=1, name='Ella Smith', school='Becker', grade=12, gender='F', time=909.52}
+{place=2, name='Erica Seidenkranz', school='Monticello', grade=9, gender='F', time=919.36}
+{place=3, name='Kaitlyn Yoerg', school='Becker', grade=10, gender='F', time=928.01}
+{place=4, name='Amber Seidenkranz', school='Monticello', grade=7, gender='F', time=932.94}
+{place=5, name='Amber Stoick', school='Monticello', grade=9, gender='F', time=935.92}
+{place=6, name='Kirstie Tessier', school='Monticello', grade=12, gender='F', time=940.69}
+{place=7, name='Kayla  Gudmundson', school='Becker', grade=12, gender='F', time=944.88}
+{place=8, name='Heather Fahsl', school='Becker', grade=12, gender='F', time=945.75}
+{place=9, name='Emma Johnson', school='Mora', grade=9, gender='F', time=950.84}
+{place=10, name='Ashton Lamp', school='Rogers', grade=12, gender='F', time=953.53}
+{place=11, name='Kristy Henkel', school='Becker', grade=10, gender='F', time=954.15}
+{place=12, name='Corinne Steele', school='Monticello', grade=9, gender='F', time=960.11}
+{place=13, name='Maria Zimmerman', school='Becker', grade=10, gender='F', time=962.04}
+{place=14, name='Roseanne Tripp', school='Becker', grade=9, gender='F', time=962.45}
+{place=15, name='Mandy Witschen', school='Monticello', grade=11, gender='F', time=963.09}
+{place=16, name='Alyssa Kroschel', school='North Branch', grade=9, gender='F', time=968.36}
+{place=17, name='Shayna Gray', school='North Branch', grade=10, gender='F', time=969.78}
+{place=18, name='Dani Privratsky', school='North Branch', grade=12, gender='F', time=978.11}
+{place=19, name=' Emily Helwig', school='Rogers', grade=11, gender='F', time=981.98}
+{place=20, name='Karlee Cox', school='Monticello', grade=11, gender='F', time=991.55}
+{place=21, name='Miranda Charley', school='North Branch', grade=11, gender='F', time=993.42}
+{place=22, name='Ashlee Bahlmann', school='Mora', grade=10, gender='F', time=995.22}
+{place=23, name='Megan Zimmerman', school='North Branch', grade=9, gender='F', time=996.85}
+{place=24, name='Ali Zimmerman', school='North Branch', grade=10, gender='F', time=1008.73}
+{place=25, name='Karissa Richard', school='North Branch', grade=11, gender='F', time=1015.16}
+{place=26, name='Paige Vensland', school='Big Lake', grade=11, gender='F', time=1020.0}
+{place=27, name='Rebecca Hare', school='St Johns Prep', grade=12, gender='F', time=1024.08}
+{place=28, name='Allison Maass', school='Big Lake', grade=9, gender='F', time=1025.84}
+{place=29, name='Marshana Coler', school='Mora', grade=11, gender='F', time=1033.05}
+{place=30, name='Lexi Fritz', school='Meadow Creek Girls', grade=7, gender='F', time=1035.23}
+{place=31, name='Samantha Sontag', school='Big Lake', grade=10, gender='F', time=1036.26}
+{place=32, name='Brooke Goracke', school='Big Lake', grade=10, gender='F', time=1036.69}
+{place=33, name='Emily Leeb', school='Mora', grade=8, gender='F', time=1039.79}
+{place=34, name='Heather  Johnson', school='Rogers', grade=12, gender='F', time=1056.93}
+{place=35, name='Megan Miesner', school='Pine City', grade=9, gender='F', time=1059.72}
+{place=36, name='Iesha Martinez', school='Rogers', grade=12, gender='F', time=1061.5}
+{place=37, name='Taylor Rubink', school='Big Lake', grade=9, gender='F', time=1062.34}
+{place=38, name='Emily Huizenga', school='Meadow Creek Girls', grade=10, gender='F', time=1073.21}
+{place=39, name='Danielle Bahlmann', school='Mora', grade=10, gender='F', time=1073.9}
+{place=40, name='Jordan Kim', school='Big Lake', grade=9, gender='F', time=1075.77}
+{place=41, name='Brietta Clementson', school='Pine City', grade=12, gender='F', time=1090.84}
+{place=42, name='Jessica Speidel', school='Rogers', grade=12, gender='F', time=1110.91}
+{place=43, name='Samantha Weaver', school='Mora', grade=9, gender='F', time=1111.36}
+{place=44, name='Mariah M Stolp', school='Big Lake', grade=9, gender='F', time=1111.68}
+{place=45, name='Aundria Speidel', school='Rogers', grade=10, gender='F', time=1112.6}
+{place=46, name='Madeline Wildeson', school='St Johns Prep', grade=12, gender='F', time=1128.11}
+{place=47, name='Madeline Franz', school='St Johns Prep', grade=10, gender='F', time=1134.4}
+{place=48, name='Hannah Friedrich', school='St Johns Prep', grade=8, gender='F', time=1167.31}
+{place=49, name='Kendra Motyl', school='Pine City', grade=12, gender='F', time=1176.44}
+{place=50, name='Terresa Zingale', school='St Johns Prep', grade=10, gender='F', time=1186.11}
+{place=51, name='Laura  Kleppe', school='Pine City', grade=12, gender='F', time=1198.07}
+{place=52, name='Ashley Harrington', school='Pine City', grade=10, gender='F', time=1227.38}

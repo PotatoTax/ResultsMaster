@@ -1,0 +1,71 @@
+Race : 2442
+{place=1, name='Anders Sonnesyn', school='Wayzata', grade=12, gender='M', time=641.0}
+{place=2, name='Luc Golin', school='Wayzata', grade=12, gender='M', time=648.0}
+{place=3, name='James Schneider', school='Wayzata', grade=10, gender='M', time=680.0}
+{place=4, name='Charlie Reinhardt', school='Mound-Westonka', grade=11, gender='M', time=684.0}
+{place=5, name='Keelan Gorman', school='Benilde-St Margaret', grade=11, gender='M', time=700.0}
+{place=6, name='Logan Hoffman', school='Hopkins', grade=12, gender='M', time=705.0}
+{place=7, name='George Goldade', school='Orono', grade=12, gender='M', time=713.0}
+{place=8, name='Trygg Lysne', school='Armstrong', grade=12, gender='M', time=718.0}
+{place=9, name='Will Omodt', school='Armstrong', grade=11, gender='M', time=724.0}
+{place=10, name='Sam Himes', school='Armstrong', grade=12, gender='M', time=733.0}
+{place=11, name='Thomas Golin', school='Wayzata', grade=10, gender='M', time=737.0}
+{place=12, name='Jack Meinert', school='Armstrong', grade=11, gender='M', time=738.0}
+{place=13, name='Max Owens', school='Blake', grade=12, gender='M', time=742.0}
+{place=14, name='Philip Dirnberger', school='Hopkins', grade=11, gender='M', time=753.0}
+{place=15, name='Andrew Abegglen', school='Mound-Westonka', grade=11, gender='M', time=754.0}
+{place=16, name='Sam Theisen', school='Armstrong', grade=11, gender='M', time=755.0}
+{place=17, name='Ben Aoki-Sherwood', school='Armstrong', grade=11, gender='M', time=756.0}
+{place=18, name='Roger Anderson', school='Armstrong', grade=9, gender='M', time=756.0}
+{place=19, name='Kevin Cornelius', school='Orono', grade=12, gender='M', time=765.0}
+{place=20, name='Sean Hunwardsen', school='Hopkins', grade=12, gender='M', time=772.0}
+{place=21, name='Erik Williams', school='Wayzata', grade=12, gender='M', time=776.0}
+{place=22, name='Colin Freed', school='Wayzata', grade=9, gender='M', time=779.0}
+{place=23, name='William Phelan', school='St Louis Park', grade=12, gender='M', time=781.0}
+{place=24, name='Caleb Dunnewind', school='Hopkins', grade=10, gender='M', time=783.0}
+{place=25, name='Clyde Sellke', school='Benilde-St Margaret', grade=12, gender='M', time=793.0}
+{place=26, name='Sam Smith', school='Wayzata', grade=12, gender='M', time=796.0}
+{place=27, name='Matthew Humbert', school='Mound-Westonka', grade=12, gender='M', time=797.0}
+{place=28, name='Isaac Eng', school='Hopkins', grade=12, gender='M', time=803.0}
+{place=29, name='Zack Levy', school='Breck', grade=12, gender='M', time=807.0}
+{place=30, name='Emmett Foner', school='St Louis Park', grade=11, gender='M', time=816.0}
+{place=31, name='Emmet Whitely', school='Blake', grade=12, gender='M', time=828.0}
+{place=32, name='Henry Jaffray', school='Orono', grade=12, gender='M', time=844.0}
+{place=33, name='Cyrus Abrahamson', school='St Louis Park', grade=11, gender='M', time=844.0}
+{place=34, name='Kade Retterath', school='Mound-Westonka', grade=11, gender='M', time=845.0}
+{place=35, name='Colin Jones', school='Orono', grade=8, gender='M', time=862.0}
+{place=36, name='Quinlan Brogdon', school='Mpls Patrick Henry', grade=11, gender='M', time=871.0}
+{place=37, name='Raymond Brendalen', school='Hopkins', grade=12, gender='M', time=881.0}
+{place=38, name='Frankie Lynch', school='Benilde-St Margaret', grade=10, gender='M', time=884.0}
+{place=39, name='Ian Acheson', school='Blake', grade=9, gender='M', time=888.0}
+{place=40, name='Angelo Fiataruolo', school='Orono', grade=8, gender='M', time=893.0}
+{place=41, name='Danny Walsh', school='St Louis Park', grade=9, gender='M', time=894.0}
+{place=42, name='Joe Munkeby', school='Benilde-St Margaret', grade=11, gender='M', time=895.0}
+{place=43, name='Joe Woychick', school='Mound-Westonka', grade=11, gender='M', time=897.0}
+{place=44, name='Carsten Doepnerhove', school='Mound-Westonka', grade=11, gender='M', time=913.0}
+{place=45, name='Jackson Sonquist', school='Mpls Patrick Henry', grade=9, gender='M', time=915.0}
+{place=46, name='Ben Katona', school='Hopkins', grade=12, gender='M', time=950.0}
+{place=47, name='David Klein', school='St Louis Park', grade=10, gender='M', time=954.0}
+{place=48, name='Drew Hofer', school='Breck', grade=11, gender='M', time=957.0}
+{place=49, name='Rakesh Plantz', school='St Louis Park', grade=10, gender='M', time=961.0}
+{place=50, name='Shef West', school='Blake', grade=8, gender='M', time=964.0}
+{place=51, name='David Ahrens', school='Breck', grade=12, gender='M', time=968.0}
+{place=52, name='Jack Swenson', school='Orono', grade=12, gender='M', time=968.0}
+{place=53, name='Matt Koltes', school='Orono', grade=10, gender='M', time=973.0}
+{place=54, name='Zach Bollom', school='Benilde-St Margaret', grade=10, gender='M', time=974.0}
+{place=55, name='Bradley Hooper', school='Mpls Patrick Henry', grade=11, gender='M', time=976.0}
+{place=56, name='Ansel Smith', school='Breck', grade=10, gender='M', time=978.0}
+{place=57, name='John Fullerton', school='Breck', grade=10, gender='M', time=983.0}
+{place=58, name='Anthony Palmer', school='Breck', grade=12, gender='M', time=986.0}
+{place=59, name='Victor Morales', school='Mpls Patrick Henry', grade=9, gender='M', time=988.0}
+{place=60, name='Ian Empson', school='Breck', grade=11, gender='M', time=993.0}
+{place=61, name='Will Lyman', school='Blake', grade=11, gender='M', time=995.0}
+{place=62, name='Robbie Brustad', school='Mound-Westonka', grade=11, gender='M', time=1029.0}
+{place=63, name='Ryan Norkosky', school='Benilde-St Margaret', grade=10, gender='M', time=1032.0}
+{place=64, name='Carter Stromberg', school='Cooper', grade=11, gender='M', time=1045.0}
+{place=65, name='Michael LeBlanc', school='Benilde-St Margaret', grade=9, gender='M', time=1096.0}
+{place=66, name='Josh Vorbrich', school='Blake', grade=10, gender='M', time=1115.0}
+{place=67, name='Thomas Hotvedt', school='Cooper', grade=11, gender='M', time=1118.0}
+{place=68, name='Steven Nye', school='Blake', grade=12, gender='M', time=1132.0}
+{place=69, name='Joshua Johnson', school='Heritage-Providence', grade=9, gender='M', time=1147.0}
+{place=70, name='William West', school='Cooper', grade=9, gender='M', time=1238.0}

@@ -1,0 +1,88 @@
+Race : 216
+{place=1, name='Makail Riley', school='Robbinsdale Cooper', grade=12, gender='M', time=1118.47}
+{place=2, name='Bryan Sprang', school='Irondale', grade=10, gender='M', time=1131.47}
+{place=3, name='Luke Gruhlke', school='Monticello', grade=9, gender='M', time=1151.25}
+{place=4, name='Bailey Denzer', school='Monticello', grade=10, gender='M', time=1165.75}
+{place=5, name='Andrew Paulsen', school='Hutchinson', grade=11, gender='M', time=1170.92}
+{place=6, name='Adam     Carlsen', school='Irondale', grade=11, gender='M', time=1171.97}
+{place=7, name='Evan Tharaldson', school='Irondale', grade=11, gender='M', time=1172.3}
+{place=8, name='Dustin Muehler', school='Rogers', grade=9, gender='M', time=1176.67}
+{place=9, name='Mitchell Messner', school='Hutchinson', grade=10, gender='M', time=1177.36}
+{place=10, name='Elijah Jarman', school='Hutchinson', grade=11, gender='M', time=1177.96}
+{place=11, name='Sam Kincanon', school='Rogers', grade=11, gender='M', time=1178.76}
+{place=12, name='Cole Salfer', school='Marshall', grade=12, gender='M', time=1182.97}
+{place=13, name='TJ Coblentz', school='Hutchinson', grade=11, gender='M', time=1183.85}
+{place=14, name='Nathan Lemke', school='Monticello', grade=11, gender='M', time=1190.7}
+{place=15, name='Cyrus Mason', school='Big Lake', grade=10, gender='M', time=1200.0}
+{place=16, name='Ted Brakob', school='Monticello', grade=9, gender='M', time=1200.23}
+{place=17, name='Eric Schommer', school='Hutchinson', grade=9, gender='M', time=1204.36}
+{place=18, name='Justin Prosser', school='Big Lake', grade=9, gender='M', time=1204.86}
+{place=19, name='Ryan Johnson', school='Robbinsdale Cooper', grade=12, gender='M', time=1207.82}
+{place=20, name='Aaron French', school='Marshall', grade=10, gender='M', time=1210.46}
+{place=21, name='William Morrison', school='Robbinsdale Cooper', grade=11, gender='M', time=1213.64}
+{place=22, name='John Suddard-Bangsun', school='Monticello', grade=10, gender='M', time=1219.85}
+{place=23, name='Tyler Esser', school='Hutchinson', grade=9, gender='M', time=1220.16}
+{place=24, name='Mark Gerding', school='Robbinsdale Cooper', grade=9, gender='M', time=1226.85}
+{place=25, name='Josh Boster', school='Big Lake', grade=12, gender='M', time=1227.59}
+{place=26, name='Antonio  Stone', school='Robbinsdale Cooper', grade=12, gender='M', time=1228.06}
+{place=27, name='Sean    Lyndes', school='Irondale', grade=9, gender='M', time=1228.34}
+{place=28, name='Jonah Gilbert', school='Irondale', grade=9, gender='M', time=1229.05}
+{place=29, name='Jacob Sturlagson', school='Robbinsdale Cooper', grade=12, gender='M', time=1229.4}
+{place=30, name='Connor  Blasing', school='Big Lake', grade=9, gender='M', time=1230.22}
+{place=31, name='Larry M. Frazier', school='Robbinsdale Cooper', grade=11, gender='M', time=1234.07}
+{place=32, name='Ron Enno', school='Marshall', grade=12, gender='M', time=1235.57}
+{place=33, name='Alexander Peavey', school='Robbinsdale Cooper', grade=10, gender='M', time=1237.44}
+{place=34, name='Grant Brakob', school='Monticello', grade=11, gender='M', time=1243.05}
+{place=35, name='Steven Thomalla', school='Big Lake', grade=10, gender='M', time=1248.45}
+{place=36, name='TJ Scott', school='Rogers', grade=9, gender='M', time=1249.99}
+{place=37, name='Jimmy Lyons', school='Big Lake', grade=12, gender='M', time=1250.51}
+{place=38, name='Luke Lendl', school='Rogers', grade=9, gender='M', time=1259.48}
+{place=39, name='Charles Nolt', school='Monticello', grade=11, gender='M', time=1263.11}
+{place=40, name='Adam  Peterson', school='Big Lake', grade=10, gender='M', time=1271.48}
+{place=41, name='Michael Skovera', school='Robbinsdale Cooper', grade=10, gender='M', time=1279.56}
+{place=42, name='Ross Nichols', school='Robbinsdale Cooper', grade=12, gender='M', time=1281.69}
+{place=43, name='Ralph Weber', school='Marshall', grade=11, gender='M', time=1282.41}
+{place=44, name='Jake Neidenfeuhr', school='Big Lake', grade=9, gender='M', time=1283.46}
+{place=45, name='Charlie Patch', school='Monticello', grade=10, gender='M', time=1285.27}
+{place=46, name='Mike    Barton', school='Irondale', grade=10, gender='M', time=1289.56}
+{place=47, name='David Dechaine', school='Rogers', grade=10, gender='M', time=1295.92}
+{place=48, name='Dan Aubol', school='Big Lake', grade=11, gender='M', time=1298.07}
+{place=49, name='Brandon Quast', school='Big Lake', grade=9, gender='M', time=1309.09}
+{place=50, name='Matt Hanson', school='Marshall', grade=9, gender='M', time=1311.23}
+{place=51, name='Michael Lindgren', school='Robbinsdale Cooper', grade=11, gender='M', time=1314.07}
+{place=52, name='Ethan Smith', school='Irondale', grade=11, gender='M', time=1322.14}
+{place=53, name='Aaron Nelson', school='Rogers', grade=9, gender='M', time=1323.54}
+{place=54, name='David Baier', school='Monticello', grade=11, gender='M', time=1325.85}
+{place=55, name='Alex Gerads', school='Monticello', grade=12, gender='M', time=1327.43}
+{place=56, name='Caleb Grunzke', school='Hutchinson', grade=11, gender='M', time=1329.81}
+{place=57, name='Evan   - Borchert', school='Irondale', grade=9, gender='M', time=1330.89}
+{place=58, name='David Rossman', school='Big Lake', grade=10, gender='M', time=1332.1}
+{place=59, name='Tim Kibler', school='Monticello', grade=11, gender='M', time=1332.47}
+{place=60, name='Nolan    A  Cleereman', school='Irondale', grade=11, gender='M', time=1334.53}
+{place=61, name='David  Smith', school='Robbinsdale Cooper', grade=12, gender='M', time=1335.8}
+{place=62, name='Adam Clark', school='Big Lake', grade=10, gender='M', time=1340.04}
+{place=63, name='Gavin Lance', school='Irondale', grade=11, gender='M', time=1340.43}
+{place=64, name='Jake LeClaire', school='Rogers', grade=11, gender='M', time=1346.73}
+{place=65, name='Sam Collins', school='Hutchinson', grade=11, gender='M', time=1349.51}
+{place=66, name='Trevor Halvorson', school='Big Lake', grade=9, gender='M', time=1350.39}
+{place=67, name='Sam Raether', school='Robbinsdale Cooper', grade=10, gender='M', time=1352.43}
+{place=68, name='Drew Smith', school='Robbinsdale Cooper', grade=12, gender='M', time=1370.45}
+{place=69, name='Joe Lilleberg', school='Marshall', grade=9, gender='M', time=1375.92}
+{place=70, name='Matt Vogt', school='Big Lake', grade=9, gender='M', time=1380.88}
+{place=71, name='Erik Gelle', school='Rogers', grade=12, gender='M', time=1402.89}
+{place=72, name='Joseph Milliren', school='Robbinsdale Cooper', grade=9, gender='M', time=1424.7}
+{place=73, name='Tyler Anthony', school='Monticello', grade=10, gender='M', time=1427.23}
+{place=74, name='Ben    Kokkila', school='Irondale', grade=8, gender='M', time=1450.98}
+{place=75, name='Anthony Martins', school='Big Lake', grade=10, gender='M', time=1457.76}
+{place=76, name='Joe    Clarine', school='Irondale', grade=9, gender='M', time=1468.79}
+{place=77, name='Jesse Corby', school='Big Lake', grade=9, gender='M', time=1475.15}
+{place=78, name='Isaak      Ridge', school='Irondale', grade=9, gender='M', time=1481.41}
+{place=79, name='John Hazuka', school='Monticello', grade=12, gender='M', time=1484.27}
+{place=80, name='Luke Bock', school='Marshall', grade=9, gender='M', time=1501.02}
+{place=81, name='Josh Lorenz', school='Hutchinson', grade=10, gender='M', time=1509.65}
+{place=82, name='Aaron Karl', school='Hutchinson', grade=10, gender='M', time=1547.2}
+{place=83, name='Derek Carstensen', school='Rogers', grade=9, gender='M', time=1548.09}
+{place=84, name='Damon Trecha', school='Big Lake', grade=10, gender='M', time=1653.52}
+{place=85, name='Steven Muir', school='Robbinsdale Cooper', grade=12, gender='M', time=1805.63}
+{place=86, name='Jay Nordstrom', school='Robbinsdale Cooper', grade=11, gender='M', time=1806.1}
+{place=87, name='Tim Schowalter', school='Big Lake', grade=10, gender='M', time=1892.9}

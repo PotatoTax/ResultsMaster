@@ -1,0 +1,64 @@
+Race : 1664
+{place=1, name='Riviera Wock', school='Orono', grade=8, gender='F', time=751.15}
+{place=2, name='Margo Nightingale', school='Mounds Park Academy', grade=7, gender='F', time=769.54}
+{place=3, name='Betsy Kirkpatrick', school='Minnehaha Academy', grade=8, gender='F', time=798.67}
+{place=4, name='Sarah Baum', school='RAACHE', grade=7, gender='F', time=806.9}
+{place=5, name='Quincy Shelp', school='Orono', grade=8, gender='F', time=808.48}
+{place=6, name='Molly  Liston', school='Blake', grade=8, gender='F', time=814.75}
+{place=7, name='Emily Bos', school='Mounds Park Academy', grade=7, gender='F', time=817.79}
+{place=8, name='Molly Dinardo', school='Minnehaha Academy', grade=7, gender='F', time=818.2}
+{place=9, name='Grace Kassebaum', school='Minnehaha Academy', grade=7, gender='F', time=819.83}
+{place=10, name='Olivia Bergin', school='Washburn', grade=8, gender='F', time=822.4}
+{place=11, name='Natania Cole', school='RAACHE', grade=8, gender='F', time=844.15}
+{place=12, name='Becca Richman', school='St Paul Academy', grade=7, gender='F', time=846.16}
+{place=13, name='Aby Denneson', school='Orono', grade=8, gender='F', time=852.33}
+{place=14, name='Amelia Foppe', school='Washburn', grade=8, gender='F', time=857.41}
+{place=15, name='Erin McQuillan', school='Visitation', grade=8, gender='F', time=861.76}
+{place=16, name='Halle Whitman', school='Minnehaha Academy', grade=7, gender='F', time=874.16}
+{place=17, name='Avary Lessard', school='Minnehaha Academy', grade=7, gender='F', time=874.26}
+{place=18, name='Megan Kauch', school='Orono', grade=8, gender='F', time=879.13}
+{place=19, name='Sophia Vezmar', school='Blake', grade=8, gender='F', time=880.33}
+{place=20, name='Johanna Perry', school='Washburn', grade=8, gender='F', time=881.34}
+{place=21, name='Becan Gage', school='Benilde-St Margaret', grade=7, gender='F', time=885.22}
+{place=22, name='Seyi Akinmusire', school='Nova Classical Academy', grade=8, gender='F', time=885.63}
+{place=23, name='Lily Peterson', school='Benilde-St Margaret', grade=7, gender='F', time=888.9}
+{place=24, name='Elaina Robertson', school='RAACHE', grade=8, gender='F', time=897.61}
+{place=25, name='Isabelle Giebink', school='Washburn', grade=8, gender='F', time=899.85}
+{place=26, name='Lena Kleven', school='Washburn', grade=8, gender='F', time=899.86}
+{place=27, name='Camden Gage', school='Benilde-St Margaret', grade=7, gender='F', time=907.53}
+{place=28, name='Annis Carins', school='Minnehaha Academy', grade=8, gender='F', time=907.74}
+{place=29, name='Isabelle  Alderman', school='RAACHE', grade=7, gender='F', time=910.57}
+{place=30, name='Serenity McCullar', school='RAACHE', grade=8, gender='F', time=915.63}
+{place=31, name='Ellie Weinstein', school='Breck', grade=8, gender='F', time=916.41}
+{place=32, name='Rosie Hicks', school='RAACHE', grade=8, gender='F', time=941.25}
+{place=33, name='Corrinne Field', school='Orono', grade=8, gender='F', time=942.27}
+{place=34, name='Annabelle Edwards', school='Orono', grade=8, gender='F', time=942.41}
+{place=35, name='Yvette Higgins', school='Nova Classical Academy', grade=7, gender='F', time=944.89}
+{place=36, name='Precious Takata', school='Minnehaha Academy', grade=7, gender='F', time=945.16}
+{place=37, name='Shay Scanlan', school='Nova Classical Academy', grade=8, gender='F', time=949.91}
+{place=38, name='Summer Kaeppe', school='Visitation', grade=8, gender='F', time=965.83}
+{place=39, name='Rachel Perry', school='RAACHE', grade=8, gender='F', time=967.46}
+{place=40, name='Carly Smithmier', school='Benilde-St Margaret', grade=8, gender='F', time=972.13}
+{place=41, name='Ellie DeCrans', school='Academy of Holy Angels', grade=8, gender='F', time=976.41}
+{place=42, name='Amy  Romanauski', school='RAACHE', grade=8, gender='F', time=986.57}
+{place=43, name='Ali Tarnowski', school='Benilde-St Margaret', grade=8, gender='F', time=988.19}
+{place=44, name='Maggie Amaris', school='Benilde-St Margaret', grade=8, gender='F', time=989.81}
+{place=45, name='Mia Schwartz', school='Nova Classical Academy', grade=8, gender='F', time=990.16}
+{place=46, name='Siena Kath', school='Minnehaha Academy', grade=6, gender='F', time=992.57}
+{place=47, name='McKenna Kalkbrenner', school='Orono', grade=7, gender='F', time=993.78}
+{place=48, name='Caroline Johnson', school='Orono', grade=7, gender='F', time=993.79}
+{place=49, name='Aryn Marble', school='Trinity', grade=8, gender='F', time=1005.91}
+{place=50, name='Natalie Hoffman', school='RAACHE', grade=8, gender='F', time=1015.84}
+{place=51, name='Elena McKenzie', school='RAACHE', grade=7, gender='F', time=1034.5}
+{place=52, name='Elizabeth Weber', school='Minnehaha Academy', grade=7, gender='F', time=1049.13}
+{place=53, name='Clare Willson', school='Trinity', grade=7, gender='F', time=1058.49}
+{place=54, name='Gigi Martin', school='Orono', grade=8, gender='F', time=1065.91}
+{place=55, name='Estella Reynolds', school='RAACHE', grade=7, gender='F', time=1079.42}
+{place=56, name='Julia Ferdinandt', school='St Agnes', grade=7, gender='F', time=1081.42}
+{place=57, name='Lulu Skroch', school='Breck', grade=8, gender='F', time=1086.16}
+{place=58, name='Clara Gay', school='RAACHE', grade=8, gender='F', time=1092.17}
+{place=59, name='Zoe Edinburgh', school='Blake', grade=7, gender='F', time=1115.67}
+{place=60, name='Anna Osterlund', school='RAACHE', grade=8, gender='F', time=1138.26}
+{place=61, name='Jada Rounds', school='RAACHE', grade=7, gender='F', time=1142.42}
+{place=62, name='Anna  Loegering', school='Hill-Murray', grade=7, gender='F', time=1184.13}
+{place=63, name='Mary Fischer', school='St Agnes', grade=8, gender='F', time=1223.55}

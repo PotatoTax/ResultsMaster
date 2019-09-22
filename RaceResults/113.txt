@@ -1,0 +1,71 @@
+Race : 113
+{place=1, name='Jens  Brabbit', school='Winona-Winona Cotter', grade=12, gender='M', time=763.57}
+{place=2, name='Hans Nygren', school='Lakeville South', grade=11, gender='M', time=805.16}
+{place=3, name='Bryan Boe', school='Prior Lake', grade=12, gender='M', time=817.43}
+{place=4, name='Josh Westlund', school='Park', grade=12, gender='M', time=834.68}
+{place=5, name='Sam Behrends', school='Hastings', grade=12, gender='M', time=836.06}
+{place=6, name='Michael Bumgarner', school='Rosemount', grade=12, gender='M', time=838.54}
+{place=7, name='Tyler  King', school='Lakeville', grade=11, gender='M', time=840.64}
+{place=8, name='Stu Lombardo', school='Lakeville South', grade=10, gender='M', time=841.68}
+{place=9, name='Gunnar Dancer', school='Hastings', grade=11, gender='M', time=841.76}
+{place=10, name='Tyler  Abery', school='Apple Valley', grade=11, gender='M', time=845.61}
+{place=11, name='Jon-Michael Brandt', school='Winona-Winona Cotter', grade=9, gender='M', time=849.56}
+{place=12, name='Dan Grannes', school='Apple Valley', grade=12, gender='M', time=871.75}
+{place=13, name='Jon Portinga', school='Hastings', grade=12, gender='M', time=886.89}
+{place=14, name='Logan Smestad', school='Northfield', grade=12, gender='M', time=899.08}
+{place=15, name='Josh Eide', school='Burnsville', grade=11, gender='M', time=904.68}
+{place=16, name='Jake Panzer', school='Lakeville South', grade=8, gender='M', time=911.52}
+{place=17, name='Valto Laiho', school='Eagan', grade=12, gender='M', time=918.84}
+{place=18, name='Nick Swanson', school='Northfield', grade=11, gender='M', time=921.41}
+{place=19, name='Harrison Okan', school='Burnsville', grade=10, gender='M', time=926.35}
+{place=20, name='Eric Engen', school='Winona-Winona Cotter', grade=9, gender='M', time=927.16}
+{place=21, name='Mark Halvorson', school='Burnsville', grade=12, gender='M', time=931.93}
+{place=22, name='David Bain', school='Burnsville', grade=11, gender='M', time=932.63}
+{place=23, name='Derek Schlager', school='Lakeville South', grade=10, gender='M', time=934.71}
+{place=24, name='Alex Blackie', school='Hastings', grade=11, gender='M', time=943.93}
+{place=25, name='Tyler Osegard', school='Rosemount', grade=11, gender='M', time=946.72}
+{place=26, name='Craig Soderling', school='Burnsville', grade=11, gender='M', time=951.41}
+{place=27, name='Mitch Weegman', school='Winona-Winona Cotter', grade=12, gender='M', time=956.45}
+{place=28, name='Jesse Bach', school='Lakeville', grade=12, gender='M', time=957.71}
+{place=29, name='Chad Furey', school='Apple Valley', grade=11, gender='M', time=962.1}
+{place=30, name='Mike  Dybvik', school='Prior Lake', grade=10, gender='M', time=962.98}
+{place=31, name='Wyatt Behrends', school='Hastings', grade=9, gender='M', time=965.8}
+{place=32, name='Michael Warweg', school='Rosemount', grade=12, gender='M', time=967.79}
+{place=33, name='Erik Brady', school='Eastview', grade=10, gender='M', time=973.18}
+{place=34, name='Joe Snyder', school='Park', grade=10, gender='M', time=974.85}
+{place=35, name='Eric Emmons', school='Northfield', grade=11, gender='M', time=983.35}
+{place=36, name='Ian Nelson', school='Winona-Winona Cotter', grade=10, gender='M', time=987.26}
+{place=37, name='Nick Andresen', school='Eastview', grade=10, gender='M', time=989.05}
+{place=38, name='Matt Volz', school='Lakeville South', grade=12, gender='M', time=993.93}
+{place=39, name='Chris Bullard', school='Winona-Winona Cotter', grade=11, gender='M', time=994.63}
+{place=40, name='Nathan Eisenbeis', school='Burnsville', grade=11, gender='M', time=1007.46}
+{place=41, name='Dan Saunders', school='Hastings', grade=10, gender='M', time=1008.89}
+{place=42, name='Brian Keane', school='Winona-Winona Cotter', grade=10, gender='M', time=1017.23}
+{place=43, name='Trevor Hanson', school='Prior Lake', grade=12, gender='M', time=1022.13}
+{place=44, name='Mac  Murphy', school='Prior Lake', grade=10, gender='M', time=1026.83}
+{place=45, name='Andy Herting', school='Burnsville', grade=11, gender='M', time=1028.36}
+{place=46, name='Jason House', school='Park', grade=11, gender='M', time=1030.93}
+{place=47, name='Sean Dougherty', school='Apple Valley', grade=11, gender='M', time=1033.86}
+{place=48, name='Andy Dodds', school='Apple Valley', grade=8, gender='M', time=1038.23}
+{place=49, name='Ryan Wieczorek', school='Lakeville South', grade=12, gender='M', time=1051.78}
+{place=50, name='John Muenchow', school='Lakeville South', grade=10, gender='M', time=1064.54}
+{place=51, name='Jon  Knutson', school='Lakeville', grade=11, gender='M', time=1087.03}
+{place=52, name='Jake Endersbe', school='Lakeville', grade=11, gender='M', time=1100.56}
+{place=53, name='Erik Herberg', school='Apple Valley', grade=12, gender='M', time=1105.04}
+{place=54, name='Mark Emmons', school='Northfield', grade=9, gender='M', time=1117.25}
+{place=55, name='Cameron Church', school='Simley', grade=11, gender='M', time=1118.77}
+{place=56, name='Chris Parr', school='Eagan', grade=8, gender='M', time=1121.06}
+{place=57, name='Ian O Neill', school='Northfield', grade=9, gender='M', time=1127.32}
+{place=58, name='Max vonHohenberg', school='Lakeville', grade=12, gender='M', time=1128.18}
+{place=59, name='Joe Wacker', school='Park', grade=12, gender='M', time=1129.05}
+{place=60, name='Thomas Dunning', school='Northfield', grade=9, gender='M', time=1142.46}
+{place=61, name='Ben Saxton', school='Lakeville', grade=7, gender='M', time=1158.17}
+{place=62, name='Andrew Halvorson', school='Hastings', grade=12, gender='M', time=1172.4}
+{place=63, name='Chris Broback', school='Lakeville', grade=10, gender='M', time=1194.65}
+{place=64, name='Rief Jonathon', school='Simley', grade=11, gender='M', time=1196.13}
+{place=65, name='Gerrit Duys', school='Northfield', grade=11, gender='M', time=1210.51}
+{place=66, name='Justin Titus', school='Park', grade=11, gender='M', time=1269.63}
+{place=67, name='Cody Kintzele', school='Simley', grade=11, gender='M', time=1289.96}
+{place=68, name='Mike Sieg', school='Simley', grade=11, gender='M', time=1320.0}
+{place=69, name='Nathan Schram', school='Simley', grade=10, gender='M', time=1456.17}
+{place=70, name='Chris Hammarsten', school='Simley', grade=12, gender='M', time=1525.54}

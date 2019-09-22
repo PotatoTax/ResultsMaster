@@ -1,0 +1,63 @@
+Race : 446
+{place=1, name='Phoebe Craig', school='Eagan', grade=10, gender='F', time=1034.54}
+{place=2, name='Emily Lynch', school='Eagan', grade=10, gender='F', time=1045.31}
+{place=3, name='Emma Richard', school='Eagan', grade=10, gender='F', time=1049.25}
+{place=4, name='Cassie Swanson', school='Eagan', grade=10, gender='F', time=1050.2}
+{place=5, name='Lizzie Thooft', school='Rosemount', grade=10, gender='F', time=1058.5}
+{place=6, name='Sammi Toepfer', school='Eagan', grade=9, gender='F', time=1062.73}
+{place=7, name='Reilly Hostager', school='Eagan', grade=9, gender='F', time=1065.08}
+{place=8, name='Laura Beniek', school='Henry Sibley', grade=7, gender='F', time=1069.79}
+{place=9, name='Julia Ing', school='Math & Science Academy', grade=8, gender='F', time=1074.23}
+{place=10, name='Maria Pfister', school='Minneapolis Southwest', grade=9, gender='F', time=1077.99}
+{place=11, name='Val Hachlowski', school='Henry Sibley', grade=10, gender='F', time=1090.27}
+{place=12, name='Nicole Sjoquist', school='Apple Valley', grade=9, gender='F', time=1090.85}
+{place=13, name='Haley King', school='Minneapolis Southwest', grade=10, gender='F', time=1092.68}
+{place=14, name='Kaylee Wyss', school='Rosemount', grade=9, gender='F', time=1093.46}
+{place=15, name='Maddie Banz', school='Eagan', grade=10, gender='F', time=1096.98}
+{place=16, name='Ines Siepmann', school='Math & Science Academy', grade=8, gender='F', time=1103.14}
+{place=17, name='Lindsey Hildebrand', school='Eagan', grade=10, gender='F', time=1105.1}
+{place=18, name='Kirsten Barrett', school='Eagan', grade=9, gender='F', time=1107.27}
+{place=19, name='Briana Cleveland', school='Rosemount', grade=9, gender='F', time=1108.64}
+{place=20, name='Shannon Allie', school='Henry Sibley', grade=9, gender='F', time=1109.7}
+{place=21, name='Molly Reber', school='Rosemount', grade=9, gender='F', time=1115.24}
+{place=22, name='Marta Peterson', school='Eagan', grade=10, gender='F', time=1119.24}
+{place=23, name='Naomi Ollila', school='Apple Valley', grade=10, gender='F', time=1125.75}
+{place=24, name='Lauren Johnson', school='Rosemount', grade=9, gender='F', time=1127.9}
+{place=25, name='Emma Storkamp', school='Henry Sibley', grade=10, gender='F', time=1128.77}
+{place=26, name='Marrisa Natzel', school='Eagan', grade=10, gender='F', time=1142.46}
+{place=27, name='Marisa Noyes', school='Eagan', grade=10, gender='F', time=1145.81}
+{place=28, name='Maddie Ames', school='Math & Science Academy', grade=9, gender='F', time=1155.0}
+{place=29, name='Casey Haas', school='Henry Sibley', grade=10, gender='F', time=1155.95}
+{place=30, name='Rose Dill', school='Henry Sibley', grade=9, gender='F', time=1156.37}
+{place=31, name='Maddie Gleekel', school='Math & Science Academy', grade=10, gender='F', time=1160.58}
+{place=32, name='Sydney Anderson', school='Eagan', grade=10, gender='F', time=1164.54}
+{place=33, name='Molly Ryan', school='Henry Sibley', grade=9, gender='F', time=1166.58}
+{place=34, name='Caroline Loe', school='Apple Valley', grade=9, gender='F', time=1173.27}
+{place=35, name='Miranda Stevens', school='Apple Valley', grade=10, gender='F', time=1190.04}
+{place=36, name='Abby Koski', school='St Croix Prep', grade=10, gender='F', time=1196.91}
+{place=37, name='Cecelia Metzdorff', school='Minneapolis Southwest', grade=10, gender='F', time=1198.6}
+{place=38, name='Britta Olmanson', school='Eagan', grade=10, gender='F', time=1203.02}
+{place=39, name='Danielle Sampers', school='Apple Valley', grade=9, gender='F', time=1208.12}
+{place=40, name='Maya Burke', school='Minneapolis Southwest', grade=10, gender='F', time=1218.79}
+{place=41, name='Angela Kariuki', school='Rosemount', grade=10, gender='F', time=1220.49}
+{place=42, name='Shelbie Werden', school='Eagan', grade=10, gender='F', time=1220.81}
+{place=43, name='Rachel Matuseski', school='Rosemount', grade=9, gender='F', time=1229.96}
+{place=44, name='Bella Nelson', school='Henry Sibley', grade=10, gender='F', time=1243.91}
+{place=45, name='Grace Wheeler', school='Rosemount', grade=10, gender='F', time=1254.06}
+{place=46, name='Olivia Segura', school='Henry Sibley', grade=7, gender='F', time=1254.96}
+{place=47, name='Erica Melroe', school='Eagan', grade=9, gender='F', time=1262.97}
+{place=48, name='Grace Longman', school='Rosemount', grade=10, gender='F', time=1265.06}
+{place=49, name='Emily Zibrowski', school='Eagan', grade=9, gender='F', time=1267.52}
+{place=50, name='Rebecca  Meyer', school='Eagan', grade=10, gender='F', time=1271.56}
+{place=51, name='Elaine Eckberg', school='St Croix Prep', grade=9, gender='F', time=1275.89}
+{place=52, name='Erin Runquist', school='Eagan', grade=9, gender='F', time=1276.39}
+{place=53, name='Ali Haugh', school='Eagan', grade=10, gender='F', time=1280.37}
+{place=54, name='Leigh Sass', school='Eagan', grade=9, gender='F', time=1281.62}
+{place=55, name='Josie Fritsch', school='Minneapolis Southwest', grade=10, gender='F', time=1308.17}
+{place=56, name='Libby Ames', school='Math & Science Academy', grade=8, gender='F', time=1314.9}
+{place=57, name='Maggie Noun', school='Minneapolis Southwest', grade=10, gender='F', time=1315.31}
+{place=58, name='Maddy Ober', school='Apple Valley', grade=9, gender='F', time=1360.33}
+{place=59, name='Sarah Feltault', school='Minneapolis Southwest', grade=10, gender='F', time=1365.67}
+{place=60, name='Lizzy Whitcomb', school='Henry Sibley', grade=9, gender='F', time=1366.77}
+{place=61, name='Danielle Giest', school='Henry Sibley', grade=10, gender='F', time=1487.87}
+{place=62, name='Sabrina  Rogers', school='Nova Classical Academy', grade=9, gender='F', time=1498.97}

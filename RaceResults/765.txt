@@ -1,0 +1,58 @@
+Race : 765
+{place=1, name='Nick Sokolowski', school='St Louis Park', grade=12, gender='M', time=1009.93}
+{place=2, name='Myles Fleming', school='Henry Sibley', grade=12, gender='M', time=1020.0}
+{place=3, name='Michael Mitchell', school='Blake', grade=9, gender='M', time=1023.56}
+{place=4, name='Alex Ilyushev', school='Minneapolis Southwest', grade=11, gender='M', time=1025.06}
+{place=5, name='Keith Katola', school='Orono', grade=12, gender='M', time=1038.5}
+{place=6, name='Kole Retterath', school='Mound-Westonka', grade=12, gender='M', time=1038.5}
+{place=7, name='Andrew Jewell', school='St Louis Park', grade=12, gender='M', time=1048.04}
+{place=8, name='Joey Lawder', school='Henry Sibley', grade=12, gender='M', time=1050.87}
+{place=9, name='Sam Shaheen', school='Minneapolis Southwest', grade=12, gender='M', time=1060.81}
+{place=10, name='Liam Schmelzle', school='St Louis Park', grade=11, gender='M', time=1062.56}
+{place=11, name='Anthony Dupont', school='Henry Sibley', grade=11, gender='M', time=1063.07}
+{place=12, name='Joe Dill', school='Henry Sibley', grade=9, gender='M', time=1066.32}
+{place=13, name='Owen Carruth', school='Henry Sibley', grade=12, gender='M', time=1066.52}
+{place=14, name='Malcolm Smith', school='Minneapolis Southwest', grade=12, gender='M', time=1070.6}
+{place=15, name='Matt Lahtinen', school='Orono', grade=10, gender='M', time=1072.64}
+{place=16, name='Stuart Gordon', school='Minneapolis Southwest', grade=12, gender='M', time=1074.28}
+{place=17, name='Jonah Shaw', school='Minneapolis Southwest', grade=12, gender='M', time=1076.07}
+{place=18, name='Jeremy  Leonard', school='St Croix Lutheran', grade=10, gender='M', time=1080.17}
+{place=19, name='Tim Ekblad', school='Henry Sibley', grade=10, gender='M', time=1080.37}
+{place=20, name='Jackson Sokolowski', school='St Louis Park', grade=9, gender='M', time=1084.43}
+{place=21, name='George  Nowak', school='St Louis Park', grade=8, gender='M', time=1087.7}
+{place=22, name='Nick Pemberton', school='DeLaSalle', grade=12, gender='M', time=1090.77}
+{place=23, name='Ricky Peterson', school='Henry Sibley', grade=12, gender='M', time=1096.83}
+{place=24, name='Conrad Phelan', school='St Louis Park', grade=10, gender='M', time=1099.25}
+{place=25, name='Michael Smith', school='Blake', grade=9, gender='M', time=1103.74}
+{place=26, name='Eric Bakken', school='Orono', grade=12, gender='M', time=1107.4}
+{place=27, name='Mike Choiniere', school='Orono', grade=12, gender='M', time=1107.81}
+{place=28, name='Quinn Coyle', school='Blake', grade=12, gender='M', time=1109.56}
+{place=29, name='Matthew Mitchell', school='Blake', grade=11, gender='M', time=1109.56}
+{place=30, name='Richard Beck', school='Orono', grade=9, gender='M', time=1110.31}
+{place=31, name='Micah Anderson', school='St Louis Park', grade=9, gender='M', time=1117.6}
+{place=32, name='Rudy Rice', school='Mound-Westonka', grade=12, gender='M', time=1118.31}
+{place=33, name='Sam Taggart', school='Mound-Westonka', grade=11, gender='M', time=1123.7}
+{place=34, name='Zach Altman', school='Mound-Westonka', grade=12, gender='M', time=1135.7}
+{place=35, name='Chris Hall', school='Blake', grade=12, gender='M', time=1150.32}
+{place=36, name='Nick Lowery', school='Orono', grade=12, gender='M', time=1164.16}
+{place=37, name='Matt Humbert', school='Mound-Westonka', grade=8, gender='M', time=1168.82}
+{place=38, name='Ben Suek', school='DeLaSalle', grade=12, gender='M', time=1177.17}
+{place=39, name='Nathan Birr', school='St Croix Lutheran', grade=10, gender='M', time=1179.62}
+{place=40, name='Cameron Hastings', school='Blake', grade=12, gender='M', time=1200.15}
+{place=41, name='Sam Abbegglen', school='Mound-Westonka', grade=10, gender='M', time=1201.07}
+{place=42, name='Malik Bowker-Hassan', school='DeLaSalle', grade=11, gender='M', time=1202.32}
+{place=43, name='Jack Pohlad', school='Breck', grade=9, gender='M', time=1215.41}
+{place=44, name='Ben Banavige', school='Orono', grade=12, gender='M', time=1217.41}
+{place=45, name='Andrew Larson', school='Blake', grade=11, gender='M', time=1219.82}
+{place=46, name='Nathaniel Rowe', school='DeLaSalle', grade=12, gender='M', time=1233.7}
+{place=47, name='Aaron Peters', school='St Croix Lutheran', grade=12, gender='M', time=1233.7}
+{place=48, name='Thomas Dickstein', school='Breck', grade=10, gender='M', time=1236.16}
+{place=49, name='Samuel Rex', school='Breck', grade=9, gender='M', time=1255.32}
+{place=50, name='Michael Timmerman', school='DeLaSalle', grade=11, gender='M', time=1256.91}
+{place=51, name='David Caruso', school='Breck', grade=12, gender='M', time=1262.78}
+{place=52, name='Tait Helgaas', school='Breck', grade=10, gender='M', time=1303.57}
+{place=53, name='Kory Smart', school='St Croix Lutheran', grade=12, gender='M', time=1327.06}
+{place=54, name='Nic Brustad', school='St Croix Lutheran', grade=9, gender='M', time=1328.57}
+{place=55, name='Luis  Guzman', school='Breck', grade=12, gender='M', time=1345.33}
+{place=56, name='Sterling Korstad', school='St Croix Lutheran', grade=12, gender='M', time=1365.07}
+{place=57, name='Nathan Czlapinski', school='St Croix Lutheran', grade=11, gender='M', time=1381.55}

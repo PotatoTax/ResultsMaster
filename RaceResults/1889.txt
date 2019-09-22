@@ -1,0 +1,119 @@
+Race : 1889
+{place=1, name='Matt Harries', school='Wayzata', grade=8, gender='M', time=628.62}
+{place=2, name='Ethan Hanold', school='Wayzata', grade=8, gender='M', time=640.58}
+{place=3, name='Soren Bartell', school='Fargo North', grade=8, gender='M', time=645.45}
+{place=4, name='Jonas Anez', school='Willmar', grade=8, gender='M', time=648.29}
+{place=5, name='Ian Koosman', school='Willmar', grade=8, gender='M', time=662.31}
+{place=6, name='Colin O'Farrell', school='Willmar', grade=8, gender='M', time=662.9}
+{place=7, name='Connor Von Holdt', school='Wayzata', grade=8, gender='M', time=665.36}
+{place=8, name='Alex Foss', school='Wayzata', grade=8, gender='M', time=666.57}
+{place=9, name='Braxton Middaugh', school='Fargo North', grade=7, gender='M', time=676.32}
+{place=10, name='Alex Williams', school='Wayzata', grade=8, gender='M', time=676.65}
+{place=11, name='Kory Behm', school='Willmar', grade=8, gender='M', time=677.4}
+{place=12, name='Carter Schow', school='Willmar', grade=8, gender='M', time=678.4}
+{place=13, name='Noah Kaster', school='Wayzata', grade=8, gender='M', time=682.83}
+{place=14, name='Owen Devins', school='Wayzata', grade=8, gender='M', time=684.64}
+{place=15, name='Kaleb Feia', school='Wayzata', grade=8, gender='M', time=687.65}
+{place=16, name='Fred Damhof', school='Willmar', grade=8, gender='M', time=687.9}
+{place=17, name='Kaleb Sharp', school='Jordan', grade=7, gender='M', time=688.3}
+{place=18, name='Jason Malmgren', school='Willmar', grade=8, gender='M', time=689.31}
+{place=19, name='Max Danio', school='Wayzata', grade=8, gender='M', time=693.15}
+{place=20, name='Brenden Allen', school='Wayzata', grade=8, gender='M', time=694.82}
+{place=21, name='Luke Yokom', school='Fargo North', grade=8, gender='M', time=698.4}
+{place=22, name='Gavin Hilyar', school='Elk River', grade=8, gender='M', time=699.92}
+{place=23, name='Charlie Hale', school='Wayzata', grade=8, gender='M', time=700.9}
+{place=24, name='Max McCollins', school='Wayzata', grade=8, gender='M', time=707.65}
+{place=25, name='Inesh Gunapati', school='Wayzata', grade=8, gender='M', time=708.15}
+{place=26, name='Cameron Lehmann', school='Elk River', grade=8, gender='M', time=708.4}
+{place=27, name='Braeden Erickson', school='Willmar', grade=7, gender='M', time=709.16}
+{place=28, name='Sergio Fernandez', school='Willmar', grade=8, gender='M', time=709.4}
+{place=29, name='Jon  Geske', school='Fargo North', grade=8, gender='M', time=712.45}
+{place=30, name='Pranav Madasamy', school='Wayzata', grade=8, gender='M', time=712.46}
+{place=31, name='Davis Artisensi-Skime', school='Elk River', grade=7, gender='M', time=715.31}
+{place=32, name='Connor Whealy', school='Wayzata', grade=8, gender='M', time=716.12}
+{place=33, name='Trace Olson', school='Moorhead', grade=8, gender='M', time=719.58}
+{place=34, name='Finnegan Lynch', school='Fargo North', grade=7, gender='M', time=723.63}
+{place=35, name='Kaleb Gibson', school='Willmar', grade=8, gender='M', time=724.44}
+{place=36, name='Dan Stoll', school='Fargo North', grade=7, gender='M', time=726.65}
+{place=37, name='Mitchell Anonen', school='Wayzata', grade=8, gender='M', time=729.15}
+{place=38, name='Victor Heinze', school='Wayzata', grade=8, gender='M', time=729.73}
+{place=39, name='Jake Boston', school='Wayzata', grade=8, gender='M', time=731.15}
+{place=40, name='Jonathan Walker', school='Wayzata', grade=8, gender='M', time=731.16}
+{place=41, name='Isaac Eichhorst', school='Willmar', grade=8, gender='M', time=734.41}
+{place=42, name='Cullen Flieth', school='Jamestown', grade=8, gender='M', time=735.4}
+{place=43, name='Tristan Kramlich', school='Fargo North', grade=8, gender='M', time=735.49}
+{place=44, name='Caden Strasser', school='Pipestone', grade=7, gender='M', time=735.65}
+{place=45, name='Nick Cichoski', school='Wayzata', grade=8, gender='M', time=736.86}
+{place=46, name='Dylan Johnson', school='Wayzata', grade=7, gender='M', time=740.32}
+{place=47, name='Jaron Coombs', school='Jamestown', grade=7, gender='M', time=741.13}
+{place=48, name='Hunter  Stier', school='Jordan', grade=8, gender='M', time=742.76}
+{place=49, name='Ian Simetkosky', school='Moorhead', grade=7, gender='M', time=743.36}
+{place=50, name='Nathan Helgeson', school='Moorhead', grade=8, gender='M', time=743.55}
+{place=51, name='Maxwell Rogers', school='Moorhead', grade=8, gender='M', time=746.4}
+{place=52, name='Joshua Thoen', school='Coon Rapids', grade=8, gender='M', time=749.69}
+{place=53, name='Joey Johnston', school='Coon Rapids', grade=8, gender='M', time=750.41}
+{place=54, name='Colin Bos', school='Willmar', grade=8, gender='M', time=750.66}
+{place=55, name='Jack Elmer', school='Moorhead', grade=7, gender='M', time=757.6}
+{place=56, name='Isaac Martel', school='Moorhead', grade=8, gender='M', time=758.41}
+{place=57, name='Nick Mohr', school='Willmar', grade=8, gender='M', time=758.41}
+{place=58, name='Logan Sokolofsky', school='Fargo North', grade=8, gender='M', time=763.4}
+{place=59, name='Nekolas Moran', school='Moorhead', grade=7, gender='M', time=764.52}
+{place=60, name='Brenden Kath', school='Willmar', grade=7, gender='M', time=772.83}
+{place=61, name='Caine Novak', school='Coon Rapids', grade=8, gender='M', time=774.17}
+{place=62, name='Jack Watzke', school='Moorhead', grade=7, gender='M', time=774.91}
+{place=63, name='Alan Zarate', school='Jordan', grade=7, gender='M', time=776.4}
+{place=64, name='Brenden Hyvare', school='Wayzata', grade=7, gender='M', time=777.25}
+{place=65, name='Ridgley Hulstein', school='Willmar', grade=8, gender='M', time=777.65}
+{place=66, name='Joe Hernandez', school='Jordan', grade=8, gender='M', time=778.87}
+{place=67, name='Connor Zephier', school='Pipestone', grade=8, gender='M', time=782.14}
+{place=68, name='Harris Duininck', school='Willmar', grade=8, gender='M', time=783.37}
+{place=69, name='Jackson Naumann', school='Jamestown', grade=8, gender='M', time=784.16}
+{place=70, name='Alex Merino', school='Willmar', grade=8, gender='M', time=785.81}
+{place=71, name='Jackson Sportel', school='Willmar', grade=8, gender='M', time=792.4}
+{place=72, name='Martan Gregoire', school='Moorhead', grade=8, gender='M', time=793.35}
+{place=73, name='Carter Olson', school='Wayzata', grade=7, gender='M', time=793.55}
+{place=74, name='Tobi Shorunke', school='Fargo North', grade=8, gender='M', time=795.36}
+{place=75, name='Ronan Leonard', school='Wayzata', grade=7, gender='M', time=798.2}
+{place=76, name='Kine Wild', school='Fargo North', grade=8, gender='M', time=800.63}
+{place=77, name='Benson Kozitka', school='Elk River', grade=8, gender='M', time=803.66}
+{place=78, name='Austin Johnson', school='Pipestone', grade=8, gender='M', time=811.82}
+{place=79, name='Nathanael Zupp', school='Pipestone', grade=8, gender='M', time=816.29}
+{place=80, name='Jaden Lorang', school='Pipestone', grade=8, gender='M', time=819.9}
+{place=81, name='Hunter  Alexander', school='Jordan', grade=7, gender='M', time=821.66}
+{place=82, name='Evan Watkin', school='Fargo North', grade=8, gender='M', time=823.96}
+{place=83, name='Hunter Wall', school='Willmar', grade=6, gender='M', time=833.31}
+{place=84, name='Garrett Rotzien', school='Coon Rapids', grade=8, gender='M', time=834.94}
+{place=85, name='Asher Gann', school='Moorhead', grade=7, gender='M', time=837.16}
+{place=86, name='Lucas Rutten', school='Fargo North', grade=7, gender='M', time=838.58}
+{place=87, name='Jacob Loerzel', school='Willmar', grade=6, gender='M', time=845.66}
+{place=88, name='Mason Klocke', school='Jamestown', grade=7, gender='M', time=846.27}
+{place=89, name='Kolton Doucette', school='Moorhead', grade=8, gender='M', time=849.33}
+{place=90, name='Jeremy Murray', school='Moorhead', grade=8, gender='M', time=850.14}
+{place=91, name='Owen Seewald-Marquardt', school='Moorhead', grade=8, gender='M', time=851.41}
+{place=92, name='Caleb Gibson', school='Moorhead', grade=8, gender='M', time=853.6}
+{place=93, name='Zack Houge', school='Jamestown', grade=8, gender='M', time=856.27}
+{place=94, name='Caden Kulm', school='Pipestone', grade=8, gender='M', time=866.39}
+{place=95, name='Max Mobley', school='Willmar', grade=7, gender='M', time=877.37}
+{place=96, name='Tyan Nordstrom', school='Fargo North', grade=7, gender='M', time=878.57}
+{place=97, name='Miles Harris', school='Hopkins', grade=7, gender='M', time=879.66}
+{place=98, name='Nathan Otterness', school='Jordan', grade=7, gender='M', time=881.63}
+{place=99, name='Owen Minet', school='Pipestone', grade=8, gender='M', time=895.61}
+{place=100, name='Charlie Wicks', school='Fargo North', grade=7, gender='M', time=896.82}
+{place=101, name='Logan Thooft', school='Pipestone', grade=8, gender='M', time=899.87}
+{place=102, name='Brandan Zepeda', school='Willmar', grade=6, gender='M', time=901.88}
+{place=103, name='Andrew Norberg', school='Jordan', grade=7, gender='M', time=907.66}
+{place=104, name='Alex Lage', school='Elk River', grade=8, gender='M', time=907.91}
+{place=105, name='James Weninger', school='Fargo North', grade=7, gender='M', time=915.3}
+{place=106, name='Hans Alin', school='Moorhead', grade=7, gender='M', time=941.58}
+{place=107, name='Sean Putz', school='Moorhead', grade=7, gender='M', time=956.9}
+{place=108, name='Trae Schettl', school='Jordan', grade=7, gender='M', time=958.91}
+{place=109, name='Frederic Hauge', school='Moorhead', grade=8, gender='M', time=964.38}
+{place=110, name='Dakota MacAdams', school='Moorhead', grade=8, gender='M', time=979.64}
+{place=111, name='Drew  Kirkpatrick', school='Fargo North', grade=7, gender='M', time=981.46}
+{place=112, name='Josh Beck', school='Fargo North', grade=9, gender='M', time=997.41}
+{place=113, name='Alexander Beck', school='Coon Rapids', grade=8, gender='M', time=1021.23}
+{place=114, name='Eli Christiansen', school='Coon Rapids', grade=8, gender='M', time=1022.24}
+{place=115, name='Eric Sellmann', school='Willmar', grade=7, gender='M', time=1031.91}
+{place=116, name='Alexander Bessie', school='Moorhead', grade=7, gender='M', time=1050.27}
+{place=117, name='Ben Jorgenson', school='Coon Rapids', grade=8, gender='M', time=1070.55}
+{place=118, name='Nathan Larson', school='Moorhead', grade=7, gender='M', time=1481.17}

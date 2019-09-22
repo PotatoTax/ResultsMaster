@@ -1,0 +1,212 @@
+Race : 1776
+{place=1, name='Preston Meier', school='Owatonna', grade=8, gender='M', time=473.9}
+{place=2, name='Connor Ginskey', school='Owatonna', grade=8, gender='M', time=473.9}
+{place=3, name='Brayden Williams', school='Owatonna', grade=8, gender='M', time=501.45}
+{place=4, name='Jack Meiners', school='Owatonna', grade=8, gender='M', time=503.9}
+{place=5, name='Emmett Gerres', school='Belle Plaine', grade=7, gender='M', time=507.96}
+{place=6, name='JACK ELLIOTT', school='Edina', grade=8, gender='M', time=509.58}
+{place=7, name='Eli Knutson', school='Owatonna', grade=8, gender='M', time=512.2}
+{place=8, name='Aaron Blasingame', school='Oak Grove Middle School', grade=8, gender='M', time=524.41}
+{place=9, name='OWEN SIMONSEN', school='Edina', grade=8, gender='M', time=526.2}
+{place=10, name='JAY LEBAKKEN', school='Edina', grade=8, gender='M', time=527.87}
+{place=11, name='ETHAN RICHTER', school='Edina', grade=8, gender='M', time=528.2}
+{place=12, name='Will Koestler', school='Nova Classical Academy', grade=7, gender='M', time=534.93}
+{place=13, name='Harrison Oxford', school='Blake', grade=7, gender='M', time=535.14}
+{place=14, name='Zach Studdiford', school='Oak Grove Middle School', grade=8, gender='M', time=535.95}
+{place=15, name='Spencer Frost', school='Nova Classical Academy', grade=8, gender='M', time=538.2}
+{place=16, name='Henry Karelitz', school='Nova Classical Academy', grade=7, gender='M', time=539.81}
+{place=17, name='Eric Dean', school='Fridley', grade=8, gender='M', time=540.42}
+{place=18, name='Sam Knoll', school='Owatonna', grade=8, gender='M', time=541.95}
+{place=19, name='Jack O'Brien', school='St Paul Academy', grade=7, gender='M', time=543.95}
+{place=20, name='Benjamin Hawley', school='Oak Grove Middle School', grade=8, gender='M', time=544.91}
+{place=21, name='WILLIAM LIETHEN', school='Edina', grade=8, gender='M', time=545.11}
+{place=22, name='Sidney Harris', school='Nova Classical Academy', grade=8, gender='M', time=545.11}
+{place=23, name='Dylan Meiners', school='Owatonna', grade=8, gender='M', time=545.46}
+{place=24, name='Brenden Drever', school='Owatonna', grade=8, gender='M', time=547.14}
+{place=25, name='Trevor Hiatt', school='Owatonna', grade=7, gender='M', time=551.61}
+{place=26, name='Jake Schefers', school='Rochester Century', grade=9, gender='M', time=551.95}
+{place=27, name='HARRISON LAWLER', school='Edina', grade=7, gender='M', time=553.44}
+{place=28, name='Zach Bizal', school='Oak Grove Middle School', grade=7, gender='M', time=553.84}
+{place=29, name='TOREN HOWE', school='Edina', grade=7, gender='M', time=556.9}
+{place=30, name='HOKEN OPSAHL', school='Edina', grade=8, gender='M', time=556.95}
+{place=31, name='Douglas Lee', school='Rochester Century', grade=7, gender='M', time=558.32}
+{place=32, name='Avery Cords', school='Owatonna', grade=8, gender='M', time=561.96}
+{place=33, name='Adam Stiemke', school='Belle Plaine', grade=8, gender='M', time=562.96}
+{place=34, name='OWEN JOHNSON', school='Edina', grade=8, gender='M', time=563.59}
+{place=35, name='David Smith', school='Owatonna', grade=7, gender='M', time=564.95}
+{place=36, name='Jack Griffin', school='Blake', grade=7, gender='M', time=565.21}
+{place=37, name='Aman Gidwani', school='Nova Classical Academy', grade=8, gender='M', time=569.46}
+{place=38, name='Alex Chiesa', school='Blake', grade=7, gender='M', time=570.71}
+{place=39, name='Leo Curtis', school='Oak Grove Middle School', grade=8, gender='M', time=571.33}
+{place=40, name='ADAM RODEGHIER', school='Edina', grade=7, gender='M', time=572.75}
+{place=41, name='Ashton Holbrook', school='Belle Plaine', grade=8, gender='M', time=573.16}
+{place=42, name='Henry Muehlhausen', school='Edina', grade=7, gender='M', time=575.61}
+{place=43, name='Colin Carnish', school='Olson Middle School', grade=7, gender='M', time=576.63}
+{place=44, name='MITCHELL MAHLUM', school='Edina', grade=7, gender='M', time=578.21}
+{place=45, name='GRANT DZANDZARA', school='Edina', grade=7, gender='M', time=578.65}
+{place=46, name='OWEN SANDERSON', school='Edina', grade=7, gender='M', time=579.67}
+{place=47, name='PETER MANS', school='Edina', grade=8, gender='M', time=579.67}
+{place=48, name='Brian Chuuoy', school='Burnsville', grade=6, gender='M', time=580.66}
+{place=49, name='Max Conrad', school='Belle Plaine', grade=7, gender='M', time=584.12}
+{place=50, name='ANDREW AASEN', school='Edina', grade=7, gender='M', time=584.71}
+{place=51, name='Kevin He', school='Belle Plaine', grade=8, gender='M', time=585.33}
+{place=52, name='WILLIAM NAHLOVSKY', school='Edina', grade=8, gender='M', time=587.36}
+{place=53, name='Austin Eyrich', school='Belle Plaine', grade=8, gender='M', time=588.17}
+{place=54, name='McGregor Niemann', school='Blake', grade=7, gender='M', time=588.71}
+{place=55, name='Eddie Nordin', school='Fridley', grade=8, gender='M', time=590.83}
+{place=56, name='ANDREW DEFOR', school='Edina', grade=7, gender='M', time=592.55}
+{place=57, name='Austin Heiling', school='Shakopee', grade=12, gender='M', time=592.67}
+{place=58, name='Derek Smith', school='Richfield', grade=7, gender='M', time=592.96}
+{place=59, name='Hiltner Henry', school='Valley View Middle School', grade=7, gender='M', time=594.21}
+{place=60, name='Ian Klein', school='Olson Middle School', grade=6, gender='M', time=596.71}
+{place=61, name='FINLEY WEBB', school='Edina', grade=8, gender='M', time=597.34}
+{place=62, name='WILLIAM OCONNELL', school='Edina', grade=7, gender='M', time=598.56}
+{place=63, name='DAVID KIM', school='Edina', grade=7, gender='M', time=599.37}
+{place=64, name='JASPER BLANCHETT', school='Edina', grade=8, gender='M', time=599.38}
+{place=65, name='ETHAN PETRELLA', school='Edina', grade=7, gender='M', time=599.46}
+{place=66, name='SOREN EPPLE', school='Edina', grade=7, gender='M', time=601.21}
+{place=67, name='Damien Boubin', school='Owatonna', grade=8, gender='M', time=601.42}
+{place=68, name='MAXWELL WINTER', school='Edina', grade=8, gender='M', time=601.61}
+{place=69, name='Jack Teske', school='Olson Middle School', grade=8, gender='M', time=601.81}
+{place=70, name='GAGE CURRY', school='Edina', grade=7, gender='M', time=602.83}
+{place=71, name='Benton Seifert', school='Belle Plaine', grade=7, gender='M', time=603.64}
+{place=72, name='Daniel Ma', school='Minnehaha Academy', grade=7, gender='M', time=604.21}
+{place=73, name='Zander Tweet', school='Oak Grove Middle School', grade=8, gender='M', time=605.46}
+{place=74, name='OWEN NIELSON', school='Edina', grade=7, gender='M', time=605.96}
+{place=75, name='Tate Gfrerer', school='Owatonna', grade=8, gender='M', time=606.88}
+{place=76, name='KEVIN YI', school='Edina', grade=7, gender='M', time=608.12}
+{place=77, name='Aiden Lodahl', school='Oak Grove Middle School', grade=6, gender='M', time=617.13}
+{place=78, name='Owen Caliri', school='Shakopee', grade=9, gender='M', time=618.15}
+{place=79, name='Zech Ziegler', school='Minnehaha Academy', grade=8, gender='M', time=618.21}
+{place=80, name='Caden Menning', school='Shakopee', grade=7, gender='M', time=618.54}
+{place=81, name='Tom Robar', school='Olson Middle School', grade=7, gender='M', time=618.95}
+{place=82, name='Sam Rudolph', school='Richfield', grade=8, gender='M', time=621.71}
+{place=83, name='HAMILTON KEHOE', school='Edina', grade=7, gender='M', time=623.63}
+{place=84, name='Noah Swenson', school='Rochester Century', grade=7, gender='M', time=625.66}
+{place=85, name='London Shiely', school='Blake', grade=7, gender='M', time=626.96}
+{place=86, name='Forrest Noeske', school='Oak Grove Middle School', grade=6, gender='M', time=627.46}
+{place=87, name='CHARLES OLSON', school='Edina', grade=7, gender='M', time=627.98}
+{place=88, name='MICAH BERGE', school='Edina', grade=8, gender='M', time=629.96}
+{place=89, name='Max Evenoff', school='Olson Middle School', grade=7, gender='M', time=631.17}
+{place=90, name='Nathan  Cole', school='Olson Middle School', grade=7, gender='M', time=631.21}
+{place=91, name='Ian Grewe', school='St Paul Academy', grade=6, gender='M', time=632.21}
+{place=92, name='Alex Pazahanick', school='Oak Grove Middle School', grade=8, gender='M', time=632.96}
+{place=93, name='Nickolai Farber', school='Nova Classical Academy', grade=7, gender='M', time=634.4}
+{place=94, name='Ben Thorman', school='Oak Grove Middle School', grade=6, gender='M', time=634.71}
+{place=95, name='Ford Reedy', school='St Paul Academy', grade=6, gender='M', time=635.13}
+{place=96, name='Sam Keefe', school='Oak Grove Middle School', grade=6, gender='M', time=636.46}
+{place=97, name='Oliver Hoppe', school='Nova Classical Academy', grade=8, gender='M', time=636.82}
+{place=98, name='Daniel  Brown', school='Nova Classical Academy', grade=8, gender='M', time=641.91}
+{place=99, name='Samual VanZummeren', school='Belle Plaine', grade=8, gender='M', time=645.59}
+{place=100, name='Connor Okey', school='Richfield', grade=7, gender='M', time=645.78}
+{place=101, name='COLE BRAZEL', school='Edina', grade=7, gender='M', time=646.2}
+{place=102, name='Zach Greve', school='Burnsville', grade=8, gender='M', time=646.62}
+{place=103, name='Josh Brandt', school='Oak Grove Middle School', grade=8, gender='M', time=647.62}
+{place=104, name='Everett Sandbo', school='Burnsville', grade=8, gender='M', time=649.85}
+{place=105, name='Jack Slattery', school='Burnsville', grade=6, gender='M', time=649.86}
+{place=106, name='Timothy  Yocum', school='Fridley', grade=8, gender='M', time=658.58}
+{place=107, name='Matthew Swenson', school='Rochester Century', grade=7, gender='M', time=659.71}
+{place=108, name='Tietje Nicholas', school='Richfield', grade=7, gender='M', time=660.4}
+{place=109, name='Ishan Khurana', school='Blake', grade=8, gender='M', time=661.83}
+{place=110, name='Samuel Jack', school='Rochester Century', grade=7, gender='M', time=662.64}
+{place=111, name='Alex Cowles', school='St Paul Humboldt', grade=7, gender='M', time=663.64}
+{place=112, name='Judah McDonald', school='Burnsville', grade=7, gender='M', time=664.54}
+{place=113, name='ADAM ERICKSON', school='Edina', grade=7, gender='M', time=665.66}
+{place=114, name='PARKER HUGHES', school='Edina', grade=7, gender='M', time=666.46}
+{place=115, name='Owen Stanley', school='Minnehaha Academy', grade=6, gender='M', time=667.21}
+{place=116, name='Wyatt Dayhoff', school='Blake', grade=8, gender='M', time=668.21}
+{place=117, name='Tyler Johnson', school='Olson Middle School', grade=8, gender='M', time=668.89}
+{place=118, name='Owen Baker', school='Olson Middle School', grade=6, gender='M', time=669.29}
+{place=119, name='Calvin Kruger', school='Burnsville', grade=7, gender='M', time=669.92}
+{place=120, name='Jack Liebo', school='Blake', grade=7, gender='M', time=669.92}
+{place=121, name='Isaac Vesta', school='Valley View Middle School', grade=7, gender='M', time=669.97}
+{place=122, name='Harry Schlosser', school='Nova Classical Academy', grade=8, gender='M', time=672.15}
+{place=123, name='MAXWELL HEIRIGS', school='Edina', grade=7, gender='M', time=673.37}
+{place=124, name='Michael Doyle', school='Oak Grove Middle School', grade=7, gender='M', time=674.18}
+{place=125, name='Jake Bovin', school='Oak Grove Middle School', grade=6, gender='M', time=674.18}
+{place=126, name='Ethan Martens', school='Olson Middle School', grade=8, gender='M', time=676.25}
+{place=127, name='Matthew  Cunningham', school='Olson Middle School', grade=6, gender='M', time=676.63}
+{place=128, name='Cory Kalina', school='Burnsville', grade=8, gender='M', time=677.21}
+{place=129, name='ERIC KAMP', school='Edina', grade=7, gender='M', time=682.72}
+{place=130, name='Nick Ellerd', school='Nova Middle School', grade=6, gender='M', time=683.96}
+{place=131, name='Calvin Chuuoy', school='Burnsville', grade=6, gender='M', time=686.63}
+{place=132, name='Carter Pazahanick', school='Oak Grove Middle School', grade=6, gender='M', time=691.9}
+{place=133, name='NOLAN RANGER', school='Edina', grade=7, gender='M', time=692.47}
+{place=134, name='Robbie Holzman', school='Olson Middle School', grade=8, gender='M', time=693.11}
+{place=135, name='Jens Alford', school='Oak Grove Middle School', grade=7, gender='M', time=693.33}
+{place=136, name='Thao Nguyen', school='Belle Plaine', grade=8, gender='M', time=694.5}
+{place=137, name='Oliver Davis', school='Nova Middle School', grade=6, gender='M', time=695.55}
+{place=138, name='Evin Corrigan', school='Nova Classical Academy', grade=8, gender='M', time=695.96}
+{place=139, name='Andy Stevenson', school='Fridley', grade=8, gender='M', time=696.16}
+{place=140, name='Bruen Drum', school='Burnsville', grade=7, gender='M', time=697.46}
+{place=141, name='ROWAN NORDIN', school='Edina', grade=7, gender='M', time=698.96}
+{place=142, name='William Stone', school='Burnsville', grade=6, gender='M', time=699.71}
+{place=143, name='Henry Buchanan', school='Burnsville', grade=7, gender='M', time=701.96}
+{place=144, name='Gabe Fox', school='Olson Middle School', grade=7, gender='M', time=702.22}
+{place=145, name='Martin Lindstrom', school='Nova Classical Academy', grade=8, gender='M', time=702.46}
+{place=146, name='Carter Gallagher', school='Olson Middle School', grade=7, gender='M', time=703.7}
+{place=147, name='GABRIEL GONDEK', school='Edina', grade=7, gender='M', time=704.46}
+{place=148, name='Carter Johnson', school='Minnehaha Academy', grade=6, gender='M', time=705.46}
+{place=149, name='Zack Jensen', school='Olson Middle School', grade=8, gender='M', time=707.53}
+{place=150, name='Sam Hoeppner', school='Olson Middle School', grade=8, gender='M', time=708.96}
+{place=151, name='Nick Larson', school='Burnsville', grade=7, gender='M', time=710.79}
+{place=152, name='LEIF MICHAELSON', school='Edina', grade=7, gender='M', time=712.63}
+{place=153, name='Emmett Fahey', school='Belle Plaine', grade=8, gender='M', time=712.83}
+{place=154, name='Henry Batson', school='St Paul Academy', grade=7, gender='M', time=718.72}
+{place=155, name='Isaac Sorenson', school='Burnsville', grade=6, gender='M', time=718.96}
+{place=156, name='AARON PENCE', school='Edina', grade=7, gender='M', time=720.17}
+{place=157, name='Garrett Buryska', school='Owatonna', grade=7, gender='M', time=720.77}
+{place=158, name='Sam Gyasi', school='Oak Grove Middle School', grade=7, gender='M', time=722.61}
+{place=159, name='Addison Andrix', school='Owatonna', grade=8, gender='M', time=723.2}
+{place=160, name='Brendan Frost', school='Nova Middle School', grade=5, gender='M', time=724.83}
+{place=161, name='CAMPBELL WILLMUTH', school='Edina', grade=7, gender='M', time=725.63}
+{place=162, name='Elijah Tellez', school='Valley View Middle School', grade=7, gender='M', time=725.96}
+{place=163, name='Tanush Dhingra', school='Blake', grade=7, gender='M', time=727.69}
+{place=164, name='Rejat Krishnan', school='Nova Middle School', grade=6, gender='M', time=728.97}
+{place=165, name='Riley Lodahl', school='Oak Grove Middle School', grade=6, gender='M', time=729.21}
+{place=166, name='Nathan Habermas', school='Olson Middle School', grade=7, gender='M', time=736.46}
+{place=167, name='ADWIN SHI', school='Edina', grade=7, gender='M', time=738.11}
+{place=168, name='Liam Ritchie', school='Richfield', grade=7, gender='M', time=738.52}
+{place=169, name='ZACHARY HOLMES', school='Edina', grade=7, gender='M', time=740.14}
+{place=170, name='Gabe Kuehn', school='Richfield', grade=8, gender='M', time=744.38}
+{place=171, name='NATHAN WAGNER', school='Edina', grade=7, gender='M', time=747.42}
+{place=172, name='RYAN JIANG', school='Edina', grade=7, gender='M', time=747.42}
+{place=173, name='NICHOLAS NIELSON', school='Edina', grade=7, gender='M', time=749.21}
+{place=174, name='David Hsu', school='St Paul Academy', grade=6, gender='M', time=749.85}
+{place=175, name='Ethan  Barns', school='Olson Middle School', grade=6, gender='M', time=751.66}
+{place=176, name='Grant Simmons', school='Olson Middle School', grade=8, gender='M', time=756.77}
+{place=177, name='Djuan Marroquin', school='Burnsville', grade=7, gender='M', time=773.97}
+{place=178, name='Carson Krenz', school='Olson Middle School', grade=6, gender='M', time=775.96}
+{place=179, name='Reginald Davis', school='Burnsville', grade=7, gender='M', time=777.47}
+{place=180, name='Louis Stevenson', school='Nova Middle School', grade=5, gender='M', time=782.71}
+{place=181, name='Mitchell Tracy', school='Belle Plaine', grade=7, gender='M', time=784.6}
+{place=182, name='Alex Stanek', school='Burnsville', grade=8, gender='M', time=786.24}
+{place=183, name='Silas Revenaugh', school='Nova Middle School', grade=6, gender='M', time=788.21}
+{place=184, name='Mason Gonko', school='Nova Middle School', grade=5, gender='M', time=791.7}
+{place=185, name='Ryan Seaver', school='Oak Grove Middle School', grade=8, gender='M', time=798.2}
+{place=186, name='Brennan Thimm', school='Richfield', grade=7, gender='M', time=806.22}
+{place=187, name='Oscar Kane Stewart', school='Oak Grove Middle School', grade=6, gender='M', time=807.54}
+{place=188, name='Noah Peterson', school='Olson Middle School', grade=7, gender='M', time=819.92}
+{place=189, name='Tyler James', school='Olson Middle School', grade=6, gender='M', time=822.95}
+{place=190, name='Callum White', school='Valley View Middle School', grade=6, gender='M', time=828.45}
+{place=191, name='Dorian Drayton', school='Burnsville', grade=6, gender='M', time=830.28}
+{place=192, name='Adam Sveningson', school='Olson Middle School', grade=8, gender='M', time=833.72}
+{place=193, name='Per Boyum', school='Rochester Century', grade=10, gender='M', time=841.61}
+{place=194, name='Paul Stoterau', school='Belle Plaine', grade=7, gender='M', time=852.72}
+{place=195, name='Jack Steglich', school='Burnsville', grade=7, gender='M', time=862.72}
+{place=196, name='Aidan Josephs', school='Burnsville', grade=6, gender='M', time=863.47}
+{place=197, name='JACKSON MOON', school='Edina', grade=7, gender='M', time=865.97}
+{place=198, name='MILES VANNORMAN', school='Edina', grade=7, gender='M', time=867.62}
+{place=199, name='Jamie Brenegan', school='Oak Grove Middle School', grade=6, gender='M', time=873.91}
+{place=200, name='Gavin Tschacher', school='Heritage Christian', grade=7, gender='M', time=878.57}
+{place=201, name='Ben Shulfer', school='Valley View Middle School', grade=7, gender='M', time=881.19}
+{place=202, name='Ben Fox', school='Olson Middle School', grade=6, gender='M', time=886.22}
+{place=203, name='Carson Granberg', school='Nova Middle School', grade=5, gender='M', time=896.65}
+{place=204, name='Owen Lankton', school='Richfield', grade=7, gender='M', time=917.97}
+{place=205, name='Ezekiel Rischall', school='Olson Middle School', grade=6, gender='M', time=924.65}
+{place=206, name='Harmon Metz', school='Valley View Middle School', grade=6, gender='M', time=925.48}
+{place=207, name='Noah Leipintz', school='Burnsville', grade=6, gender='M', time=953.67}
+{place=208, name='Thomas Brant', school='Fridley', grade=7, gender='M', time=979.44}
+{place=209, name='Jackson Reichert', school='Burnsville', grade=11, gender='M', time=982.87}
+{place=210, name='Ethan Nelson', school='Olson Middle School', grade=7, gender='M', time=1035.44}
+{place=211, name='Harrison Cha', school='Richfield', grade=7, gender='M', time=1082.92}

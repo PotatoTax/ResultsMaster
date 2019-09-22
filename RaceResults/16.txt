@@ -1,0 +1,52 @@
+Race : 16
+{place=1, name='Shaina Rud', school='Blake', grade=8, gender='F', time=1123.52}
+{place=2, name='Ashley Wells', school='Henry Sibley', grade=12, gender='F', time=1126.87}
+{place=3, name='Pauline Le', school='Henry Sibley', grade=11, gender='F', time=1137.22}
+{place=4, name='Laura Battaglia', school='Henry Sibley', grade=12, gender='F', time=1149.8}
+{place=5, name='Emily Griep', school='Henry Sibley', grade=12, gender='F', time=1152.32}
+{place=6, name='Amanda Racine', school='Henry Sibley', grade=9, gender='F', time=1158.62}
+{place=7, name='Julia Turk', school='Henry Sibley', grade=11, gender='F', time=1162.96}
+{place=8, name='Kendra McCormack', school='Mound-Westonka', grade=12, gender='F', time=1172.11}
+{place=9, name='Justine Tocko', school='Henry Sibley', grade=10, gender='F', time=1174.17}
+{place=10, name='Jamie Dufek', school='Henry Sibley', grade=12, gender='F', time=1180.03}
+{place=11, name='Heather Hejna', school='Mound-Westonka', grade=8, gender='F', time=1181.65}
+{place=12, name='Maggie Smith', school='Mound-Westonka', grade=9, gender='F', time=1182.01}
+{place=13, name='Melissa Englund', school='Henry Sibley', grade=9, gender='F', time=1220.71}
+{place=14, name='Nikki Haas', school='Henry Sibley', grade=9, gender='F', time=1221.02}
+{place=15, name='Rina Turk', school='Henry Sibley', grade=11, gender='F', time=1224.28}
+{place=16, name='Lauren Olson', school='Henry Sibley', grade=12, gender='F', time=1227.31}
+{place=17, name='Elsa Bluhm', school='Henry Sibley', grade=10, gender='F', time=1233.1}
+{place=18, name='Tracy Fuad', school='Breck', grade=11, gender='F', time=1236.5}
+{place=19, name='Camille Kroll', school='Blake', grade=8, gender='F', time=1239.16}
+{place=20, name='Carolyn Soley', school='Henry Sibley', grade=9, gender='F', time=1240.69}
+{place=21, name='Missy Alness', school='Mound-Westonka', grade=12, gender='F', time=1285.09}
+{place=22, name='Sally Spurr', school='Henry Sibley', grade=9, gender='F', time=1289.29}
+{place=23, name='Maggie Rogers', school='Blake', grade=11, gender='F', time=1294.17}
+{place=24, name='Allison Wilde', school='Henry Sibley', grade=11, gender='F', time=1300.56}
+{place=25, name='Steph Tourville', school='Henry Sibley', grade=11, gender='F', time=1329.58}
+{place=26, name='Brittany Hulbert', school='Blake', grade=11, gender='F', time=1330.44}
+{place=27, name='Lauren Napier', school='Henry Sibley', grade=11, gender='F', time=1341.54}
+{place=28, name='Julie Tillman', school='Mound-Westonka', grade=9, gender='F', time=1348.56}
+{place=29, name='Breeyn Greer', school='Mound-Westonka', grade=10, gender='F', time=1350.14}
+{place=30, name='Kaitlin Jones', school='Blake', grade=8, gender='F', time=1364.38}
+{place=31, name='Ellie Scholz', school='Blake', grade=8, gender='F', time=1370.59}
+{place=32, name='Angela Laidlaw', school='St Louis Park', grade=10, gender='F', time=1378.53}
+{place=33, name='Nora Kawaletz', school='Breck', grade=11, gender='F', time=1384.33}
+{place=34, name='Erica Seltzer-Schultz', school='St Louis Park', grade=10, gender='F', time=1397.95}
+{place=35, name='Molly Hayssen', school='Blake', grade=11, gender='F', time=1398.88}
+{place=36, name='Jill Kraemer', school='St Louis Park', grade=9, gender='F', time=1405.23}
+{place=37, name='Ellen Abram', school='Blake', grade=9, gender='F', time=1409.2}
+{place=38, name='Grace Hearty', school='Breck', grade=10, gender='F', time=1413.51}
+{place=39, name='Jocelyn Winters', school='Henry Sibley', grade=12, gender='F', time=1419.45}
+{place=40, name='Christina Harstad', school='Orono', grade=11, gender='F', time=1443.21}
+{place=41, name='Eleanor Garcia', school='Henry Sibley', grade=9, gender='F', time=1460.36}
+{place=42, name='Meghan Anderson', school='Mound-Westonka', grade=8, gender='F', time=1478.37}
+{place=43, name='Sara Strother', school='Mound-Westonka', grade=8, gender='F', time=1498.03}
+{place=44, name='Natalie Sandy', school='Breck', grade=11, gender='F', time=1533.64}
+{place=45, name='Allison Rydell', school='Breck', grade=12, gender='F', time=1545.4}
+{place=46, name='Sally Mahmoud', school='St Louis Park', grade=10, gender='F', time=1550.38}
+{place=47, name='Avery Anderson', school='Breck', grade=11, gender='F', time=1581.88}
+{place=48, name='Lynn Geiger', school='Orono', grade=9, gender='F', time=1610.46}
+{place=49, name='Katherine C Lymn', school='Orono', grade=10, gender='F', time=1645.57}
+{place=50, name='Natalie N Yee', school='Orono', grade=11, gender='F', time=1645.91}
+{place=51, name='Karissa Flemming', school='Washburn', grade=10, gender='F', time=1940.5}

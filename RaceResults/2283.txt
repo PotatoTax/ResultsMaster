@@ -1,0 +1,75 @@
+Race : 2283
+{place=1, name='Zak Wise', school='STMA Middle School', grade=8, gender='M', time=410.5}
+{place=2, name='Ryan Boecker', school='Becker', grade=8, gender='M', time=412.1}
+{place=3, name='Zachary Carlson', school='Big Lake', grade=8, gender='M', time=416.8}
+{place=4, name='Austin Back', school='Rogers', grade=7, gender='M', time=421.9}
+{place=5, name='Bruce Kraemer', school='Becker', grade=8, gender='M', time=423.9}
+{place=6, name='Tyler Zenga', school='STMA Middle School', grade=8, gender='M', time=434.8}
+{place=7, name='Hayden Hodge', school='STMA Middle School', grade=8, gender='M', time=435.1}
+{place=8, name='Damon Lee', school='Princeton', grade=8, gender='M', time=435.1}
+{place=9, name='William Bruers', school='Rogers', grade=8, gender='M', time=437.8}
+{place=10, name='Luke James', school='STMA Middle School', grade=8, gender='M', time=439.4}
+{place=11, name='Drew Parks', school='Big Lake', grade=7, gender='M', time=439.6}
+{place=12, name='Owen Kolbinger', school='Becker', grade=8, gender='M', time=440.5}
+{place=13, name='Logan Harens', school='Rogers', grade=7, gender='M', time=444.3}
+{place=14, name='Isaac Bauer', school='Becker', grade=8, gender='M', time=445.7}
+{place=15, name='Eli Davis', school='STMA Middle School', grade=8, gender='M', time=446.5}
+{place=16, name='Ethan Christian', school='STMA Middle School', grade=8, gender='M', time=446.5}
+{place=17, name='Leyton Punton', school='STMA Middle School', grade=8, gender='M', time=450.5}
+{place=18, name='Benjamin Howe', school='Becker', grade=8, gender='M', time=451.9}
+{place=19, name='Trevor Loebertman', school='STMA Middle School', grade=8, gender='M', time=453.8}
+{place=20, name='Nicholas Neutgens', school='STMA Middle School', grade=8, gender='M', time=460.2}
+{place=21, name='Eli Haakenson', school='STMA Middle School', grade=8, gender='M', time=463.9}
+{place=22, name='Andrew Dwinnell', school='STMA Middle School', grade=7, gender='M', time=465.3}
+{place=23, name='Braeden Sauer', school='STMA Middle School', grade=7, gender='M', time=469.5}
+{place=24, name='Cole Jordan', school='Rogers', grade=8, gender='M', time=471.5}
+{place=25, name='Jonah Overby', school='Big Lake', grade=8, gender='M', time=472.2}
+{place=26, name='Evan  Warner', school='STMA Middle School', grade=8, gender='M', time=472.3}
+{place=27, name='David Guyse', school='Big Lake', grade=7, gender='M', time=473.4}
+{place=28, name='Aaron O'Connor', school='Rogers', grade=8, gender='M', time=473.6}
+{place=29, name='Lukas Olson', school='Princeton', grade=7, gender='M', time=474.2}
+{place=30, name='Cole Tauber', school='STMA Middle School', grade=8, gender='M', time=474.3}
+{place=31, name='Liam Nelson', school='Rogers', grade=8, gender='M', time=474.8}
+{place=32, name='Landon Lahr', school='Becker', grade=7, gender='M', time=476.3}
+{place=33, name='Ethan  Helm', school='STMA Middle School', grade=8, gender='M', time=476.5}
+{place=34, name='Dawsen Whiteis', school='STMA Middle School', grade=7, gender='M', time=478.7}
+{place=35, name='Jacob Brommer', school='STMA Middle School', grade=8, gender='M', time=480.7}
+{place=36, name='Drew Beckstrand', school='Rogers', grade=7, gender='M', time=484.8}
+{place=37, name='Caleb Reckelberg', school='Becker', grade=8, gender='M', time=487.5}
+{place=38, name='Navarro Kornwolf', school='Rogers', grade=7, gender='M', time=490.3}
+{place=39, name='Blake Turberville', school='Big Lake', grade=7, gender='M', time=495.2}
+{place=40, name='Luke Hugo', school='Big Lake', grade=7, gender='M', time=497.2}
+{place=41, name='Maceo Nelson', school='Big Lake', grade=8, gender='M', time=497.8}
+{place=42, name='Nicholas Olson', school='STMA Middle School', grade=7, gender='M', time=500.9}
+{place=43, name='Elijah Muhammad', school='STMA Middle School', grade=8, gender='M', time=510.5}
+{place=44, name='Michael Edlund', school='Big Lake', grade=8, gender='M', time=511.3}
+{place=45, name='Jayce Wolkerstorfer', school='STMA Middle School', grade=7, gender='M', time=511.5}
+{place=46, name='Trent Oullette', school='Princeton', grade=7, gender='M', time=512.1}
+{place=47, name='Carter Erickson', school='Big Lake', grade=8, gender='M', time=513.7}
+{place=48, name='Spencer Lommel', school='Big Lake', grade=8, gender='M', time=513.7}
+{place=49, name='Braeden Heinen', school='Becker', grade=7, gender='M', time=520.5}
+{place=50, name='Tanon Jacobson', school='Big Lake', grade=8, gender='M', time=523.7}
+{place=51, name='Bryce Berger', school='Becker', grade=8, gender='M', time=523.8}
+{place=52, name='Jaxyn Tschritter', school='Big Lake', grade=7, gender='M', time=527.8}
+{place=53, name='Owen Van DeRiet', school='STMA Middle School', grade=8, gender='M', time=528.4}
+{place=54, name='Jackson Hamilton', school='STMA Middle School', grade=7, gender='M', time=532.5}
+{place=55, name='Mason Wendlandt', school='Big Lake', grade=7, gender='M', time=536.8}
+{place=56, name='Jackson Bursey', school='STMA Middle School', grade=7, gender='M', time=538.5}
+{place=57, name='Sam Paynter', school='STMA Middle School', grade=7, gender='M', time=548.9}
+{place=58, name='Ethan Lamere', school='Big Lake', grade=8, gender='M', time=555.8}
+{place=59, name='Mason Lund', school='Rogers', grade=7, gender='M', time=555.9}
+{place=60, name='Thomas Vrudny', school='Big Lake', grade=8, gender='M', time=558.5}
+{place=61, name='Jake Green', school='STMA Middle School', grade=7, gender='M', time=564.3}
+{place=62, name='Blain Grover', school='Big Lake', grade=8, gender='M', time=564.8}
+{place=63, name='Isaiah Prom', school='Big Lake', grade=8, gender='M', time=566.8}
+{place=64, name='Thomas Bezanson', school='STMA Middle School', grade=8, gender='M', time=567.8}
+{place=65, name='Conner May', school='STMA Middle School', grade=7, gender='M', time=575.8}
+{place=66, name='Jace Shadden', school='Big Lake', grade=8, gender='M', time=591.9}
+{place=67, name='John Zone', school='STMA Middle School', grade=7, gender='M', time=631.3}
+{place=68, name='Audie Wandmacher', school='STMA Middle School', grade=8, gender='M', time=631.6}
+{place=69, name='George Juilfs', school='Princeton', grade=8, gender='M', time=632.9}
+{place=70, name='Conner Reese', school='STMA Middle School', grade=7, gender='M', time=636.8}
+{place=71, name='Brady Johnson', school='Big Lake', grade=8, gender='M', time=645.7}
+{place=72, name='Brodie Welborn', school='STMA Middle School', grade=7, gender='M', time=645.9}
+{place=73, name='Hank Bjerga', school='Becker', grade=7, gender='M', time=689.8}
+{place=74, name='Jude Horton', school='Princeton', grade=7, gender='M', time=716.8}

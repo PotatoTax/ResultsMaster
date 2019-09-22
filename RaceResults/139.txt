@@ -1,0 +1,48 @@
+Race : 139
+{place=1, name='Luke Albares', school='Monticello', grade=12, gender='M', time=1025.36}
+{place=2, name='JP Cartier', school='Mora', grade=12, gender='M', time=1047.6}
+{place=3, name='Mike Heidelberger', school='North Branch', grade=11, gender='M', time=1053.05}
+{place=4, name='Ken St Marie', school='Big Lake', grade=10, gender='M', time=1053.37}
+{place=5, name='Ryan Norman', school='North Branch', grade=11, gender='M', time=1053.76}
+{place=6, name='David Hambly', school='Pine City', grade=12, gender='M', time=1055.17}
+{place=7, name='Trevor McNally', school='Pine City', grade=12, gender='M', time=1068.51}
+{place=8, name='Mark Bostrom', school='Mora', grade=11, gender='M', time=1070.79}
+{place=9, name='Zach Swanson', school='Pine City', grade=9, gender='M', time=1072.06}
+{place=10, name='Claas Segebreht', school='Monticello', grade=12, gender='M', time=1089.78}
+{place=11, name='Josh Johnson', school='Monticello', grade=12, gender='M', time=1093.43}
+{place=12, name='Shane Sontag', school='Big Lake', grade=11, gender='M', time=1109.2}
+{place=13, name='Greg Moravec', school='Mora', grade=11, gender='M', time=1112.11}
+{place=14, name='Andrew Lutz', school='Pine City', grade=12, gender='M', time=1115.04}
+{place=15, name='Jon Coler', school='Mora', grade=11, gender='M', time=1115.47}
+{place=16, name='John Amundson', school='Mora', grade=10, gender='M', time=1117.73}
+{place=17, name='Dallas Hanson', school='Pine City', grade=9, gender='M', time=1127.14}
+{place=18, name='David  Kringen', school='Big Lake', grade=12, gender='M', time=1127.53}
+{place=19, name='Mathew Brutger', school='St Johns Prep', grade=12, gender='M', time=1132.39}
+{place=20, name='Andrew Crocker', school='Big Lake', grade=10, gender='M', time=1136.27}
+{place=21, name='Takechi Arashiro', school='St Johns Prep', grade=11, gender='M', time=1139.47}
+{place=22, name='Derek Arnsdorf', school='Pine City', grade=12, gender='M', time=1140.49}
+{place=23, name='Joe Klun', school='North Branch', grade=10, gender='M', time=1143.02}
+{place=24, name='Nick Salo', school='North Branch', grade=11, gender='M', time=1143.16}
+{place=25, name='Tim Stenberg', school='Mora', grade=11, gender='M', time=1144.01}
+{place=26, name='Stephen Woods', school='St Johns Prep', grade=11, gender='M', time=1144.83}
+{place=27, name='Mark Hayes', school='Big Lake', grade=12, gender='M', time=1145.62}
+{place=28, name='Zach Caouette', school='Monticello', grade=11, gender='M', time=1146.22}
+{place=29, name='Cal Romer', school='Monticello', grade=12, gender='M', time=1148.12}
+{place=30, name='Phillip LaVallee', school='Monticello', grade=8, gender='M', time=1153.45}
+{place=31, name='Jake Murphy', school='Mora', grade=11, gender='M', time=1154.28}
+{place=32, name='Justin Nelson', school='Big Lake', grade=12, gender='M', time=1156.55}
+{place=33, name='Zach Good', school='North Branch', grade=11, gender='M', time=1157.06}
+{place=34, name='Boyd  Suparat', school='North Branch', grade=11, gender='M', time=1162.14}
+{place=35, name='Matt  Nelson', school='Big Lake', grade=9, gender='M', time=1162.6}
+{place=36, name='Kellen Montague', school='Pine City', grade=12, gender='M', time=1163.39}
+{place=37, name='Dillard Taylor', school='St Johns Prep', grade=12, gender='M', time=1168.62}
+{place=38, name='Mathew Fitzgerald', school='St Johns Prep', grade=11, gender='M', time=1170.79}
+{place=39, name='Luke ONeil', school='Becker', grade=11, gender='M', time=1181.91}
+{place=40, name='Stephen Palmquist', school='Becker', grade=10, gender='M', time=1205.12}
+{place=41, name='Nathan Maiers', school='Becker', grade=11, gender='M', time=1206.54}
+{place=42, name='Josh Loken', school='Becker', grade=11, gender='M', time=1221.87}
+{place=43, name='Colin Charpentier', school='North Branch', grade=9, gender='M', time=1223.07}
+{place=44, name='Kyle Andres', school='Becker', grade=11, gender='M', time=1224.91}
+{place=45, name='Andy Jacobs', school='Becker', grade=12, gender='M', time=1251.12}
+{place=46, name='Jack Davis', school='St Johns Prep', grade=11, gender='M', time=1256.8}
+{place=47, name='Joe Larson', school='Becker', grade=11, gender='M', time=1258.31}

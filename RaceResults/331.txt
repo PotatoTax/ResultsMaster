@@ -1,0 +1,58 @@
+Race : 331
+{place=1, name='Katie Oden', school='Buffalo', grade=11, gender='F', time=1056.0}
+{place=2, name='Hannah Molldrem', school='Annandale', grade=10, gender='F', time=1095.4}
+{place=3, name='Blair Solberg', school='Buffalo', grade=10, gender='F', time=1098.53}
+{place=4, name='Amanda  Olander', school='Cambridge-Isanti', grade=10, gender='F', time=1101.12}
+{place=5, name='Georgia LaLuzerne', school='Mound-Westonka', grade=10, gender='F', time=1109.42}
+{place=6, name='Margot Anderson', school='Mound-Westonka', grade=10, gender='F', time=1122.1}
+{place=7, name='Olivia Decker', school='Hutchinson', grade=12, gender='F', time=1122.94}
+{place=8, name='Mandy Samuelson', school='Buffalo', grade=12, gender='F', time=1123.34}
+{place=9, name='McKenna Ekholm', school='Annandale', grade=8, gender='F', time=1136.68}
+{place=10, name='Angela Giron', school='Glencoe-Silver Lake', grade=12, gender='F', time=1137.0}
+{place=11, name='Karin Gustafsson', school='Cambridge-Isanti', grade=11, gender='F', time=1137.4}
+{place=12, name='Abby Heil', school='Glencoe-Silver Lake', grade=10, gender='F', time=1137.81}
+{place=13, name='Natalie Elfstrand', school='Glencoe-Silver Lake', grade=7, gender='F', time=1145.27}
+{place=14, name='Sandra Ruhr', school='Buffalo', grade=10, gender='F', time=1153.54}
+{place=15, name='Kelly Lund', school='Hutchinson', grade=12, gender='F', time=1163.09}
+{place=16, name='Emily Bedker', school='Buffalo', grade=10, gender='F', time=1164.05}
+{place=17, name='Krista Humbert', school='Mound-Westonka', grade=11, gender='F', time=1164.97}
+{place=18, name='Claire Daughters', school='Buffalo', grade=9, gender='F', time=1173.83}
+{place=19, name='Allie Hjerpe', school='Hutchinson', grade=12, gender='F', time=1179.83}
+{place=20, name='Morgan Smith', school='Cambridge-Isanti', grade=10, gender='F', time=1181.9}
+{place=21, name='Jessica Boonstra', school='New London-Spicer', grade=11, gender='F', time=1182.8}
+{place=22, name='Jessie Morrison', school='Cambridge-Isanti', grade=10, gender='F', time=1183.21}
+{place=23, name='Kate Smith', school='Mound-Westonka', grade=10, gender='F', time=1184.05}
+{place=24, name='Baylyn Reviere', school='Maple Lake', grade=9, gender='F', time=1188.84}
+{place=25, name='Ashley Morris', school='EV-W-K', grade=12, gender='F', time=1191.02}
+{place=26, name='Brandii Hansen', school='Annandale', grade=8, gender='F', time=1196.83}
+{place=27, name='Brooke Winter', school='EV-W-K', grade=7, gender='F', time=1200.0}
+{place=28, name='Becky  Dowell', school='Cambridge-Isanti', grade=10, gender='F', time=1201.28}
+{place=29, name='Rachael Miller', school='Annandale', grade=10, gender='F', time=1211.22}
+{place=30, name='Jennifer Notch', school='EV-W-K', grade=10, gender='F', time=1212.28}
+{place=31, name='Melissa Peterson', school='Cambridge-Isanti', grade=11, gender='F', time=1230.86}
+{place=32, name='Ella Taggert', school='Mound-Westonka', grade=10, gender='F', time=1234.98}
+{place=33, name='Robin Ekholm', school='Annandale', grade=12, gender='F', time=1238.06}
+{place=34, name='Alanna Rehkola', school='Orono', grade=10, gender='F', time=1238.64}
+{place=35, name='Kaylee Kruschke', school='Glencoe-Silver Lake', grade=10, gender='F', time=1253.2}
+{place=36, name='Lara Weber', school='EV-W-K', grade=12, gender='F', time=1253.6}
+{place=37, name='Elizabeth Caldwell', school='Glencoe-Silver Lake', grade=11, gender='F', time=1256.08}
+{place=38, name='Bethany Libbesmeier', school='EV-W-K', grade=12, gender='F', time=1258.75}
+{place=39, name='Kayla Overland', school='EV-W-K', grade=10, gender='F', time=1260.27}
+{place=40, name='Miranda Christenson', school='Cambridge-Isanti', grade=11, gender='F', time=1268.8}
+{place=41, name='Anna Lindquist', school='New London-Spicer', grade=12, gender='F', time=1286.33}
+{place=42, name='Amy Bergen', school='Mound-Westonka', grade=10, gender='F', time=1286.61}
+{place=43, name='Kaitlyn Peterson', school='Howard Lake-Waverly', grade=8, gender='F', time=1310.43}
+{place=44, name='Sarah Brinza', school='Maple Lake', grade=12, gender='F', time=1319.27}
+{place=45, name='Kristina Mackereth', school='EV-W-K', grade=12, gender='F', time=1333.77}
+{place=46, name='Megan  Redfield', school='Cambridge-Isanti', grade=12, gender='F', time=1348.93}
+{place=47, name='Annis Rodriguez', school='Buffalo', grade=9, gender='F', time=1359.77}
+{place=48, name='Whitney  Derby', school='Cambridge-Isanti', grade=9, gender='F', time=1361.19}
+{place=49, name='Elizabeth  Nault-Maurer', school='Cambridge-Isanti', grade=10, gender='F', time=1381.55}
+{place=50, name='Kelsey Libbesmeier', school='EV-W-K', grade=10, gender='F', time=1390.28}
+{place=51, name='Allison Christensen', school='Lester Prairie', grade=10, gender='F', time=1393.04}
+{place=52, name='Olivia Fischer', school='EV-W-K', grade=10, gender='F', time=1395.18}
+{place=53, name='Maria Bacon', school='Orono', grade=12, gender='F', time=1400.93}
+{place=54, name='Claire Conger', school='Orono', grade=12, gender='F', time=1401.2}
+{place=55, name='Grace Kopitzke', school='EV-W-K', grade=7, gender='F', time=1402.2}
+{place=56, name='Megan Libbesmeier', school='EV-W-K', grade=10, gender='F', time=1417.19}
+{place=57, name='Lioba Well', school='Annandale', grade=11, gender='F', time=1437.32}

@@ -1,0 +1,129 @@
+Race : 4
+{place=1, name='Cari Keller', school='Monticello', grade=7, gender='F', time=616.61}
+{place=2, name='Karlee Cox', school='Monticello', grade=8, gender='F', time=700.97}
+{place=3, name='Victoria Hansen', school='Monticello', grade=8, gender='F', time=905.32}
+{place=4, name='Katrina Suddard', school='Monticello', grade=12, gender='F', time=1024.58}
+{place=5, name='Breanna Tessin', school='Becker', grade=10, gender='F', time=1039.85}
+{place=6, name='Lexi Thompson', school='STMA', grade=10, gender='F', time=1048.68}
+{place=7, name='Sarah Gudmundson', school='Becker', grade=11, gender='F', time=1055.16}
+{place=8, name='Marissa Weatherhead', school='Robbinsdale Cooper', grade=11, gender='F', time=1060.86}
+{place=9, name='Hannah Koprek', school='Sartell', grade=12, gender='F', time=1083.85}
+{place=10, name='Traci Pagel', school='Marshall', grade=11, gender='F', time=1092.99}
+{place=11, name='Regina Quandt', school='Totino Grace', grade=10, gender='F', time=1094.01}
+{place=12, name='Rachel Gilbert', school='Becker', grade=9, gender='F', time=1103.01}
+{place=13, name='Alisson Schultz', school='Marshall', grade=10, gender='F', time=1116.3}
+{place=14, name='Laura Uppgaard', school='Totino Grace', grade=10, gender='F', time=1116.62}
+{place=15, name='Mollie von Arx', school='Totino Grace', grade=11, gender='F', time=1117.49}
+{place=16, name='Emily Wambeke', school='Marshall', grade=9, gender='F', time=1134.04}
+{place=17, name='Katie Wilson', school='Robbinsdale Cooper', grade=12, gender='F', time=1135.85}
+{place=18, name='Dakotah Carlson', school='Buffalo', grade=10, gender='F', time=1141.7}
+{place=19, name='Katie Jacobs', school='Totino Grace', grade=11, gender='F', time=1145.91}
+{place=20, name='Kelsey McIntire', school='Sartell', grade=9, gender='F', time=1152.03}
+{place=21, name='Megan Haefs', school='Robbinsdale Cooper', grade=8, gender='F', time=1161.59}
+{place=22, name='Ariel Reischl', school='Sartell', grade=9, gender='F', time=1162.72}
+{place=23, name='Emma Balfanz', school='St Cloud Cathedral', grade=11, gender='F', time=1166.24}
+{place=24, name='Jackie Arneson', school='Totino Grace', grade=11, gender='F', time=1168.99}
+{place=25, name='Kirstie Tessier', school='Monticello', grade=9, gender='F', time=1169.56}
+{place=26, name='Haley Meyer', school='Marshall', grade=12, gender='F', time=1174.7}
+{place=27, name='Heidi Christenson', school='Monticello', grade=9, gender='F', time=1177.22}
+{place=28, name='Helena Keller', school='Elk River', grade=9, gender='F', time=1186.2}
+{place=29, name='Sarah Latzke', school='Robbinsdale Cooper', grade=12, gender='F', time=1186.68}
+{place=30, name='Sarah Scharber', school='Becker', grade=11, gender='F', time=1190.34}
+{place=31, name='DeAnna Pearson', school='Buffalo', grade=9, gender='F', time=1190.87}
+{place=32, name='Megan Delacruz', school='Robbinsdale Cooper', grade=10, gender='F', time=1191.59}
+{place=33, name='Casey Younghans', school='Robbinsdale Cooper', grade=12, gender='F', time=1192.36}
+{place=34, name='Chelsey Hoekstra', school='Marshall', grade=9, gender='F', time=1192.83}
+{place=35, name='Sheree Clifton', school='Robbinsdale Cooper', grade=11, gender='F', time=1193.27}
+{place=36, name='Kayla Lahr', school='Hutchinson', grade=12, gender='F', time=1193.86}
+{place=37, name='Katelyn Taylor', school='Monticello', grade=11, gender='F', time=1194.52}
+{place=38, name='Hali Scott', school='STMA', grade=9, gender='F', time=1195.09}
+{place=39, name='Mandy Heinen', school='Rocori', grade=9, gender='F', time=1196.84}
+{place=40, name='Elisabeth Palmquist', school='Becker', grade=10, gender='F', time=1199.37}
+{place=41, name='Joceleyn Pohl', school='Marshall', grade=9, gender='F', time=1201.45}
+{place=42, name='Emily Peterson', school='Robbinsdale Cooper', grade=11, gender='F', time=1204.62}
+{place=43, name='Stephanie Elliot', school='Monticello', grade=10, gender='F', time=1210.7}
+{place=44, name='Kelsi Johnson', school='Robbinsdale Cooper', grade=12, gender='F', time=1212.41}
+{place=45, name='Mackenzie Lehn', school='Hutchinson', grade=12, gender='F', time=1214.32}
+{place=46, name='Tonya Kingsley', school='Robbinsdale Cooper', grade=11, gender='F', time=1219.52}
+{place=47, name='Jayme Purkat', school='Robbinsdale Cooper', grade=12, gender='F', time=1219.91}
+{place=48, name='Jill Spitzmueller', school='Totino Grace', grade=10, gender='F', time=1222.09}
+{place=49, name='Alli Johnson', school='Becker', grade=9, gender='F', time=1222.6}
+{place=50, name='Anna Gerding', school='Robbinsdale Cooper', grade=8, gender='F', time=1223.41}
+{place=51, name='Meghan Metclaf', school='St Cloud Cathedral', grade=11, gender='F', time=1223.87}
+{place=52, name='Anna Jones', school='Totino Grace', grade=11, gender='F', time=1225.02}
+{place=53, name='Liz Crespo', school='St Cloud Cathedral', grade=12, gender='F', time=1227.27}
+{place=54, name='Alyson Leiser', school='Totino Grace', grade=12, gender='F', time=1228.93}
+{place=55, name='Erin Bennek', school='Totino Grace', grade=11, gender='F', time=1230.52}
+{place=56, name='Lynae Hemming', school='St Cloud Cathedral', grade=10, gender='F', time=1232.51}
+{place=57, name='Jackie Stahlmann', school='Robbinsdale Cooper', grade=12, gender='F', time=1235.91}
+{place=58, name='Iesha Martinez', school='Cambridge-Isanti', grade=9, gender='F', time=1238.2}
+{place=59, name='Leah Royseth', school='STMA', grade=9, gender='F', time=1239.12}
+{place=60, name='Katie Carlson', school='Robbinsdale Cooper', grade=12, gender='F', time=1239.57}
+{place=61, name='Tracy Skluzacek', school='Rocori', grade=9, gender='F', time=1240.07}
+{place=62, name='Katie Seifert', school='St Cloud Cathedral', grade=10, gender='F', time=1241.39}
+{place=63, name='Jenny Deering', school='Sauk Rapids-Rice', grade=9, gender='F', time=1242.02}
+{place=64, name='Danielle Boreen', school='Totino Grace', grade=11, gender='F', time=1242.7}
+{place=65, name='Katrina Isch', school='Buffalo', grade=10, gender='F', time=1247.49}
+{place=66, name='Colin Kellogg', school='Robbinsdale Cooper', grade=9, gender='F', time=1248.72}
+{place=67, name='Joanna Roman', school='Totino Grace', grade=12, gender='F', time=1250.97}
+{place=68, name='Cassi Henry', school='St Cloud Cathedral', grade=11, gender='F', time=1251.84}
+{place=69, name='Emma Ranum', school='Totino Grace', grade=9, gender='F', time=1254.79}
+{place=70, name='Paige Brummer', school='Buffalo', grade=10, gender='F', time=1260.0}
+{place=71, name='Kathryn Gustafson', school='Elk River', grade=10, gender='F', time=1260.66}
+{place=72, name='Kelly Ebner', school='Elk River', grade=12, gender='F', time=1261.08}
+{place=73, name='Catherine Leavitt', school='Totino Grace', grade=10, gender='F', time=1264.2}
+{place=74, name='Sarah Henry', school='Monticello', grade=10, gender='F', time=1265.27}
+{place=75, name='Annie  Babcock', school='St Cloud Cathedral', grade=12, gender='F', time=1265.72}
+{place=76, name='Tailae Yeung', school='Totino Grace', grade=10, gender='F', time=1266.3}
+{place=77, name='Jennifer Sanchez', school='Hutchinson', grade=12, gender='F', time=1272.55}
+{place=78, name='Elisa Gustafson', school='Sartell', grade=10, gender='F', time=1272.99}
+{place=79, name='Anjie Gentile', school='St Cloud Cathedral', grade=10, gender='F', time=1276.22}
+{place=80, name='Emily Bourgeois', school='Monticello', grade=11, gender='F', time=1282.12}
+{place=81, name='Amy Simons', school='Robbinsdale Cooper', grade=9, gender='F', time=1282.51}
+{place=82, name='Hillary Schwan', school='Totino Grace', grade=11, gender='F', time=1282.97}
+{place=83, name='Alyssa Summerfield', school='Hutchinson', grade=8, gender='F', time=1284.82}
+{place=84, name='Emily Doty', school='Totino Grace', grade=10, gender='F', time=1288.58}
+{place=85, name='Sam Johnson', school='Big Lake', grade=11, gender='F', time=1292.72}
+{place=86, name='Mia Mazzone', school='St Cloud Cathedral', grade=10, gender='F', time=1298.03}
+{place=87, name='Arielle Majors', school='STMA', grade=9, gender='F', time=1298.43}
+{place=88, name='Kim Peterson', school='Monticello', grade=12, gender='F', time=1299.5}
+{place=89, name='Elizabeth Radcliff', school='Totino Grace', grade=9, gender='F', time=1305.52}
+{place=90, name='Kathy Fontana', school='Totino Grace', grade=9, gender='F', time=1305.93}
+{place=91, name='Lindsey Rettig', school='Totino Grace', grade=10, gender='F', time=1307.08}
+{place=92, name='Hannah Cruze', school='Sartell', grade=9, gender='F', time=1314.79}
+{place=93, name='Amanda Elliott', school='Princeton', grade=10, gender='F', time=1315.49}
+{place=94, name='Clare Wocken', school='St Cloud Cathedral', grade=11, gender='F', time=1320.33}
+{place=95, name='Lydia Patch', school='Monticello', grade=10, gender='F', time=1324.66}
+{place=96, name='Jaclyn Palkert', school='Totino Grace', grade=11, gender='F', time=1327.64}
+{place=97, name='Meaghan Baldwin', school='St Cloud Cathedral', grade=9, gender='F', time=1336.32}
+{place=98, name='Sarah Vanneste', school='Totino Grace', grade=12, gender='F', time=1341.16}
+{place=99, name='Tara Thomas', school='Big Lake', grade=11, gender='F', time=1343.41}
+{place=100, name='Laura Preese', school='Totino Grace', grade=9, gender='F', time=1347.01}
+{place=101, name='Kami Hannah', school='Monticello', grade=9, gender='F', time=1350.3}
+{place=102, name='Keisha Bates', school='Elk River', grade=11, gender='F', time=1350.76}
+{place=103, name='Brittni Cleland', school='Big Lake', grade=11, gender='F', time=1356.39}
+{place=104, name='Arielle Courtney', school='Robbinsdale Cooper', grade=9, gender='F', time=1358.62}
+{place=105, name='Peggy Polta', school='Robbinsdale Cooper', grade=11, gender='F', time=1358.95}
+{place=106, name='Robyn Van Drasek', school='STMA', grade=11, gender='F', time=1363.95}
+{place=107, name='Annette Becker', school='Totino Grace', grade=12, gender='F', time=1364.24}
+{place=108, name='Anna Fennette', school='Buffalo', grade=11, gender='F', time=1364.64}
+{place=109, name='Val Fleming', school='Robbinsdale Cooper', grade=10, gender='F', time=1364.95}
+{place=110, name='Katie Johnson', school='St Cloud Cathedral', grade=12, gender='F', time=1371.95}
+{place=111, name='Anne Rasset', school='Buffalo', grade=10, gender='F', time=1372.62}
+{place=112, name='Deanna Jansky', school='St Cloud Cathedral', grade=9, gender='F', time=1373.22}
+{place=113, name='Steph Turner', school='Totino Grace', grade=11, gender='F', time=1379.36}
+{place=114, name='Laura Roman', school='Totino Grace', grade=10, gender='F', time=1380.0}
+{place=115, name='Alicia Solorz', school='Monticello', grade=12, gender='F', time=1397.16}
+{place=116, name='Laura Mackey', school='St Cloud Cathedral', grade=9, gender='F', time=1398.74}
+{place=117, name='Kelsey Youngs', school='Monticello', grade=10, gender='F', time=1411.24}
+{place=118, name='Roua Schmitz', school='Totino Grace', grade=12, gender='F', time=1415.49}
+{place=119, name='Abby Gullickson', school='Totino Grace', grade=11, gender='F', time=1419.12}
+{place=120, name='Allison Wigen', school='Monticello', grade=12, gender='F', time=1421.57}
+{place=121, name='Amanda Crawford', school='Sauk Rapids-Rice', grade=9, gender='F', time=1422.47}
+{place=122, name='Lauren Broadwell', school='Sartell', grade=9, gender='F', time=1426.52}
+{place=123, name='Kelsey David', school='Sauk Rapids-Rice', grade=9, gender='F', time=1448.27}
+{place=124, name='Kory Schmitz', school='St Cloud Cathedral', grade=11, gender='F', time=1460.59}
+{place=125, name='Moagan Diedrichs', school='St Cloud Apollo', grade=11, gender='F', time=1475.74}
+{place=126, name='Nina Setala', school='Elk River', grade=10, gender='F', time=1478.64}
+{place=127, name='Kirra Soper', school='Monticello', grade=10, gender='F', time=1508.14}
+{place=128, name='Abby Langfeld', school='Princeton', grade=9, gender='F', time=1529.04}

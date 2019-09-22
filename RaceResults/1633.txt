@@ -1,0 +1,83 @@
+Race : 1633
+{place=1, name='Blake Johnston', school='Alexandria', grade=12, gender='M', time=1163.89}
+{place=2, name='Nick Olson', school='Alexandria', grade=11, gender='M', time=1190.37}
+{place=3, name='Hunter Turcotte', school='Brainerd', grade=11, gender='M', time=1190.68}
+{place=4, name='Brian Denke', school='Alexandria', grade=10, gender='M', time=1217.84}
+{place=5, name='Jacob Kleven', school='Alexandria', grade=9, gender='M', time=1218.46}
+{place=6, name='Pat Lovrien', school='Alexandria', grade=12, gender='M', time=1219.45}
+{place=7, name='Mike Bylander', school='Brainerd', grade=12, gender='M', time=1226.87}
+{place=8, name='Nick Porisch', school='Brainerd', grade=10, gender='M', time=1229.86}
+{place=9, name='Alex Host', school='Brainerd', grade=11, gender='M', time=1234.49}
+{place=10, name='Andrew Lindner', school='Alexandria', grade=10, gender='M', time=1234.63}
+{place=11, name='Logan Severson', school='Brainerd', grade=10, gender='M', time=1243.23}
+{place=12, name='Joseph Klosowski', school='Little Falls', grade=11, gender='M', time=1247.11}
+{place=13, name='Noah Huss', school='Alexandria', grade=11, gender='M', time=1249.31}
+{place=14, name='Hayden Peterson', school='Alexandria', grade=9, gender='M', time=1256.37}
+{place=15, name='Ryan Borris', school='Alexandria', grade=10, gender='M', time=1264.79}
+{place=16, name='Elisha Duckson', school='Albany', grade=12, gender='M', time=1276.33}
+{place=17, name='Charlie Emmons', school='Pine City', grade=9, gender='M', time=1276.94}
+{place=18, name='Ben Peterson', school='Little Falls', grade=11, gender='M', time=1277.76}
+{place=19, name='Simon Gjerde', school='Brainerd', grade=9, gender='M', time=1278.38}
+{place=20, name='Gavin Turcotte', school='Albany', grade=9, gender='M', time=1278.58}
+{place=21, name='Braden Jackson', school='Little Falls', grade=9, gender='M', time=1278.58}
+{place=22, name='Blake Alholm', school='Little Falls', grade=12, gender='M', time=1282.62}
+{place=23, name='Ben Renner', school='Brainerd', grade=11, gender='M', time=1283.88}
+{place=24, name='Koleman Lind', school='Pine City', grade=10, gender='M', time=1284.68}
+{place=25, name='Cruz Lemmerhirt', school='Brainerd', grade=10, gender='M', time=1285.12}
+{place=26, name='Dylan DeChampeau', school='GNK', grade=10, gender='M', time=1290.96}
+{place=27, name='Will  Friederichs', school='Albany', grade=10, gender='M', time=1297.87}
+{place=28, name='Luis Otto', school='Alexandria', grade=10, gender='M', time=1302.14}
+{place=29, name='AJ Thompson', school='Brainerd', grade=10, gender='M', time=1305.8}
+{place=30, name='Lukas Struss', school='Pine City', grade=9, gender='M', time=1317.76}
+{place=31, name='Wil Kopp', school='Alexandria', grade=12, gender='M', time=1318.77}
+{place=32, name='Derek Clementson', school='Pine City', grade=10, gender='M', time=1333.78}
+{place=33, name='Gage  Thesing', school='Albany', grade=10, gender='M', time=1339.28}
+{place=34, name='Ezra Carlson', school='GNK', grade=8, gender='M', time=1339.47}
+{place=35, name='Jeris Lemm', school='Alexandria', grade=10, gender='M', time=1341.72}
+{place=36, name='Josiah Wood', school='Brainerd', grade=12, gender='M', time=1350.44}
+{place=37, name='Parker Olson', school='Alexandria', grade=11, gender='M', time=1361.79}
+{place=38, name='Mason Zierden', school='Albany', grade=9, gender='M', time=1365.48}
+{place=39, name='Cameron Hochsprung', school='Alexandria', grade=9, gender='M', time=1366.68}
+{place=40, name='Coleman Groshong', school='GNK', grade=8, gender='M', time=1367.78}
+{place=41, name='Lewis Lindner', school='Alexandria', grade=9, gender='M', time=1367.88}
+{place=42, name='Jeremiah Martinson', school='Alexandria', grade=9, gender='M', time=1369.3}
+{place=43, name='Jay Petrie', school='Brainerd', grade=9, gender='M', time=1372.12}
+{place=44, name='Evan Becker', school='Albany', grade=9, gender='M', time=1375.97}
+{place=45, name='Eric Rude', school='Brainerd', grade=12, gender='M', time=1376.59}
+{place=46, name='Weston Marx', school='GNK', grade=9, gender='M', time=1377.8}
+{place=47, name='Evan Czajkowski', school='Albany', grade=12, gender='M', time=1393.88}
+{place=48, name='Gabe Qualley', school='Brainerd', grade=9, gender='M', time=1394.27}
+{place=49, name='Gabriel Maurer', school='Brainerd', grade=9, gender='M', time=1395.76}
+{place=50, name='Devan Swerman', school='Alexandria', grade=9, gender='M', time=1402.13}
+{place=51, name='Nathan Halstead', school='Alexandria', grade=9, gender='M', time=1410.87}
+{place=52, name='Eric Swartwood', school='Brainerd', grade=9, gender='M', time=1416.12}
+{place=53, name='Joe Figliuzzi', school='Brainerd', grade=9, gender='M', time=1421.38}
+{place=54, name='Kyle Skeim', school='Crosby-Ironton', grade=11, gender='M', time=1427.63}
+{place=55, name='Parker Sell', school='Pine City', grade=9, gender='M', time=1438.88}
+{place=56, name='Lucas Bitzan', school='Alexandria', grade=9, gender='M', time=1442.37}
+{place=57, name='Will Blattner', school='Albany', grade=10, gender='M', time=1447.58}
+{place=58, name='Jacob Aanes', school='Brainerd', grade=10, gender='M', time=1448.8}
+{place=59, name='Jacob Merrick', school='Pine City', grade=10, gender='M', time=1453.82}
+{place=60, name='Josh Rike', school='Pine City', grade=10, gender='M', time=1456.72}
+{place=61, name='Bennett Wirth', school='Alexandria', grade=9, gender='M', time=1458.55}
+{place=62, name='Peyton Smetana', school='Pine City', grade=9, gender='M', time=1458.63}
+{place=63, name='Connor  Trott', school='Brainerd', grade=9, gender='M', time=1467.63}
+{place=64, name='Austin Pundsack', school='Albany', grade=9, gender='M', time=1487.54}
+{place=65, name='Dallas Frueh', school='Alexandria', grade=9, gender='M', time=1491.0}
+{place=66, name='Justin Stolp', school='Pine City', grade=11, gender='M', time=1498.63}
+{place=67, name='James Vance', school='Alexandria', grade=10, gender='M', time=1498.88}
+{place=68, name='Nick Ruegemer', school='Albany', grade=9, gender='M', time=1499.63}
+{place=69, name='Trey Stangel', school='Crosby-Ironton', grade=11, gender='M', time=1588.94}
+{place=70, name='Nathan  Harding', school='Albany', grade=9, gender='M', time=1593.38}
+{place=71, name='Luke Tollefson', school='Alexandria', grade=12, gender='M', time=1611.62}
+{place=72, name='Jackson Callian', school='Brainerd', grade=9, gender='M', time=1636.15}
+{place=73, name='Atticus Osborne', school='Brainerd', grade=9, gender='M', time=1641.41}
+{place=74, name='Charlie Rude', school='Brainerd', grade=12, gender='M', time=1672.38}
+{place=75, name='CJ Beasley', school='Brainerd', grade=10, gender='M', time=1696.99}
+{place=76, name='Ethean Wiechman', school='Pine City', grade=9, gender='M', time=1712.83}
+{place=77, name='Kayne Jacques', school='Albany', grade=9, gender='M', time=1713.13}
+{place=78, name='Matthew Long', school='Pine City', grade=10, gender='M', time=1731.47}
+{place=79, name='Eliot Amundson', school='Alexandria', grade=11, gender='M', time=1732.88}
+{place=80, name='Kenny Vo', school='Pine City', grade=10, gender='M', time=1818.86}
+{place=81, name='Donnie Conrad', school='GNK', grade=10, gender='M', time=1877.88}
+{place=82, name='John Greeley', school='Albany', grade=12, gender='M', time=2048.81}

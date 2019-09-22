@@ -1,0 +1,57 @@
+Race : 1146
+{place=1, name='Amanda Kautzer', school='Benilde-St Margaret', grade=11, gender='F', time=951.11}
+{place=2, name='Rosa Hu', school='St Louis Park', grade=11, gender='F', time=1073.54}
+{place=3, name='Rachel Conley', school='Benilde-St Margaret', grade=12, gender='F', time=1131.22}
+{place=4, name='Zoe Eilers', school='St Louis Park', grade=11, gender='F', time=1133.59}
+{place=5, name='Chloe Larson', school='Bloomington', grade=10, gender='F', time=1159.55}
+{place=6, name='Josie Lange', school='Chaska-Chan', grade=11, gender='F', time=1170.0}
+{place=7, name='Hailey Salden', school='Chaska-Chan', grade=11, gender='F', time=1172.68}
+{place=8, name='Cara Meyer', school='Cooper', grade=11, gender='F', time=1179.45}
+{place=9, name='Emma  Lohse', school='Chaska-Chan', grade=12, gender='F', time=1180.31}
+{place=10, name='Charlotte Brown', school='Benilde-St Margaret', grade=7, gender='F', time=1198.45}
+{place=11, name='Bremner Maddy', school='St Louis Park', grade=12, gender='F', time=1200.0}
+{place=12, name='Anne Duerr', school='Chaska-Chan', grade=10, gender='F', time=1213.47}
+{place=13, name='Emily Melbye', school='St Louis Park', grade=12, gender='F', time=1219.3}
+{place=14, name='Corinne Boonstra', school='Chaska-Chan', grade=10, gender='F', time=1228.72}
+{place=15, name='Ivy Kaplan', school='St Louis Park', grade=12, gender='F', time=1232.1}
+{place=16, name='Susanna Hu', school='St Louis Park', grade=8, gender='F', time=1237.56}
+{place=17, name='Mae Fullerton', school='Benilde-St Margaret', grade=11, gender='F', time=1243.6}
+{place=18, name='Lee Stelten', school='Chaska-Chan', grade=11, gender='F', time=1259.18}
+{place=19, name='Elise Longley', school='Bloomington', grade=10, gender='F', time=1280.24}
+{place=20, name='Ella  Borgerding', school='Bloomington', grade=12, gender='F', time=1282.94}
+{place=21, name='Claudia Elsenbast', school='Benilde-St Margaret', grade=10, gender='F', time=1291.28}
+{place=22, name='Sara Belden', school='Cooper', grade=11, gender='F', time=1301.26}
+{place=23, name='Rachel Lee', school='Bloomington', grade=12, gender='F', time=1328.3}
+{place=24, name='Caroline Green', school='St Louis Park', grade=9, gender='F', time=1331.26}
+{place=25, name='Meghan Blood', school='Chaska-Chan', grade=11, gender='F', time=1331.32}
+{place=26, name='Teresa (Tracey) Renier', school='Benilde-St Margaret', grade=8, gender='F', time=1335.9}
+{place=27, name='Aliza Beverage', school='Cooper', grade=12, gender='F', time=1342.78}
+{place=28, name='Lauren McDonnel', school='Benilde-St Margaret', grade=7, gender='F', time=1350.0}
+{place=29, name='Marissa Dauner', school='Bloomington', grade=9, gender='F', time=1350.81}
+{place=30, name='Ali Muffenbier', school='Chaska-Chan', grade=12, gender='F', time=1351.83}
+{place=31, name='Sammi Tarnowski', school='Benilde-St Margaret', grade=8, gender='F', time=1360.22}
+{place=32, name='Annie Van Pilsum-Johnson', school='St Louis Park', grade=9, gender='F', time=1364.55}
+{place=33, name='Breanna Kaufhold', school='Chaska-Chan', grade=12, gender='F', time=1375.55}
+{place=34, name='Alexandra Smith', school='St Louis Park', grade=10, gender='F', time=1398.57}
+{place=35, name='Sarah Rinnman', school='Bloomington', grade=8, gender='F', time=1402.61}
+{place=36, name='Dana Haupt', school='Bloomington', grade=11, gender='F', time=1412.8}
+{place=37, name='Caitlin O'Donnell', school='Richfield', grade=8, gender='F', time=1419.56}
+{place=38, name='Amelia Heusinkveld', school='Cooper', grade=11, gender='F', time=1433.66}
+{place=39, name='Katherine Schroeder', school='Richfield', grade=11, gender='F', time=1438.31}
+{place=40, name='Rachel Youngquist', school='Richfield', grade=12, gender='F', time=1444.22}
+{place=41, name='Erin Long', school='Benilde-St Margaret', grade=9, gender='F', time=1452.3}
+{place=42, name='Sophie Elsenbast', school='Benilde-St Margaret', grade=12, gender='F', time=1456.11}
+{place=43, name='Kate Brinkman', school='St Louis Park', grade=9, gender='F', time=1502.12}
+{place=44, name='Lauren Gunderson', school='Richfield', grade=11, gender='F', time=1516.47}
+{place=45, name='Maddison Bohrnstedt', school='Bloomington', grade=11, gender='F', time=1531.95}
+{place=46, name='Ellie Hedlund', school='Richfield', grade=10, gender='F', time=1566.33}
+{place=47, name='Madison Miller', school='Bloomington', grade=11, gender='F', time=1606.34}
+{place=48, name='Nicole Luttenegger', school='Richfield', grade=11, gender='F', time=1606.55}
+{place=49, name='Madison Peterson-Bradford', school='Cooper', grade=11, gender='F', time=1642.56}
+{place=50, name='Elizabeth Smude', school='Cooper', grade=9, gender='F', time=1643.97}
+{place=51, name='Allison  Urevig', school='Cooper', grade=11, gender='F', time=1676.31}
+{place=52, name='Lucy Inderiden', school='Bloomington', grade=11, gender='F', time=1693.64}
+{place=53, name='Lu Maywald', school='Cooper', grade=12, gender='F', time=1697.77}
+{place=54, name='Emma Carlson', school='Richfield', grade=11, gender='F', time=1721.13}
+{place=55, name='Lizzy Rode', school='Richfield', grade=11, gender='F', time=1741.88}
+{place=56, name='Jane Kruskop', school='Cooper', grade=11, gender='F', time=1913.1}

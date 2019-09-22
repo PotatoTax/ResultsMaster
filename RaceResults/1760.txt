@@ -1,0 +1,29 @@
+Race : 1760
+{place=1, name='William Phelan', school='St Louis Park', grade=11, gender='M', time=866.91}
+{place=2, name='Jackson Sokolowski', school='St Louis Park', grade=12, gender='M', time=869.15}
+{place=3, name='Anders Olson', school='Bloomington', grade=12, gender='M', time=942.86}
+{place=4, name='Keelan Gorman', school='Benilde-St Margaret', grade=10, gender='M', time=947.17}
+{place=5, name='Clyde Sellke', school='Benilde-St Margaret', grade=11, gender='M', time=962.42}
+{place=6, name='Connor Meany', school='Bloomington', grade=12, gender='M', time=977.92}
+{place=7, name='Emmett Foner', school='St Louis Park', grade=10, gender='M', time=1000.42}
+{place=8, name='Lorenzo Moneti', school='Bloomington', grade=12, gender='M', time=1055.67}
+{place=9, name='Joel Schaefer', school='Richfield', grade=10, gender='M', time=1065.47}
+{place=10, name='Cyrus Abrahamson', school='St Louis Park', grade=10, gender='M', time=1080.92}
+{place=11, name='Kurt Nystuen', school='St Louis Park', grade=11, gender='M', time=1100.89}
+{place=12, name='Tim Lueth', school='Bloomington', grade=9, gender='M', time=1118.28}
+{place=13, name='Joseph Wolf', school='Chaska-Chan', grade=11, gender='M', time=1150.86}
+{place=14, name='Casey Porter', school='Bloomington', grade=11, gender='M', time=1167.28}
+{place=15, name='Luke Reich', school='Chaska-Chan', grade=11, gender='M', time=1179.18}
+{place=16, name='Max Holden', school='St Louis Park', grade=10, gender='M', time=1184.55}
+{place=17, name='Carter Schmelzle', school='St Louis Park', grade=12, gender='M', time=1198.76}
+{place=18, name='Colden Longley', school='Bloomington', grade=9, gender='M', time=1231.64}
+{place=19, name='David Klein', school='St Louis Park', grade=9, gender='M', time=1261.45}
+{place=20, name='Kieran Hammer', school='Bloomington', grade=12, gender='M', time=1301.42}
+{place=21, name='Danny Walsh', school='St Louis Park', grade=8, gender='M', time=1317.43}
+{place=22, name='Zachary Thomas', school='Cooper', grade=12, gender='M', time=1322.55}
+{place=23, name='Carter Stromberg', school='Cooper', grade=10, gender='M', time=1443.11}
+{place=24, name='Walker Niebergall', school='Benilde-St Margaret', grade=9, gender='M', time=1464.43}
+{place=25, name='Kai Olson', school='Bloomington', grade=12, gender='M', time=1483.64}
+{place=26, name='Joe Munkeby', school='Benilde-St Margaret', grade=10, gender='M', time=1504.68}
+{place=27, name='Logan Juell', school='Richfield', grade=11, gender='M', time=1555.47}
+{place=28, name='Samuel Herman', school='Cooper', grade=12, gender='M', time=1558.78}

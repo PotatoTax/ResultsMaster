@@ -1,0 +1,77 @@
+Race : 426
+{place=1, name='Troy Rannanen', school='Dassel-Cokato', grade=8, gender='M', time=552.88}
+{place=2, name='Grant Rannanen', school='Dassel-Cokato', grade=8, gender='M', time=555.46}
+{place=3, name='Isiah Herout', school='Glencoe-Silver Lake', grade=8, gender='M', time=555.97}
+{place=4, name='Andrew Schonessen', school='Maple Lake', grade=8, gender='M', time=562.76}
+{place=5, name='Dan Mahota', school='Mound-Westonka', grade=8, gender='M', time=563.09}
+{place=6, name='Sam Lamson', school='Hutchinson', grade=8, gender='M', time=564.04}
+{place=7, name='Ned Koivisto', school='Dassel-Cokato', grade=8, gender='M', time=565.51}
+{place=8, name='Brandon Johnson', school='Dassel-Cokato', grade=8, gender='M', time=569.59}
+{place=9, name='Mitch Markkanen', school='New London-Spicer', grade=7, gender='M', time=570.42}
+{place=10, name='Adam Latour', school='Maple Lake', grade=8, gender='M', time=571.59}
+{place=11, name='Jac Chelman', school='Glencoe-Silver Lake', grade=8, gender='M', time=573.27}
+{place=12, name='Devin Deringer', school='Maple Lake', grade=7, gender='M', time=574.96}
+{place=13, name='Bryce Hill', school='Annandale ', grade=7, gender='M', time=575.46}
+{place=14, name='Shane Zabinski', school='Annandale ', grade=8, gender='M', time=576.67}
+{place=15, name='Clayton Neuenschwander', school='Annandale ', grade=8, gender='M', time=589.02}
+{place=16, name='Colton Vetsch', school='Dassel-Cokato', grade=7, gender='M', time=590.01}
+{place=17, name='Oakley Clark', school='Glencoe-Silver Lake', grade=8, gender='M', time=593.42}
+{place=18, name='Matt Humbert', school='Mound-Westonka', grade=5, gender='M', time=594.28}
+{place=19, name='Cam McNanus', school='Mound-Westonka', grade=8, gender='M', time=594.53}
+{place=20, name='Jordan  Diers', school='Annandale ', grade=8, gender='M', time=594.96}
+{place=21, name='Logan Wikstrom', school='Orono', grade=6, gender='M', time=595.59}
+{place=22, name='Ryan Houseman', school='Hutchinson', grade=6, gender='M', time=607.42}
+{place=23, name='Cody Christensen', school='Hutchinson', grade=8, gender='M', time=609.09}
+{place=24, name='Ross Hickey', school='Maple Lake', grade=7, gender='M', time=609.55}
+{place=25, name='Stan Ridgeway', school='Litchfield', grade=7, gender='M', time=610.33}
+{place=26, name='Kyle Cadwallader', school='Orono', grade=6, gender='M', time=612.21}
+{place=27, name='Jack Nelson', school='Dassel-Cokato', grade=8, gender='M', time=613.29}
+{place=28, name='Carter Diers', school='Annandale ', grade=8, gender='M', time=618.46}
+{place=29, name='Steven Hoff', school='Mound-Westonka', grade=8, gender='M', time=619.73}
+{place=30, name='Aaron Donnay', school='Glencoe-Silver Lake', grade=7, gender='M', time=621.36}
+{place=31, name='Jacob Janisch', school='Orono', grade=9, gender='M', time=623.47}
+{place=32, name='Nate Soleman', school='Cambridge-Isanti', grade=8, gender='M', time=625.58}
+{place=33, name='Mitch Rothstein', school='Glencoe-Silver Lake', grade=7, gender='M', time=626.32}
+{place=34, name='Zach Kosel', school='Cambridge-Isanti', grade=7, gender='M', time=629.09}
+{place=35, name='Jed Jarman', school='Hutchinson', grade=8, gender='M', time=631.67}
+{place=36, name='Tyson Peterson', school='Hutchinson', grade=6, gender='M', time=639.14}
+{place=37, name='Tyler Magnusen', school='Cambridge-Isanti', grade=7, gender='M', time=639.73}
+{place=38, name='Darren Habiger', school='Holdingford', grade=7, gender='M', time=640.34}
+{place=39, name='Nathaniel Schultz', school='Dassel-Cokato', grade=8, gender='M', time=641.0}
+{place=40, name='Brad Eischens', school='Glencoe-Silver Lake', grade=8, gender='M', time=641.59}
+{place=41, name='Jackson Triplett', school='Maple Lake', grade=8, gender='M', time=642.96}
+{place=42, name='Austin Louis', school='Maple Lake', grade=8, gender='M', time=643.54}
+{place=43, name='Taylor LaZarre', school='Dassel-Cokato', grade=7, gender='M', time=648.9}
+{place=44, name='Connor Knutson', school='Orono', grade=7, gender='M', time=650.86}
+{place=45, name='Benjamin Brinza', school='Maple Lake', grade=8, gender='M', time=652.89}
+{place=46, name='Braydon Cadwallader', school='Orono', grade=7, gender='M', time=653.52}
+{place=47, name='Wyatt Sullivan', school='Glencoe-Silver Lake', grade=7, gender='M', time=655.84}
+{place=48, name='Chandler Swift', school='Glencoe-Silver Lake', grade=8, gender='M', time=656.34}
+{place=49, name='Mark Orzolek', school='Dassel-Cokato', grade=8, gender='M', time=659.4}
+{place=50, name='Ethan Wolff', school='Glencoe-Silver Lake', grade=7, gender='M', time=663.25}
+{place=51, name='Glen Huttenlocker', school='Hutchinson', grade=8, gender='M', time=664.19}
+{place=52, name='Paul Elmstrand', school='Cambridge-Isanti', grade=8, gender='M', time=664.65}
+{place=53, name='Tyler Braaten', school='Cambridge-Isanti', grade=8, gender='M', time=667.44}
+{place=54, name='AJ Wilson', school='Hutchinson', grade=7, gender='M', time=670.16}
+{place=55, name='Nolan Anderson', school='Dassel-Cokato', grade=8, gender='M', time=675.35}
+{place=56, name='Joe Elliot', school='Cambridge-Isanti', grade=7, gender='M', time=675.76}
+{place=57, name='Dean Kivisto', school='Dassel-Cokato', grade=8, gender='M', time=676.64}
+{place=58, name='Logan VanWatermulen', school='Watertown-Mayer', grade=7, gender='M', time=678.15}
+{place=59, name='Shane Hewitt', school='Mound-Westonka', grade=5, gender='M', time=690.09}
+{place=60, name='Tully Morrison', school='Orono', grade=7, gender='M', time=692.4}
+{place=61, name='Blake Paumen', school='Maple Lake', grade=8, gender='M', time=698.61}
+{place=62, name='Zach Speiser', school='Litchfield', grade=7, gender='M', time=721.99}
+{place=63, name='David Howell', school='Dassel-Cokato', grade=7, gender='M', time=726.3}
+{place=64, name='Eric Kruschke', school='Glencoe-Silver Lake', grade=8, gender='M', time=728.96}
+{place=65, name='Kyle Vetsch', school='Dassel-Cokato', grade=7, gender='M', time=731.04}
+{place=66, name='Derek  Dowell', school='Cambridge-Isanti', grade=7, gender='M', time=732.36}
+{place=67, name='Ben Jasper', school='Orono', grade=7, gender='M', time=737.45}
+{place=68, name='Braxton Eggersgluess', school='Glencoe-Silver Lake', grade=7, gender='M', time=746.65}
+{place=69, name='Kyle Janikula', school='Watertown-Mayer', grade=7, gender='M', time=747.21}
+{place=70, name='Eric Gorsuch', school='Orono', grade=7, gender='M', time=770.65}
+{place=71, name='T. J. Phelps', school='Orono', grade=7, gender='M', time=791.75}
+{place=72, name='Joe Weseman', school='Litchfield', grade=7, gender='M', time=792.36}
+{place=73, name='Austin Winkey', school='Orono', grade=6, gender='M', time=795.89}
+{place=74, name='Adam Winkelman', school='Dassel-Cokato', grade=8, gender='M', time=833.91}
+{place=75, name='Ben Rockswold', school='Glencoe-Silver Lake', grade=8, gender='M', time=847.27}
+{place=76, name='Dylan Langan', school='Hutchinson', grade=6, gender='M', time=887.63}

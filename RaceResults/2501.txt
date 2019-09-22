@@ -1,0 +1,71 @@
+Race : 2501
+{place=1, name='Sully Anez', school='Willmar', grade=6, gender='M', time=699.1802}
+{place=2, name='Fathi Dubet', school='Willmar', grade=7, gender='M', time=700.1104}
+{place=3, name='Carson Maish', school='Bemidji', grade=8, gender='M', time=725.4624}
+{place=4, name='Blake Reiman', school='Willmar', grade=6, gender='M', time=726.8091}
+{place=5, name='Asher Gann', school='Moorhead', grade=8, gender='M', time=742.4702}
+{place=6, name='Conlan Carlson', school='Willmar', grade=6, gender='M', time=749.6304}
+{place=7, name='Eli Heinen', school='Willmar', grade=6, gender='M', time=749.6694}
+{place=8, name='Lee Ellingsburg', school='Moorhead', grade=7, gender='M', time=760.0093}
+{place=9, name='Hunter Heim', school='Bemidji', grade=8, gender='M', time=765.9194}
+{place=10, name='Jack Watzke', school='Moorhead', grade=8, gender='M', time=773.2783}
+{place=11, name='Troy Bell', school='Pelican Rapids', grade=8, gender='M', time=778.4302}
+{place=12, name='Austin Liebl', school='Moorhead', grade=7, gender='M', time=779.3481}
+{place=13, name='Samuel Grefsheim', school='Moorhead', grade=7, gender='M', time=780.188}
+{place=14, name='Steven Cruze', school='Willmar', grade=6, gender='M', time=798.8804}
+{place=15, name='Jonas Cook', school='Moorhead', grade=7, gender='M', time=804.4502}
+{place=16, name='Gabe LaRue', school='Willmar', grade=6, gender='M', time=805.3994}
+{place=17, name='Brenden Kath', school='Willmar', grade=8, gender='M', time=805.4502}
+{place=18, name='Oliver Thorson', school='Fergus Falls', grade=8, gender='M', time=806.001}
+{place=19, name='Brandan Zepeda', school='Willmar', grade=7, gender='M', time=810.5713}
+{place=20, name='Will Termont', school='Bemidji', grade=7, gender='M', time=813.1494}
+{place=21, name='Moses Son', school='Bemidji', grade=7, gender='M', time=814.8604}
+{place=22, name='Ethan Copeland', school='Moorhead', grade=7, gender='M', time=822.188}
+{place=23, name='Sam  Gifford', school='Bemidji', grade=8, gender='M', time=822.4502}
+{place=24, name='Ryan Daman', school='Bemidji', grade=7, gender='M', time=827.1694}
+{place=25, name='Oakley Carlson', school='Pelican Rapids', grade=8, gender='M', time=831.4624}
+{place=26, name='Cole Darling', school='Moorhead', grade=8, gender='M', time=834.8091}
+{place=27, name='Noah Ness', school='Bemidji', grade=7, gender='M', time=835.6304}
+{place=28, name='Parker Sanchez', school='Pelican Rapids', grade=8, gender='M', time=843.6694}
+{place=29, name='Zaine Braaten', school='Moorhead', grade=8, gender='M', time=845.4111}
+{place=30, name='John Rogers', school='Moorhead', grade=7, gender='M', time=845.5283}
+{place=31, name='Jed Carlson', school='Pelican Rapids', grade=8, gender='M', time=849.4194}
+{place=32, name='Adam Allery', school='Bemidji', grade=7, gender='M', time=856.5981}
+{place=33, name='Connor Larson', school='Pelican Rapids', grade=8, gender='M', time=858.4302}
+{place=34, name='Jack Lundquist', school='Bemidji', grade=6, gender='M', time=860.0791}
+{place=35, name='Aaron Marthaler', school='Willmar', grade=6, gender='M', time=865.8022}
+{place=36, name='Max Louvar', school='Bemidji', grade=6, gender='M', time=870.0981}
+{place=37, name='Parker Noah', school='Bemidji', grade=7, gender='M', time=870.8413}
+{place=38, name='Reece Henkes', school='Pelican Rapids', grade=8, gender='M', time=873.188}
+{place=39, name='Jacob Loerzel', school='Willmar', grade=7, gender='M', time=873.27}
+{place=40, name='Derik Johnson', school='Willmar', grade=6, gender='M', time=885.9111}
+{place=41, name='Brett Kurschner', school='Bemidji', grade=8, gender='M', time=888.938}
+{place=42, name='Austin  Hanson', school='Bemidji', grade=8, gender='M', time=889.4194}
+{place=43, name='Koda Helfinstine', school='Willmar', grade=7, gender='M', time=899.4302}
+{place=44, name='Mason Blahut', school='Pelican Rapids', grade=8, gender='M', time=903.4111}
+{place=45, name='Eugene Lubbers', school='Willmar', grade=6, gender='M', time=909.1304}
+{place=46, name='Ethan Walters', school='Pelican Rapids', grade=7, gender='M', time=909.54}
+{place=47, name='Philip Dykhoff', school='Pelican Rapids', grade=8, gender='M', time=910.9111}
+{place=48, name='Eli Berg', school='Bemidji', grade=7, gender='M', time=911.5791}
+{place=49, name='Bjorn Krona', school='Bemidji', grade=7, gender='M', time=915.0981}
+{place=50, name='Elijah Weeks', school='Bemidji', grade=7, gender='M', time=923.6611}
+{place=51, name='Caleb Gustafson', school='Bemidji', grade=7, gender='M', time=925.6411}
+{place=52, name='Evan Kostohryz', school='Moorhead', grade=7, gender='M', time=925.6802}
+{place=53, name='Jackson Lysne', school='Fergus Falls', grade=7, gender='M', time=939.3721}
+{place=54, name='Alexander Bessie', school='Moorhead', grade=8, gender='M', time=939.981}
+{place=55, name='William Nuss', school='Fergus Falls', grade=7, gender='M', time=943.6802}
+{place=56, name='Corbin Hadrava', school='Bemidji', grade=7, gender='M', time=950.4302}
+{place=57, name='Blake Larson', school='Moorhead', grade=7, gender='M', time=951.5913}
+{place=58, name='Coletrane Deshayes', school='Moorhead', grade=7, gender='M', time=965.9702}
+{place=59, name='Dustin Suebert', school='Willmar', grade=6, gender='M', time=966.4624}
+{place=60, name='Ethan Olson', school='Bemidji', grade=7, gender='M', time=980.5981}
+{place=61, name='Cale Richardson', school='Pelican Rapids', grade=7, gender='M', time=984.29}
+{place=62, name='Walker Erickson', school='Bemidji', grade=8, gender='M', time=985.8994}
+{place=63, name='Isaac Schouten', school='Bemidji', grade=7, gender='M', time=986.1802}
+{place=64, name='Zach Fankhanel', school='Moorhead', grade=7, gender='M', time=993.981}
+{place=65, name='Carson Turn', school='Bemidji', grade=7, gender='M', time=1003.059}
+{place=66, name='Kaleb Johnson', school='Moorhead', grade=7, gender='M', time=1008.68}
+{place=67, name='Adrian Blondeau', school='Fergus Falls', grade=7, gender='M', time=1022.63}
+{place=68, name='Collin Schaefer', school='Bemidji', grade=6, gender='M', time=1044.669}
+{place=69, name='Leif Carlson', school='Moorhead', grade=7, gender='M', time=1367.091}
+{place=70, name='Nathan Larson', school='Moorhead', grade=8, gender='M', time=1430.528}

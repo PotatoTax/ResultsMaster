@@ -1,0 +1,30 @@
+Race : 2112
+{place=1, name='Vars A Wayzata', school='Wayzata', grade=12, gender='M', time=723.3}
+{place=2, name='Vars A Edina', school='Edina', grade=13, gender='M', time=759.8}
+{place=3, name='Vars B Wayzata', school='Wayzata', grade=12, gender='M', time=788.2}
+{place=4, name='Vars A Tonka', school='Minnetonka', grade=12, gender='M', time=792.9}
+{place=5, name='Vars C Eden Pr', school='Eden Prairie', grade=12, gender='M', time=796.4}
+{place=6, name='Vars A Hopkins', school='Hopkins', grade=12, gender='M', time=813.8}
+{place=7, name='Vars C Edina', school='Edina', grade=13, gender='M', time=828.3}
+{place=8, name='Vars E Eden Pr', school='Eden Prairie', grade=13, gender='M', time=832.2}
+{place=9, name='Vars D Eden Pr', school='Eden Prairie', grade=12, gender='M', time=833.7}
+{place=10, name='Vars E Hopkins', school='Hopkins', grade=12, gender='M', time=848.6}
+{place=11, name='Vars A Eden Pr', school='Eden Prairie', grade=12, gender='M', time=855.5}
+{place=12, name='Vars C Hopkins', school='Hopkins', grade=12, gender='M', time=859.1}
+{place=13, name='Vars E Tonka', school='Minnetonka', grade=12, gender='M', time=866.2}
+{place=14, name='Vars C Wayzata', school='Wayzata', grade=12, gender='M', time=873.5}
+{place=15, name='Vars B Eden Pr', school='Eden Prairie', grade=12, gender='M', time=879.6}
+{place=16, name='Vars F Eden Pr', school='Eden Prairie', grade=12, gender='M', time=888.7}
+{place=17, name='Vars D Hopkins', school='Hopkins', grade=12, gender='M', time=892.5}
+{place=18, name='Vars C Tonka', school='Minnetonka', grade=12, gender='M', time=893.8}
+{place=19, name='Vars D Wayzata', school='Wayzata', grade=12, gender='M', time=910.9}
+{place=20, name='Vars B Tonka', school='Minnetonka', grade=12, gender='M', time=918.7}
+{place=21, name='Vars B Hopkins', school='Hopkins', grade=12, gender='M', time=934.9}
+{place=22, name='Vars D Tonka', school='Minnetonka', grade=12, gender='M', time=937.2}
+{place=23, name='Vars E Edina', school='Edina', grade=13, gender='M', time=957.9}
+{place=24, name='Vars E Wayzata', school='Wayzata', grade=12, gender='M', time=971.7}
+{place=25, name='Vars F Wayzata', school='Wayzata', grade=12, gender='M', time=994.6}
+{place=26, name='Vars B Edina', school='Edina', grade=13, gender='M', time=1035.2}
+{place=27, name='Vars F Hopkins', school='Hopkins', grade=12, gender='M', time=1085.4}
+{place=28, name='Vars F Edina', school='Edina', grade=13, gender='M', time=1176.5}
+{place=29, name='Vars D Edina', school='Edina', grade=13, gender='M', time=1233.2}

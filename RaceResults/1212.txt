@@ -1,0 +1,60 @@
+Race : 1212
+{place=1, name='Michael Quirk', school='Wayzata', grade=10, gender='M', time=865.19}
+{place=2, name='Thomas Lerdall', school='Wayzata', grade=12, gender='M', time=883.84}
+{place=3, name='Dan Urke', school='Wayzata', grade=10, gender='M', time=887.92}
+{place=4, name='Jack  Olson', school='Wayzata', grade=10, gender='M', time=891.32}
+{place=5, name='Daniel Berardino', school='Wayzata', grade=11, gender='M', time=894.25}
+{place=6, name='Jeremy Gilbertson', school='Wayzata', grade=10, gender='M', time=909.79}
+{place=7, name='Walter Smith', school='Wayzata', grade=9, gender='M', time=909.97}
+{place=8, name='Alex White', school='Wayzata', grade=10, gender='M', time=913.32}
+{place=9, name='George  Mulder', school='Eden Prairie', grade=10, gender='M', time=918.95}
+{place=10, name='Thomas Golin', school='Wayzata', grade=7, gender='M', time=921.3}
+{place=11, name='Jake Fazio', school='Eden Prairie', grade=12, gender='M', time=924.44}
+{place=12, name='Tyler Carlstrom', school='Wayzata', grade=10, gender='M', time=924.81}
+{place=13, name='Logan Hoffman', school='Hopkins', grade=9, gender='M', time=941.27}
+{place=14, name='Thomas Simon', school='Edina', grade=10, gender='M', time=942.76}
+{place=15, name='Derek  DeKam', school='Eden Prairie', grade=10, gender='M', time=943.65}
+{place=16, name='Olivier Thiss', school='Minnetonka', grade=10, gender='M', time=943.68}
+{place=17, name='Nathan Schacht', school='Eden Prairie', grade=11, gender='M', time=945.81}
+{place=18, name='Evan Swift', school='Eden Prairie', grade=10, gender='M', time=949.13}
+{place=19, name='David De Jong', school='Eden Prairie', grade=9, gender='M', time=951.68}
+{place=20, name='August Blanchett', school='Edina', grade=9, gender='M', time=955.54}
+{place=21, name='Austin Morrow', school='Eden Prairie', grade=9, gender='M', time=956.51}
+{place=22, name='Daniel Huschke', school='Eden Prairie', grade=12, gender='M', time=957.95}
+{place=23, name='Peter Kivimaki', school='Edina', grade=10, gender='M', time=958.3}
+{place=24, name='Sam Smith', school='Wayzata', grade=9, gender='M', time=960.43}
+{place=25, name='Aaron Brown', school='Hopkins', grade=11, gender='M', time=971.57}
+{place=26, name='Erik Williams', school='Wayzata', grade=9, gender='M', time=973.7}
+{place=27, name='Connor Jette', school='Wayzata', grade=10, gender='M', time=974.8}
+{place=28, name='Nick Ardakani', school='Eden Prairie', grade=10, gender='M', time=980.81}
+{place=29, name='John Horan', school='Edina', grade=10, gender='M', time=982.44}
+{place=30, name='Peter Rock', school='Edina', grade=8, gender='M', time=989.18}
+{place=31, name='Alex Olawsky', school='Eden Prairie', grade=12, gender='M', time=989.33}
+{place=32, name='John Martin', school='Hopkins', grade=12, gender='M', time=989.93}
+{place=33, name='Peter Linden', school='Minnetonka', grade=10, gender='M', time=995.81}
+{place=34, name='Daniel Mydra', school='Hopkins', grade=10, gender='M', time=997.83}
+{place=35, name='Charles Brick', school='Wayzata', grade=12, gender='M', time=1011.28}
+{place=36, name='Seth Schricker', school='Hopkins', grade=8, gender='M', time=1012.93}
+{place=37, name='Archie Mackinnon', school='Minnetonka', grade=11, gender='M', time=1015.53}
+{place=38, name='Lee (Max) Thiele', school='Edina', grade=11, gender='M', time=1015.77}
+{place=39, name='Perry Avenson', school='Hopkins', grade=12, gender='M', time=1016.54}
+{place=40, name='Noah Calvo', school='Edina', grade=10, gender='M', time=1020.19}
+{place=41, name='William Graupmann', school='Minnetonka', grade=10, gender='M', time=1028.53}
+{place=42, name='Andrew  McFarland', school='Minnetonka', grade=11, gender='M', time=1033.63}
+{place=43, name='Carter Eng', school='Hopkins', grade=12, gender='M', time=1036.97}
+{place=44, name='Zach Risken', school='Eden Prairie', grade=10, gender='M', time=1048.7}
+{place=45, name='Jacob Sharockman', school='Eden Prairie', grade=12, gender='M', time=1049.84}
+{place=46, name='Peter Zahn', school='Edina', grade=9, gender='M', time=1069.17}
+{place=47, name='Erik  Arnar', school='Minnetonka', grade=10, gender='M', time=1071.92}
+{place=48, name='Lucas Schnirring', school='Eden Prairie', grade=9, gender='M', time=1083.14}
+{place=49, name='Rohan Gholkar', school='Edina', grade=9, gender='M', time=1086.34}
+{place=50, name='Sether Johnson', school='Minnetonka', grade=10, gender='M', time=1091.4}
+{place=51, name='Carter Olson', school='Edina', grade=8, gender='M', time=1097.29}
+{place=52, name='Niko Schmanski', school='Hopkins', grade=7, gender='M', time=1097.34}
+{place=53, name='Penn Sagadal', school='Hopkins', grade=8, gender='M', time=1102.34}
+{place=54, name='Henry Mans', school='Edina', grade=8, gender='M', time=1102.72}
+{place=55, name='Robert Mitchell', school='Hopkins', grade=12, gender='M', time=1102.8}
+{place=56, name='Michael Zappa', school='Edina', grade=9, gender='M', time=1123.84}
+{place=57, name='John Osler', school='Edina', grade=11, gender='M', time=1131.54}
+{place=58, name='James Miller', school='Hopkins', grade=8, gender='M', time=1155.09}
+{place=59, name='George  Moore', school='Edina', grade=8, gender='M', time=1170.34}

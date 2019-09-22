@@ -1,0 +1,56 @@
+Race : 2458
+{place=1, name='Peyton Oslin', school='Mora', grade=10, gender='F', time=1312.4}
+{place=2, name='Eva Holmgren', school='Mora', grade=9, gender='F', time=1322.3}
+{place=3, name='Tess Houglum', school='Mora', grade=10, gender='F', time=1330.1}
+{place=4, name='Katie Corbett', school='Little Falls', grade=12, gender='F', time=1358.4}
+{place=5, name='Rachel Anderson', school='Mora', grade=12, gender='F', time=1360.4}
+{place=6, name='Jerica Ploeger', school='Milaca', grade=12, gender='F', time=1366.5}
+{place=7, name='Bethany Ten Haken', school='Milaca', grade=12, gender='F', time=1375.1}
+{place=8, name='Johanna Schwinghamer', school='Mora', grade=11, gender='F', time=1387.2}
+{place=9, name='Raechel Painovich', school='Hinckley-Finlayson', grade=9, gender='F', time=1416.7}
+{place=10, name='Leah Dreckman', school='Chisago Lakes', grade=9, gender='F', time=1422.3}
+{place=11, name='Christina Brunnette', school='Chisago Lakes', grade=11, gender='F', time=1425.8}
+{place=12, name='Lily Peterson', school='Mora', grade=11, gender='F', time=1438.1}
+{place=13, name='Maya Aadland', school='Chisago Lakes', grade=8, gender='F', time=1450.6}
+{place=14, name='Brenna Andres', school='Pierz', grade=11, gender='F', time=1453.7}
+{place=15, name='Carissa Andres', school='Pierz', grade=8, gender='F', time=1455.6}
+{place=16, name='Caroline Aili', school='Chisago Lakes', grade=9, gender='F', time=1457.8}
+{place=17, name='Kali Schirmers', school='Little Falls', grade=11, gender='F', time=1471.4}
+{place=18, name='Anna Johnson', school='Chisago Lakes', grade=9, gender='F', time=1504.5}
+{place=19, name='Gail Nelson', school='North Branch', grade=12, gender='F', time=1506.7}
+{place=20, name='Camilla Johnson', school='Little Falls', grade=11, gender='F', time=1523.1}
+{place=21, name='Adrienne Kresha', school='Little Falls', grade=11, gender='F', time=1534.1}
+{place=22, name='Katie Lund', school='Mora', grade=12, gender='F', time=1538.8}
+{place=23, name='Elizabeth Danilyuk', school='Milaca', grade=11, gender='F', time=1543.3}
+{place=24, name='Molly Moberg', school='Chisago Lakes', grade=11, gender='F', time=1571.9}
+{place=25, name='Sarah Erbtoesser', school='Braham', grade=12, gender='F', time=1585.7}
+{place=26, name='Audrey Storlie', school='Hinckley-Finlayson', grade=10, gender='F', time=1592.5}
+{place=27, name='Cora  Hudella', school='North Branch', grade=9, gender='F', time=1600.9}
+{place=28, name='Claire Zack', school='Little Falls', grade=11, gender='F', time=1606.6}
+{place=29, name='Hallie Rootkie', school='Hinckley-Finlayson', grade=10, gender='F', time=1608.8}
+{place=30, name='Abigail Painovich', school='Hinckley-Finlayson', grade=12, gender='F', time=1609.4}
+{place=31, name='Kylie Tervo', school='Little Falls', grade=7, gender='F', time=1615.6}
+{place=32, name='Maddy Marquette', school='Little Falls', grade=12, gender='F', time=1621.8}
+{place=33, name='Allyssa Gall', school='Pierz', grade=9, gender='F', time=1625.2}
+{place=34, name='Vanessa Waldorf', school='Big Lake', grade=11, gender='F', time=1628.3}
+{place=35, name='Ellie Lochner', school='Pierz', grade=9, gender='F', time=1631.6}
+{place=36, name='Kara Bakke', school='Pierz', grade=8, gender='F', time=1633.2}
+{place=37, name='Amelia Degen', school='Big Lake', grade=10, gender='F', time=1635.8}
+{place=38, name='Kayla Braun', school='Foley', grade=9, gender='F', time=1636.1}
+{place=39, name='Soleil DeLorge', school='North Branch', grade=9, gender='F', time=1645.4}
+{place=40, name='Rachel Kasper', school='Pierz', grade=8, gender='F', time=1646.2}
+{place=41, name='Elle Wertish', school='Big Lake', grade=11, gender='F', time=1672.1}
+{place=42, name='Cherramae Erickson', school='Milaca', grade=12, gender='F', time=1689.8}
+{place=43, name='Cassandra Wendt', school='Foley', grade=10, gender='F', time=1723.3}
+{place=44, name='Abby Bennett', school='Hinckley-Finlayson', grade=11, gender='F', time=1746.6}
+{place=45, name='Grace Heider', school='Big Lake', grade=9, gender='F', time=1751.7}
+{place=46, name='Laura Hink', school='North Branch', grade=11, gender='F', time=1799.4}
+{place=47, name='Sophia Tienter', school='Big Lake', grade=9, gender='F', time=1823.1}
+{place=48, name='Selena Schmidt', school='Rush City', grade=11, gender='F', time=1829.6}
+{place=49, name='Sophie Hodena', school='Hinckley-Finlayson', grade=9, gender='F', time=1849.9}
+{place=50, name='Evelyn DeMars', school='North Branch', grade=9, gender='F', time=1856.3}
+{place=51, name='Erin Rootes', school='Big Lake', grade=10, gender='F', time=1872.9}
+{place=52, name='Anna  Bush', school='Rush City', grade=11, gender='F', time=1877.7}
+{place=53, name='Angel Martinez-Johnson', school='Rush City', grade=11, gender='F', time=2003.9}
+{place=54, name='Hailey Szczech', school='Foley', grade=10, gender='F', time=2024.8}
+{place=55, name='Katie Schaefer', school='Pierz', grade=11, gender='F', time=2264.8}

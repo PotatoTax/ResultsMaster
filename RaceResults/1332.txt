@@ -1,0 +1,91 @@
+Race : 1332
+{place=1, name='Emily Malmgren', school='Willmar', grade=8, gender='F', time=737.77}
+{place=2, name='Abby Coquyt', school='Willmar', grade=7, gender='F', time=740.97}
+{place=3, name='Taylor Melton', school='Moorhead', grade=8, gender='F', time=749.22}
+{place=4, name='Nina Dawson', school='Willmar', grade=6, gender='F', time=761.12}
+{place=5, name='Mya Monson', school='Willmar', grade=8, gender='F', time=770.85}
+{place=6, name='Abby Mathiasen', school='Willmar', grade=8, gender='F', time=775.97}
+{place=7, name='Addison Hogan', school='Willmar', grade=7, gender='F', time=780.0}
+{place=8, name='Jori Strasser', school='Pipestone', grade=7, gender='F', time=780.97}
+{place=9, name='Faith Wollschlager', school='Moorhead', grade=8, gender='F', time=786.97}
+{place=10, name='Emma Glasgow', school='Elk River', grade=7, gender='F', time=787.91}
+{place=11, name='Annika Yoney', school='Moorhead', grade=8, gender='F', time=809.72}
+{place=12, name='Stella Erickson', school='Moorhead', grade=8, gender='F', time=812.7}
+{place=13, name='Chloe Schafer', school='Willmar', grade=7, gender='F', time=813.47}
+{place=14, name='Emma Williams', school='Willmar', grade=8, gender='F', time=815.47}
+{place=15, name='Abigail Erickson', school='Elk River', grade=8, gender='F', time=824.91}
+{place=16, name='Madisen Kallevig', school='Willmar', grade=8, gender='F', time=830.77}
+{place=17, name='Katelyn  Blilie', school='Richland-Colfax', grade=11, gender='F', time=831.72}
+{place=18, name='Sabrina Schofield', school='Hutchinson', grade=7, gender='F', time=832.6}
+{place=19, name='Miah Martin', school='Elk River', grade=7, gender='F', time=833.24}
+{place=20, name='Ella Grafstrom', school='Moorhead', grade=6, gender='F', time=833.72}
+{place=21, name='Erin Maroney', school='Hopkins', grade=8, gender='F', time=842.47}
+{place=22, name='Octavia Nerguson', school='Moorhead', grade=8, gender='F', time=848.87}
+{place=23, name='Macy Ellis', school='Hutchinson', grade=7, gender='F', time=850.7}
+{place=24, name='Kylie Newcomer', school='Willmar', grade=8, gender='F', time=850.7}
+{place=25, name='Grace Burgess', school='Hopkins', grade=7, gender='F', time=854.22}
+{place=26, name='Caroline Wehseler', school='New London-Spicer', grade=8, gender='F', time=855.35}
+{place=27, name='Stephanie Reyes', school='Willmar', grade=8, gender='F', time=858.99}
+{place=28, name='Julia Backlund', school='Jordan', grade=7, gender='F', time=860.43}
+{place=29, name='McKenzie Johnson', school='Richland-Colfax', grade=7, gender='F', time=862.47}
+{place=30, name='McCall Clark', school='Moorhead', grade=6, gender='F', time=864.7}
+{place=31, name='Anibel Palm', school='Hopkins', grade=7, gender='F', time=864.7}
+{place=32, name='Payton Freiberg', school='Willmar', grade=6, gender='F', time=866.72}
+{place=33, name='Arianna Jenniges', school='New London-Spicer', grade=7, gender='F', time=869.97}
+{place=34, name='Mallory Johnson', school='Hutchinson', grade=6, gender='F', time=871.72}
+{place=35, name='Ellie Helgerson', school='Jordan', grade=7, gender='F', time=873.45}
+{place=36, name='Allison Mattson', school='Willmar', grade=6, gender='F', time=879.74}
+{place=37, name='Adeline Cruze', school='Willmar', grade=6, gender='F', time=879.91}
+{place=38, name='Corina Powell', school='Hutchinson', grade=6, gender='F', time=887.22}
+{place=39, name='Lili Sampson', school='New London-Spicer', grade=7, gender='F', time=893.74}
+{place=40, name='Ellie Bock', school='Hutchinson', grade=7, gender='F', time=895.18}
+{place=41, name='Jasmine Singsank', school='Willmar', grade=6, gender='F', time=895.77}
+{place=42, name='Erin Gee', school='Jamestown', grade=8, gender='F', time=895.77}
+{place=43, name='Ella Willardson', school='Hopkins', grade=7, gender='F', time=898.43}
+{place=44, name='Ella  Mangel', school='Moorhead', grade=7, gender='F', time=900.0}
+{place=45, name='Esmeralda Garcia', school='Willmar', grade=6, gender='F', time=900.49}
+{place=46, name='Mary Burke', school='Hopkins', grade=8, gender='F', time=901.89}
+{place=47, name='Katelyn Gulbranson', school='Moorhead', grade=6, gender='F', time=901.89}
+{place=48, name='Serena Mobley', school='Willmar', grade=7, gender='F', time=902.22}
+{place=49, name='Cassidy Allen', school='Hopkins', grade=7, gender='F', time=903.72}
+{place=50, name='Rylie Johnson', school='Moorhead', grade=8, gender='F', time=906.95}
+{place=51, name='Zoe Roemhildt', school='Hopkins', grade=8, gender='F', time=909.6}
+{place=52, name='Natalie Negen', school='Marshall', grade=7, gender='F', time=910.62}
+{place=53, name='Mallory Williams', school='Elk River', grade=7, gender='F', time=910.99}
+{place=54, name='Grace Hoskins', school='Marshall', grade=8, gender='F', time=915.1}
+{place=55, name='Nora  Wallace', school='Pipestone', grade=8, gender='F', time=919.95}
+{place=56, name='Gretchen Zak', school='St Cloud Tech', grade=8, gender='F', time=932.14}
+{place=57, name='Megan Roob', school='Richland-Colfax', grade=6, gender='F', time=933.37}
+{place=58, name='Alicia Maddux', school='Moorhead', grade=6, gender='F', time=938.72}
+{place=59, name='Kaylena Carranza', school='Willmar', grade=6, gender='F', time=941.24}
+{place=60, name='Chloe Tomsche', school='Hopkins', grade=7, gender='F', time=944.16}
+{place=61, name='Sydney Juntunen', school='Hopkins', grade=7, gender='F', time=944.16}
+{place=62, name='Holly Den Hartog', school='Hopkins', grade=8, gender='F', time=952.85}
+{place=63, name='Maria Garcia', school='Willmar', grade=8, gender='F', time=953.87}
+{place=64, name='Cami Synhorst', school='New London-Spicer', grade=7, gender='F', time=966.24}
+{place=65, name='Halle Balluff', school='Moorhead', grade=6, gender='F', time=967.27}
+{place=66, name='Megan Madsen', school='Elk River', grade=7, gender='F', time=975.74}
+{place=67, name='Amelia Reed', school='Willmar', grade=6, gender='F', time=985.97}
+{place=68, name='Anastasia Benusa', school='Hutchinson', grade=8, gender='F', time=989.41}
+{place=69, name='Abbie Westman', school='Marshall', grade=7, gender='F', time=991.64}
+{place=70, name='Lilli Ogaard', school='Hutchinson', grade=6, gender='F', time=1000.38}
+{place=71, name='Morgan Shekore', school='Moorhead', grade=6, gender='F', time=1005.99}
+{place=72, name='Emily Rutoski', school='Jordan', grade=7, gender='F', time=1015.23}
+{place=73, name='Anna Hecker', school='Moorhead', grade=7, gender='F', time=1029.45}
+{place=74, name='Isidreana Lopez', school='Moorhead', grade=6, gender='F', time=1059.04}
+{place=75, name='Suraya Morrison', school='Hopkins', grade=8, gender='F', time=1075.7}
+{place=76, name='Samantha Kruse', school='Hopkins', grade=7, gender='F', time=1092.95}
+{place=77, name='Katrina Hansen', school='Hutchinson', grade=6, gender='F', time=1096.37}
+{place=78, name='Bre Evans', school='New London-Spicer', grade=7, gender='F', time=1122.49}
+{place=79, name='Emma Stuber', school='Moorhead', grade=6, gender='F', time=1128.66}
+{place=80, name='Alyia Brown', school='Hopkins', grade=7, gender='F', time=1130.88}
+{place=81, name='Madeline Lansink', school='Moorhead', grade=8, gender='F', time=1131.9}
+{place=82, name='Maryssa Cooley', school='Moorhead', grade=6, gender='F', time=1142.49}
+{place=83, name='Jamie Raske', school='Moorhead', grade=6, gender='F', time=1150.88}
+{place=84, name='Esther Kuenzi', school='Hutchinson', grade=6, gender='F', time=1152.74}
+{place=85, name='Chuenkamon Sanmanit', school='Jamestown', grade=11, gender='F', time=1226.88}
+{place=86, name='Olivia Larson', school='Moorhead', grade=6, gender='F', time=1270.74}
+{place=87, name='Siri Overturf', school='Moorhead', grade=6, gender='F', time=1270.92}
+{place=88, name='Rane Cuta', school='Hopkins', grade=7, gender='F', time=1354.59}
+{place=89, name='Grace MacLaughlin', school='Hopkins', grade=7, gender='F', time=1513.2}
+{place=90, name='Dorothy Mavison', school='Hopkins', grade=8, gender='F', time=1513.2}

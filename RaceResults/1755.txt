@@ -1,0 +1,11 @@
+Race : 1755
+{place=1, name='Vars A Hopkins', school='Hopkins', grade=12, gender='F', time=695.12}
+{place=2, name='Vars A Wayzata', school='Wayzata', grade=12, gender='F', time=699.41}
+{place=3, name='Vars A Edina', school='Edina', grade=12, gender='F', time=712.87}
+{place=4, name='Vars B Hopkins', school='Hopkins', grade=12, gender='F', time=717.37}
+{place=5, name='Vars B Wayzata', school='Wayzata', grade=12, gender='F', time=730.3}
+{place=6, name='Vars A Eden Pr', school='Eden Prairie', grade=12, gender='F', time=741.6}
+{place=7, name='Vars A Tonka', school='Minnetonka', grade=12, gender='F', time=765.37}
+{place=8, name='Vars B Eden Pr', school='Eden Prairie', grade=12, gender='F', time=773.87}
+{place=9, name='Vars B Edina', school='Edina', grade=12, gender='F', time=805.23}
+{place=10, name='Vars B Tonka', school='Minnetonka', grade=12, gender='F', time=902.17}

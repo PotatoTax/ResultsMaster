@@ -1,0 +1,389 @@
+Race : 1239
+{place=1, name='Nick  Blommel', school='St Cloud Apollo', grade=8, gender='M', time=707.92}
+{place=2, name='Aaron  Coons', school='Zimmerman', grade=8, gender='M', time=712.21}
+{place=3, name='Hans Gebauer', school='St Croix Prep', grade=8, gender='M', time=758.32}
+{place=4, name='Matthew Bzdok', school='St Cloud Tech', grade=8, gender='M', time=760.96}
+{place=5, name='Otto Klaverkamp', school='St Cloud Tech', grade=8, gender='M', time=785.12}
+{place=6, name='Liebon Mohamed', school='St Cloud Apollo', grade=8, gender='M', time=789.57}
+{place=7, name='Carter Wavrin', school='St Cloud Tech', grade=8, gender='M', time=854.48}
+{place=8, name='Daniel Perrault', school='St Cloud Tech', grade=8, gender='M', time=856.53}
+{place=9, name='Jack Mueller', school='St Cloud Tech', grade=8, gender='M', time=861.44}
+{place=10, name='Josh Tabery', school='Wadena-Deer Creek', grade=8, gender='M', time=864.23}
+{place=11, name='Jonah Laundergan', school='Esko', grade=8, gender='M', time=887.98}
+{place=12, name='Jager Christenson', school='Esko', grade=8, gender='M', time=890.25}
+{place=13, name='Alex Walsh', school='St Croix Prep', grade=8, gender='M', time=906.57}
+{place=14, name='Peter Doroff', school='St Cloud Apollo', grade=8, gender='M', time=944.12}
+{place=15, name='Mitchell Grand', school='Hutchinson', grade=9, gender='M', time=1031.6}
+{place=16, name='Jarred Brandt', school='Stillwater', grade=9, gender='M', time=1062.54}
+{place=17, name='Yonas O'Malley', school='Stillwater', grade=9, gender='M', time=1063.6}
+{place=18, name='Nick Buiceag-Arama', school='Sartell', grade=9, gender='M', time=1067.08}
+{place=19, name='Isaac Basten', school='Buffalo', grade=9, gender='M', time=1071.98}
+{place=20, name='Zach Harren', school='Sartell', grade=9, gender='M', time=1077.04}
+{place=21, name='Keenan  Swope', school='North Lakes-LILA ', grade=9, gender='M', time=1077.45}
+{place=22, name='Sam Racine', school='White Bear Lake', grade=9, gender='M', time=1080.62}
+{place=23, name='Tryg Solberg', school='White Bear Lake', grade=9, gender='M', time=1083.37}
+{place=24, name='Nate Shikenjanski', school='Stillwater', grade=9, gender='M', time=1084.1}
+{place=25, name='Joey Anderson', school='Buffalo', grade=9, gender='M', time=1098.87}
+{place=26, name='Ben Hoeschen', school='Sartell', grade=9, gender='M', time=1107.85}
+{place=27, name='Aaron Lindner', school='Sartell', grade=9, gender='M', time=1111.31}
+{place=28, name='Jake Andres', school='Pierz', grade=9, gender='M', time=1115.12}
+{place=29, name='Logan Hoff', school='Hutchinson', grade=9, gender='M', time=1115.37}
+{place=30, name='Brett Hanson', school='Buffalo', grade=9, gender='M', time=1124.12}
+{place=31, name='Logan Weber', school='Minot', grade=9, gender='M', time=1125.35}
+{place=32, name='Ander Arnold', school='New London-Spicer', grade=9, gender='M', time=1127.58}
+{place=33, name='Thomas Hugo', school='Grand Forks Red River', grade=9, gender='M', time=1131.0}
+{place=34, name='Wyatt Rauvola', school='Cromwell-Wright', grade=9, gender='M', time=1135.62}
+{place=35, name='Riley Jenum', school='Hutchinson', grade=9, gender='M', time=1140.0}
+{place=36, name='Ryan Miley', school='Maple Grove', grade=9, gender='M', time=1142.39}
+{place=37, name='Jack Jaeger', school='Hutchinson', grade=8, gender='M', time=1143.62}
+{place=38, name='Johann Noer', school='Stillwater', grade=9, gender='M', time=1149.1}
+{place=39, name='Neil Tansey', school='Maple Grove', grade=9, gender='M', time=1150.11}
+{place=40, name='Jacob Toay', school='Anoka', grade=9, gender='M', time=1152.12}
+{place=41, name='Logan Polomny', school='Moorhead', grade=9, gender='M', time=1153.37}
+{place=42, name='Jaxson Grube', school='Moorhead', grade=9, gender='M', time=1156.37}
+{place=43, name='Adrian Marin', school='East Ridge', grade=9, gender='M', time=1158.85}
+{place=44, name='Sawyer French', school='Maple Grove', grade=9, gender='M', time=1159.45}
+{place=45, name='Adam Lindee', school='Minot', grade=9, gender='M', time=1160.25}
+{place=46, name='Will Smyth', school='Duluth East', grade=9, gender='M', time=1162.29}
+{place=47, name='Isaac Wicklund', school='Moorhead', grade=9, gender='M', time=1164.62}
+{place=48, name='Jacob Lipke', school='Hutchinson', grade=9, gender='M', time=1165.12}
+{place=49, name='Natnan  Smith', school='Buffalo', grade=9, gender='M', time=1169.6}
+{place=50, name='Sam Bolt', school='Milaca', grade=9, gender='M', time=1172.08}
+{place=51, name='Sam Hanson', school='North Lakes-LILA ', grade=9, gender='M', time=1173.7}
+{place=52, name='Ben Lundsten', school='Mahtomedi', grade=9, gender='M', time=1176.02}
+{place=53, name='Adam  Namyst', school='Centennial', grade=9, gender='M', time=1176.62}
+{place=54, name='Courage Amsbury', school='Minot', grade=9, gender='M', time=1178.18}
+{place=55, name='Mitchell Rebehl', school='Buffalo', grade=9, gender='M', time=1179.37}
+{place=56, name='Kyle Kryzer', school='Maple Grove', grade=9, gender='M', time=1182.08}
+{place=57, name='Charlie Cruse', school='Trinity', grade=9, gender='M', time=1182.48}
+{place=58, name='Noah Anderson', school='White Bear Lake', grade=9, gender='M', time=1183.08}
+{place=59, name='Sam Person', school='Pequot Lakes', grade=9, gender='M', time=1184.31}
+{place=60, name='Mason Skorup', school='Perham', grade=9, gender='M', time=1184.91}
+{place=61, name='Carter Smith', school='Spectrum High School', grade=8, gender='M', time=1185.62}
+{place=62, name='Kade Retterath', school='Mound-Westonka', grade=9, gender='M', time=1185.87}
+{place=63, name='Logan Bjorkman', school='Chisago Lakes', grade=9, gender='M', time=1186.54}
+{place=64, name='Cam Arndt', school='MACA', grade=9, gender='M', time=1188.12}
+{place=65, name='Dylan A. Olson', school='Stillwater', grade=9, gender='M', time=1188.12}
+{place=66, name='Sam Betz', school='Grand Forks Red River', grade=9, gender='M', time=1188.37}
+{place=67, name='Ben Grebinoski', school='Holdingford', grade=9, gender='M', time=1189.37}
+{place=68, name='Lucas Barth', school='St Francis', grade=9, gender='M', time=1190.37}
+{place=69, name='Josh Hockert', school='Milaca', grade=9, gender='M', time=1190.6}
+{place=70, name='Luke Jones', school='Sartell', grade=9, gender='M', time=1191.37}
+{place=71, name='Matthew Oehler', school='Fergus Falls', grade=9, gender='M', time=1192.18}
+{place=72, name='Hunter Kovach', school='Duluth East', grade=9, gender='M', time=1192.62}
+{place=73, name='Cole Reitan', school='Montevideo', grade=9, gender='M', time=1193.7}
+{place=74, name='Jackson Rasmusson', school='Foley', grade=9, gender='M', time=1195.62}
+{place=75, name='Alex Knickrehm', school='St James', grade=9, gender='M', time=1198.54}
+{place=76, name='Eli Roe', school='Perham', grade=9, gender='M', time=1199.12}
+{place=77, name='Logan Jacobson', school='Blaine', grade=9, gender='M', time=1200.39}
+{place=78, name='Jack  Daudt', school='Deer River-Norhtland', grade=9, gender='M', time=1200.87}
+{place=79, name='Thor Anderson', school='Sartell', grade=9, gender='M', time=1201.72}
+{place=80, name='Dan Van De Steeg', school='Hutchinson', grade=9, gender='M', time=1202.62}
+{place=81, name='Emmett Halloran', school='Orono', grade=9, gender='M', time=1202.85}
+{place=82, name='Tom Bock', school='Hutchinson', grade=9, gender='M', time=1203.45}
+{place=83, name='Seth Hora', school='Rush City', grade=9, gender='M', time=1203.62}
+{place=84, name='Andrew Stiff', school='Maple Grove', grade=9, gender='M', time=1204.33}
+{place=85, name='Michael Baldus', school='Anoka', grade=9, gender='M', time=1204.62}
+{place=86, name='Mason Stanius', school='Duluth East', grade=9, gender='M', time=1206.31}
+{place=87, name='Rylan Grose', school='St Cloud Tech', grade=9, gender='M', time=1206.87}
+{place=88, name='Samuel Wood', school='Centennial', grade=9, gender='M', time=1207.52}
+{place=89, name='Mike Yocum', school='Fridley', grade=9, gender='M', time=1208.54}
+{place=90, name='Jordan McCleery', school='Moorhead', grade=9, gender='M', time=1209.95}
+{place=91, name='Sam  Johnston', school='Fridley', grade=9, gender='M', time=1211.6}
+{place=92, name='Will Rachac', school='Trinity', grade=9, gender='M', time=1212.12}
+{place=93, name='Nathan Clausing', school='Big Lake', grade=9, gender='M', time=1212.2}
+{place=94, name='Caleb Wutzke', school='Frazee', grade=9, gender='M', time=1212.95}
+{place=95, name='Logan Nagorski', school='Big Lake', grade=9, gender='M', time=1214.85}
+{place=96, name='Stuart Hawn', school='Holdingford', grade=9, gender='M', time=1214.85}
+{place=97, name='Anders Prater', school='Hinckley-Finlayson', grade=9, gender='M', time=1215.41}
+{place=98, name='Curtis Anderson', school='Minot', grade=9, gender='M', time=1216.87}
+{place=99, name='Seth Breitweser', school='Park Rapids', grade=9, gender='M', time=1217.91}
+{place=100, name='Noah Johnson', school='Anoka', grade=9, gender='M', time=1218.33}
+{place=101, name='Kellan Taylor', school='Mahtomedi', grade=9, gender='M', time=1220.12}
+{place=102, name='Eli Kilpatrick', school='New London-Spicer', grade=9, gender='M', time=1221.54}
+{place=103, name='Franklin Rapp', school='East Ridge', grade=9, gender='M', time=1222.0}
+{place=104, name='Levi Schmitz', school='Hutchinson', grade=9, gender='M', time=1223.35}
+{place=105, name='Austin Willey', school='Buffalo', grade=9, gender='M', time=1223.98}
+{place=106, name='Noah Weichert', school='New Prague', grade=9, gender='M', time=1224.48}
+{place=107, name='Gavin Pelto', school='Maple Grove', grade=9, gender='M', time=1227.02}
+{place=108, name='Jacob Wolter', school='Holdingford', grade=9, gender='M', time=1227.43}
+{place=109, name='Graham  Hoglund', school='Fridley', grade=9, gender='M', time=1229.12}
+{place=110, name='Lawrence Wirries', school='Moorhead', grade=9, gender='M', time=1229.48}
+{place=111, name='Riley Halstrom', school='St Cloud Cathedral', grade=9, gender='M', time=1229.87}
+{place=112, name='Trace Shimek', school='Jordan', grade=9, gender='M', time=1229.87}
+{place=113, name='Aaron  Taylor', school='Anoka', grade=9, gender='M', time=1230.5}
+{place=114, name='Luigi Viggiano', school='Mahtomedi', grade=9, gender='M', time=1230.91}
+{place=115, name='Ryley Emslander', school='Sartell', grade=9, gender='M', time=1231.93}
+{place=116, name='Mitchell Lejcher', school='East Ridge', grade=9, gender='M', time=1232.14}
+{place=117, name='Jack O'Connell', school='Duluth East', grade=9, gender='M', time=1232.98}
+{place=118, name='Sean Schiferl', school='East Ridge', grade=8, gender='M', time=1235.37}
+{place=119, name='Avery Teed', school='Anoka', grade=9, gender='M', time=1236.62}
+{place=120, name='Caden Lien', school='New London-Spicer', grade=9, gender='M', time=1237.37}
+{place=121, name='Parker Jones', school='South Ridge', grade=9, gender='M', time=1238.41}
+{place=122, name='Liam Kelii', school='St Thomas Academy', grade=9, gender='M', time=1241.37}
+{place=123, name='John VanRavenswaay', school='Montevideo', grade=9, gender='M', time=1241.37}
+{place=124, name='Caleb Danielson', school='Fergus Falls', grade=9, gender='M', time=1241.89}
+{place=125, name='Conner Daudt', school='Deer River-Norhtland', grade=9, gender='M', time=1242.1}
+{place=126, name='Carter Andresen', school='New London-Spicer', grade=9, gender='M', time=1243.87}
+{place=127, name='James Pritchett', school='Paynesville', grade=9, gender='M', time=1245.54}
+{place=128, name='PJ Doran', school='St Thomas Academy', grade=9, gender='M', time=1246.1}
+{place=129, name='Sebastian Bitzan', school='New London-Spicer', grade=9, gender='M', time=1247.58}
+{place=130, name='Dylan Polich', school='Osseo', grade=10, gender='M', time=1247.87}
+{place=131, name='Zane Borchardt', school='Martin County West', grade=9, gender='M', time=1248.12}
+{place=132, name='Todd Morrow', school='Martin County West', grade=8, gender='M', time=1249.02}
+{place=133, name='Quinn Bleick', school='GFW', grade=9, gender='M', time=1250.85}
+{place=134, name='Nolan Wollum', school='Sartell', grade=9, gender='M', time=1251.25}
+{place=135, name='Solomon Johnson', school='MACA', grade=9, gender='M', time=1253.5}
+{place=136, name='Drew Storkamp', school='Foley', grade=9, gender='M', time=1254.93}
+{place=137, name='Isaac Balmer', school='Mora', grade=9, gender='M', time=1256.87}
+{place=138, name='Reid Dumbauld', school='Maple Grove', grade=9, gender='M', time=1257.97}
+{place=139, name='Colton Ditterich', school='Perham', grade=9, gender='M', time=1258.39}
+{place=140, name='Berit Sell', school='Waconia', grade=9, gender='M', time=1258.58}
+{place=141, name='Jordan Vatthauer', school='Duluth East', grade=9, gender='M', time=1258.98}
+{place=142, name='Reid Benson', school='St Francis', grade=9, gender='M', time=1261.02}
+{place=143, name='Logan Thompson', school='Duluth East', grade=9, gender='M', time=1262.43}
+{place=144, name='Ian Barrera', school='Moorhead', grade=9, gender='M', time=1262.83}
+{place=145, name='Josh Johnson', school='Duluth East', grade=9, gender='M', time=1263.62}
+{place=146, name='Ashton Clark', school='Park Rapids', grade=9, gender='M', time=1266.1}
+{place=147, name='Ryan Imse', school='East Ridge', grade=9, gender='M', time=1266.87}
+{place=148, name='Dylan Hiti', school='Eveleth-Gilbert', grade=9, gender='M', time=1267.62}
+{place=149, name='Craig Feist', school='East Central', grade=9, gender='M', time=1268.12}
+{place=150, name='Trey Witcraft', school='St James', grade=9, gender='M', time=1269.95}
+{place=151, name='Eric Johnson', school='Paynesville', grade=9, gender='M', time=1270.12}
+{place=152, name='Trevor Prelesnik', school='New Prague', grade=9, gender='M', time=1270.54}
+{place=153, name='Matthew Helser', school='Big Lake', grade=9, gender='M', time=1272.39}
+{place=154, name='Calvin Bair', school='Maple Grove', grade=9, gender='M', time=1272.6}
+{place=155, name='Gavin Bakke', school='Moorhead', grade=9, gender='M', time=1272.6}
+{place=156, name='Nicholas Berscheit', school='Melrose', grade=8, gender='M', time=1273.37}
+{place=157, name='TJ Rank', school='Pine City', grade=9, gender='M', time=1273.62}
+{place=158, name='Michael Gregoria', school='Jordan', grade=9, gender='M', time=1274.2}
+{place=159, name='carlos juarez', school='Heron Lake-Okabena', grade=9, gender='M', time=1274.68}
+{place=160, name='Alex Petrik', school='Austin', grade=7, gender='M', time=1277.47}
+{place=161, name='Logan Strain', school='Maple Grove', grade=9, gender='M', time=1278.89}
+{place=162, name='Michael Olson', school='Moose Lk/WR/Barnum', grade=8, gender='M', time=1279.5}
+{place=163, name='Will Stencel', school='Maple River', grade=9, gender='M', time=1279.87}
+{place=164, name='James Holak', school='Duluth East', grade=9, gender='M', time=1279.91}
+{place=165, name='Ryan Wyganowski', school='Braham', grade=9, gender='M', time=1280.93}
+{place=166, name='Danny Whited', school='Moose Lk/WR/Barnum', grade=9, gender='M', time=1282.37}
+{place=167, name='Trenton Brown', school='Minot', grade=9, gender='M', time=1283.18}
+{place=168, name='Tan Dipman', school='Moose Lk/WR/Barnum', grade=8, gender='M', time=1283.37}
+{place=169, name='Dawson Strom', school='Moorhead', grade=9, gender='M', time=1284.18}
+{place=170, name='Matt Anthonisen', school='Martin County West', grade=9, gender='M', time=1284.62}
+{place=171, name='Bryson Klar', school='East Central', grade=8, gender='M', time=1285.43}
+{place=172, name='Marcus Pocernich', school='Cromwell-Wright', grade=9, gender='M', time=1285.62}
+{place=173, name='Ray Aili', school='Chisago Lakes', grade=9, gender='M', time=1286.23}
+{place=174, name='Shane Steiner', school='Moorhead', grade=9, gender='M', time=1286.23}
+{place=175, name='Michael Nett', school='St James', grade=9, gender='M', time=1286.48}
+{place=176, name='Noah Ruud', school='Osseo', grade=9, gender='M', time=1287.62}
+{place=177, name='Alex Imig', school='Esko', grade=9, gender='M', time=1287.66}
+{place=178, name='Timmy Lawder', school='St Thomas Academy', grade=9, gender='M', time=1289.12}
+{place=179, name='Eli Hoff', school='Osseo', grade=9, gender='M', time=1289.33}
+{place=180, name='Nathanael Russell', school='Princeton', grade=9, gender='M', time=1289.62}
+{place=181, name='Easton Gregory', school='Martin County West', grade=7, gender='M', time=1290.89}
+{place=182, name='Sam Cloutier', school='Moose Lk/WR/Barnum', grade=8, gender='M', time=1290.93}
+{place=183, name='Blake Petrik', school='Austin', grade=7, gender='M', time=1291.12}
+{place=184, name='Joell Knopp', school='St Cloud Apollo', grade=9, gender='M', time=1291.62}
+{place=185, name='Jeremiah Christiansen', school='Holdingford', grade=9, gender='M', time=1292.37}
+{place=186, name='Rishi Gulati', school='St Cloud Cathedral', grade=9, gender='M', time=1296.45}
+{place=187, name='Ethan Walker', school='Grand Forks Red River', grade=9, gender='M', time=1298.08}
+{place=188, name='Ethan Kirchberg', school='SMSENUC', grade=9, gender='M', time=1299.5}
+{place=189, name='Ethan Hunter', school='White Bear Lake', grade=9, gender='M', time=1300.95}
+{place=190, name='Cooper Bexell', school='Moose Lk/WR/Barnum', grade=9, gender='M', time=1301.37}
+{place=191, name='Daniel Kowalski', school='White Bear Lake', grade=9, gender='M', time=1302.98}
+{place=192, name='Thomas Marrah', school='Centennial', grade=9, gender='M', time=1303.2}
+{place=193, name='Jack Rupert', school='White Bear Lake', grade=9, gender='M', time=1303.45}
+{place=194, name='Sawyer Votava', school='Fergus Falls', grade=9, gender='M', time=1304.23}
+{place=195, name='Will Nelson', school='Chisago Lakes', grade=9, gender='M', time=1304.62}
+{place=196, name='Wade Rhonemus', school='Foley', grade=9, gender='M', time=1304.62}
+{place=197, name='Riley Brown', school='East Ridge', grade=9, gender='M', time=1305.37}
+{place=198, name='Cole Wagner', school='East Ridge', grade=9, gender='M', time=1306.37}
+{place=199, name='Andrew Hattling', school='Spectrum High School', grade=8, gender='M', time=1308.48}
+{place=200, name='Justin Dickerson', school='Perham', grade=9, gender='M', time=1309.52}
+{place=201, name='Rio Brown', school='North Lakes-LILA ', grade=9, gender='M', time=1311.35}
+{place=202, name='Maverick Koecher', school='Moose Lk/WR/Barnum', grade=7, gender='M', time=1312.87}
+{place=203, name='Alec Staricka', school='Spectrum High School', grade=9, gender='M', time=1314.0}
+{place=204, name='Hans Larson', school='Duluth East', grade=9, gender='M', time=1314.2}
+{place=205, name='Gabe Zaun', school='Duluth East', grade=9, gender='M', time=1314.37}
+{place=206, name='John Mantor', school='United South Central', grade=9, gender='M', time=1314.83}
+{place=207, name='Phillip Marquardt', school='Blaine', grade=9, gender='M', time=1315.43}
+{place=208, name='christain juarez', school='Heron Lake-Okabena', grade=9, gender='M', time=1315.62}
+{place=209, name='Mitchell Heinen', school='Melrose', grade=9, gender='M', time=1315.85}
+{place=210, name='Kobe Thorson', school='New London-Spicer', grade=9, gender='M', time=1317.06}
+{place=211, name='Blake Jenson', school='St Francis', grade=9, gender='M', time=1320.62}
+{place=212, name='Nolan Erickson', school='Chisago Lakes', grade=9, gender='M', time=1320.91}
+{place=213, name='Tristan Poeschel', school='East Ridge', grade=9, gender='M', time=1322.12}
+{place=214, name='Gunnar Fering', school='Blue Earth Area', grade=9, gender='M', time=1322.33}
+{place=215, name='Blake Chmielewski', school='Foley', grade=9, gender='M', time=1322.52}
+{place=216, name='Sean Ryan', school='Pequot Lakes', grade=9, gender='M', time=1322.89}
+{place=217, name='Thomas Kasseth', school='Blaine', grade=9, gender='M', time=1327.04}
+{place=218, name='Joe Witters', school='Osseo', grade=9, gender='M', time=1328.08}
+{place=219, name='Gregory  Gathje', school='EV-W-K', grade=8, gender='M', time=1328.48}
+{place=220, name='Grant  Hemberger', school='Bagley-Fosston', grade=7, gender='M', time=1328.87}
+{place=221, name='Jake Adams', school='Pine City', grade=9, gender='M', time=1329.87}
+{place=222, name='Gabe Ellering', school='Melrose', grade=9, gender='M', time=1330.31}
+{place=223, name='Henry Sweere', school='Perham', grade=9, gender='M', time=1330.93}
+{place=224, name='Thomas Pfannenstein', school='St Cloud Cathedral', grade=9, gender='M', time=1331.12}
+{place=225, name='Martin Torzewski', school='Stillwater', grade=9, gender='M', time=1331.35}
+{place=226, name='Dylan Harbaugh', school='Big Lake', grade=9, gender='M', time=1332.58}
+{place=227, name='Kole Gieseke', school='Park Rapids', grade=9, gender='M', time=1333.12}
+{place=228, name='Ross Gorham', school='Anoka', grade=9, gender='M', time=1333.37}
+{place=229, name='Simon Rice', school='Orono', grade=9, gender='M', time=1333.5}
+{place=230, name='Adam Mix', school='Martin County West', grade=9, gender='M', time=1336.39}
+{place=231, name='Collin McDonald', school='Minot', grade=9, gender='M', time=1337.1}
+{place=232, name='Hayden Kjelshus', school='Perham', grade=9, gender='M', time=1337.1}
+{place=233, name='Samuel Johnson', school='Orono', grade=9, gender='M', time=1337.7}
+{place=234, name='Andrew Zwiefel', school='Paynesville', grade=9, gender='M', time=1338.1}
+{place=235, name='Simon Solheid', school='New Prague', grade=9, gender='M', time=1339.12}
+{place=236, name='Nate Tabor', school='Grand Forks Red River', grade=9, gender='M', time=1340.95}
+{place=237, name='Noah Gaffy', school='Sartell', grade=9, gender='M', time=1341.98}
+{place=238, name='Samuel Gebhart', school='Moorhead', grade=9, gender='M', time=1343.58}
+{place=239, name='Nathan Aamodt', school='Blaine', grade=9, gender='M', time=1345.43}
+{place=240, name='Anton Nunvar', school='Hutchinson', grade=9, gender='M', time=1346.04}
+{place=241, name='Bailey Olson', school='Chisago Lakes', grade=9, gender='M', time=1346.25}
+{place=242, name='Shawn Rushman', school='Deer River-Norhtland', grade=9, gender='M', time=1346.64}
+{place=243, name='Jacob Fish', school='Chisago Lakes', grade=9, gender='M', time=1347.87}
+{place=244, name='Jackson Gallagher', school='Maple Lake', grade=9, gender='M', time=1348.87}
+{place=245, name='Josh Lynch', school='New London-Spicer', grade=9, gender='M', time=1348.89}
+{place=246, name='Max Schaefer', school='White Bear Lake', grade=9, gender='M', time=1349.29}
+{place=247, name='Camden Callstrom', school='St Thomas Academy', grade=9, gender='M', time=1349.5}
+{place=248, name='Ethan  Dahms', school='Osseo', grade=9, gender='M', time=1350.87}
+{place=249, name='Will  Tracey', school='Proctor', grade=9, gender='M', time=1351.33}
+{place=250, name='Shane Syvoraphane', school='East Ridge', grade=9, gender='M', time=1352.12}
+{place=251, name='Dylan Dickinson', school='Mounds Park Academy', grade=9, gender='M', time=1352.93}
+{place=252, name='Riley Cassibo', school='Maple Grove', grade=9, gender='M', time=1354.95}
+{place=253, name='Nathan Roth', school='Stillwater', grade=9, gender='M', time=1357.39}
+{place=254, name='Toby Gogolewski', school='Austin', grade=8, gender='M', time=1358.45}
+{place=255, name='Aneesh Syal', school='Mounds Park Academy', grade=9, gender='M', time=1358.62}
+{place=256, name='Tyler Huls', school='Holdingford', grade=9, gender='M', time=1363.12}
+{place=257, name='Derek Stedman', school='Stillwater', grade=9, gender='M', time=1365.12}
+{place=258, name='Sam Hart', school='Big Lake', grade=9, gender='M', time=1367.47}
+{place=259, name='Matthew Kelly', school='East Ridge', grade=9, gender='M', time=1367.6}
+{place=260, name='Daniel Pelletier', school='Anoka', grade=9, gender='M', time=1369.37}
+{place=261, name='Max Erickson', school='North Lakes-LILA ', grade=9, gender='M', time=1369.43}
+{place=262, name='Trevor Kraemer', school='Anoka', grade=9, gender='M', time=1371.43}
+{place=263, name='Brett Smiens', school='Montevideo', grade=9, gender='M', time=1372.87}
+{place=264, name='Dustin Bienusa', school='Sartell', grade=9, gender='M', time=1376.7}
+{place=265, name='Brandon Boogaard', school='Osakis', grade=9, gender='M', time=1379.14}
+{place=266, name='Dylan Mans', school='Hinckley-Finlayson', grade=9, gender='M', time=1379.37}
+{place=267, name='Jonah Selley', school='Spectrum High School', grade=9, gender='M', time=1379.37}
+{place=268, name='Henry Skuza', school='St Cloud Cathedral', grade=9, gender='M', time=1379.37}
+{place=269, name='Christopher Lara-Betancourt', school='East Ridge', grade=9, gender='M', time=1380.29}
+{place=270, name='Caleb Beneke', school='Maple Lake', grade=9, gender='M', time=1381.72}
+{place=271, name='Dakaari Woods', school='North Branch', grade=9, gender='M', time=1382.62}
+{place=272, name='Ryan Knudson', school='Hinckley-Finlayson', grade=9, gender='M', time=1383.85}
+{place=273, name='Aaron Holsin', school='Mahtomedi', grade=9, gender='M', time=1385.89}
+{place=274, name='Sam Pick', school='North Branch', grade=9, gender='M', time=1388.12}
+{place=275, name='James Sullivan', school='LCWM-Nicollet', grade=9, gender='M', time=1388.35}
+{place=276, name='Drew Picka', school='New Prague', grade=9, gender='M', time=1389.12}
+{place=277, name='Kyle Enfeld', school='St Francis', grade=9, gender='M', time=1391.48}
+{place=278, name='Noah Zimmerman', school='Buffalo', grade=9, gender='M', time=1393.43}
+{place=279, name='Isaac Scheidecker', school='Perham', grade=9, gender='M', time=1398.54}
+{place=280, name='Ricky Roforth', school='Frazee', grade=9, gender='M', time=1399.52}
+{place=281, name='Ty Fitzgerald', school='Martin County West', grade=8, gender='M', time=1399.95}
+{place=282, name='Wesley Harmon', school='Laporte', grade=9, gender='M', time=1402.23}
+{place=283, name='Derek Murphy', school='Rush City', grade=9, gender='M', time=1402.58}
+{place=284, name='Justin DeLong-Hersh', school='Nova Classical Academy', grade=9, gender='M', time=1403.98}
+{place=285, name='Joseph Del Toro', school='East Ridge', grade=9, gender='M', time=1410.5}
+{place=286, name='Payton Goldenstein', school='Anoka', grade=9, gender='M', time=1411.5}
+{place=287, name='Connor Koser', school='MACA', grade=9, gender='M', time=1411.91}
+{place=288, name='Casey  Bunting', school='Big Lake', grade=9, gender='M', time=1413.37}
+{place=289, name='Brock Munsterteiger', school='Mound-Westonka', grade=9, gender='M', time=1415.2}
+{place=290, name='Kane Perkins', school='Deer River-Norhtland', grade=9, gender='M', time=1415.37}
+{place=291, name='Isaac Bloomquist', school='Orono', grade=9, gender='M', time=1416.2}
+{place=292, name='Kevin Swanson', school='Perham', grade=9, gender='M', time=1417.85}
+{place=293, name='T.J. Turinske', school='White Bear Lake', grade=9, gender='M', time=1418.87}
+{place=294, name='Connor Perdew', school='Maple Grove', grade=9, gender='M', time=1419.87}
+{place=295, name='Kaden Smart', school='Mora', grade=9, gender='M', time=1423.56}
+{place=296, name='Leighton Tripp', school='Maple Grove', grade=9, gender='M', time=1425.6}
+{place=297, name='John Meyer', school='Melrose', grade=9, gender='M', time=1425.83}
+{place=298, name='Bronson Knight', school='Maple Grove', grade=9, gender='M', time=1425.85}
+{place=299, name='Michael Hamel', school='Osseo', grade=9, gender='M', time=1427.62}
+{place=300, name='Nathaniel Cline-Cole', school='Trinity', grade=9, gender='M', time=1428.23}
+{place=301, name='Josh Framke', school='Stillwater', grade=9, gender='M', time=1428.85}
+{place=302, name='Logan Dahl', school='Maple Grove', grade=9, gender='M', time=1429.87}
+{place=303, name='Nyaga Kariuki', school='Trinity', grade=9, gender='M', time=1434.58}
+{place=304, name='Carter Selander', school='New London-Spicer', grade=9, gender='M', time=1436.23}
+{place=305, name='Nathan Price', school='Maple River', grade=9, gender='M', time=1436.85}
+{place=306, name='Ethan Steen', school='Waconia', grade=9, gender='M', time=1438.87}
+{place=307, name='William Hjort', school='St Cloud Cathedral', grade=9, gender='M', time=1450.41}
+{place=308, name='Nick Hippen', school='Mora', grade=9, gender='M', time=1450.41}
+{place=309, name='Kyle Bolton', school='Blaine', grade=9, gender='M', time=1458.6}
+{place=310, name='Justin Urban', school='LCWM-Nicollet', grade=9, gender='M', time=1468.12}
+{place=311, name='Nic Johnson', school='St Thomas Academy', grade=9, gender='M', time=1470.12}
+{place=312, name='Grayden Yoshida', school='East Ridge', grade=9, gender='M', time=1470.54}
+{place=313, name='Ryan Wetschka', school='New Prague', grade=9, gender='M', time=1471.62}
+{place=314, name='Lyric Schmelz', school='South Ridge', grade=9, gender='M', time=1474.35}
+{place=315, name='Sawyer Hammond', school='Trinity', grade=9, gender='M', time=1479.68}
+{place=316, name='Bobby Larson', school='South Ridge', grade=9, gender='M', time=1480.27}
+{place=317, name='Logan Thoreson', school='Centennial', grade=9, gender='M', time=1484.54}
+{place=318, name='Asher Mersereau', school='Maple Grove', grade=9, gender='M', time=1484.95}
+{place=319, name='Cole Schoenbauer', school='New Prague', grade=9, gender='M', time=1485.87}
+{place=320, name='William Morris', school='Laporte', grade=9, gender='M', time=1487.62}
+{place=321, name='Walter  Cornelius', school='North Branch', grade=9, gender='M', time=1488.6}
+{place=322, name='Tristan Peyton', school='Orono', grade=9, gender='M', time=1488.66}
+{place=323, name='Trae Zeier', school='St James', grade=9, gender='M', time=1492.37}
+{place=324, name='Kellen Erdahl', school='MACA', grade=9, gender='M', time=1494.1}
+{place=325, name='Noah Thielke', school='MACA', grade=9, gender='M', time=1494.27}
+{place=326, name='Ethan Kertz', school='Anoka', grade=9, gender='M', time=1494.68}
+{place=327, name='Javi Xiong', school='Osseo', grade=9, gender='M', time=1499.37}
+{place=328, name='Max Carruth', school='Montevideo', grade=9, gender='M', time=1500.12}
+{place=329, name='Evan Hollihan', school='Mounds Park Academy', grade=9, gender='M', time=1500.41}
+{place=330, name='Ben Anderson', school='Waconia', grade=9, gender='M', time=1503.25}
+{place=331, name='Eric Bjork', school='Chisago Lakes', grade=9, gender='M', time=1506.33}
+{place=332, name='Alex Sperl', school='Hutchinson', grade=9, gender='M', time=1511.22}
+{place=333, name='Matt Fragodt', school='Montevideo', grade=9, gender='M', time=1515.91}
+{place=334, name='Will Peterson', school='Stillwater', grade=9, gender='M', time=1517.56}
+{place=335, name='Tony Colburn', school='Chisago Lakes', grade=9, gender='M', time=1521.43}
+{place=336, name='Kaden Halverson', school='Mora', grade=9, gender='M', time=1523.37}
+{place=337, name='Wilson Krueger', school='Mora', grade=9, gender='M', time=1525.1}
+{place=338, name='Coltan Satter', school='Perham', grade=9, gender='M', time=1526.1}
+{place=339, name='Ethan Sykes', school='St James', grade=9, gender='M', time=1532.29}
+{place=340, name='Adam Bear', school='White Bear Lake', grade=9, gender='M', time=1534.62}
+{place=341, name='Joe Woychick', school='Mound-Westonka', grade=9, gender='M', time=1542.12}
+{place=342, name='Cole Schwinghammer', school='Spectrum High School', grade=9, gender='M', time=1542.37}
+{place=343, name='Collin Frieler', school='Paynesville', grade=9, gender='M', time=1543.84}
+{place=344, name='Jack Hulet', school='Jordan', grade=9, gender='M', time=1544.85}
+{place=345, name='Fossness Jake', school='Cromwell-Wright', grade=9, gender='M', time=1547.89}
+{place=346, name='Levi Gregg', school='Stillwater', grade=9, gender='M', time=1548.29}
+{place=347, name='Noah Wolle', school='St James', grade=9, gender='M', time=1548.7}
+{place=348, name='Carsten Doepnerhove', school='Mound-Westonka', grade=9, gender='M', time=1553.04}
+{place=349, name='Diontez Keys', school='North Branch', grade=9, gender='M', time=1556.83}
+{place=350, name='Aaron Beissler', school='East Ridge', grade=9, gender='M', time=1562.1}
+{place=351, name='Jackson Monk', school='Maple Grove', grade=11, gender='M', time=1564.93}
+{place=352, name='James Pipkin', school='Osseo', grade=9, gender='M', time=1568.2}
+{place=353, name='Justin Stolp', school='Pine City', grade=9, gender='M', time=1571.87}
+{place=354, name='Nicholas Kiminski', school='East Ridge', grade=9, gender='M', time=1574.7}
+{place=355, name='Tanner Paulson', school='Moorhead', grade=9, gender='M', time=1579.02}
+{place=356, name='Seth Lumley', school='Austin', grade=8, gender='M', time=1579.37}
+{place=357, name='Joseph Goulet', school='MACA', grade=9, gender='M', time=1584.89}
+{place=358, name='Ian Scheele', school='North Branch', grade=9, gender='M', time=1588.14}
+{place=359, name='Maxwell Stanton', school='Waconia', grade=9, gender='M', time=1588.87}
+{place=360, name='Michael Lanz', school='St Cloud Cathedral', grade=9, gender='M', time=1605.98}
+{place=361, name='Jeremiah Kresky', school='St Cloud Cathedral', grade=9, gender='M', time=1609.12}
+{place=362, name='Jared Davis', school='Duluth East', grade=9, gender='M', time=1614.48}
+{place=363, name='Noah Weinand', school='Mora', grade=9, gender='M', time=1627.68}
+{place=364, name='Devin Haase', school='Martin County West', grade=7, gender='M', time=1631.35}
+{place=365, name='Gage Grunst', school='Perham', grade=9, gender='M', time=1635.62}
+{place=366, name='Walter Nordin', school='Fridley', grade=9, gender='M', time=1640.33}
+{place=367, name='Logan Kelly', school='Austin', grade=7, gender='M', time=1649.64}
+{place=368, name='Seth Olson', school='Montevideo', grade=9, gender='M', time=1651.08}
+{place=369, name='Noah Draper', school='Rush City', grade=9, gender='M', time=1659.62}
+{place=370, name='Nick McGinley', school='Osseo', grade=9, gender='M', time=1665.47}
+{place=371, name='Jack Churchill', school='Montevideo', grade=9, gender='M', time=1672.89}
+{place=372, name='Thomas Curtis', school='St Cloud Cathedral', grade=9, gender='M', time=1676.62}
+{place=373, name='Evan Hutchison', school='Grand Forks Red River', grade=9, gender='M', time=1679.47}
+{place=374, name='Tate Overlie', school='Proctor', grade=8, gender='M', time=1685.16}
+{place=375, name='Ben Pevestorf', school='Hutchinson', grade=9, gender='M', time=1697.27}
+{place=376, name='Therin Bueckers', school='Maple Grove', grade=9, gender='M', time=1705.37}
+{place=377, name='Sam Schwartz', school='United South Central', grade=9, gender='M', time=1713.37}
+{place=378, name='Sean Jungers', school='Moose Lk/WR/Barnum', grade=9, gender='M', time=1715.04}
+{place=379, name='Tyler Gaetz', school='St Cloud Cathedral', grade=9, gender='M', time=1719.12}
+{place=380, name='Matthew Darling', school='Duluth East', grade=9, gender='M', time=1756.87}
+{place=381, name='Mitchell Ford', school='East Ridge', grade=9, gender='M', time=1774.52}
+{place=382, name='Dominic Bergerson', school='Hinckley-Finlayson', grade=9, gender='M', time=1777.87}
+{place=383, name='Jacob Albaugh', school='New Prague', grade=9, gender='M', time=1808.62}
+{place=384, name='Blake Townsend', school='Blue Earth Area', grade=9, gender='M', time=1828.08}
+{place=385, name='Jordan Schurstein-Otto', school='Anoka', grade=9, gender='M', time=1828.27}
+{place=386, name='Drew Relling', school='Grand Forks Red River', grade=9, gender='M', time=1870.33}
+{place=387, name='Lodwrick Cook', school='New London-Spicer', grade=9, gender='M', time=1873.18}
+{place=388, name='Aaron  Zigelemeir', school='St Cloud Apollo', grade=9, gender='M', time=1892.89}

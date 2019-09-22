@@ -1,0 +1,96 @@
+Race : 1397
+{place=1, name='Hunter Lund', school='Annandale ', grade=11, gender='M', time=1166.22}
+{place=2, name='Caleb Schrein', school='Delano', grade=8, gender='M', time=1166.41}
+{place=3, name='Isaac Krueger', school='Glencoe-Silver Lake', grade=11, gender='M', time=1167.75}
+{place=4, name='Patrick Ricke', school='Mound-Westonka', grade=8, gender='M', time=1172.93}
+{place=5, name='Nick Brown', school='Mound-Westonka', grade=10, gender='M', time=1183.7}
+{place=6, name='John Busche', school='Dassel-Cokato', grade=12, gender='M', time=1184.49}
+{place=7, name='Elliot Anderson', school='Dassel-Cokato', grade=10, gender='M', time=1185.1}
+{place=8, name='Brandon Gabrelcik', school='Dassel-Cokato', grade=10, gender='M', time=1185.1}
+{place=9, name='Ethan Erickson', school='Annandale ', grade=12, gender='M', time=1194.29}
+{place=10, name='Gabe Riviere', school='Annandale ', grade=10, gender='M', time=1205.41}
+{place=11, name='Nathan Dahlseng', school='Dassel-Cokato', grade=10, gender='M', time=1220.66}
+{place=12, name='Reier Sjomeling', school='Delano', grade=10, gender='M', time=1225.49}
+{place=13, name='Levi Neuenschwander', school='Annandale ', grade=12, gender='M', time=1226.52}
+{place=14, name='J. T. Weiman', school='Delano', grade=12, gender='M', time=1226.91}
+{place=15, name='Jack Balsiger', school='Delano', grade=9, gender='M', time=1228.2}
+{place=16, name='Sam Yunker', school='Delano', grade=11, gender='M', time=1233.43}
+{place=17, name='Lance Nemecek', school='Mound-Westonka', grade=7, gender='M', time=1245.43}
+{place=18, name='Haddyn Hoffenkamp', school='Annandale ', grade=9, gender='M', time=1247.66}
+{place=19, name='Drew Hunter', school='Mound-Westonka', grade=7, gender='M', time=1249.87}
+{place=20, name='Joe Corcoran', school='Dassel-Cokato', grade=12, gender='M', time=1255.72}
+{place=21, name='Samson Streachek', school='Delano', grade=10, gender='M', time=1260.64}
+{place=22, name='Austin Carlson', school='Delano', grade=8, gender='M', time=1268.49}
+{place=23, name='Joe Woychick', school='Mound-Westonka', grade=10, gender='M', time=1269.37}
+{place=24, name='Roman Chapman', school='Annandale ', grade=10, gender='M', time=1270.49}
+{place=25, name='Chris  Bigalk', school='Annandale ', grade=12, gender='M', time=1271.37}
+{place=26, name='Jonah Eskola', school='Delano', grade=8, gender='M', time=1271.39}
+{place=27, name='Tanner Chmieleski', school='Glencoe-Silver Lake', grade=12, gender='M', time=1272.24}
+{place=28, name='YiYang Gao', school='Mound-Westonka', grade=11, gender='M', time=1281.5}
+{place=29, name='David Kivisto', school='Dassel-Cokato', grade=11, gender='M', time=1282.25}
+{place=30, name='Brock Munsterteiger', school='Mound-Westonka', grade=10, gender='M', time=1285.74}
+{place=31, name='Ben Olson', school='Glencoe-Silver Lake', grade=11, gender='M', time=1289.22}
+{place=32, name='Alex  Haflund', school='Glencoe-Silver Lake', grade=11, gender='M', time=1290.47}
+{place=33, name='Josh Skouge', school='Dassel-Cokato', grade=11, gender='M', time=1290.77}
+{place=34, name='Kole Polzin', school='Glencoe-Silver Lake', grade=12, gender='M', time=1293.89}
+{place=35, name='Ryan Fleischhacker', school='Rockford', grade=9, gender='M', time=1295.75}
+{place=36, name='Kirkland Allen', school='Annandale ', grade=9, gender='M', time=1298.77}
+{place=37, name='Paul Vetsch', school='Dassel-Cokato', grade=9, gender='M', time=1302.1}
+{place=38, name='Jonah Johannes', school='Annandale ', grade=9, gender='M', time=1303.1}
+{place=39, name='Blake Stoltzman', school='Rockford', grade=12, gender='M', time=1303.64}
+{place=40, name='Adam Garoutte', school='Glencoe-Silver Lake', grade=10, gender='M', time=1313.79}
+{place=41, name='Jacob Bergh', school='Delano', grade=7, gender='M', time=1314.81}
+{place=42, name='Nathan Weckwerth', school='Dassel-Cokato', grade=12, gender='M', time=1317.66}
+{place=43, name='Blake Lewison', school='Annandale ', grade=12, gender='M', time=1328.1}
+{place=44, name='Jackson  Workman', school='Howard Lake-Waverly', grade=9, gender='M', time=1331.12}
+{place=45, name='Matt Clark', school='Delano', grade=10, gender='M', time=1331.49}
+{place=46, name='Ted Nagel', school='Litchfield', grade=12, gender='M', time=1336.1}
+{place=47, name='Noah Thomsen', school='Annandale ', grade=12, gender='M', time=1342.43}
+{place=48, name='Nick Braun', school='Annandale ', grade=11, gender='M', time=1342.62}
+{place=49, name='Matt Reardon', school='Delano', grade=9, gender='M', time=1345.75}
+{place=50, name='Dylan Wold', school='Annandale ', grade=10, gender='M', time=1349.68}
+{place=51, name='Tyler Hill', school='Howard Lake-Waverly', grade=7, gender='M', time=1355.77}
+{place=52, name='Jesus Nuez Mendez', school='Annandale ', grade=10, gender='M', time=1356.35}
+{place=53, name='Calyn Rieger', school='Dassel-Cokato', grade=11, gender='M', time=1359.47}
+{place=54, name='Tyson Kroells', school='Delano', grade=9, gender='M', time=1359.68}
+{place=55, name='Jacob Schermann', school='Litchfield', grade=8, gender='M', time=1370.5}
+{place=56, name='Nic Poll', school='Delano', grade=11, gender='M', time=1376.66}
+{place=57, name='Isaac Swift', school='Glencoe-Silver Lake', grade=10, gender='M', time=1383.6}
+{place=58, name='Jayden Lachermeier', school='Glencoe-Silver Lake', grade=12, gender='M', time=1391.14}
+{place=59, name='Cole Mathwig', school='Glencoe-Silver Lake', grade=9, gender='M', time=1391.25}
+{place=60, name='Josh Green', school='Litchfield', grade=10, gender='M', time=1394.16}
+{place=61, name='Sam Resop', school='Dassel-Cokato', grade=10, gender='M', time=1396.6}
+{place=62, name='Robby Brustad', school='Mound-Westonka', grade=9, gender='M', time=1403.25}
+{place=63, name='Isaac  Thomsen', school='Annandale ', grade=10, gender='M', time=1408.37}
+{place=64, name='Kirby Schmalz', school='Northwest', grade=9, gender='M', time=1417.5}
+{place=65, name='Jacob Binsfeld', school='Northwest', grade=10, gender='M', time=1417.68}
+{place=66, name='Alan Leukuma', school='Delano', grade=9, gender='M', time=1421.97}
+{place=67, name='Chad Dischinger', school='Dassel-Cokato', grade=11, gender='M', time=1423.95}
+{place=68, name='Joseph Dieter', school='Rockford', grade=11, gender='M', time=1433.77}
+{place=69, name='Roger Rousu', school='Delano', grade=7, gender='M', time=1435.75}
+{place=70, name='Ben Nelson', school='Litchfield', grade=9, gender='M', time=1441.2}
+{place=71, name='Andrew Finger', school='Rockford', grade=9, gender='M', time=1442.0}
+{place=72, name='Carsten Doepnerhove', school='Mound-Westonka', grade=10, gender='M', time=1442.5}
+{place=73, name='Wally Camp', school='Dassel-Cokato', grade=9, gender='M', time=1445.25}
+{place=74, name='Willy Nelson', school='Dassel-Cokato', grade=11, gender='M', time=1445.47}
+{place=75, name='Carl Quandt', school='Annandale ', grade=11, gender='M', time=1446.25}
+{place=76, name='Keegan Finger', school='Rockford', grade=11, gender='M', time=1451.2}
+{place=77, name='Parker Kulm', school='Annandale ', grade=9, gender='M', time=1456.25}
+{place=78, name='Sam Brown', school='Delano', grade=10, gender='M', time=1460.5}
+{place=79, name='Jay Lewison', school='Annandale ', grade=11, gender='M', time=1473.12}
+{place=80, name='Evan Hubbs', school='Rockford', grade=9, gender='M', time=1473.12}
+{place=81, name='Anthony Mangan', school='Rockford', grade=9, gender='M', time=1478.97}
+{place=82, name='Nathan  Welch', school='Glencoe-Silver Lake', grade=11, gender='M', time=1487.91}
+{place=83, name='Cuyler Helwig', school='Annandale ', grade=11, gender='M', time=1508.22}
+{place=84, name='Casey McIntee', school='Annandale ', grade=11, gender='M', time=1539.87}
+{place=85, name='Wyatt Determan', school='Howard Lake-Waverly', grade=11, gender='M', time=1602.54}
+{place=86, name='Carter Kulavik', school='Rockford', grade=9, gender='M', time=1627.25}
+{place=87, name='Jacob Welter', school='Annandale ', grade=9, gender='M', time=1663.25}
+{place=88, name='Lyle Fashant', school='Annandale ', grade=11, gender='M', time=1696.75}
+{place=89, name='Charlie Becker', school='Mound-Westonka', grade=9, gender='M', time=1698.27}
+{place=90, name='Jack Williamson', school='Annandale ', grade=10, gender='M', time=1714.74}
+{place=91, name='Lucius LaFromboise', school='Delano', grade=10, gender='M', time=1722.77}
+{place=92, name='Dakota O'Brien', school='Rockford', grade=12, gender='M', time=1734.12}
+{place=93, name='George Horobin', school='Delano', grade=10, gender='M', time=1734.41}
+{place=94, name='Joel Harju', school='Dassel-Cokato', grade=10, gender='M', time=1812.35}
+{place=95, name='Brett Bowman', school='Mound-Westonka', grade=9, gender='M', time=1922.47}

@@ -1,0 +1,76 @@
+Race : 2145
+{place=1, name='Grace Ewing', school='Chaska-Chan', grade=12, gender='F', time=967.531}
+{place=2, name='Libby Ramsperger', school='St Louis Park', grade=11, gender='F', time=1091.988}
+{place=3, name='Jackie Larsen', school='Bloomington', grade=7, gender='F', time=1106.559}
+{place=4, name='Valentina Vega De Seoane Rubi', school='Bloomington', grade=12, gender='F', time=1143.199}
+{place=5, name='Kaia Myers', school='St Louis Park', grade=10, gender='F', time=1143.73}
+{place=6, name='Amara Foner', school='St Louis Park', grade=9, gender='F', time=1170.199}
+{place=7, name='Grace Stroh', school='Chaska-Chan', grade=9, gender='F', time=1188.441}
+{place=8, name='Lillian  Halvorson', school='Chaska-Chan', grade=10, gender='F', time=1199.75}
+{place=9, name='Marit Gabel', school='St Louis Park', grade=9, gender='F', time=1203.391}
+{place=10, name='Molly Woods', school='Bloomington', grade=7, gender='F', time=1226.719}
+{place=11, name='Megan  Jeurissen', school='Chaska-Chan', grade=11, gender='F', time=1227.711}
+{place=12, name='kaitlyn Behrns', school='Bloomington', grade=12, gender='F', time=1232.52}
+{place=13, name='Brenna Heelan', school='Chaska-Chan', grade=10, gender='F', time=1237.75}
+{place=14, name='Mara Halvorson', school='Chaska-Chan', grade=12, gender='F', time=1238.449}
+{place=15, name='Lucy Zumbrunnen', school='St Louis Park', grade=9, gender='F', time=1254.2891}
+{place=16, name='Ava Hanks', school='Richfield', grade=8, gender='F', time=1263.27}
+{place=17, name='Olivia Etz', school='St Louis Park', grade=9, gender='F', time=1268.27}
+{place=18, name='Krystiana Connelly', school='Chaska-Chan', grade=12, gender='F', time=1273.52}
+{place=19, name='Isabella Bryan', school='Chaska-Chan', grade=8, gender='F', time=1274.23}
+{place=20, name='Faith Hall', school='Bloomington', grade=11, gender='F', time=1275.77}
+{place=21, name='Mimi Kniser', school='St Louis Park', grade=9, gender='F', time=1283.461}
+{place=22, name='Fredonia Ziegle', school='St Louis Park', grade=8, gender='F', time=1286.109}
+{place=23, name='Eleanor Brown', school='Chaska-Chan', grade=10, gender='F', time=1302.2109}
+{place=24, name='Celine Urick', school='Chaska-Chan', grade=11, gender='F', time=1315.441}
+{place=25, name='Sonja Oldenkamp', school='Chaska-Chan', grade=11, gender='F', time=1322.891}
+{place=26, name='Rebecca Twite', school='Benilde-St Margaret', grade=10, gender='F', time=1332.141}
+{place=27, name='Samantha Milligan', school='Chaska-Chan', grade=8, gender='F', time=1340.52}
+{place=28, name='Anna Monarski', school='Chaska-Chan', grade=11, gender='F', time=1343.52}
+{place=29, name='Charlotte Maus', school='Chaska-Chan', grade=10, gender='F', time=1351.48}
+{place=30, name='Marissa Westover', school='Chaska-Chan', grade=10, gender='F', time=1359.191}
+{place=31, name='Maya Lee', school='St Louis Park', grade=9, gender='F', time=1366.281}
+{place=32, name='Karis Plath', school='Chaska-Chan', grade=9, gender='F', time=1368.191}
+{place=33, name='Aeryn Oaxaca', school='Chaska-Chan', grade=8, gender='F', time=1404.52}
+{place=34, name='Piper Mans', school='Chaska-Chan', grade=9, gender='F', time=1405.941}
+{place=35, name='Carissa Prestholdt', school='St Louis Park', grade=10, gender='F', time=1414.281}
+{place=36, name='Calla Swanson', school='Bloomington', grade=9, gender='F', time=1427.59}
+{place=37, name='Leah Napls', school='Chaska-Chan', grade=9, gender='F', time=1430.879}
+{place=38, name='Julia Nowak', school='St Louis Park', grade=7, gender='F', time=1462.5}
+{place=39, name='Bridget Foley', school='Richfield', grade=8, gender='F', time=1464.469}
+{place=40, name='Brayden Hill', school='Bloomington', grade=9, gender='F', time=1487.191}
+{place=41, name='Kendall Thom', school='Chaska-Chan', grade=8, gender='F', time=1505.289}
+{place=42, name='Sayda Elftman', school='Chaska-Chan', grade=10, gender='F', time=1505.691}
+{place=43, name='Raissa Gebauer', school='Chaska-Chan', grade=9, gender='F', time=1514.781}
+{place=44, name='Jocelyn Thom', school='Chaska-Chan', grade=7, gender='F', time=1548.969}
+{place=45, name='Avery Gibbs', school='Richfield', grade=7, gender='F', time=1581.379}
+{place=46, name='Julia Lindow', school='Richfield', grade=7, gender='F', time=1588.281}
+{place=47, name='Jaci Hintz', school='Richfield', grade=7, gender='F', time=1590.781}
+{place=48, name='Anna Tinklenberg', school='Bloomington', grade=9, gender='F', time=1610.371}
+{place=49, name='Maggie Klien', school='St Louis Park', grade=10, gender='F', time=1618.531}
+{place=50, name='Nadia Kovalchuk', school='St Louis Park', grade=7, gender='F', time=1624.539}
+{place=51, name='Nora Thiel', school='Chaska-Chan', grade=9, gender='F', time=1628.5}
+{place=52, name='Grace Coughlin', school='Richfield', grade=10, gender='F', time=1635.781}
+{place=53, name='Sieanna Huelskamp', school='Cooper', grade=8, gender='F', time=1639.488}
+{place=54, name='Stephine Sorenson', school='Cooper', grade=11, gender='F', time=1641.488}
+{place=55, name='Morgan Stromberg', school='Cooper', grade=8, gender='F', time=1647.531}
+{place=56, name='Sandra Oliver', school='Bloomington', grade=11, gender='F', time=1652.738}
+{place=57, name='Liv Loftsgaarden', school='Richfield', grade=7, gender='F', time=1656.25}
+{place=58, name='Sydney Wellner', school='Chaska-Chan', grade=9, gender='F', time=1677.7891}
+{place=59, name='McKenna  Aker', school='Chaska-Chan', grade=9, gender='F', time=1721.379}
+{place=60, name='Holly Perlich', school='Chaska-Chan', grade=9, gender='F', time=1724.621}
+{place=61, name='Anna Palony', school='Cooper', grade=8, gender='F', time=1771.82}
+{place=62, name='Halle Knipp', school='Richfield', grade=10, gender='F', time=1831.102}
+{place=63, name='Eva Patenaude', school='Richfield', grade=7, gender='F', time=1843.422}
+{place=64, name='Cheyenne Oja', school='Cooper', grade=7, gender='F', time=1871.199}
+{place=65, name='Molly Wenaas', school='Richfield', grade=9, gender='F', time=1946.0}
+{place=66, name='Emma Patka', school='Chaska-Chan', grade=9, gender='F', time=1959.512}
+{place=67, name='Bella Hall', school='Richfield', grade=8, gender='F', time=2011.219}
+{place=68, name='Tania Pettersson Alvara', school='Chaska-Chan', grade=11, gender='F', time=2101.75}
+{place=69, name='Sadie Holman', school='Chaska-Chan', grade=7, gender='F', time=2199.141}
+{place=70, name='Lillian Walsh', school='Chaska-Chan', grade=9, gender='F', time=2302.641}
+{place=71, name='Aleah Erickson', school='Cooper', grade=11, gender='F', time=2304.469}
+{place=72, name='Mikayla Brown', school='Richfield', grade=9, gender='F', time=2478.309}
+{place=73, name='Alesha Sorenson', school='Cooper', grade=9, gender='F', time=2620.32}
+{place=74, name='Olivia Frye', school='Richfield', grade=7, gender='F', time=2696.738}
+{place=75, name='Madalynn Hayes', school='Cooper', grade=11, gender='F', time=2728.32}

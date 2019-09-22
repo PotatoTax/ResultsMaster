@@ -1,0 +1,33 @@
+Race : 2679
+{place=1, name='Bethany Miller', school='Alexandria', grade=12, gender='F', time=1332.2}
+{place=2, name='Brynn Kosters', school='Alexandria', grade=9, gender='F', time=1347.7}
+{place=3, name='Cameo Neumann', school='Alexandria', grade=12, gender='F', time=1353.3}
+{place=4, name='Amanda Bittman', school='Alexandria', grade=12, gender='F', time=1359.9}
+{place=5, name='Elena Fuglestad', school='Alexandria', grade=9, gender='F', time=1371.8}
+{place=6, name='Emma Hochhalter', school='Alexandria', grade=9, gender='F', time=1414.5}
+{place=7, name='Grace Panther', school='Alexandria', grade=11, gender='F', time=1460.2}
+{place=8, name='Teresa Bitzan', school='Alexandria', grade=9, gender='F', time=1465.7}
+{place=9, name='Julia Rademacher', school='Brainerd', grade=9, gender='F', time=1505.2}
+{place=10, name='Alexus Klimek', school='Alexandria', grade=8, gender='F', time=1510.9}
+{place=11, name='Kaileigh Schneider', school='Alexandria', grade=10, gender='F', time=1513.7}
+{place=12, name='Emily Bastian', school='Brainerd', grade=9, gender='F', time=1514.2}
+{place=13, name='Lauren Englund', school='Alexandria', grade=10, gender='F', time=1518.3}
+{place=14, name='Esther Scheele', school='St Cloud Tech', grade=11, gender='F', time=1535.8}
+{place=15, name='Lily  Arnquist', school='Alexandria', grade=9, gender='F', time=1536.0}
+{place=16, name='Hannah Calabro', school='St Cloud Tech', grade=10, gender='F', time=1537.0}
+{place=17, name='Gracie Uhde', school='Alexandria', grade=10, gender='F', time=1602.2}
+{place=18, name='Sara Schiller', school='Brainerd', grade=11, gender='F', time=1602.8}
+{place=19, name='Georgi Aus', school='Brainerd', grade=12, gender='F', time=1616.3}
+{place=20, name='Lauren Huber', school='Alexandria', grade=9, gender='F', time=1660.6}
+{place=21, name='Gianna Maddy', school='GNK', grade=9, gender='F', time=1676.8}
+{place=22, name='Amya Hagen', school='Alexandria', grade=10, gender='F', time=1742.0}
+{place=23, name='Grace Groshong', school='GNK', grade=12, gender='F', time=1742.1}
+{place=24, name='Evelyn  Williams', school='Pillager', grade=10, gender='F', time=1827.8}
+{place=25, name='Kylee Wilson', school='Pillager', grade=9, gender='F', time=1881.8}
+{place=26, name='Ally Smith', school='Pillager', grade=11, gender='F', time=1949.7}
+{place=27, name='Dylan Ellis', school='GNK', grade=9, gender='F', time=1987.5}
+{place=28, name='Kacey Anderson', school='Pillager', grade=12, gender='F', time=2037.3}
+{place=29, name='Samantha Bennett', school='Pillager', grade=12, gender='F', time=2249.1}
+{place=30, name='Jaelyn Jordahl', school='Pillager', grade=10, gender='F', time=2347.6}
+{place=31, name='Ziya Pulak', school='Pillager', grade=12, gender='F', time=2348.8}
+{place=32, name='Laci Gibbs', school='Pillager', grade=10, gender='F', time=2408.6}

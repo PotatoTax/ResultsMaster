@@ -1,0 +1,92 @@
+Race : 1895
+{place=1, name='Tom Breuckman', school='Andover', grade=12, gender='M', time=952.0}
+{place=2, name='Blake Iverson', school='Maple Grove', grade=12, gender='M', time=976.7}
+{place=3, name='Carter  Knaus', school='STMA', grade=11, gender='M', time=995.7}
+{place=4, name='CJ Young', school='Maple Grove', grade=10, gender='M', time=995.8}
+{place=5, name='Jonah Breuer', school='STMA', grade=11, gender='M', time=996.0}
+{place=6, name='Noah Bundrock', school='Howard Lake-Waverly', grade=12, gender='M', time=1006.3}
+{place=7, name='Patrick McLean', school='Maple Grove', grade=10, gender='M', time=1009.7}
+{place=8, name='Joe Huffman', school='Andover', grade=12, gender='M', time=1011.6}
+{place=9, name='Blane Utter', school='Centennial', grade=12, gender='M', time=1012.5}
+{place=10, name='George Knier', school='Apple Valley', grade=12, gender='M', time=1016.5}
+{place=11, name='Joey Och', school='STMA', grade=12, gender='M', time=1021.1}
+{place=12, name='Nicholas Pederson', school='Apple Valley', grade=11, gender='M', time=1022.7}
+{place=13, name='Josh Jarpey', school='Centennial', grade=12, gender='M', time=1023.2}
+{place=14, name='Luke Peterson', school='STMA', grade=11, gender='M', time=1024.7}
+{place=15, name='Jeffrey Sandkuhler', school='Irondale', grade=11, gender='M', time=1025.0}
+{place=16, name='Michael Younberg', school='STMA', grade=12, gender='M', time=1029.3}
+{place=17, name='Charles Caven', school='Maple Grove', grade=10, gender='M', time=1033.9}
+{place=18, name='Brandon Roberts', school='Apple Valley', grade=12, gender='M', time=1035.5}
+{place=19, name='Felix Ongara', school='Irondale', grade=8, gender='M', time=1038.2}
+{place=20, name='Max Kivi', school='Maple Grove', grade=12, gender='M', time=1038.8}
+{place=21, name='Bradely Chasteen', school='Andover', grade=12, gender='M', time=1038.8}
+{place=22, name='Tommy Hamilton', school='STMA', grade=11, gender='M', time=1039.5}
+{place=23, name='Tyler Bartholomew', school='STMA', grade=11, gender='M', time=1039.8}
+{place=24, name='Eric Hotakainen', school='Centennial', grade=12, gender='M', time=1040.0}
+{place=25, name='Alex Heidorn', school='Rogers', grade=9, gender='M', time=1040.6}
+{place=26, name='Thomas Marrah', school='Centennial', grade=11, gender='M', time=1040.8}
+{place=27, name='Ryan Behnke-Mead', school='Anoka', grade=9, gender='M', time=1053.6}
+{place=28, name='Mike Ward', school='Maple Grove', grade=11, gender='M', time=1058.3}
+{place=29, name='Evan Riechers', school='Andover', grade=11, gender='M', time=1058.7}
+{place=30, name='Spenser Brown', school='Irondale', grade=12, gender='M', time=1059.7}
+{place=31, name='Logan Meinert', school='Andover', grade=9, gender='M', time=1061.5}
+{place=32, name='Ethan Monsen', school='Apple Valley', grade=12, gender='M', time=1064.2}
+{place=33, name='Kojo Herzog', school='Irondale', grade=12, gender='M', time=1065.2}
+{place=34, name='Dalmas Omwoyo', school='Robbinsdale Cooper', grade=11, gender='M', time=1066.5}
+{place=35, name='Max Moynihan', school='Apple Valley', grade=12, gender='M', time=1067.2}
+{place=36, name='Adam  Namyst', school='Centennial', grade=11, gender='M', time=1067.6}
+{place=37, name='Carsen Johnson', school='Centennial', grade=10, gender='M', time=1070.6}
+{place=38, name='John Wackerman', school='Maple Grove', grade=11, gender='M', time=1073.0}
+{place=39, name='Thomas Glad', school='Rogers', grade=10, gender='M', time=1074.7}
+{place=40, name='Elijah Grabinske', school='Anoka', grade=9, gender='M', time=1075.1}
+{place=41, name='Carter Weinzierl', school='Andover', grade=12, gender='M', time=1075.2}
+{place=42, name='Spencer Charlesworth', school='STMA', grade=11, gender='M', time=1075.7}
+{place=43, name='Mark Sipahimalani', school='Irondale', grade=11, gender='M', time=1077.6}
+{place=44, name='Tyler  Merrell', school='Irondale', grade=9, gender='M', time=1077.7}
+{place=45, name='Luke Arends', school='Centennial', grade=12, gender='M', time=1078.8}
+{place=46, name='Kyle Swenson', school='STMA', grade=10, gender='M', time=1079.2}
+{place=47, name='Jacob Toay', school='Anoka', grade=11, gender='M', time=1082.2}
+{place=48, name='Chet Jurrens', school='Rogers', grade=12, gender='M', time=1084.4}
+{place=49, name='Noah Johnson', school='Anoka', grade=11, gender='M', time=1088.5}
+{place=50, name='Noah Zurn', school='Centennial', grade=12, gender='M', time=1089.9}
+{place=51, name='Landon Aufderhar', school='Andover', grade=11, gender='M', time=1092.7}
+{place=52, name='Xander Ostaffe', school='Maple Grove', grade=11, gender='M', time=1093.8}
+{place=53, name='Tyler  Eskro', school='Irondale', grade=11, gender='M', time=1095.0}
+{place=54, name='Kyle Kryzer', school='Maple Grove', grade=11, gender='M', time=1096.0}
+{place=55, name='Elliot Ewald', school='Apple Valley', grade=10, gender='M', time=1101.1}
+{place=56, name='Michael Baldus', school='Anoka', grade=11, gender='M', time=1106.0}
+{place=57, name='Mitchell Meilahn', school='STMA', grade=10, gender='M', time=1108.8}
+{place=58, name='Noah Pearson', school='Apple Valley', grade=12, gender='M', time=1111.7}
+{place=59, name='Nolan Boswell', school='Robbinsdale Cooper', grade=10, gender='M', time=1114.2}
+{place=60, name='Thomas Horn', school='Howard Lake-Waverly', grade=12, gender='M', time=1114.9}
+{place=61, name='Karl Van Horsen', school='Apple Valley', grade=11, gender='M', time=1115.7}
+{place=62, name='Aaron  Taylor', school='Anoka', grade=11, gender='M', time=1116.5}
+{place=63, name='Lucas Bistodeau', school='Rogers', grade=11, gender='M', time=1118.2}
+{place=64, name='Ethan Anderson', school='Rogers', grade=11, gender='M', time=1120.9}
+{place=65, name='Jacob Dirschel', school='Rogers', grade=11, gender='M', time=1122.8}
+{place=66, name='Derek Janzen', school='Centennial', grade=12, gender='M', time=1124.2}
+{place=67, name='Nicholas Becker', school='Anoka', grade=8, gender='M', time=1124.9}
+{place=68, name='Joey Clauson', school='Rogers', grade=10, gender='M', time=1125.2}
+{place=69, name='David Fluth', school='Irondale', grade=10, gender='M', time=1130.9}
+{place=70, name='Josh Meinert', school='Anoka', grade=11, gender='M', time=1136.59}
+{place=71, name='Alex  Lee', school='Anoka', grade=12, gender='M', time=1137.5}
+{place=72, name='Trevin Olund', school='Howard Lake-Waverly', grade=11, gender='M', time=1141.5}
+{place=73, name='Zach Koosman', school='Howard Lake-Waverly', grade=10, gender='M', time=1142.9}
+{place=74, name='Gerrick Prine', school='Howard Lake-Waverly', grade=11, gender='M', time=1144.7}
+{place=75, name='Flannagan Corkery', school='Rogers', grade=8, gender='M', time=1149.2}
+{place=76, name='Huxley Nyabwari', school='Maple Grove', grade=10, gender='M', time=1151.6}
+{place=77, name='Brandon Lubke', school='Rogers', grade=10, gender='M', time=1152.7}
+{place=78, name='Connor Loreno', school='Anoka', grade=12, gender='M', time=1154.7}
+{place=79, name='Sam Hernick', school='Robbinsdale Cooper', grade=10, gender='M', time=1156.2}
+{place=80, name='Jonathan Pattie', school='Centennial', grade=8, gender='M', time=1156.9}
+{place=81, name='Thomas Hotvedt', school='Robbinsdale Cooper', grade=11, gender='M', time=1159.8}
+{place=82, name='Justin Stremski', school='Apple Valley', grade=11, gender='M', time=1161.0}
+{place=83, name='Cole Leukuma', school='Howard Lake-Waverly', grade=9, gender='M', time=1173.8}
+{place=84, name='Luke Howard', school='Apple Valley', grade=10, gender='M', time=1175.9}
+{place=85, name='Nick Czanstkowski', school='Howard Lake-Waverly', grade=11, gender='M', time=1198.5}
+{place=86, name='Will Sutter', school='Robbinsdale Cooper', grade=10, gender='M', time=1220.7}
+{place=87, name='Henry Heinks', school='Irondale', grade=12, gender='M', time=1230.2}
+{place=88, name='Matthew Hunke', school='Robbinsdale Cooper', grade=11, gender='M', time=1231.2}
+{place=89, name='Ethan Maki', school='Robbinsdale Cooper', grade=10, gender='M', time=1235.5}
+{place=90, name='Seamus Corkery', school='Rogers', grade=10, gender='M', time=1239.3}
+{place=91, name='Ben Hunke', school='Robbinsdale Cooper', grade=10, gender='M', time=1300.2}

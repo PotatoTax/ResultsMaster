@@ -1,0 +1,130 @@
+Race : 2215
+{place=1, name='Lance Georgeson', school='St Paul Highland Park', grade=8, gender='M', time=551.1}
+{place=2, name='Bennett Harrison-Michaels', school='Roseville', grade=8, gender='M', time=552.5}
+{place=3, name='Ataa Mensah', school='Roseville', grade=7, gender='M', time=577.6}
+{place=4, name='Dylan Johnson', school='Wayzata', grade=8, gender='M', time=581.2}
+{place=5, name='Brandon Vo', school='Roseville', grade=8, gender='M', time=590.8}
+{place=6, name='Ben Martin', school='St Paul Highland Park', grade=8, gender='M', time=591.0}
+{place=7, name='Hamza Mohamed', school='Wayzata', grade=8, gender='M', time=594.7}
+{place=8, name='Matthew Holje', school='Central Middle School', grade=8, gender='M', time=595.1}
+{place=9, name='Daniel McCollor', school='Wayzata', grade=7, gender='M', time=596.1}
+{place=10, name='Brenden Hyvare', school='Wayzata', grade=8, gender='M', time=605.7}
+{place=11, name='Carter Menne', school='Roseville', grade=8, gender='M', time=608.7}
+{place=12, name='Mason Reitmeier', school='Maple Grove', grade=8, gender='M', time=614.8}
+{place=13, name='Carter Olson', school='Wayzata', grade=8, gender='M', time=615.3}
+{place=14, name='Parker Dietrick', school='Wayzata', grade=7, gender='M', time=626.7}
+{place=15, name='Jackson Fischer', school='Wayzata', grade=7, gender='M', time=633.0}
+{place=16, name='Tate Bloch', school='Central Middle School', grade=7, gender='M', time=633.6}
+{place=17, name='William DeVries', school='Roseville', grade=7, gender='M', time=635.3}
+{place=18, name='Davis Isom', school='St Paul Highland Park', grade=8, gender='M', time=636.1}
+{place=19, name='Ronan Leonard', school='Wayzata', grade=8, gender='M', time=641.4}
+{place=20, name='Landon Brady', school='Roseville', grade=8, gender='M', time=641.8}
+{place=21, name='Alex Litterer', school='Wayzata', grade=7, gender='M', time=641.8}
+{place=22, name='Tyler Kissell', school='Wayzata', grade=7, gender='M', time=646.1}
+{place=23, name='Chris Chi', school='Wayzata', grade=8, gender='M', time=648.7}
+{place=24, name='Ryan Terry', school='St Paul Highland Park', grade=8, gender='M', time=650.3}
+{place=25, name='Max Reemtsma', school='St Paul Highland Park', grade=8, gender='M', time=651.3}
+{place=26, name='Blake Bjerke', school='Wayzata', grade=8, gender='M', time=657.0}
+{place=27, name='Gaard Swenson', school='Wayzata', grade=7, gender='M', time=657.1}
+{place=28, name='Nolan Bakken', school='Central Middle School', grade=8, gender='M', time=657.8}
+{place=29, name='Dylan Vicario', school='Roseville', grade=7, gender='M', time=658.3}
+{place=30, name='Sam Hollman', school='Maple Grove', grade=8, gender='M', time=662.1}
+{place=31, name='Gage Alstead', school='Wayzata', grade=7, gender='M', time=663.2}
+{place=32, name='Nathan Isaak', school='Maple Grove', grade=8, gender='M', time=664.0}
+{place=33, name='Maceo Young', school='Roseville', grade=8, gender='M', time=665.0}
+{place=34, name='Luke Greseth', school='Wayzata', grade=8, gender='M', time=668.2}
+{place=35, name='Cody Kaiser', school='Maple Grove', grade=8, gender='M', time=669.3}
+{place=36, name='Juan Joseph', school='Wayzata', grade=7, gender='M', time=670.1}
+{place=37, name='Liam Stroup', school='Wayzata', grade=8, gender='M', time=673.8}
+{place=38, name='Shafi Mohomed', school='Wayzata', grade=7, gender='M', time=675.6}
+{place=39, name='Casey Hjelmstad', school='Maple Grove', grade=7, gender='M', time=677.3}
+{place=40, name='Brayden Sandmann', school='Wayzata', grade=7, gender='M', time=677.9}
+{place=41, name='Grayson Cox', school='Roseville', grade=8, gender='M', time=679.0}
+{place=42, name='Will Ross', school='Central Middle School', grade=8, gender='M', time=679.3}
+{place=43, name='Alexander Kibbee', school='Roseville', grade=8, gender='M', time=679.5}
+{place=44, name='Tyler Little', school='Central Middle School', grade=8, gender='M', time=681.7}
+{place=45, name='Pierce Holmgren', school='Maple Grove', grade=8, gender='M', time=681.7}
+{place=46, name='Stanley Marczak', school='Wayzata', grade=8, gender='M', time=683.0}
+{place=47, name='Justin Taylor', school='St Paul Highland Park', grade=8, gender='M', time=684.8}
+{place=48, name='Joshua Ringsmuth', school='Maple Grove', grade=8, gender='M', time=685.0}
+{place=49, name='Evan  Bennett', school='Wayzata', grade=7, gender='M', time=685.0}
+{place=50, name='Owen Brattebo', school='Central Middle School', grade=7, gender='M', time=687.3}
+{place=51, name='David Nelson', school='Wayzata', grade=8, gender='M', time=692.1}
+{place=52, name='Erik Nordseth', school='Wayzata', grade=7, gender='M', time=695.4}
+{place=53, name='Gabriel Johnson', school='Maple Grove', grade=8, gender='M', time=696.7}
+{place=54, name='PJ  Wilde', school='Maple Grove', grade=8, gender='M', time=697.1}
+{place=55, name='Owen Zupancich', school='Roseville', grade=7, gender='M', time=697.6}
+{place=56, name='Fergus Kragenbring', school='Wayzata', grade=8, gender='M', time=698.1}
+{place=57, name='Jackson Kohls', school='Central Middle School', grade=8, gender='M', time=699.3}
+{place=58, name='Ronan Strand', school='Maple Grove', grade=8, gender='M', time=699.5}
+{place=59, name='Mark Derouin', school='Central Middle School', grade=7, gender='M', time=699.7}
+{place=60, name='Connor Lynch', school='Roseville', grade=8, gender='M', time=700.1}
+{place=61, name='Cole  Balkins', school='Wayzata', grade=8, gender='M', time=703.4}
+{place=62, name='Ezra Wilhelmy', school='Maple Grove', grade=8, gender='M', time=705.0}
+{place=63, name='Cale Myers', school='Wayzata', grade=7, gender='M', time=706.0}
+{place=64, name='Pat DiazMunoz', school='Central Middle School', grade=8, gender='M', time=708.6}
+{place=65, name='Matthew Berge', school='Central Middle School', grade=7, gender='M', time=713.6}
+{place=66, name='Eddy McLean', school='Wayzata', grade=7, gender='M', time=714.6}
+{place=67, name='Joseph Pietrzak', school='Wayzata', grade=8, gender='M', time=714.8}
+{place=68, name='Ian Morrison', school='Central Middle School', grade=8, gender='M', time=716.0}
+{place=69, name='Gavin Allard', school='Wayzata', grade=7, gender='M', time=716.6}
+{place=70, name='Zachary Fier', school='Central Middle School', grade=8, gender='M', time=719.1}
+{place=71, name='Luke Jenneke', school='Wayzata', grade=8, gender='M', time=719.3}
+{place=72, name='jackson butikofer', school='Central Middle School', grade=7, gender='M', time=719.7}
+{place=73, name='Caden Howard', school='Wayzata', grade=7, gender='M', time=720.3}
+{place=74, name='Adam Dehm', school='Wayzata', grade=7, gender='M', time=721.2}
+{place=75, name='Joshua Kelly', school='Central Middle School', grade=7, gender='M', time=724.8}
+{place=76, name='Anders Halverson', school='Wayzata', grade=7, gender='M', time=725.8}
+{place=77, name='Matthew Broderson', school='Maple Grove', grade=8, gender='M', time=726.3}
+{place=78, name='Joseph Goetze', school='Central Middle School', grade=7, gender='M', time=734.0}
+{place=79, name='Will Reidy', school='Central Middle School', grade=8, gender='M', time=736.0}
+{place=80, name='Gavin  Steel', school='Maple Grove', grade=8, gender='M', time=736.4}
+{place=81, name='Morgan Petit', school='Maple Grove', grade=7, gender='M', time=743.3}
+{place=82, name='Alex Freeman', school='Wayzata', grade=7, gender='M', time=744.2}
+{place=83, name='Riley Mildebrandt', school='Maple Grove', grade=7, gender='M', time=746.4}
+{place=84, name='Oliver Heisel', school='Roseville', grade=7, gender='M', time=746.8}
+{place=85, name='Grant Orr', school='Central Middle School', grade=7, gender='M', time=748.7}
+{place=86, name='Max Abramson', school='Roseville', grade=7, gender='M', time=748.7}
+{place=87, name='Ellis Perniel', school='Roseville', grade=8, gender='M', time=750.0}
+{place=88, name='Samuel Garbow', school='Maple Grove', grade=7, gender='M', time=750.3}
+{place=89, name='Henry Larson', school='Central Middle School', grade=8, gender='M', time=754.5}
+{place=90, name='Isaac Hepper', school='Central Middle School', grade=7, gender='M', time=755.7}
+{place=91, name='Henry Holcomb', school='Maple Grove', grade=7, gender='M', time=756.6}
+{place=92, name='Zachary Johnson', school='Maple Grove', grade=8, gender='M', time=757.4}
+{place=93, name='Henry Ulberg', school='Wayzata', grade=8, gender='M', time=757.6}
+{place=94, name='Jack Karban', school='Wayzata', grade=8, gender='M', time=758.2}
+{place=95, name='Liam Fehlen', school='Wayzata', grade=7, gender='M', time=763.3}
+{place=96, name='Sam Dattalo', school='Wayzata', grade=8, gender='M', time=766.6}
+{place=97, name='Bergan Wolf', school='Wayzata', grade=7, gender='M', time=770.6}
+{place=98, name='Mack Jorgensen', school='Roseville', grade=7, gender='M', time=778.0}
+{place=99, name='Soren Peterson', school='Roseville', grade=7, gender='M', time=784.5}
+{place=100, name='Lucas Henderson', school='Central Middle School', grade=8, gender='M', time=789.2}
+{place=101, name='Gavin Bird', school='Wayzata', grade=7, gender='M', time=793.2}
+{place=102, name='Valentin Nabozny', school='Wayzata', grade=7, gender='M', time=801.2}
+{place=103, name='Sean Hutchinson', school='Wayzata', grade=8, gender='M', time=807.1}
+{place=104, name='Aidan Rothaar', school='Wayzata', grade=8, gender='M', time=807.6}
+{place=105, name='Mitchell Bean', school='Maple Grove', grade=7, gender='M', time=810.3}
+{place=106, name='Murray Peterson', school='Wayzata', grade=7, gender='M', time=815.0}
+{place=107, name='Cooper Keddie', school='Central Middle School', grade=8, gender='M', time=817.5}
+{place=108, name='Ilyas Ahmed', school='Central Middle School', grade=7, gender='M', time=823.0}
+{place=109, name='Petro Zaraszczak', school='Wayzata', grade=8, gender='M', time=823.0}
+{place=110, name='Thomas Turnquist', school='Maple Grove', grade=7, gender='M', time=826.1}
+{place=111, name='Nathan Robbennolt', school='Wayzata', grade=8, gender='M', time=828.1}
+{place=112, name='Samuel Cammack', school='Wayzata', grade=8, gender='M', time=829.1}
+{place=113, name='Noah Doane', school='Wayzata', grade=7, gender='M', time=833.2}
+{place=114, name='Colin Beyer', school='Central Middle School', grade=8, gender='M', time=833.6}
+{place=115, name='Carter Strain', school='Maple Grove', grade=8, gender='M', time=839.4}
+{place=116, name='Caden Kipfmueller', school='St Paul Highland Park', grade=8, gender='M', time=840.1}
+{place=117, name='Mitch Corning', school='Wayzata', grade=8, gender='M', time=842.0}
+{place=118, name='Elliot Weiblen', school='Roseville', grade=8, gender='M', time=842.8}
+{place=119, name='Grant Vinje', school='Maple Grove', grade=7, gender='M', time=860.5}
+{place=120, name='Dylan Tate', school='Maple Grove', grade=8, gender='M', time=862.8}
+{place=121, name='Norman Nguyen', school='Central Middle School', grade=8, gender='M', time=868.3}
+{place=122, name='Nels Anderson', school='Roseville', grade=7, gender='M', time=884.3}
+{place=123, name='Bjorn Torvi', school='Roseville', grade=8, gender='M', time=897.8}
+{place=124, name='Jason (JT) Amberg', school='Central Middle School', grade=8, gender='M', time=899.7}
+{place=125, name='Erik Nowak', school='Central Middle School', grade=8, gender='M', time=905.6}
+{place=126, name='Andrew Schoss', school='Maple Grove', grade=8, gender='M', time=910.0}
+{place=127, name='William Caron', school='Maple Grove', grade=7, gender='M', time=911.2}
+{place=128, name='Louis Gaulke', school='Roseville', grade=7, gender='M', time=1017.3}
+{place=129, name='Biyamin Ahmed', school='Central Middle School', grade=7, gender='M', time=1041.7}

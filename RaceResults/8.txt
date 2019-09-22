@@ -1,0 +1,64 @@
+Race : 8
+{place=1, name='Liz Chambers', school='Providence Academy', grade=9, gender='F', time=552.24}
+{place=2, name='Julia Harrison', school='Mound-Westonka', grade=7, gender='F', time=558.05}
+{place=3, name='Janey Atchison', school='Hill-Murray', grade=9, gender='F', time=580.38}
+{place=4, name='Andrea Goldberg', school='Mounds Park Academy', grade=9, gender='F', time=581.2}
+{place=5, name='Christa Kootz', school='Mounds Park Academy', grade=7, gender='F', time=584.47}
+{place=6, name='Kit Chambers', school='Providence Academy', grade=9, gender='F', time=587.98}
+{place=7, name='Grace Lally', school='Visitation', grade=8, gender='F', time=590.42}
+{place=8, name='Marisa Schuh', school='Benilde-St Margaret', grade=8, gender='F', time=598.72}
+{place=9, name='Paige Sotirin', school='Mound-Westonka', grade=8, gender='F', time=606.83}
+{place=10, name='Ellen Purtle', school='DeLaSalle', grade=9, gender='F', time=607.08}
+{place=11, name='Molly Degnan', school='Visitation', grade=9, gender='F', time=611.78}
+{place=12, name='Madeline Allie', school='Visitation', grade=9, gender='F', time=612.29}
+{place=13, name='Gwynne Evans', school='Visitation', grade=9, gender='F', time=615.48}
+{place=14, name='Mary Schmudlach', school='Mound-Westonka', grade=7, gender='F', time=616.25}
+{place=15, name='Georgia Lucas', school='Benilde-St Margaret', grade=7, gender='F', time=616.48}
+{place=16, name='Alexis Plath', school='St Croix Lutheran', grade=8, gender='F', time=618.57}
+{place=17, name='Sarah Ennis', school='Trinity', grade=9, gender='F', time=620.65}
+{place=18, name='Heather Heilman', school='Mound-Westonka', grade=8, gender='F', time=623.98}
+{place=19, name='Brenna Wetsch', school='Holy Family Catholic', grade=9, gender='F', time=627.94}
+{place=20, name='Mistica Shumer', school='Benilde-St Margaret', grade=7, gender='F', time=636.76}
+{place=21, name='Heather Hejna', school='Mound-Westonka', grade=8, gender='F', time=652.98}
+{place=22, name='Erica Olson', school='Hill-Murray', grade=8, gender='F', time=654.63}
+{place=23, name='Elizabeth Rotty', school='Hill-Murray', grade=9, gender='F', time=654.9}
+{place=24, name='Molly Herber', school='Visitation', grade=9, gender='F', time=660.46}
+{place=25, name='Meghan Archambeau', school='Hill-Murray', grade=9, gender='F', time=666.59}
+{place=26, name='Sarah Douglass', school='Minneapolis Southwest', grade=8, gender='F', time=667.9}
+{place=27, name='Maggie Smith', school='Mound-Westonka', grade=9, gender='F', time=668.39}
+{place=28, name='Allison Graf', school='Orono', grade=9, gender='F', time=673.78}
+{place=29, name='Suzanna Kearns', school='Benilde-St Margaret', grade=8, gender='F', time=674.02}
+{place=30, name='Kaycie Anderson', school='Orono', grade=9, gender='F', time=674.49}
+{place=31, name='Grace Helgager', school='Benilde-St Margaret', grade=7, gender='F', time=675.06}
+{place=32, name='Karen Bohnen', school='Hill-Murray', grade=8, gender='F', time=675.66}
+{place=33, name='Brittany Davis', school='Washburn', grade=9, gender='F', time=682.68}
+{place=34, name='Lauren Walburg', school='Minneapolis Southwest', grade=9, gender='F', time=696.43}
+{place=35, name='Greta Heller', school='Academy of Holy Angels', grade=9, gender='F', time=699.83}
+{place=36, name='Kayla Benson', school='Hill-Murray', grade=9, gender='F', time=700.06}
+{place=37, name='Greta Stacy', school='Mounds Park Academy', grade=7, gender='F', time=712.94}
+{place=38, name='Megan Daley', school='Providence Academy', grade=9, gender='F', time=713.55}
+{place=39, name='Emma Ranum', school='Totino Grace', grade=9, gender='F', time=717.07}
+{place=40, name='Elizabeth Radcliff', school='Totino Grace', grade=9, gender='F', time=726.77}
+{place=41, name='Kathy Fontana', school='Totino Grace', grade=9, gender='F', time=728.1}
+{place=42, name='Emma Dimond', school='Washburn', grade=9, gender='F', time=728.38}
+{place=43, name='Julie Tillman', school='Mound-Westonka', grade=9, gender='F', time=730.52}
+{place=44, name='Lauren Berger', school='Mound-Westonka', grade=7, gender='F', time=731.75}
+{place=45, name='Sonia Rani', school='Mounds Park Academy', grade=9, gender='F', time=733.3}
+{place=46, name='Monica Shaffer', school='Benilde-St Margaret', grade=8, gender='F', time=734.61}
+{place=47, name='Meghan Anderson', school='Mound-Westonka', grade=8, gender='F', time=736.57}
+{place=48, name='Melissa Dahl', school='Minneapolis Southwest', grade=9, gender='F', time=737.05}
+{place=49, name='Laura Preese', school='Totino Grace', grade=9, gender='F', time=738.39}
+{place=50, name='Sara Schlueter', school='Benilde-St Margaret', grade=9, gender='F', time=743.43}
+{place=51, name='Alexia Klatt', school='Minneapolis Southwest', grade=9, gender='F', time=759.59}
+{place=52, name='Nia Johnson', school='Minneapolis Southwest', grade=9, gender='F', time=771.88}
+{place=53, name='Katie Gerdes', school='Trinity', grade=9, gender='F', time=783.31}
+{place=54, name='Erin Garrity', school='Minneapolis Southwest', grade=9, gender='F', time=786.57}
+{place=55, name='Maddie Wilson', school='Minneapolis Southwest', grade=9, gender='F', time=787.03}
+{place=56, name='Brita Bliss', school='Minneapolis Southwest', grade=9, gender='F', time=792.88}
+{place=57, name='Sara Strother', school='Mound-Westonka', grade=8, gender='F', time=795.45}
+{place=58, name='Marty Mertz', school='Trinity', grade=7, gender='F', time=802.16}
+{place=59, name='Lynn Geiger', school='Orono', grade=9, gender='F', time=806.83}
+{place=60, name='Molly Jutz', school='Hill-Murray', grade=8, gender='F', time=824.17}
+{place=61, name='Britt Edlund', school='Mounds Park Academy', grade=7, gender='F', time=827.17}
+{place=62, name='Shelby Moen', school='Academy of Holy Angels', grade=9, gender='F', time=833.81}
+{place=63, name='Miranda Zeller', school='DeLaSalle', grade=9, gender='F', time=840.0}

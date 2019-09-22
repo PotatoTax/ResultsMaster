@@ -1,0 +1,98 @@
+Race : 936
+{place=1, name='Emily  Donnay', school='EV-W-K', grade=12, gender='F', time=894.44}
+{place=2, name='Anna  Donnay', school='EV-W-K', grade=10, gender='F', time=907.21}
+{place=3, name='Grace Leslie', school='Orono', grade=10, gender='F', time=911.19}
+{place=4, name='Sarah Harrison', school='Orono', grade=11, gender='F', time=912.44}
+{place=5, name='Elizabeth  Schlafke', school='Annandale', grade=11, gender='F', time=916.3}
+{place=6, name='Sommer Carlson', school='Maple Lake', grade=11, gender='F', time=933.26}
+{place=7, name='Ali McGraw', school='Litchfield', grade=12, gender='F', time=945.36}
+{place=8, name='Emily Kasper', school='Annandale', grade=9, gender='F', time=952.84}
+{place=9, name='Lydia Fails', school='Watertown-Mayer', grade=11, gender='F', time=970.26}
+{place=10, name='Halle Geyen', school='Maple Lake', grade=10, gender='F', time=972.84}
+{place=11, name='Bree Erickson', school='Cambridge-Isanti', grade=11, gender='F', time=972.84}
+{place=12, name='Briana Canesi', school='Annandale', grade=8, gender='F', time=986.92}
+{place=13, name='Madilyn Marohn', school='Annandale', grade=9, gender='F', time=990.15}
+{place=14, name='Jordyne Broich', school='Annandale', grade=8, gender='F', time=991.36}
+{place=15, name='Abby Blonigen', school='Albany', grade=11, gender='F', time=993.59}
+{place=16, name='Greta Johnson', school='Orono', grade=11, gender='F', time=995.95}
+{place=17, name='Hannah Groth', school='Annandale', grade=11, gender='F', time=998.3}
+{place=18, name='Tara Cady', school='Delano', grade=9, gender='F', time=998.44}
+{place=19, name='Grace Heying', school='Maple Lake', grade=7, gender='F', time=998.92}
+{place=20, name='Alexandra Lee', school='St Johns Prep', grade=10, gender='F', time=1002.38}
+{place=21, name='Samantha Ting', school='Orono', grade=11, gender='F', time=1006.21}
+{place=22, name='Naomi Eskola', school='Delano', grade=8, gender='F', time=1007.8}
+{place=23, name='Linsey Tolkkinen', school='Delano', grade=12, gender='F', time=1007.96}
+{place=24, name='Emily Schoenberg', school='Albany', grade=12, gender='F', time=1012.13}
+{place=25, name='Abbey Berg', school='Cambridge-Isanti', grade=8, gender='F', time=1014.53}
+{place=26, name='Courtney Toenies', school='Albany', grade=12, gender='F', time=1020.67}
+{place=27, name='Natalie Cigelske', school='Albany', grade=8, gender='F', time=1023.9}
+{place=28, name='Gwen Helgeson', school='Howard Lake-Waverly', grade=8, gender='F', time=1024.51}
+{place=29, name='Jane  Hulterstrum', school='Litchfield', grade=11, gender='F', time=1029.15}
+{place=30, name='Gabrielle Ward', school='Annandale', grade=11, gender='F', time=1029.95}
+{place=31, name='Julia Severson', school='Sauk Rapids-Rice', grade=8, gender='F', time=1030.15}
+{place=32, name='Maddy Shoultz', school='Litchfield', grade=8, gender='F', time=1038.45}
+{place=33, name='Emma Wildeson', school='St Cloud Christian', grade=9, gender='F', time=1038.92}
+{place=34, name='Emilie Berry', school='LP-HT-ML', grade=9, gender='F', time=1040.57}
+{place=35, name='Katelyn Scapanski', school='Sauk Rapids-Rice', grade=12, gender='F', time=1042.38}
+{place=36, name='Naomi Johnson', school='Delano', grade=7, gender='F', time=1042.95}
+{place=37, name='Emma Mader', school='Sauk Rapids-Rice', grade=9, gender='F', time=1042.98}
+{place=38, name='Clair Rousu', school='Delano', grade=7, gender='F', time=1043.65}
+{place=39, name='Kenzie Froiland', school='Sauk Rapids-Rice', grade=10, gender='F', time=1044.99}
+{place=40, name='Lauren Degn', school='Delano', grade=9, gender='F', time=1045.42}
+{place=41, name='Erin Brabec', school='Howard Lake-Waverly', grade=8, gender='F', time=1047.2}
+{place=42, name='Chloe  Nelson', school='Cambridge-Isanti', grade=7, gender='F', time=1052.28}
+{place=43, name='Bethany Christen', school='Albany', grade=10, gender='F', time=1052.48}
+{place=44, name='Halle White', school='Orono', grade=11, gender='F', time=1055.13}
+{place=45, name='Anarosa Oscarson', school='Watertown-Mayer', grade=9, gender='F', time=1058.4}
+{place=46, name='Abby Hules', school='Watertown-Mayer', grade=10, gender='F', time=1058.8}
+{place=47, name='Kayla Hoistad', school='Maple Lake', grade=12, gender='F', time=1059.4}
+{place=48, name='Kirstin Klitzke', school='Watertown-Mayer', grade=10, gender='F', time=1063.26}
+{place=49, name='Maggie Miller', school='Howard Lake-Waverly', grade=11, gender='F', time=1072.82}
+{place=50, name='Madeline Sladek', school='Delano', grade=11, gender='F', time=1075.63}
+{place=51, name='Mollie Graham', school='Maple Lake', grade=12, gender='F', time=1076.44}
+{place=52, name='Maddie Bisek', school='New London-Spicer', grade=8, gender='F', time=1076.84}
+{place=53, name='Sarah Schrup', school='St Johns Prep', grade=13, gender='F', time=1076.84}
+{place=54, name='Jordan Sifferle', school='Maple Lake', grade=11, gender='F', time=1082.82}
+{place=55, name='Clare Pfannenstein', school='St Johns Prep', grade=11, gender='F', time=1085.59}
+{place=56, name='Asjha Quade', school='Litchfield', grade=10, gender='F', time=1089.63}
+{place=57, name='Danni Jamison', school='New London-Spicer', grade=10, gender='F', time=1096.45}
+{place=58, name='Amaya Lyrek', school='EV-W-K', grade=8, gender='F', time=1096.45}
+{place=59, name='Kaitlin Schaible', school='Orono', grade=12, gender='F', time=1100.95}
+{place=60, name='Courtney Krsiean', school='Sauk Rapids-Rice', grade=12, gender='F', time=1102.63}
+{place=61, name='Tayler Harrier', school='New London-Spicer', grade=7, gender='F', time=1103.2}
+{place=62, name='Kayleen Martins', school='Sauk Rapids-Rice', grade=9, gender='F', time=1104.42}
+{place=63, name='Denzel  Atherton', school='EV-W-K', grade=11, gender='F', time=1109.45}
+{place=64, name='Paige Hare', school='Albany', grade=9, gender='F', time=1109.92}
+{place=65, name='Marissa Kremers', school='Albany', grade=9, gender='F', time=1114.95}
+{place=66, name='Savannah Joldersma', school='Litchfield', grade=9, gender='F', time=1122.51}
+{place=67, name='Sydney Hules', school='Watertown-Mayer', grade=8, gender='F', time=1125.55}
+{place=68, name='Brynna Guimont', school='Cambridge-Isanti', grade=8, gender='F', time=1127.59}
+{place=69, name='Becca Knudson', school='Cambridge-Isanti', grade=11, gender='F', time=1127.86}
+{place=70, name='Sydney Hennes', school='Sauk Rapids-Rice', grade=9, gender='F', time=1128.82}
+{place=71, name='Brooke Winter', school='EV-W-K', grade=12, gender='F', time=1131.45}
+{place=72, name='Willow Determan', school='Howard Lake-Waverly', grade=7, gender='F', time=1131.67}
+{place=73, name='Ellen Guggemos', school='LP-HT-ML', grade=9, gender='F', time=1132.2}
+{place=74, name='Amber Lamphere', school='Howard Lake-Waverly', grade=7, gender='F', time=1132.88}
+{place=75, name='Olivia Wolff-Herda', school='Maple Lake', grade=11, gender='F', time=1134.11}
+{place=76, name='Taylor Schreiner', school='EV-W-K', grade=11, gender='F', time=1138.19}
+{place=77, name='Maddie Ouellette', school='Cambridge-Isanti', grade=12, gender='F', time=1138.38}
+{place=78, name='Diamond Picotte', school='New London-Spicer', grade=7, gender='F', time=1145.9}
+{place=79, name='Kylie Guimont', school='Cambridge-Isanti', grade=11, gender='F', time=1146.3}
+{place=80, name='Cabrini Winkels', school='Orono', grade=12, gender='F', time=1150.84}
+{place=81, name='Katelyn Huls', school='New Century Academy', grade=11, gender='F', time=1154.8}
+{place=82, name='Hannah Thompson', school='Howard Lake-Waverly', grade=12, gender='F', time=1159.82}
+{place=83, name='Carli Christensen', school='Litchfield', grade=10, gender='F', time=1161.95}
+{place=84, name='Natalie Synstelien', school='Howard Lake-Waverly', grade=12, gender='F', time=1162.86}
+{place=85, name='Rachel Utecht', school='EV-W-K', grade=8, gender='F', time=1181.97}
+{place=86, name='Megan Reese', school='St Cloud Christian', grade=12, gender='F', time=1188.2}
+{place=87, name='Rheanna Lobbins', school='New London-Spicer', grade=8, gender='F', time=1196.19}
+{place=88, name='Grace Knutson', school='Watertown-Mayer', grade=9, gender='F', time=1202.88}
+{place=89, name='Georgia Wachtler', school='New London-Spicer', grade=9, gender='F', time=1203.07}
+{place=90, name='Clara Leverich', school='LP-HT-ML', grade=9, gender='F', time=1212.65}
+{place=91, name='Whytnee Aurich', school='LP-HT-ML', grade=11, gender='F', time=1227.65}
+{place=92, name='Hailey Mueller', school='Litchfield', grade=12, gender='F', time=1241.2}
+{place=93, name='Lilly Dietrich', school='LP-HT-ML', grade=7, gender='F', time=1255.42}
+{place=94, name='Katie John', school='St Johns Prep', grade=8, gender='F', time=1271.21}
+{place=95, name='Lisa Widmeyer', school='St Johns Prep', grade=10, gender='F', time=1276.95}
+{place=96, name='Grace Dietrich', school='LP-HT-ML', grade=9, gender='F', time=1302.65}
+{place=97, name='Harley Hentges', school='LP-HT-ML', grade=11, gender='F', time=1427.59}

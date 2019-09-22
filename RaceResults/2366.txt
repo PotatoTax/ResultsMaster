@@ -1,0 +1,64 @@
+Race : 2366
+{place=1, name='Kathryn House', school='Wayzata', grade=9, gender='F', time=982.3}
+{place=2, name='Maria Fahnlander', school='Wayzata', grade=10, gender='F', time=982.5}
+{place=3, name='Carisa Chen', school='Wayzata', grade=12, gender='F', time=988.8}
+{place=4, name='Taya Vokaty', school='Wayzata', grade=10, gender='F', time=1009.45}
+{place=5, name='Mara Brick', school='Wayzata', grade=12, gender='F', time=1061.21}
+{place=6, name='Marie Meyer', school='Wayzata', grade=8, gender='F', time=1073.6}
+{place=7, name='Berit Cummings', school='Minnetonka', grade=9, gender='F', time=1076.55}
+{place=8, name='Caroline Hess', school='Wayzata', grade=9, gender='F', time=1085.8}
+{place=9, name='Margaux Bomsta', school='Wayzata', grade=10, gender='F', time=1110.55}
+{place=10, name='Alicia Butler', school='Eden Prairie', grade=12, gender='F', time=1110.61}
+{place=11, name='Maria Rickman', school='Edina', grade=11, gender='F', time=1113.98}
+{place=12, name='Emily Oswald', school='Wayzata', grade=9, gender='F', time=1120.97}
+{place=13, name='Miriam Sandeen', school='Eden Prairie', grade=9, gender='F', time=1122.9}
+{place=14, name='Annie  Christensen', school='Eden Prairie', grade=12, gender='F', time=1126.98}
+{place=15, name='Alexa Johnson', school='Eden Prairie', grade=10, gender='F', time=1127.69}
+{place=16, name='Sydney Putnam', school='Minnetonka', grade=9, gender='F', time=1128.3}
+{place=17, name='Berit  Schuveiller', school='Edina', grade=11, gender='F', time=1136.41}
+{place=18, name='Emma Atkinson', school='Wayzata', grade=10, gender='F', time=1137.57}
+{place=19, name='Ella Benson', school='Eden Prairie', grade=10, gender='F', time=1139.35}
+{place=20, name='Rhynn Paulson', school='Wayzata', grade=10, gender='F', time=1140.27}
+{place=21, name='Lainey Hornig', school='Eden Prairie', grade=8, gender='F', time=1151.3}
+{place=22, name='Mara McNaughton', school='Wayzata', grade=11, gender='F', time=1172.54}
+{place=23, name='Stella Johnson', school='Wayzata', grade=8, gender='F', time=1174.99}
+{place=24, name='Lauren Berndt', school='Eden Prairie', grade=10, gender='F', time=1197.2}
+{place=25, name='Andrea Lund', school='Minnetonka', grade=11, gender='F', time=1197.72}
+{place=26, name='Chloe Samec', school='Wayzata', grade=9, gender='F', time=1200.55}
+{place=27, name='Jayne Parry', school='Edina', grade=9, gender='F', time=1215.76}
+{place=28, name='Ellie Retzlaff', school='Minnetonka', grade=9, gender='F', time=1219.81}
+{place=29, name='Marit Lebakken', school='Edina', grade=11, gender='F', time=1221.78}
+{place=30, name='Silje Busklein', school='Eden Prairie', grade=8, gender='F', time=1229.58}
+{place=31, name='Ella Williams', school='Eden Prairie', grade=8, gender='F', time=1233.23}
+{place=32, name='Macie Anundson', school='Minnetonka', grade=10, gender='F', time=1235.19}
+{place=33, name='Karlie Stead', school='Eden Prairie', grade=10, gender='F', time=1250.66}
+{place=34, name='Ruth Vogel', school='Hopkins', grade=11, gender='F', time=1254.62}
+{place=35, name='Ani Palm', school='Hopkins', grade=9, gender='F', time=1255.56}
+{place=36, name='Sophie Henke', school='Minnetonka', grade=12, gender='F', time=1258.56}
+{place=37, name='Ellesa St. George', school='Eden Prairie', grade=10, gender='F', time=1261.56}
+{place=38, name='Seyoung Lee', school='Minnetonka', grade=10, gender='F', time=1269.5}
+{place=39, name='Hope Gimse', school='Minnetonka', grade=10, gender='F', time=1278.13}
+{place=40, name='Molly Sheehan', school='Eden Prairie', grade=12, gender='F', time=1280.35}
+{place=41, name='Addie Collier', school='Edina', grade=8, gender='F', time=1288.62}
+{place=42, name='Madeline Wilson', school='Minnetonka', grade=10, gender='F', time=1302.56}
+{place=43, name='Anna Cherian', school='Minnetonka', grade=9, gender='F', time=1302.77}
+{place=44, name='Kelsi Chrysler', school='Edina', grade=11, gender='F', time=1304.7}
+{place=45, name='Mira Subramanian', school='Eden Prairie', grade=12, gender='F', time=1304.71}
+{place=46, name='Marcella Reese', school='Hopkins', grade=11, gender='F', time=1307.74}
+{place=47, name='Sarah Mansky', school='Edina', grade=11, gender='F', time=1315.56}
+{place=48, name='Lexi Struble', school='Minnetonka', grade=11, gender='F', time=1357.31}
+{place=49, name='Grace Burgess', school='Hopkins', grade=9, gender='F', time=1362.28}
+{place=50, name='Margaret Wiersum', school='Minnetonka', grade=12, gender='F', time=1369.36}
+{place=51, name='Miriam Marsan', school='Eden Prairie', grade=8, gender='F', time=1372.81}
+{place=52, name='Jane Nelson', school='Hopkins', grade=12, gender='F', time=1385.27}
+{place=53, name='Sheridan Pavelka', school='Hopkins', grade=12, gender='F', time=1389.58}
+{place=54, name='Sara DeFor', school='Edina', grade=9, gender='F', time=1395.93}
+{place=55, name='Emma Palm', school='Minnetonka', grade=11, gender='F', time=1419.77}
+{place=56, name='Lisa Hovlin', school='Hopkins', grade=12, gender='F', time=1426.33}
+{place=57, name='Mindyrose Sinykin', school='Edina', grade=9, gender='F', time=1503.32}
+{place=58, name='Jen-li Burnett', school='Hopkins', grade=10, gender='F', time=1543.64}
+{place=59, name='Serena Arisian', school='Edina', grade=7, gender='F', time=1589.8}
+{place=60, name='Ollivia Gay', school='Hopkins', grade=10, gender='F', time=1590.83}
+{place=61, name='Brigid Miller', school='Hopkins', grade=9, gender='F', time=1591.23}
+{place=62, name='Anika Falke', school='Hopkins', grade=12, gender='F', time=1641.25}
+{place=63, name='Sagit Nachmias', school='Hopkins', grade=11, gender='F', time=1725.58}

@@ -1,0 +1,135 @@
+Race : 1782
+{place=1, name='Ben Olson', school='Blaine', grade=12, gender='M', time=958.73047}
+{place=2, name='Tom Breuckman', school='Andover', grade=12, gender='M', time=977.8906}
+{place=3, name='Paul Breitbach', school='Coon Rapids', grade=12, gender='M', time=1014.891}
+{place=4, name='Joe Huffman', school='Andover', grade=12, gender='M', time=1029.488}
+{place=5, name='Tyler Anderson', school='Blaine', grade=10, gender='M', time=1030.301}
+{place=6, name='Nicholas Jacobson', school='Blaine', grade=11, gender='M', time=1043.32}
+{place=7, name='Connor Janostin', school='Champlin Park', grade=12, gender='M', time=1075.129}
+{place=8, name='Eoin Keran', school='Champlin Park', grade=11, gender='M', time=1076.98}
+{place=9, name='Carter Weinzierl', school='Andover', grade=12, gender='M', time=1079.41}
+{place=10, name='Bradely Chasteen', school='Andover', grade=12, gender='M', time=1088.941}
+{place=11, name='Connor Loreno', school='Anoka', grade=12, gender='M', time=1096.23}
+{place=12, name='Elijah Grabinske', school='Anoka', grade=9, gender='M', time=1098.52}
+{place=13, name='Noah Christiansen', school='Coon Rapids', grade=10, gender='M', time=1098.711}
+{place=14, name='Reed Smith', school='Coon Rapids', grade=10, gender='M', time=1108.449}
+{place=15, name='Mark Scheller', school='Champlin Park', grade=10, gender='M', time=1109.98}
+{place=16, name='Daniel Kloeppner', school='Champlin Park', grade=11, gender='M', time=1112.23}
+{place=17, name='Nick Jorgenson', school='Coon Rapids', grade=11, gender='M', time=1116.379}
+{place=18, name='Arik Spaude', school='Champlin Park', grade=12, gender='M', time=1118.82}
+{place=19, name='Dontae Johnson', school='Champlin Park', grade=10, gender='M', time=1118.988}
+{place=20, name='Ben Fischer', school='Champlin Park', grade=9, gender='M', time=1119.988}
+{place=21, name='Jack Nightingale', school='Champlin Park', grade=10, gender='M', time=1130.398}
+{place=22, name='Nathaniel Langer', school='Anoka', grade=12, gender='M', time=1135.73}
+{place=23, name='Levi Taylor', school='Coon Rapids', grade=11, gender='M', time=1136.891}
+{place=24, name='Alex  Lee', school='Anoka', grade=12, gender='M', time=1142.629}
+{place=25, name='Logan Meinert', school='Andover', grade=9, gender='M', time=1142.85}
+{place=26, name='Dan Johnson', school='Blaine', grade=12, gender='M', time=1143.449}
+{place=27, name='Noah Johnson', school='Anoka', grade=11, gender='M', time=1143.738}
+{place=28, name='Calvin Fiala', school='Andover', grade=9, gender='M', time=1147.488}
+{place=29, name='Jacob Toay', school='Anoka', grade=11, gender='M', time=1148.988}
+{place=30, name='Kyle Derby', school='Andover', grade=12, gender='M', time=1151.988}
+{place=31, name='Landon Aufderhar', school='Andover', grade=11, gender='M', time=1154.629}
+{place=32, name='Ryan Minikus', school='Blaine', grade=12, gender='M', time=1162.211}
+{place=33, name='Isaac Johnson', school='Coon Rapids', grade=10, gender='M', time=1163.43}
+{place=34, name='Nicholas Becker', school='Anoka', grade=8, gender='M', time=1166.672}
+{place=35, name='Phillip Marquardt', school='Blaine', grade=11, gender='M', time=1168.898}
+{place=36, name='Aaron  Taylor', school='Anoka', grade=11, gender='M', time=1174.488}
+{place=37, name='Ryan Behnke-Mead', school='Anoka', grade=9, gender='M', time=1178.988}
+{place=38, name='Nathan Smith', school='Blaine', grade=10, gender='M', time=1180.691}
+{place=39, name='Mitchell Barr', school='Anoka', grade=12, gender='M', time=1183.52}
+{place=40, name='Nathan Rasmussen', school='Andover', grade=12, gender='M', time=1188.191}
+{place=41, name='Josh Meinert', school='Anoka', grade=11, gender='M', time=1189.738}
+{place=42, name='Jeremiah Tomandl', school='Blaine', grade=10, gender='M', time=1190.988}
+{place=43, name='Garrett Amelse', school='Blaine', grade=10, gender='M', time=1194.102}
+{place=44, name='Caden Hartle', school='Andover', grade=10, gender='M', time=1197.359}
+{place=45, name='Bradley Marleau', school='Blaine', grade=9, gender='M', time=1200.988}
+{place=46, name='Nathan Aamodt', school='Blaine', grade=11, gender='M', time=1204.238}
+{place=47, name='Daniel Pelletier', school='Anoka', grade=11, gender='M', time=1204.391}
+{place=48, name='Jack Weinberger', school='Anoka', grade=12, gender='M', time=1206.699}
+{place=49, name='Connor Preston', school='Champlin Park', grade=10, gender='M', time=1208.898}
+{place=50, name='Owen Eerdmans', school='Champlin Park', grade=10, gender='M', time=1210.121}
+{place=51, name='Matt Morton', school='Blaine', grade=12, gender='M', time=1221.262}
+{place=52, name='Peyton Martinek', school='Coon Rapids', grade=7, gender='M', time=1221.719}
+{place=53, name='Matthew Maher', school='Blaine', grade=12, gender='M', time=1232.238}
+{place=54, name='Caleb Chesser', school='Coon Rapids', grade=9, gender='M', time=1242.75}
+{place=55, name='Brenden Richied', school='Anoka', grade=12, gender='M', time=1247.262}
+{place=56, name='Kyle Ostendorf', school='Champlin Park', grade=9, gender='M', time=1250.941}
+{place=57, name='Dylan Chiabotti', school='Andover', grade=12, gender='M', time=1253.41}
+{place=58, name='Nathan Anderson', school='Anoka', grade=8, gender='M', time=1253.988}
+{place=59, name='Dain Thompson', school='Anoka', grade=12, gender='M', time=1260.281}
+{place=60, name='Nathan O'Neill', school='Coon Rapids', grade=11, gender='M', time=1261.238}
+{place=61, name='Brandon Johannes', school='Andover', grade=11, gender='M', time=1262.898}
+{place=62, name='Micah Hanson', school='Anoka', grade=9, gender='M', time=1262.898}
+{place=63, name='Jon (Jack) Taylor', school='Anoka', grade=9, gender='M', time=1263.301}
+{place=64, name='Samuel Tiongson', school='Blaine', grade=11, gender='M', time=1267.18}
+{place=65, name='Daniel Gettel', school='Blaine', grade=9, gender='M', time=1268.609}
+{place=66, name='Zachary Lovdahl', school='Andover', grade=11, gender='M', time=1268.809}
+{place=67, name='Joesph Eisenberg', school='Champlin Park', grade=10, gender='M', time=1272.68}
+{place=68, name='Andrew Scinicariello', school='Champlin Park', grade=10, gender='M', time=1277.539}
+{place=69, name='Andy Thai', school='Champlin Park', grade=10, gender='M', time=1280.238}
+{place=70, name='Colby  Sandstrom', school='Anoka', grade=11, gender='M', time=1286.102}
+{place=71, name='Connor Greeler', school='Anoka', grade=9, gender='M', time=1286.102}
+{place=72, name='Noah Ranem', school='Blaine', grade=10, gender='M', time=1288.73}
+{place=73, name='Blake Charlesworth', school='Andover', grade=9, gender='M', time=1289.352}
+{place=74, name='Griffin Sparke', school='Champlin Park', grade=10, gender='M', time=1293.621}
+{place=75, name='Ross Gorham', school='Anoka', grade=11, gender='M', time=1295.66}
+{place=76, name='Ethan Kertz', school='Anoka', grade=11, gender='M', time=1297.871}
+{place=77, name='Timothy Meados', school='Andover', grade=11, gender='M', time=1306.441}
+{place=78, name='Jacob Weber', school='Andover', grade=11, gender='M', time=1316.988}
+{place=79, name='Riley Colston', school='Andover', grade=10, gender='M', time=1326.238}
+{place=80, name='Blake Olson', school='Champlin Park', grade=9, gender='M', time=1328.488}
+{place=81, name='John Przybilla', school='Coon Rapids', grade=11, gender='M', time=1332.391}
+{place=82, name='Joey Johnston', school='Coon Rapids', grade=8, gender='M', time=1344.199}
+{place=83, name='Jarin Eckley', school='Anoka', grade=12, gender='M', time=1357.9609}
+{place=84, name='Kerman Arruartena-Edme', school='Coon Rapids', grade=12, gender='M', time=1360.738}
+{place=85, name='Jeff Smith', school='Coon Rapids', grade=12, gender='M', time=1360.988}
+{place=86, name='Austin Gibbs', school='Andover', grade=9, gender='M', time=1372.559}
+{place=87, name='Ricky Petroff', school='Coon Rapids', grade=9, gender='M', time=1375.609}
+{place=88, name='Kyle Bolton', school='Blaine', grade=11, gender='M', time=1382.898}
+{place=89, name='Riley Sumner', school='Anoka', grade=12, gender='M', time=1384.941}
+{place=90, name='Lyle Stinson', school='Andover', grade=11, gender='M', time=1385.949}
+{place=91, name='Cole Lindfors', school='Champlin Park', grade=10, gender='M', time=1393.469}
+{place=92, name='Isaac Sorvari', school='Blaine', grade=9, gender='M', time=1394.988}
+{place=93, name='Joshua Thoen', school='Coon Rapids', grade=8, gender='M', time=1404.988}
+{place=94, name='Dalton Saba', school='Blaine', grade=9, gender='M', time=1405.0}
+{place=95, name='Jackson Dokken', school='Andover', grade=7, gender='M', time=1405.621}
+{place=96, name='Boden Parent', school='Blaine', grade=9, gender='M', time=1406.219}
+{place=97, name='Carter Tuomela', school='Anoka', grade=10, gender='M', time=1411.238}
+{place=98, name='Mark Ringgenberg', school='Champlin Park', grade=12, gender='M', time=1411.93}
+{place=99, name='Andrew Barrows', school='Blaine', grade=9, gender='M', time=1416.629}
+{place=100, name='Kevin Platte', school='Coon Rapids', grade=12, gender='M', time=1421.4609}
+{place=101, name='Nico Tweedy', school='Coon Rapids', grade=10, gender='M', time=1426.5}
+{place=102, name='Sam Noh', school='Anoka', grade=12, gender='M', time=1426.5}
+{place=103, name='Carson Pender', school='Blaine', grade=9, gender='M', time=1430.488}
+{place=104, name='Sean Honse', school='Champlin Park', grade=9, gender='M', time=1447.18}
+{place=105, name='Nick Steffens', school='Anoka', grade=12, gender='M', time=1451.852}
+{place=106, name='Shane Fitzpatrick', school='Blaine', grade=11, gender='M', time=1464.84}
+{place=107, name='Simon Dorst', school='Anoka', grade=9, gender='M', time=1474.172}
+{place=108, name='Caleb Cantway', school='Blaine', grade=11, gender='M', time=1499.301}
+{place=109, name='Ben Barnett', school='Blaine', grade=9, gender='M', time=1499.75}
+{place=110, name='Jaden Keller', school='Anoka', grade=9, gender='M', time=1525.488}
+{place=111, name='Tyler Nosko', school='Anoka', grade=8, gender='M', time=1531.98}
+{place=112, name='Tom Bureau', school='Blaine', grade=9, gender='M', time=1539.641}
+{place=113, name='Noah Sumner', school='Anoka', grade=9, gender='M', time=1562.102}
+{place=114, name='Nicholas Ansderson', school='Andover', grade=9, gender='M', time=1566.852}
+{place=115, name='Hayden Potthoff', school='Blaine', grade=9, gender='M', time=1567.871}
+{place=116, name='Titus Neal', school='Andover', grade=10, gender='M', time=1614.551}
+{place=117, name='Dalton Litz', school='Blaine', grade=11, gender='M', time=1614.75}
+{place=118, name='Erik Fjellman', school='Champlin Park', grade=11, gender='M', time=1626.5}
+{place=119, name='Wilson Rabe', school='Blaine', grade=9, gender='M', time=1635.75}
+{place=120, name='Brenen Olson', school='Blaine', grade=8, gender='M', time=1636.25}
+{place=121, name='Payton Hibbard', school='Andover', grade=10, gender='M', time=1638.711}
+{place=122, name='Lucas Phillips', school='Coon Rapids', grade=10, gender='M', time=1690.422}
+{place=123, name='Adam Bloch', school='Anoka', grade=10, gender='M', time=1726.5}
+{place=124, name='Gabe Larson', school='Anoka', grade=8, gender='M', time=1730.5}
+{place=125, name='Collin Spande', school='Anoka', grade=9, gender='M', time=1775.25}
+{place=126, name='Gavin LaMott', school='Champlin Park', grade=11, gender='M', time=1778.121}
+{place=127, name='Sam Lewis', school='Blaine', grade=9, gender='M', time=1798.62}
+{place=128, name='Ryan Preston', school='Champlin Park', grade=9, gender='M', time=1817.102}
+{place=129, name='Alexander Beck', school='Coon Rapids', grade=8, gender='M', time=1818.512}
+{place=130, name='Eli Christiansen', school='Coon Rapids', grade=8, gender='M', time=1824.172}
+{place=131, name='Giles Koshiol', school='Champlin Park', grade=9, gender='M', time=1825.441}
+{place=132, name='Caleb Knutson', school='Anoka', grade=10, gender='M', time=1835.5}
+{place=133, name='Ben Jorgenson', school='Coon Rapids', grade=8, gender='M', time=2106.469}
+{place=134, name='Joel Wagner', school='Anoka', grade=10, gender='M', time=2110.512}

@@ -1,0 +1,205 @@
+Race : 2266
+{place=1, name='Jon Roux', school='Stillwater', grade=9, gender='M', time=651.3}
+{place=2, name='Adrick Kraftson', school='Stillwater', grade=9, gender='M', time=654.1}
+{place=3, name='Jadon Boots', school='Buffalo', grade=9, gender='M', time=662.7}
+{place=4, name='James Dorado', school='Buffalo', grade=9, gender='M', time=663.1}
+{place=5, name='Jimmy Olson', school='Roseville', grade=9, gender='M', time=663.3}
+{place=6, name='Cohen Rice', school='Roseville', grade=9, gender='M', time=666.2}
+{place=7, name='Fred Damhof', school='Willmar', grade=9, gender='M', time=668.0}
+{place=8, name='Brandon Janu', school='Sartell', grade=9, gender='M', time=669.4}
+{place=9, name='Mason Vagel', school='Stillwater', grade=10, gender='M', time=669.4}
+{place=10, name='Bennett Harrison-Michaels', school='Roseville', grade=8, gender='M', time=670.1}
+{place=11, name='Ryan Kilibarda', school='Stillwater', grade=8, gender='M', time=670.7}
+{place=12, name='Myles Armstrong', school='Red Wing', grade=9, gender='M', time=673.3}
+{place=13, name='Logan Clark', school='Sartell', grade=9, gender='M', time=677.1}
+{place=14, name='Ataa Mensah', school='Roseville', grade=7, gender='M', time=684.1}
+{place=15, name='Jonny Saldin', school='Stillwater', grade=9, gender='M', time=686.4}
+{place=16, name='Kory Behm', school='Willmar', grade=9, gender='M', time=687.2}
+{place=17, name='Jonas Anez', school='Willmar', grade=9, gender='M', time=688.0}
+{place=18, name='JD Landstrom', school='Minnetonka', grade=8, gender='M', time=689.0}
+{place=19, name='Logan Tung', school='Alexandria', grade=8, gender='M', time=690.0}
+{place=20, name='Ryan Potter', school='Stillwater', grade=9, gender='M', time=691.2}
+{place=21, name='Carter Schow', school='Willmar', grade=9, gender='M', time=691.4}
+{place=22, name='Ian Koosman', school='Willmar', grade=9, gender='M', time=692.1}
+{place=23, name='Kaleb Gibson', school='Willmar', grade=9, gender='M', time=692.4}
+{place=24, name='Fathi Dubet', school='Willmar', grade=7, gender='M', time=692.9}
+{place=25, name='Johnny Nemeth', school='Sartell', grade=8, gender='M', time=693.2}
+{place=26, name='Cam Eiselt', school='Stillwater', grade=8, gender='M', time=694.2}
+{place=27, name='Harris Duininck', school='Willmar', grade=9, gender='M', time=694.7}
+{place=28, name='Sergio Fernandez', school='Willmar', grade=9, gender='M', time=701.4}
+{place=29, name='Brandon Vo', school='Roseville', grade=8, gender='M', time=701.9}
+{place=30, name='Zach Muellerleile', school='Buffalo', grade=9, gender='M', time=702.1}
+{place=31, name='Calen O'Connell', school='Sartell', grade=9, gender='M', time=710.0}
+{place=32, name='Alexander Hulteen', school='Stillwater', grade=9, gender='M', time=710.4}
+{place=33, name='George Larson', school='Sartell', grade=7, gender='M', time=712.5}
+{place=34, name='Eli Hanson', school='Sartell', grade=7, gender='M', time=713.9}
+{place=35, name='Jon Jemming', school='Sartell', grade=9, gender='M', time=714.5}
+{place=36, name='David Binsfeld', school='Sartell', grade=8, gender='M', time=714.7}
+{place=37, name='Grey Goering', school='Buffalo', grade=9, gender='M', time=715.1}
+{place=38, name='Sam Fellner', school='Minnetonka', grade=8, gender='M', time=716.7}
+{place=39, name='Jaari Larson', school='Buffalo', grade=9, gender='M', time=719.0}
+{place=40, name='Nick Gillis', school='Minnetonka', grade=8, gender='M', time=722.3}
+{place=41, name='Jason Malmgren', school='Willmar', grade=9, gender='M', time=723.1}
+{place=42, name='Zach Leibfried', school='Marshall', grade=8, gender='M', time=726.7}
+{place=43, name='Eli Manshack', school='Roseville', grade=9, gender='M', time=728.0}
+{place=44, name='Max  Vagel', school='Stillwater', grade=10, gender='M', time=728.2}
+{place=45, name='Luke Miller', school='Minnetonka', grade=8, gender='M', time=728.2}
+{place=46, name='Iid Ali', school='Willmar', grade=7, gender='M', time=729.1}
+{place=47, name='Charlie Pearson', school='Roseville', grade=9, gender='M', time=733.1}
+{place=48, name='Braden Bjornson', school='Buffalo', grade=9, gender='M', time=733.7}
+{place=49, name='Braden  Hubert', school='Roseville', grade=9, gender='M', time=734.3}
+{place=50, name='Canton Francisco', school='Mounds View', grade=8, gender='M', time=734.9}
+{place=51, name='Harrison Greathouse', school='Alexandria', grade=8, gender='M', time=735.7}
+{place=52, name='Alex Ehrlichman', school='Sartell', grade=9, gender='M', time=736.5}
+{place=53, name='Carter Menne', school='Roseville', grade=8, gender='M', time=741.8}
+{place=54, name='Casey Larson', school='Red Wing', grade=9, gender='M', time=742.4}
+{place=55, name='Hayden Haag', school='Roseville', grade=9, gender='M', time=743.5}
+{place=56, name='Bruce Kraemer', school='Becker', grade=8, gender='M', time=743.7}
+{place=57, name='Cole Kath', school='Mounds View', grade=9, gender='M', time=744.1}
+{place=58, name='Isaac Eichhorst', school='Willmar', grade=9, gender='M', time=744.9}
+{place=59, name='Landon Brady', school='Roseville', grade=8, gender='M', time=746.4}
+{place=60, name='Nate Otis', school='Roseville', grade=9, gender='M', time=747.2}
+{place=61, name='Ryan Boecker', school='Becker', grade=8, gender='M', time=751.0}
+{place=62, name='Daniel Olin', school='Marshall', grade=9, gender='M', time=751.9}
+{place=63, name='William DeVries', school='Roseville', grade=7, gender='M', time=751.9}
+{place=64, name='Eli Bordewyk', school='Windom', grade=8, gender='M', time=752.7}
+{place=65, name='Isaac Bauer', school='Becker', grade=8, gender='M', time=753.9}
+{place=66, name='Jayden Manthei', school='Marshall', grade=7, gender='M', time=756.2}
+{place=67, name='Aaron Freier', school='Red Wing', grade=8, gender='M', time=756.9}
+{place=68, name='Jacob Green', school='Windom', grade=8, gender='M', time=757.4}
+{place=69, name='Mekhi Kigozi', school='Sartell', grade=9, gender='M', time=757.4}
+{place=70, name='Jacob Williams', school='Buffalo', grade=9, gender='M', time=759.4}
+{place=71, name='Seth Westrup', school='Sartell', grade=8, gender='M', time=760.2}
+{place=72, name='Max DeRosier', school='Mounds View', grade=9, gender='M', time=761.1}
+{place=73, name='Landon Runge', school='Alexandria', grade=7, gender='M', time=761.5}
+{place=74, name='Adam Wolf', school='Roseville', grade=9, gender='M', time=762.2}
+{place=75, name='Jack Dube', school='Red Wing', grade=9, gender='M', time=765.5}
+{place=76, name='Bennett Wagenman', school='Roseville', grade=9, gender='M', time=769.4}
+{place=77, name='Issac Badowski', school='Buffalo', grade=9, gender='M', time=769.8}
+{place=78, name='Harry Maakestad', school='Roseville', grade=9, gender='M', time=770.2}
+{place=79, name='Brandan Zepeda', school='Willmar', grade=7, gender='M', time=771.2}
+{place=80, name='Andrew Farrar', school='Red Wing', grade=9, gender='M', time=771.4}
+{place=81, name='Nick Mohr', school='Willmar', grade=9, gender='M', time=772.5}
+{place=82, name='Isaac Wilkey', school='Minnetonka', grade=8, gender='M', time=773.7}
+{place=83, name='Soren Toegel', school='Red Wing', grade=9, gender='M', time=774.1}
+{place=84, name='Throck Lehmann', school='Alexandria', grade=7, gender='M', time=774.3}
+{place=85, name='Nolan Peterson', school='Alexandria', grade=8, gender='M', time=775.7}
+{place=86, name='Charlie Emerick', school='Buffalo', grade=9, gender='M', time=776.1}
+{place=87, name='Andrew  Braun', school='Buffalo', grade=9, gender='M', time=779.2}
+{place=88, name='Noah McCreight', school='Roseville', grade=9, gender='M', time=780.4}
+{place=89, name='Gerardo Juan-Castellanos', school='Roseville', grade=9, gender='M', time=780.4}
+{place=90, name='Caleb Bolstad', school='Alexandria', grade=7, gender='M', time=782.4}
+{place=91, name='Thomas  Green', school='Windom', grade=7, gender='M', time=783.2}
+{place=92, name='Charlie Smith', school='Windom', grade=7, gender='M', time=783.2}
+{place=93, name='Marcus Wolf', school='Osakis', grade=8, gender='M', time=784.1}
+{place=94, name='Grant Clark', school='Sartell', grade=8, gender='M', time=785.1}
+{place=95, name='Owen Kolbinger', school='Becker', grade=8, gender='M', time=785.1}
+{place=96, name='Alex Klimek', school='Alexandria', grade=7, gender='M', time=785.4}
+{place=97, name='Cameron Wichser', school='Red Wing', grade=8, gender='M', time=786.3}
+{place=98, name='Owen Draper', school='Alexandria', grade=7, gender='M', time=788.7}
+{place=99, name='Luca Mollgaard', school='Red Wing', grade=7, gender='M', time=791.1}
+{place=100, name='Brennen Gustafson', school='Osakis', grade=7, gender='M', time=791.1}
+{place=101, name='Matt Siegwart', school='Minnetonka', grade=8, gender='M', time=791.8}
+{place=102, name='Anthony Berndt', school='Sartell', grade=9, gender='M', time=792.0}
+{place=103, name='Garett Regnier', school='Marshall', grade=7, gender='M', time=794.1}
+{place=104, name='Josh Lefeber', school='Sartell', grade=7, gender='M', time=795.0}
+{place=105, name='Sebastian Lau', school='Sartell', grade=9, gender='M', time=795.1}
+{place=106, name='Cameron Huse', school='Sartell', grade=9, gender='M', time=796.8}
+{place=107, name='Eli Boeding', school='Red Wing', grade=8, gender='M', time=798.1}
+{place=108, name='William Shaw', school='Stillwater', grade=9, gender='M', time=798.2}
+{place=109, name='Benjamin Howe', school='Becker', grade=8, gender='M', time=798.2}
+{place=110, name='Samuel Burtow', school='Willmar', grade=9, gender='M', time=798.4}
+{place=111, name='Brenden Kath', school='Willmar', grade=8, gender='M', time=799.9}
+{place=112, name='Alexander Kibbee', school='Roseville', grade=8, gender='M', time=805.5}
+{place=113, name='Ridgley Hulstein', school='Willmar', grade=9, gender='M', time=806.9}
+{place=114, name='Jonah Deppe', school='Red Wing', grade=9, gender='M', time=807.3}
+{place=115, name='Gavin Kasparek', school='Sartell', grade=8, gender='M', time=807.4}
+{place=116, name='Zach Fiskness', school='Osakis', grade=7, gender='M', time=808.2}
+{place=117, name='Simon Gadient', school='Red Wing', grade=8, gender='M', time=808.2}
+{place=118, name='Dylan Vicario', school='Roseville', grade=7, gender='M', time=808.9}
+{place=119, name='Owen Zupancich', school='Roseville', grade=7, gender='M', time=809.2}
+{place=120, name='Brysen Babcock', school='Marshall', grade=9, gender='M', time=810.0}
+{place=121, name='Mason Grove', school='Osakis', grade=7, gender='M', time=810.8}
+{place=122, name='Isaac Simon', school='Marshall', grade=8, gender='M', time=811.2}
+{place=123, name='Braydon Blonigen', school='Sartell', grade=7, gender='M', time=815.5}
+{place=124, name='Yoseb Brewer', school='St Cloud Apollo', grade=8, gender='M', time=820.0}
+{place=125, name='Dillan Horne', school='Red Wing', grade=8, gender='M', time=820.0}
+{place=126, name='Issac Loverink ', school='Osakis', grade=8, gender='M', time=820.3}
+{place=127, name='Maceo Young', school='Roseville', grade=8, gender='M', time=822.1}
+{place=128, name='Isaac Ward', school='Red Wing', grade=9, gender='M', time=822.1}
+{place=129, name='Isaac Cronin', school='Roseville', grade=9, gender='M', time=823.8}
+{place=130, name='Kyler Buse', school='Stillwater', grade=9, gender='M', time=825.4}
+{place=131, name='Max Schissel', school='Minnetonka', grade=8, gender='M', time=827.3}
+{place=132, name='Patrick Hines', school='Red Wing', grade=8, gender='M', time=827.4}
+{place=133, name='Luke Anderson', school='Red Wing', grade=8, gender='M', time=829.4}
+{place=134, name='Jens Mikkelsen', school='Roseville', grade=9, gender='M', time=834.1}
+{place=135, name='Brady  Muzik', school='Sartell', grade=9, gender='M', time=837.1}
+{place=136, name='Nathan Shannon', school='Red Wing', grade=9, gender='M', time=837.4}
+{place=137, name='Quinn Vos', school='Sartell', grade=9, gender='M', time=837.5}
+{place=138, name='Landon Lahr', school='Becker', grade=7, gender='M', time=839.4}
+{place=139, name='Jared Hunter', school='Windom', grade=8, gender='M', time=841.3}
+{place=140, name='Brok Derickson', school='Windom', grade=8, gender='M', time=842.2}
+{place=141, name='Devin Klatt', school='Red Wing', grade=9, gender='M', time=843.1}
+{place=142, name='Jacob Loerzel', school='Willmar', grade=7, gender='M', time=843.2}
+{place=143, name='Thomas Park', school='Roseville', grade=9, gender='M', time=844.3}
+{place=144, name='Van Marcus', school='Marshall', grade=8, gender='M', time=846.9}
+{place=145, name='Jack Roers', school='Roseville', grade=9, gender='M', time=849.9}
+{place=146, name='Noah Tyler', school='Minnetonka', grade=7, gender='M', time=853.8}
+{place=147, name='Thomas Wilmesmeier', school='Alexandria', grade=7, gender='M', time=854.3}
+{place=148, name='Jameson Michels', school='Minnetonka', grade=7, gender='M', time=854.4}
+{place=149, name='Aaden Nauman', school='Windom', grade=7, gender='M', time=855.9}
+{place=150, name='Caleb Reckelberg', school='Becker', grade=8, gender='M', time=856.3}
+{place=151, name='Daniel Haas', school='Roseville', grade=9, gender='M', time=861.8}
+{place=152, name='Maddox Hanson', school='Red Wing', grade=9, gender='M', time=862.1}
+{place=153, name='Ellis Perniel', school='Roseville', grade=8, gender='M', time=862.8}
+{place=154, name='Aidan Hull', school='Red Wing', grade=8, gender='M', time=863.1}
+{place=155, name='Leif Brandsness', school='Roseville', grade=9, gender='M', time=864.5}
+{place=156, name='Max Abramson', school='Roseville', grade=7, gender='M', time=866.1}
+{place=157, name='Colin Bos', school='Willmar', grade=9, gender='M', time=870.2}
+{place=158, name='Nick Meyers', school='Alexandria', grade=7, gender='M', time=871.8}
+{place=159, name='Hunter Mohr', school='Alexandria', grade=7, gender='M', time=873.0}
+{place=160, name='Welsey Johnson', school='Sartell', grade=7, gender='M', time=873.1}
+{place=161, name='Koda Helfinstine', school='Willmar', grade=7, gender='M', time=874.4}
+{place=162, name='Josh Venenga', school='Willmar', grade=9, gender='M', time=875.1}
+{place=163, name='Khelden Ritter', school='Alexandria', grade=7, gender='M', time=877.1}
+{place=164, name='Kjell Olmanson', school='Roseville', grade=8, gender='M', time=878.3}
+{place=165, name='Carter Bright', school='Sartell', grade=9, gender='M', time=878.7}
+{place=166, name='Soren Peterson', school='Roseville', grade=7, gender='M', time=882.8}
+{place=167, name='John Pahl', school='Osakis', grade=8, gender='M', time=882.9}
+{place=168, name='Henry Bergman', school='Roseville', grade=9, gender='M', time=886.1}
+{place=169, name='Cole Beumer', school='Buffalo', grade=9, gender='M', time=886.5}
+{place=170, name='Aidan Rosenboom', school='Marshall', grade=9, gender='M', time=888.3}
+{place=171, name='Maxwell Willkom', school='Roseville', grade=9, gender='M', time=889.1}
+{place=172, name='Alex Steinhauer', school='Red Wing', grade=7, gender='M', time=889.6}
+{place=173, name='Cooper Swenson', school='Stillwater', grade=9, gender='M', time=892.8}
+{place=174, name='Braeden Heinen', school='Becker', grade=7, gender='M', time=895.2}
+{place=175, name='Alexander Reisdorf', school='Roseville', grade=9, gender='M', time=896.2}
+{place=176, name='Bryce Berger', school='Becker', grade=8, gender='M', time=896.9}
+{place=177, name='Charlie Chen', school='Roseville', grade=9, gender='M', time=898.4}
+{place=178, name='Izaya Bruso', school='Alexandria', grade=7, gender='M', time=899.7}
+{place=179, name='Oliver Heisel', school='Roseville', grade=7, gender='M', time=900.9}
+{place=180, name='Eric Malmanger', school='St Cloud Apollo', grade=8, gender='M', time=903.9}
+{place=181, name='Owen  Larsen', school='Roseville', grade=7, gender='M', time=907.3}
+{place=182, name='Brett Schlangen', school='Sartell', grade=7, gender='M', time=911.7}
+{place=183, name='Bennett Scott', school='Red Wing', grade=7, gender='M', time=917.5}
+{place=184, name='Gabriel Doarado', school='Buffalo', grade=6, gender='M', time=919.9}
+{place=185, name='Mason Foster', school='Stillwater', grade=8, gender='M', time=922.8}
+{place=186, name='Elliot Weiblen', school='Roseville', grade=8, gender='M', time=942.1}
+{place=187, name='Jimmy Draves', school='Red Wing', grade=8, gender='M', time=950.1}
+{place=188, name='Isaiah Neal', school='Osakis', grade=7, gender='M', time=950.9}
+{place=189, name='Garrett Berkowitz', school='Stillwater', grade=9, gender='M', time=952.5}
+{place=190, name='Marcus Boeckers', school='Buffalo', grade=6, gender='M', time=958.0}
+{place=191, name='Alexander Honebrink', school='Mounds View', grade=9, gender='M', time=961.9}
+{place=192, name='Carsyn Fairchild', school='Willmar', grade=7, gender='M', time=966.8}
+{place=193, name='Lane Thoennes', school='Alexandria', grade=7, gender='M', time=969.0}
+{place=194, name='Logan Losey', school='Red Wing', grade=8, gender='M', time=971.8}
+{place=195, name='Mack Jorgensen', school='Roseville', grade=7, gender='M', time=980.9}
+{place=196, name='Bjorn Torvi', school='Roseville', grade=8, gender='M', time=993.3}
+{place=197, name='Nels Anderson', school='Roseville', grade=7, gender='M', time=996.9}
+{place=198, name='Caleb Staples', school='Alexandria', grade=7, gender='M', time=1001.7}
+{place=199, name='Cole Morrissette', school='Alexandria', grade=7, gender='M', time=1056.1}
+{place=200, name='Milo Zimmerman', school='Buffalo', grade=8, gender='M', time=1070.9}
+{place=201, name='Raihan Islam', school='Red Wing', grade=9, gender='M', time=1082.9}
+{place=202, name='Louis Gaulke', school='Roseville', grade=7, gender='M', time=1090.1}
+{place=203, name='Eric Sellmann', school='Willmar', grade=8, gender='M', time=1293.0}
+{place=204, name='Hank Bjerga', school='Becker', grade=7, gender='M', time=1301.2}

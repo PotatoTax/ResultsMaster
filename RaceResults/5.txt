@@ -1,0 +1,77 @@
+Race : 5
+{place=1, name='Alexis Boyd', school='Marshall', grade=7, gender='F', time=593.27}
+{place=2, name='Amber Kroska', school='Sartell', grade=8, gender='F', time=611.13}
+{place=3, name='Andrea Whitney', school='Sartell', grade=8, gender='F', time=618.98}
+{place=4, name='Amelia Kraft', school='Marshall', grade=8, gender='F', time=627.24}
+{place=5, name='Ali Rengel', school='Sartell', grade=7, gender='F', time=634.71}
+{place=6, name='Kaitlyn Yoerg', school='Becker', grade=7, gender='F', time=635.03}
+{place=7, name='Michaella Nowak', school='Becker', grade=8, gender='F', time=635.47}
+{place=8, name='Lauren Schluenz', school='Sartell', grade=8, gender='F', time=638.5}
+{place=9, name='Sammi Crnokrak', school='Monticello', grade=7, gender='F', time=639.32}
+{place=10, name='Maria Anderson', school='St Cloud Cathedral', grade=8, gender='F', time=640.69}
+{place=11, name='Christine Adamski', school='Monticello', grade=8, gender='F', time=641.05}
+{place=12, name='Maddie Shug', school='St Cloud Apollo', grade=7, gender='F', time=641.89}
+{place=13, name='Kristy Henkel', school='Becker', grade=7, gender='F', time=643.9}
+{place=14, name='Aubree Mortenson', school='Becker', grade=7, gender='F', time=650.61}
+{place=15, name='Skylar Olson', school='Princeton', grade=7, gender='F', time=655.76}
+{place=16, name='Betsy Julkowski', school='St Cloud Apollo', grade=7, gender='F', time=660.0}
+{place=17, name='Megan Ackerman', school='Buffalo', grade=8, gender='F', time=663.67}
+{place=18, name='Maria Thompson', school='Princeton', grade=7, gender='F', time=667.01}
+{place=19, name='Mica Harris', school='Princeton', grade=7, gender='F', time=667.67}
+{place=20, name='Jordan Erkens', school='Sartell', grade=8, gender='F', time=677.52}
+{place=21, name='Kimberly Blomgren', school='Becker', grade=7, gender='F', time=682.75}
+{place=22, name='Erin Noack', school='St Cloud Cathedral', grade=8, gender='F', time=683.41}
+{place=23, name='Laura Marrinan', school='St Cloud Cathedral', grade=8, gender='F', time=685.4}
+{place=24, name='Nina Jepsen', school='Buffalo', grade=8, gender='F', time=686.86}
+{place=25, name='Bridget Bergstrom', school='Marshall', grade=8, gender='F', time=688.57}
+{place=26, name='Rachel Peters', school='Marshall', grade=7, gender='F', time=688.89}
+{place=27, name='Amber Schmiessing', school='Sauk Rapids-Rice', grade=7, gender='F', time=689.07}
+{place=28, name='Jackie Sawatzke', school='Buffalo', grade=8, gender='F', time=691.89}
+{place=29, name='Lissette Chumley', school='Cambridge-Isanti', grade=7, gender='F', time=697.57}
+{place=30, name='Kelly Williams', school='St Cloud Cathedral', grade=8, gender='F', time=700.02}
+{place=31, name='Morgan Julius', school='Hutchinson', grade=6, gender='F', time=700.44}
+{place=32, name='Valerie Suhr', school='Hutchinson', grade=7, gender='F', time=701.3}
+{place=33, name='Lindsay Stassen', school='Hutchinson', grade=6, gender='F', time=701.95}
+{place=34, name='Morgan Mittelsteadt', school='Hutchinson', grade=7, gender='F', time=705.05}
+{place=35, name='Sophie Korman', school='St Cloud Cathedral', grade=7, gender='F', time=707.36}
+{place=36, name='Brittany Krupa', school='Elk River', grade=7, gender='F', time=708.0}
+{place=37, name='Jane Kallemeyn', school='Elk River', grade=7, gender='F', time=708.38}
+{place=38, name='Nadine Thibault', school='St Cloud Cathedral', grade=7, gender='F', time=708.8}
+{place=39, name='Marissa Johnson', school='Marshall', grade=8, gender='F', time=712.54}
+{place=40, name='Ashley Schlichting', school='St Cloud Cathedral', grade=8, gender='F', time=716.73}
+{place=41, name='Alyssa Evenstad', school='STMA', grade=8, gender='F', time=717.51}
+{place=42, name='Alyssa Scott', school='STMA', grade=7, gender='F', time=717.9}
+{place=43, name='Chloe Windahl', school='Sartell', grade=7, gender='F', time=718.95}
+{place=44, name='Rachel Johnson', school='Monticello', grade=8, gender='F', time=719.32}
+{place=45, name='Mandy Leavell', school='St Cloud Cathedral', grade=7, gender='F', time=721.17}
+{place=46, name='Jordan LaJoie', school='Monticello', grade=8, gender='F', time=721.58}
+{place=47, name='Ali Gauthier', school='Marshall', grade=8, gender='F', time=725.26}
+{place=48, name='Patti Schneider', school='Monticello', grade=8, gender='F', time=726.1}
+{place=49, name='Hannah Knettel', school='Monticello', grade=8, gender='F', time=729.77}
+{place=50, name='Kristen Kotzer', school='Rocori', grade=7, gender='F', time=733.71}
+{place=51, name='Michaela Nordstrom', school='Rocori', grade=7, gender='F', time=739.77}
+{place=52, name='Madison Forsythe', school='Becker', grade=7, gender='F', time=741.36}
+{place=53, name='Jessica Kennedy', school='Elk River', grade=7, gender='F', time=745.21}
+{place=54, name='Erin Saehr', school='St Cloud Cathedral', grade=8, gender='F', time=754.07}
+{place=55, name='Jodi Pfannenstein', school='St Cloud Cathedral', grade=8, gender='F', time=761.77}
+{place=56, name='Amelia Peterson', school='St Cloud Cathedral', grade=7, gender='F', time=764.32}
+{place=57, name='Sam Fisher', school='Becker', grade=7, gender='F', time=767.49}
+{place=58, name='Brittany Boser', school='Becker', grade=7, gender='F', time=770.87}
+{place=59, name='Hannah Eich', school='St Cloud Cathedral', grade=7, gender='F', time=771.83}
+{place=60, name='Katherine Reynolds', school='Marshall', grade=8, gender='F', time=781.48}
+{place=61, name='Haley McKee', school='Big Lake', grade=7, gender='F', time=782.88}
+{place=62, name='Marisa Bryer', school='St Cloud Cathedral', grade=8, gender='F', time=787.05}
+{place=63, name='Allison Rapp', school='Rocori', grade=7, gender='F', time=788.23}
+{place=64, name='Michele Severson', school='Sartell', grade=7, gender='F', time=798.73}
+{place=65, name='Karri Schlichting', school='St Cloud Cathedral', grade=7, gender='F', time=804.55}
+{place=66, name='Salyna Schmitz', school='St Cloud Cathedral', grade=7, gender='F', time=811.3}
+{place=67, name='Kaitlyn Stewart', school='Rocori', grade=7, gender='F', time=813.8}
+{place=68, name='Melissa Bartz', school='Marshall', grade=7, gender='F', time=814.28}
+{place=69, name='Bethany Reuter', school='St Cloud Cathedral', grade=7, gender='F', time=817.79}
+{place=70, name='Laura Schroeder', school='St Cloud Cathedral', grade=8, gender='F', time=823.61}
+{place=71, name='Abby Zierdt', school='Monticello', grade=8, gender='F', time=825.88}
+{place=72, name='Caitlyn Snitker', school='Hutchinson', grade=8, gender='F', time=833.94}
+{place=73, name='Kayla Nelson', school='Buffalo', grade=8, gender='F', time=867.39}
+{place=74, name='Samantha Dominguez', school='St Cloud Cathedral', grade=7, gender='F', time=880.73}
+{place=75, name='Sarah Matt', school='Sauk Rapids-Rice', grade=7, gender='F', time=904.95}
+{place=76, name='Alex Ferkinoff', school='St Cloud Cathedral', grade=7, gender='F', time=927.87}

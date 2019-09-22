@@ -1,0 +1,102 @@
+Race : 2292
+{place=1, name='Grace Smith', school='Monticello', grade=9, gender='F', time=1269.4}
+{place=2, name='Rebecca Immer', school='STMA', grade=8, gender='F', time=1275.8}
+{place=3, name='Ashlyn McClintock', school='STMA', grade=10, gender='F', time=1311.9}
+{place=4, name='Genet Nies', school='Sartell', grade=7, gender='F', time=1322.4}
+{place=5, name='Kaelin McDermott', school='Monticello', grade=10, gender='F', time=1325.3}
+{place=6, name='Ella Windel', school='STMA', grade=12, gender='F', time=1327.4}
+{place=7, name='Val Noel', school='STMA', grade=12, gender='F', time=1328.6}
+{place=8, name='Kyra Geiger', school='STMA', grade=11, gender='F', time=1329.1}
+{place=9, name='Lydia Lamey', school='STMA', grade=10, gender='F', time=1340.3}
+{place=10, name='Mady Dockendorf', school='Sartell', grade=7, gender='F', time=1345.6}
+{place=11, name='Ali Boschee', school='Sartell', grade=10, gender='F', time=1352.9}
+{place=12, name='Anna Kucala', school='Sartell', grade=12, gender='F', time=1363.5}
+{place=13, name='Lydia Anderson', school='Sartell', grade=11, gender='F', time=1365.3}
+{place=14, name='Maria Sylvester', school='STMA', grade=11, gender='F', time=1366.9}
+{place=15, name='Kenzie Arnold', school='Sartell', grade=8, gender='F', time=1378.2}
+{place=16, name='Julia Johnson', school='Sartell', grade=10, gender='F', time=1391.9}
+{place=17, name='Katie Senchea', school='Sartell', grade=12, gender='F', time=1396.9}
+{place=18, name='Fayese Smith', school='Monticello', grade=8, gender='F', time=1398.9}
+{place=19, name='Hannah Greeno', school='STMA', grade=10, gender='F', time=1403.9}
+{place=20, name='Abby Eiynck', school='STMA', grade=12, gender='F', time=1418.8}
+{place=21, name='Sydney Aandal', school='STMA', grade=10, gender='F', time=1419.4}
+{place=22, name='Tawny Dahlheimer', school='Monticello', grade=9, gender='F', time=1421.1}
+{place=23, name='Gretchen Manderfeld', school='STMA', grade=12, gender='F', time=1431.7}
+{place=24, name='Avery Jones', school='Sartell', grade=10, gender='F', time=1465.6}
+{place=25, name='Ella Herbst', school='STMA', grade=11, gender='F', time=1467.3}
+{place=26, name='Tessa Schwinn', school='Sartell', grade=12, gender='F', time=1473.6}
+{place=27, name='Kendel Poppe Boehm', school='Parnassus', grade=8, gender='F', time=1476.6}
+{place=28, name='Jordyne Broich', school='Annandale', grade=12, gender='F', time=1493.1}
+{place=29, name='Karlee Brannan', school='STMA', grade=9, gender='F', time=1500.6}
+{place=30, name='Trina Schwinn', school='Sartell', grade=10, gender='F', time=1505.7}
+{place=31, name='Lexie Anderson', school='Monticello', grade=9, gender='F', time=1506.9}
+{place=32, name='Catherine Nordling', school='Annandale', grade=11, gender='F', time=1507.6}
+{place=33, name='Morgan Thomas', school='Monticello', grade=10, gender='F', time=1513.8}
+{place=34, name='Josie Boelter', school='Sartell', grade=11, gender='F', time=1517.1}
+{place=35, name='Isabel Miller', school='Rogers', grade=12, gender='F', time=1522.3}
+{place=36, name='Carly Lanners', school='STMA', grade=10, gender='F', time=1530.1}
+{place=37, name='Abby Anderson', school='STMA', grade=11, gender='F', time=1532.1}
+{place=38, name='Natalie Zuidema', school='STMA', grade=9, gender='F', time=1541.6}
+{place=39, name='Jamie Lee', school='STMA', grade=9, gender='F', time=1547.5}
+{place=40, name='Aubri Akervik', school='Sartell', grade=12, gender='F', time=1552.4}
+{place=41, name='Hannah Purcell', school='Annandale', grade=12, gender='F', time=1553.6}
+{place=42, name='Maggie Schliepsiek', school='Sartell', grade=10, gender='F', time=1554.7}
+{place=43, name='Chloe Pemberton', school='Monticello', grade=12, gender='F', time=1555.1}
+{place=44, name='Avery Vanderlinden', school='Monticello', grade=10, gender='F', time=1558.4}
+{place=45, name='Elise  Ames', school='Rogers', grade=10, gender='F', time=1558.5}
+{place=46, name='Ane Santa Cristina Jausoro', school='Monticello', grade=12, gender='F', time=1559.6}
+{place=47, name='Bella Leen', school='Sartell', grade=10, gender='F', time=1559.7}
+{place=48, name='Kaylee Glaim', school='Annandale', grade=12, gender='F', time=1562.5}
+{place=49, name='Mackenzie  Norgren', school='Annandale', grade=11, gender='F', time=1580.8}
+{place=50, name='Isabella Miller', school='Monticello', grade=9, gender='F', time=1581.6}
+{place=51, name='Braxton Kuser', school='Annandale', grade=12, gender='F', time=1584.9}
+{place=52, name='Grace Davis', school='STMA', grade=11, gender='F', time=1596.6}
+{place=53, name='Kayla Hartman', school='Annandale', grade=10, gender='F', time=1604.9}
+{place=54, name='Lucy Smit', school='Robbinsdale Cooper', grade=8, gender='F', time=1611.9}
+{place=55, name='Lauren Opatz', school='Sartell', grade=10, gender='F', time=1622.6}
+{place=56, name='Ava Duke', school='Rogers', grade=10, gender='F', time=1632.5}
+{place=57, name='Lailah King', school='Parnassus', grade=9, gender='F', time=1634.4}
+{place=58, name='Sarah Wilts', school='Monticello', grade=10, gender='F', time=1638.1}
+{place=59, name='Katie  Langenfeld', school='Princeton', grade=12, gender='F', time=1639.8}
+{place=60, name='Peyton Farrell', school='Rogers', grade=12, gender='F', time=1643.4}
+{place=61, name='Mary Heil', school='STMA', grade=11, gender='F', time=1655.4}
+{place=62, name='Jasmine Vanderweyst', school='Princeton', grade=12, gender='F', time=1655.4}
+{place=63, name='Abigail Bruers', school='Rogers', grade=11, gender='F', time=1657.5}
+{place=64, name='Abby Daniels', school='Sartell', grade=10, gender='F', time=1657.9}
+{place=65, name='Olivia Torgrimson', school='Sartell', grade=9, gender='F', time=1674.1}
+{place=66, name='Rose Kunzman', school='STMA', grade=9, gender='F', time=1675.2}
+{place=67, name='Hannah Christman', school='STMA', grade=11, gender='F', time=1676.6}
+{place=68, name='Emma Young', school='Princeton', grade=10, gender='F', time=1682.3}
+{place=69, name='Sophie Gernander', school='Princeton', grade=12, gender='F', time=1688.6}
+{place=70, name='Trinity Fahrenbruch', school='Parnassus', grade=8, gender='F', time=1693.3}
+{place=71, name='Emma Kaley', school='Monticello', grade=12, gender='F', time=1700.8}
+{place=72, name='Violet Sparks', school='Annandale', grade=9, gender='F', time=1701.9}
+{place=73, name='Grace Watson', school='Monticello', grade=11, gender='F', time=1710.4}
+{place=74, name='Alycia Haus', school='STMA', grade=10, gender='F', time=1722.6}
+{place=75, name='Erin Rootes', school='Big Lake', grade=10, gender='F', time=1732.2}
+{place=76, name='Adeline Forster', school='Monticello', grade=12, gender='F', time=1739.9}
+{place=77, name='Becca Peterson', school='STMA', grade=10, gender='F', time=1741.6}
+{place=78, name='Elyse Haley', school='Monticello', grade=10, gender='F', time=1746.8}
+{place=79, name='Erin Iaquinto', school='Big Lake', grade=10, gender='F', time=1751.5}
+{place=80, name='Grace Bilicki', school='STMA', grade=9, gender='F', time=1753.5}
+{place=81, name='Tatiana Otero-Ortiz', school='Parnassus', grade=8, gender='F', time=1761.8}
+{place=82, name='April Zhang', school='Robbinsdale Cooper', grade=11, gender='F', time=1762.6}
+{place=83, name='Myla Bondhus', school='Monticello', grade=11, gender='F', time=1776.3}
+{place=84, name='Sydney Wahnschaffe', school='Monticello', grade=10, gender='F', time=1777.5}
+{place=85, name='Maddy Cloutier', school='STMA', grade=12, gender='F', time=1791.9}
+{place=86, name='Callia Scherer', school='Parnassus', grade=7, gender='F', time=1794.9}
+{place=87, name='Sarah Lenz', school='STMA', grade=12, gender='F', time=1801.8}
+{place=88, name='Rosella Stewart', school='STMA', grade=9, gender='F', time=1814.1}
+{place=89, name='Isabelle Dick', school='STMA', grade=12, gender='F', time=1824.9}
+{place=90, name='Olivia Potter', school='Big Lake', grade=9, gender='F', time=1828.9}
+{place=91, name='Alex Bailey', school='Princeton', grade=11, gender='F', time=1830.1}
+{place=92, name='Jade Goth', school='STMA', grade=9, gender='F', time=1900.4}
+{place=93, name='Morgan Roden', school='Monticello', grade=11, gender='F', time=1908.6}
+{place=94, name='Sydney Weiman', school='Robbinsdale Cooper', grade=12, gender='F', time=1912.6}
+{place=95, name='Sarah Antoine', school='STMA', grade=9, gender='F', time=1913.3}
+{place=96, name='Elle Machmer', school='Monticello', grade=11, gender='F', time=1943.5}
+{place=97, name='Samantha Burton', school='Big Lake', grade=9, gender='F', time=1987.9}
+{place=98, name='Alaina Geiszler', school='Parnassus', grade=9, gender='F', time=2013.5}
+{place=99, name='Jeanette Wu', school='Robbinsdale Cooper', grade=11, gender='F', time=2027.1}
+{place=100, name='Josephina Bjorkedal', school='Big Lake', grade=9, gender='F', time=2324.6}
+{place=101, name='Ammy Vang', school='Robbinsdale Cooper', grade=11, gender='F', time=2335.7}

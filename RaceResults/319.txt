@@ -1,0 +1,72 @@
+Race : 319
+{place=1, name='Austin Rudoll', school='Rosemount', grade=9, gender='M', time=1085.94}
+{place=2, name='Timothy Sampers', school='Rosemount', grade=10, gender='M', time=1089.44}
+{place=3, name='Tyler Blumke', school='Rosemount', grade=10, gender='M', time=1106.17}
+{place=4, name='Trevor Capra', school='Rosemount', grade=9, gender='M', time=1107.11}
+{place=5, name='Ryan Gould', school='Rosemount', grade=10, gender='M', time=1131.96}
+{place=6, name='Austin Knowlton', school='Minneapolis Southwest', grade=9, gender='M', time=1138.0}
+{place=7, name='Nick Hughes', school='Apple Valley', grade=9, gender='M', time=1138.42}
+{place=8, name='Robinson Ewald', school='Apple Valley', grade=10, gender='M', time=1149.15}
+{place=9, name='Tate Schrantz', school='Apple Valley', grade=10, gender='M', time=1156.82}
+{place=10, name='Tanner Rayman', school='Apple Valley', grade=10, gender='M', time=1166.46}
+{place=11, name='Nick Couillard', school='Rosemount', grade=10, gender='M', time=1169.08}
+{place=12, name='Jakob Johnson', school='Rosemount', grade=9, gender='M', time=1171.11}
+{place=13, name='Jack Loftus', school='Apple Valley', grade=10, gender='M', time=1183.86}
+{place=14, name='Chris Bruns', school='Henry Sibley', grade=9, gender='M', time=1185.56}
+{place=15, name='Kellen Overvig', school='Henry Sibley', grade=10, gender='M', time=1186.4}
+{place=16, name='Tommy Linder', school='Rosemount', grade=9, gender='M', time=1186.9}
+{place=17, name='Daniel Ortmann', school='Math & Science Academy', grade=9, gender='M', time=1189.84}
+{place=18, name='Stanley Kirshner-Breen', school='Minneapolis Southwest', grade=9, gender='M', time=1190.36}
+{place=19, name='Peter Metzdorff', school='Minneapolis Southwest', grade=10, gender='M', time=1196.11}
+{place=20, name='Micah Ward', school='Minneapolis Southwest', grade=9, gender='M', time=1202.88}
+{place=21, name='Ronnie Stimson', school='Minneapolis Southwest', grade=10, gender='M', time=1209.92}
+{place=22, name='Kevin Sutton', school='Rosemount', grade=9, gender='M', time=1212.25}
+{place=23, name='Sam Moeller', school='Rosemount', grade=9, gender='M', time=1213.21}
+{place=24, name='Austin Olson', school='Apple Valley', grade=10, gender='M', time=1214.3}
+{place=25, name='Ryan Peterfeso', school='Lions Gate Acad', grade=9, gender='M', time=1215.67}
+{place=26, name='Jared Gullikson', school='Apple Valley', grade=9, gender='M', time=1224.5}
+{place=27, name='Dylan Brenner', school='Rosemount', grade=10, gender='M', time=1243.11}
+{place=28, name='Jon Opdahl', school='Minneapolis Southwest', grade=9, gender='M', time=1252.33}
+{place=29, name='Jack Hessburg', school='Apple Valley', grade=9, gender='M', time=1256.17}
+{place=30, name='Noah Ford', school='Apple Valley', grade=9, gender='M', time=1257.96}
+{place=31, name='Austin Sailer', school='Apple Valley', grade=10, gender='M', time=1263.0}
+{place=32, name='Augustine Metzdorff', school='Minneapolis Southwest', grade=9, gender='M', time=1263.71}
+{place=33, name='John Finken', school='Apple Valley', grade=10, gender='M', time=1280.67}
+{place=34, name='Chris Osterhaus', school='Apple Valley', grade=9, gender='M', time=1284.3}
+{place=35, name='Austin Anderson', school='Rosemount', grade=9, gender='M', time=1284.71}
+{place=36, name='Han Yong Wunrow', school='Math & Science Academy', grade=9, gender='M', time=1285.8}
+{place=37, name='Jeb Rowley', school='Apple Valley', grade=9, gender='M', time=1291.38}
+{place=38, name='Carlos Salazar', school='Henry Sibley', grade=9, gender='M', time=1295.48}
+{place=39, name='Andy Olson', school='Minneapolis Southwest', grade=10, gender='M', time=1316.26}
+{place=40, name='Steven Levine', school='Rosemount', grade=10, gender='M', time=1318.88}
+{place=41, name='Collin Bergevin', school='Apple Valley', grade=9, gender='M', time=1319.4}
+{place=42, name='Ben Vodovoz', school='Henry Sibley', grade=9, gender='M', time=1333.4}
+{place=43, name='Jake Reimer', school='Rosemount', grade=10, gender='M', time=1337.8}
+{place=44, name='Cameron Hays', school='Minneapolis Southwest', grade=10, gender='M', time=1339.84}
+{place=45, name='Andrew Sundlie', school='Rosemount', grade=10, gender='M', time=1350.3}
+{place=46, name='Carl-Lars Engen', school='Minneapolis Southwest', grade=9, gender='M', time=1354.44}
+{place=47, name='Jonathan Duff', school='Rosemount', grade=10, gender='M', time=1357.9}
+{place=48, name='Bill Golike', school='Apple Valley', grade=10, gender='M', time=1358.61}
+{place=49, name='Eric Holm', school='Minneapolis Southwest', grade=9, gender='M', time=1381.3}
+{place=50, name='Cole Aronson', school='Rosemount', grade=10, gender='M', time=1387.81}
+{place=51, name='Ben John', school='Minneapolis Southwest', grade=10, gender='M', time=1392.46}
+{place=52, name='Corey Trankel', school='Apple Valley', grade=10, gender='M', time=1393.38}
+{place=53, name='Matt Thomazin', school='Minneapolis Southwest', grade=10, gender='M', time=1394.57}
+{place=54, name='Shawn Anderson', school='Minneapolis Southwest', grade=10, gender='M', time=1394.92}
+{place=55, name='Michael Hartz', school='Math & Science Academy', grade=10, gender='M', time=1415.31}
+{place=56, name='Kiran Mekala', school='Math & Science Academy', grade=7, gender='M', time=1415.82}
+{place=57, name='Hunter Hanlon', school='Apple Valley', grade=10, gender='M', time=1431.92}
+{place=58, name='Nick Steele', school='Apple Valley', grade=10, gender='M', time=1432.32}
+{place=59, name='Jack Dornbach', school='Apple Valley', grade=10, gender='M', time=1438.69}
+{place=60, name='Myles Fleming', school='Henry Sibley', grade=9, gender='M', time=1444.8}
+{place=61, name='Anish Chandak', school='Math & Science Academy', grade=9, gender='M', time=1446.13}
+{place=62, name='Chon Chao', school='Apple Valley', grade=9, gender='M', time=1453.67}
+{place=63, name='Anthony Dupont', school='Henry Sibley', grade=7, gender='M', time=1463.28}
+{place=64, name='Brad Brickson', school='Lions Gate Acad', grade=10, gender='M', time=1516.33}
+{place=65, name='Jacob Shawback', school='Apple Valley', grade=9, gender='M', time=1543.19}
+{place=66, name='Ryan Barton', school='Apple Valley', grade=10, gender='M', time=1552.44}
+{place=67, name='Noah Stout', school='Math & Science Academy', grade=7, gender='M', time=1567.29}
+{place=68, name='Adam Ham', school='Apple Valley', grade=9, gender='M', time=1568.44}
+{place=69, name='Jack Mockenhaupt', school='Math & Science Academy', grade=8, gender='M', time=1575.73}
+{place=70, name='Jameson Ryskoski', school='Apple Valley', grade=10, gender='M', time=1600.02}
+{place=71, name='Evan Mullersmith', school='Minneapolis Southwest', grade=10, gender='M', time=1615.83}

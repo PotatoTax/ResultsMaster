@@ -1,0 +1,80 @@
+Race : 2043
+{place=1, name='Hunter Zupko', school='Little Falls', grade=11, gender='M', time=888.0}
+{place=2, name='Alex Nemeth', school='Cathedral-Sartell', grade=10, gender='M', time=908.0}
+{place=3, name='Gabe Raguse', school='Brainerd', grade=12, gender='M', time=931.0}
+{place=4, name='Evan Schreifels', school='Brainerd', grade=12, gender='M', time=945.0}
+{place=5, name='Colton Yorek', school='Little Falls', grade=10, gender='M', time=945.0}
+{place=6, name='Timothy Youso', school='Bemidji', grade=11, gender='M', time=958.0}
+{place=7, name='Soren Dybing', school='Bemidji', grade=11, gender='M', time=968.0}
+{place=8, name='Maxim Osborne', school='Brainerd', grade=10, gender='M', time=968.0}
+{place=9, name='Zeb Osgood', school='St Cloud Tech', grade=12, gender='M', time=971.0}
+{place=10, name='Seth Crocker', school='Little Falls', grade=12, gender='M', time=971.0}
+{place=11, name='Evan Storbakken', school='Brainerd', grade=10, gender='M', time=974.0}
+{place=12, name='David Anderson', school='Cathedral-Sartell', grade=11, gender='M', time=984.0}
+{place=13, name='Andrew Wasniewski', school='Brainerd', grade=11, gender='M', time=987.0}
+{place=14, name='Riley Halstrom', school='Cathedral-Sartell', grade=10, gender='M', time=990.0}
+{place=15, name='Aaron Johnson', school='Detroit Lakes', grade=12, gender='M', time=992.0}
+{place=16, name='Ryan Maier', school='Alexandria', grade=12, gender='M', time=992.0}
+{place=17, name='Sam Nesheim', school='Brainerd', grade=12, gender='M', time=993.0}
+{place=18, name='Zac Skoe', school='Bemidji', grade=10, gender='M', time=997.0}
+{place=19, name='NIck Palmer', school='Bemidji', grade=11, gender='M', time=999.0}
+{place=20, name='Malachy Brink', school='Brainerd', grade=12, gender='M', time=1005.0}
+{place=21, name='Colton Gottwalt', school='Little Falls', grade=10, gender='M', time=1008.0}
+{place=22, name='Eric Gibbons', school='Moorhead', grade=12, gender='M', time=1010.0}
+{place=23, name='JACKSON GRANT', school='Little Falls', grade=8, gender='M', time=1012.0}
+{place=24, name='Will Nemeth', school='Cathedral-Sartell', grade=9, gender='M', time=1013.0}
+{place=25, name='Zach Nemeth', school='Cathedral-Sartell', grade=9, gender='M', time=1017.0}
+{place=26, name='Ben Boelter', school='Cathedral-Sartell', grade=9, gender='M', time=1017.0}
+{place=27, name='Jackson Wichtendahl', school='Alexandria', grade=11, gender='M', time=1019.0}
+{place=28, name='Noah Struck', school='Alexandria', grade=10, gender='M', time=1019.0}
+{place=29, name='Cormac Shanoff', school='Little Falls', grade=9, gender='M', time=1023.0}
+{place=30, name='Clayton Teff', school='Cathedral-Sartell', grade=12, gender='M', time=1045.0}
+{place=31, name='Isaac Jackson', school='Little Falls', grade=10, gender='M', time=1053.0}
+{place=32, name='Matthew Thormodson', school='Rocori', grade=11, gender='M', time=1064.0}
+{place=33, name='Luke Linhorst', school='St Cloud Tech', grade=10, gender='M', time=1078.0}
+{place=34, name='Tennesse Scott-Lumbar', school='St Cloud Tech', grade=10, gender='M', time=1079.0}
+{place=35, name='William Schwindt', school='Bemidji', grade=10, gender='M', time=1080.0}
+{place=36, name='James Siems', school='Bemidji', grade=10, gender='M', time=1080.0}
+{place=37, name='Nolan Christenson', school='Alexandria', grade=11, gender='M', time=1086.0}
+{place=38, name='Isaac Wicklund', school='Moorhead', grade=10, gender='M', time=1091.0}
+{place=39, name='Jack Lee', school='Moorhead', grade=9, gender='M', time=1093.0}
+{place=40, name='Will Hawkins', school='Trek North', grade=12, gender='M', time=1102.0}
+{place=41, name='Landon Litch', school='Moorhead', grade=12, gender='M', time=1104.0}
+{place=42, name='Ryan Kashmark', school='Moorhead', grade=12, gender='M', time=1104.0}
+{place=43, name='Tucker Henkes', school='Fergus Falls', grade=9, gender='M', time=1106.0}
+{place=44, name='Jack Richards', school='Detroit Lakes', grade=11, gender='M', time=1113.0}
+{place=45, name='Tommy Saxton', school='Bemidji', grade=11, gender='M', time=1120.0}
+{place=46, name='Austin Becker', school='Alexandria', grade=11, gender='M', time=1125.0}
+{place=47, name='CJ Schlosser', school='Alexandria', grade=11, gender='M', time=1129.0}
+{place=48, name='Arne Kvaal', school='St Cloud Tech', grade=11, gender='M', time=1130.0}
+{place=49, name='Ian Fuller', school='Rocori', grade=11, gender='M', time=1139.0}
+{place=50, name='Dawson Strom', school='Moorhead', grade=10, gender='M', time=1139.0}
+{place=51, name='Shane Vachal', school='St Cloud Tech', grade=10, gender='M', time=1156.0}
+{place=52, name='Axel Lindquist', school='Detroit Lakes', grade=12, gender='M', time=1161.0}
+{place=53, name='Noah Fuller', school='Rocori', grade=10, gender='M', time=1164.0}
+{place=54, name='Jacob Trout', school='Detroit Lakes', grade=8, gender='M', time=1166.0}
+{place=55, name='David Wallington', school='Fergus Falls', grade=12, gender='M', time=1175.0}
+{place=56, name='Caleb Danielson', school='Fergus Falls', grade=10, gender='M', time=1182.0}
+{place=57, name='Michael Thibert', school='Moorhead', grade=11, gender='M', time=1182.0}
+{place=58, name='Matthew Oehler', school='Fergus Falls', grade=10, gender='M', time=1192.0}
+{place=59, name='Andrew Haugen', school='Willmar', grade=10, gender='M', time=1198.0}
+{place=60, name='Daniel Halvorson', school='Willmar', grade=9, gender='M', time=1199.0}
+{place=61, name='Aaron Oakes', school='Detroit Lakes', grade=10, gender='M', time=1200.0}
+{place=62, name='Jeremiah Nord', school='Fergus Falls', grade=10, gender='M', time=1213.0}
+{place=63, name='Andrew Theisen', school='St Cloud Apollo', grade=9, gender='M', time=1217.0}
+{place=64, name='Noah Kramer', school='St Cloud Apollo', grade=12, gender='M', time=1217.0}
+{place=65, name='Josh Fulton', school='Trek North', grade=12, gender='M', time=1249.0}
+{place=66, name='Marquis Christenson', school='Willmar', grade=10, gender='M', time=1250.0}
+{place=67, name='Carter Austad', school='Rocori', grade=11, gender='M', time=1266.0}
+{place=68, name='Emanuel Ciriaco-Vera', school='Willmar', grade=10, gender='M', time=1269.0}
+{place=69, name='Danny Perrault', school='St Cloud Tech', grade=9, gender='M', time=1277.0}
+{place=70, name='Grant Terhaar', school='St Cloud Apollo', grade=12, gender='M', time=1298.0}
+{place=71, name='Ethan Haines', school='Willmar', grade=11, gender='M', time=1300.0}
+{place=72, name='Jordan Ryan', school='Detroit Lakes', grade=12, gender='M', time=1304.0}
+{place=73, name='Duncan Quinn', school='St Cloud Tech', grade=12, gender='M', time=1342.0}
+{place=74, name='Eli Doto', school='St Cloud Apollo', grade=12, gender='M', time=1357.0}
+{place=75, name='Josh Johannes', school='Willmar', grade=10, gender='M', time=1388.0}
+{place=76, name='Blake Bergeson', school='Trek North', grade=10, gender='M', time=1435.0}
+{place=77, name='Erik Heen', school='Willmar', grade=11, gender='M', time=1470.0}
+{place=78, name='Isaac Kruse', school='Trek North', grade=11, gender='M', time=1487.0}
+{place=79, name='Noah Huss', school='Alexandria', grade=10, gender='M', time=1992.0}

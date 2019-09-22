@@ -1,0 +1,134 @@
+Race : 2487
+{place=1, name='Ella Graham', school='MMW', grade=7, gender='F', time=527.6}
+{place=2, name='Elizabeth Weider', school='MMW', grade=7, gender='F', time=557.7}
+{place=3, name='Mikayla Adams', school='Wayzata Middle School', grade=7, gender='F', time=557.7}
+{place=4, name='POLLY CURRAN', school='Edina', grade=7, gender='F', time=569.2}
+{place=5, name='HALEY ROGERS', school='Edina', grade=7, gender='F', time=574.7}
+{place=6, name='SOPHIE SANNES-ECKHOFF', school='Edina', grade=7, gender='F', time=575.5}
+{place=7, name='Grace Estby', school='Wayzata Middle School', grade=7, gender='F', time=577.7}
+{place=8, name='ELEANOR HINKIE', school='Edina', grade=7, gender='F', time=580.7}
+{place=9, name='Sidney Reed', school='MME', grade=7, gender='F', time=581.2}
+{place=10, name='SOPHIA BRAUN', school='Edina', grade=7, gender='F', time=581.3}
+{place=11, name='Ruby Swenson', school='Hopkins Junior High', grade=7, gender='F', time=587.2}
+{place=12, name='PAIGE PARRY', school='Edina', grade=7, gender='F', time=596.5}
+{place=13, name='Maria Demann', school='MME', grade=7, gender='F', time=598.5}
+{place=14, name='Kira Leblanc', school='MME', grade=7, gender='F', time=600.2}
+{place=15, name='Lulu Knight', school='Wayzata Middle School', grade=7, gender='F', time=603.7}
+{place=16, name='Meredith Gilles', school='MME', grade=6, gender='F', time=606.2}
+{place=17, name='CECELIA WINTER', school='Edina', grade=7, gender='F', time=607.3}
+{place=18, name='Eleanor Swanson', school='Wayzata Middle School', grade=7, gender='F', time=607.7}
+{place=19, name='Lindsay Schuchard', school='Hopkins Junior High', grade=7, gender='F', time=611.2}
+{place=20, name='Maddie James', school='Wayzata Middle School', grade=7, gender='F', time=611.7}
+{place=21, name='Briana Johnson', school='Wayzata Middle School', grade=7, gender='F', time=612.1}
+{place=22, name='Carlee Freeman', school='Wayzata Middle School', grade=7, gender='F', time=612.7}
+{place=23, name='Avery Marasco-Johnson', school='MMW', grade=6, gender='F', time=614.2}
+{place=24, name='CATHERINE SIT', school='Edina', grade=7, gender='F', time=614.7}
+{place=25, name='ANNA ELLIOTT', school='Edina', grade=7, gender='F', time=615.2}
+{place=26, name='ABIGAIL RICHTER', school='Edina', grade=7, gender='F', time=617.2}
+{place=27, name='Quinlyn Borner', school='Eastern Carver Middle', grade=6, gender='F', time=619.3}
+{place=28, name='Grace Wermerskirchen', school='Wayzata Middle School', grade=7, gender='F', time=619.7}
+{place=29, name='Ameila  Fandry', school='MME', grade=6, gender='F', time=627.7}
+{place=30, name='Meghan Sullivan', school='Wayzata Middle School', grade=7, gender='F', time=629.6}
+{place=31, name='Maggie Quan', school='MME', grade=6, gender='F', time=629.7}
+{place=32, name='Amanda Severson7', school='Wayzata Middle School', grade=7, gender='F', time=630.2}
+{place=33, name='Lily  Schultz', school='Wayzata Middle School', grade=7, gender='F', time=631.7}
+{place=34, name='Rachelle Humes', school='Wayzata Middle School', grade=7, gender='F', time=633.5}
+{place=35, name='Abby Brothers', school='Edina', grade=7, gender='F', time=633.7}
+{place=36, name='Ariana Hansen', school='Wayzata Middle School', grade=7, gender='F', time=633.7}
+{place=37, name='Amelie Bruning-Way', school='Edina', grade=7, gender='F', time=634.5}
+{place=38, name='BRAXTON PRONLEY', school='Edina', grade=7, gender='F', time=634.6}
+{place=39, name='Allie Van Stone', school='Edina', grade=7, gender='F', time=635.6}
+{place=40, name='CARTER BALAN', school='Edina', grade=7, gender='F', time=637.1}
+{place=41, name='Sophie Stratton', school='Eastern Carver Middle', grade=6, gender='F', time=637.5}
+{place=42, name='Tory Katzenmeyer', school='Hopkins Junior High', grade=7, gender='F', time=637.5}
+{place=43, name='Clara Woods', school='MME', grade=7, gender='F', time=638.1}
+{place=44, name='Lila Shaver', school='Hopkins Junior High', grade=7, gender='F', time=638.7}
+{place=45, name='Kaitlyn Duffy', school='MME', grade=6, gender='F', time=642.7}
+{place=46, name='Ella Keenan', school='Eastern Carver Middle', grade=6, gender='F', time=645.7}
+{place=47, name='Anika Malloy', school='Wayzata Middle School', grade=7, gender='F', time=646.5}
+{place=48, name='Camille Focht', school='Eastern Carver Middle', grade=6, gender='F', time=646.5}
+{place=49, name='Reese Anderson', school='Wayzata Middle School', grade=7, gender='F', time=648.7}
+{place=50, name='Anna Schottler', school='Eastern Carver Middle', grade=6, gender='F', time=648.7}
+{place=51, name='Sydney Lang', school='Eastern Carver Middle', grade=6, gender='F', time=649.2}
+{place=52, name='Kaitlyn O'Donnell', school='Eastern Carver Middle', grade=7, gender='F', time=651.7}
+{place=53, name='Lily Carter', school='Wayzata Middle School', grade=7, gender='F', time=652.7}
+{place=54, name='Susi Tollefson', school='Eastern Carver Middle', grade=6, gender='F', time=655.5}
+{place=55, name='Mia Ransavage', school='Hopkins Junior High', grade=7, gender='F', time=655.5}
+{place=56, name='Karissa Wickenhauser', school='Eastern Carver Middle', grade=6, gender='F', time=661.8}
+{place=57, name='Anja Bergman', school='Hopkins Junior High', grade=7, gender='F', time=663.5}
+{place=58, name='Megan Weeks', school='MMW', grade=6, gender='F', time=665.5}
+{place=59, name='Isabel Omdahl', school='Hopkins Junior High', grade=7, gender='F', time=666.3}
+{place=60, name='Julia Tycast', school='Hopkins Junior High', grade=7, gender='F', time=667.5}
+{place=61, name='Kiera Duffy', school='Hopkins Junior High', grade=7, gender='F', time=670.6}
+{place=62, name='Cameron Carlson', school='MME', grade=7, gender='F', time=675.3}
+{place=63, name='Bella Underhill', school='Wayzata Middle School', grade=7, gender='F', time=677.6}
+{place=64, name='Sydney Palm', school='Hopkins Junior High', grade=7, gender='F', time=678.5}
+{place=65, name='ELSIE GILDER', school='Edina', grade=7, gender='F', time=681.7}
+{place=66, name='Josie Hauck', school='Eastern Carver Middle', grade=6, gender='F', time=683.5}
+{place=67, name='Katelyn Farm', school='Eastern Carver Middle', grade=6, gender='F', time=685.2}
+{place=68, name='Gabby Buendorf', school='Wayzata Middle School', grade=7, gender='F', time=686.3}
+{place=69, name='Camille Peck', school='MME', grade=6, gender='F', time=689.2}
+{place=70, name='Kayla Hanold', school='Wayzata Middle School', grade=7, gender='F', time=691.5}
+{place=71, name='MARIA KIM', school='Edina', grade=7, gender='F', time=692.7}
+{place=72, name='GRACE GULLICKSON', school='Edina', grade=7, gender='F', time=693.3}
+{place=73, name='Lucy Den Hartog', school='Hopkins Junior High', grade=7, gender='F', time=693.7}
+{place=74, name='Courtney Funke', school='Wayzata Middle School', grade=7, gender='F', time=695.3}
+{place=75, name='AMELIA ZDECHLIK', school='Edina', grade=7, gender='F', time=697.5}
+{place=76, name='Margaux House', school='Wayzata Middle School', grade=7, gender='F', time=698.2}
+{place=77, name='Molly Birr', school='MME', grade=8, gender='F', time=698.5}
+{place=78, name='LOLA PALESTRINI', school='Edina', grade=7, gender='F', time=710.6}
+{place=79, name='Brynn Bradley', school='Agape Christi Academy', grade=6, gender='F', time=711.2}
+{place=80, name='Sierra  Kennedy', school='Wayzata Middle School', grade=7, gender='F', time=711.6}
+{place=81, name='Sophia Rieger', school='MME', grade=6, gender='F', time=712.2}
+{place=82, name='Kasey Schetnan', school='Hopkins Junior High', grade=7, gender='F', time=712.2}
+{place=83, name='Sidney Fuhr', school='Eastern Carver Middle', grade=6, gender='F', time=712.7}
+{place=84, name='Emily Linares', school='Eastern Carver Middle', grade=6, gender='F', time=716.2}
+{place=85, name='Nadia Napolitano', school='Wayzata Middle School', grade=7, gender='F', time=717.2}
+{place=86, name='Teya Rigg', school='Wayzata Middle School', grade=7, gender='F', time=717.3}
+{place=87, name='Yabsera Yidnekachew', school='Eastern Carver Middle', grade=7, gender='F', time=719.2}
+{place=88, name='Elizabeth Burke', school='Hopkins Junior High', grade=7, gender='F', time=720.5}
+{place=89, name='Cassandra Clay', school='Eastern Carver Middle', grade=6, gender='F', time=721.5}
+{place=90, name='Grethe Helseth', school='Agape Christi Academy', grade=6, gender='F', time=722.5}
+{place=91, name='Olivia Donaldson', school='MMW', grade=7, gender='F', time=723.2}
+{place=92, name='Sidney Dauwalter', school='Eastern Carver Middle', grade=6, gender='F', time=726.7}
+{place=93, name='Erin Wallner', school='Hopkins Junior High', grade=7, gender='F', time=729.7}
+{place=94, name='Kylie Strand', school='Wayzata Middle School', grade=7, gender='F', time=732.6}
+{place=95, name='Adonai Yidnekachew', school='Eastern Carver Middle', grade=6, gender='F', time=737.2}
+{place=96, name='Esmae Birgy', school='Hopkins Junior High', grade=7, gender='F', time=740.2}
+{place=97, name='Evangeline Waint', school='MMW', grade=6, gender='F', time=743.5}
+{place=98, name='Riley Pudwill', school='MMW', grade=7, gender='F', time=747.7}
+{place=99, name='Erika Roth', school='Eastern Carver Middle', grade=6, gender='F', time=748.7}
+{place=100, name='ALENA VENELL', school='Edina', grade=7, gender='F', time=749.2}
+{place=101, name='Anahita Kaur', school='Wayzata Middle School', grade=7, gender='F', time=750.2}
+{place=102, name='Scarlet Thompson', school='Hopkins Junior High', grade=7, gender='F', time=750.3}
+{place=103, name='Kaelyn Lee', school='MME', grade=6, gender='F', time=756.6}
+{place=104, name='Summer Mazhary', school='Eastern Carver Middle', grade=6, gender='F', time=759.7}
+{place=105, name='ALTHEA BARROWS', school='Edina', grade=7, gender='F', time=764.5}
+{place=106, name='Trixie Wilker', school='Hopkins Junior High', grade=7, gender='F', time=778.8}
+{place=107, name='Asiyah Wilson', school='Hopkins Junior High', grade=7, gender='F', time=780.7}
+{place=108, name='Nayah Tamfuh', school='Hopkins Junior High', grade=7, gender='F', time=790.2}
+{place=109, name='Avatansa Nelson-Kumar', school='Eastern Carver Middle', grade=6, gender='F', time=794.7}
+{place=110, name='Hannah Maas', school='Wayzata Middle School', grade=7, gender='F', time=796.7}
+{place=111, name='Karina Lee', school='MMW', grade=6, gender='F', time=801.2}
+{place=112, name='Sage Hartman', school='Wayzata Middle School', grade=7, gender='F', time=803.2}
+{place=113, name='STELLA WEBER', school='Edina', grade=7, gender='F', time=807.7}
+{place=114, name='Eowyn Duan-Porter', school='MME', grade=6, gender='F', time=809.2}
+{place=115, name='Arianna Bull', school='Hopkins Junior High', grade=7, gender='F', time=815.5}
+{place=116, name='CATHERINE NELSON', school='Edina', grade=7, gender='F', time=821.8}
+{place=117, name='Lucy MIHAJLOV', school='MMW', grade=6, gender='F', time=830.3}
+{place=118, name='Elizabeth Clark', school='MMW', grade=6, gender='F', time=830.3}
+{place=119, name='Soledad Osberg', school='Hopkins Junior High', grade=7, gender='F', time=832.6}
+{place=120, name='Lily Powers', school='Eastern Carver Middle', grade=6, gender='F', time=843.5}
+{place=121, name='Riley Rutledge', school='Eastern Carver Middle', grade=6, gender='F', time=844.6}
+{place=122, name='Veda Devulapalli', school='Wayzata Middle School', grade=7, gender='F', time=846.2}
+{place=123, name='Molly Hanson-Hilton', school='MME', grade=6, gender='F', time=869.6}
+{place=124, name='Mackenzie Scanlon', school='MMW', grade=6, gender='F', time=870.7}
+{place=125, name='Athena TYMCHUCK', school='MMW', grade=6, gender='F', time=873.2}
+{place=126, name='Nadia Gilbertson', school='Eastern Carver Middle', grade=6, gender='F', time=893.7}
+{place=127, name='Lisa Nong', school='MME', grade=6, gender='F', time=900.5}
+{place=128, name='Elizabeth Haske', school='Wayzata Middle School', grade=7, gender='F', time=906.1}
+{place=129, name='Rachel Herbst', school='MME', grade=6, gender='F', time=918.7}
+{place=130, name='Jahnavi Tungtur', school='Wayzata Middle School', grade=7, gender='F', time=944.7}
+{place=131, name='Madeline Fuchs', school='Eastern Carver Middle', grade=6, gender='F', time=966.3}
+{place=132, name='Haileigh Kohler', school='Eastern Carver Middle', grade=6, gender='F', time=967.2}
+{place=133, name='MAYA FRYDENLUND', school='Edina', grade=7, gender='F', time=1022.5}

@@ -1,0 +1,221 @@
+Race : 1430
+{place=1, name='Marin Garrett', school='East Grand Forks', grade=8, gender='F', time=754.18}
+{place=2, name='Ellie Sather', school='Rockford', grade=8, gender='F', time=782.0}
+{place=3, name='Olivia  Watson', school='Moorhead', grade=8, gender='F', time=787.9}
+{place=4, name='Kassidy Allard', school='East Grand Forks', grade=8, gender='F', time=795.39}
+{place=5, name='Courtney Werner', school='Proctor', grade=8, gender='F', time=797.22}
+{place=6, name='Ingrid Halverson', school='Wayzata', grade=8, gender='F', time=798.45}
+{place=7, name='Sophia  Smith', school='Zimmerman', grade=8, gender='F', time=798.45}
+{place=8, name='Brittany Hansen', school='Milaca', grade=8, gender='F', time=799.47}
+{place=9, name='Chloe Strom', school='Moorhead', grade=8, gender='F', time=807.53}
+{place=10, name='Ashley  Nelson', school='Minot', grade=8, gender='F', time=810.43}
+{place=11, name='Sierra Hatlewick', school='Fergus Falls', grade=8, gender='F', time=812.87}
+{place=12, name='Emelia Arnone', school='Wayzata', grade=8, gender='F', time=813.57}
+{place=13, name='Zya  Lueders', school='EV-W-K', grade=8, gender='F', time=818.12}
+{place=14, name='Grace Oeltjen', school='Osakis', grade=8, gender='F', time=819.75}
+{place=15, name='Justice Nerad', school='Minot', grade=8, gender='F', time=820.95}
+{place=16, name='Abigail Johnson', school='Anoka', grade=8, gender='F', time=820.95}
+{place=17, name='MAIA JOHNSON', school='Prior Lake', grade=8, gender='F', time=825.25}
+{place=18, name='Katherine Kaisersatt', school='Prior Lake', grade=8, gender='F', time=827.7}
+{place=19, name='Reckmeyer Madeline', school='Prior Lake', grade=8, gender='F', time=828.53}
+{place=20, name='Brooke Keller', school='Minot', grade=8, gender='F', time=828.72}
+{place=21, name='Destiny Dorman', school='Osakis', grade=8, gender='F', time=830.15}
+{place=22, name='Jayden Lommel', school='Sartell', grade=8, gender='F', time=830.55}
+{place=23, name='Lilly Zack', school='St Cloud Apollo', grade=8, gender='F', time=834.0}
+{place=24, name='Haley Pickar', school='Park Rapids', grade=8, gender='F', time=834.4}
+{place=25, name='Emma  Neubeck', school='Bemidji', grade=8, gender='F', time=836.22}
+{place=26, name='Catherine Buffie', school='Redwood Valley', grade=7, gender='F', time=836.25}
+{place=27, name='Julia Johnson', school='Sartell', grade=8, gender='F', time=836.64}
+{place=28, name='Marley Michaud', school='Sartell', grade=8, gender='F', time=837.2}
+{place=29, name='Wren Scott-Lumbar', school='St Cloud Tech', grade=8, gender='F', time=839.2}
+{place=30, name='Isabelle Wells', school='Bemidji', grade=8, gender='F', time=841.68}
+{place=31, name='Gillian Muniz', school='Hill-Murray', grade=8, gender='F', time=842.28}
+{place=32, name='Gracie Grabe', school='Otter Tail Central', grade=8, gender='F', time=852.53}
+{place=33, name='Erica Gaebe', school='Paynesville', grade=8, gender='F', time=853.78}
+{place=34, name='Cheyenne Koch', school='Mora', grade=8, gender='F', time=854.3}
+{place=35, name='Addie Opdahl', school='Montevideo', grade=8, gender='F', time=854.5}
+{place=36, name='Grace Neutz', school='Royalton', grade=8, gender='F', time=854.5}
+{place=37, name='Anita Lehto', school='United North Central', grade=8, gender='F', time=855.9}
+{place=38, name='Grace Evans', school='Deer River-Northland', grade=8, gender='F', time=856.53}
+{place=39, name='Alex Stitt', school='LQPV-DB', grade=8, gender='F', time=862.2}
+{place=40, name='Quincie Floden', school='East Grand Forks', grade=8, gender='F', time=862.28}
+{place=41, name='Cecilia Schmitz', school='Hutchinson', grade=8, gender='F', time=864.43}
+{place=42, name='Hailey Dickson', school='Big Lake', grade=8, gender='F', time=867.28}
+{place=43, name='Olivia Bigelow', school='Monticello', grade=8, gender='F', time=868.5}
+{place=44, name='Olivia Vincent', school='New London-Spicer', grade=8, gender='F', time=869.32}
+{place=45, name='Matteah Ojard', school='Lakeview Christian Acad', grade=8, gender='F', time=870.53}
+{place=46, name='Claire Johnson', school='Centennial', grade=8, gender='F', time=871.28}
+{place=47, name='Avery Jones', school='Sartell', grade=8, gender='F', time=872.77}
+{place=48, name='Larissa Minshull', school='Anoka', grade=8, gender='F', time=874.8}
+{place=49, name='Haley Maro', school='Monticello', grade=8, gender='F', time=875.78}
+{place=50, name='Makaia Loberg', school='Monticello', grade=8, gender='F', time=880.72}
+{place=51, name='Isabelle Hoeschen', school='St Cloud Apollo', grade=8, gender='F', time=881.22}
+{place=52, name='Jade Haugen', school='Prior Lake', grade=8, gender='F', time=882.53}
+{place=53, name='Emma Schwartz', school='Sartell', grade=8, gender='F', time=882.95}
+{place=54, name='Emma Kaiser', school='Wayzata', grade=8, gender='F', time=885.78}
+{place=55, name='Haley Voller', school='Montevideo', grade=8, gender='F', time=886.42}
+{place=56, name='Lora Isaacson', school='United North Central', grade=8, gender='F', time=886.78}
+{place=57, name='Josie Shurb', school='LQPV-DB', grade=8, gender='F', time=888.45}
+{place=58, name='Macie Cichy', school='Otter Tail Central', grade=8, gender='F', time=891.2}
+{place=59, name='Jami Rudolph', school='Royalton', grade=8, gender='F', time=892.78}
+{place=60, name='Trina Schwinn', school='Sartell', grade=8, gender='F', time=895.28}
+{place=61, name='Haley Jiracek', school='Champlin Park', grade=8, gender='F', time=895.95}
+{place=62, name='Hailey Peterson', school='Wadena-Deer Creek', grade=8, gender='F', time=897.78}
+{place=63, name='Gracia Larsen-Schmidt', school='Grand Forks Red River', grade=8, gender='F', time=899.2}
+{place=64, name='Kaitlyn Wehmeyer', school='Zimmerman', grade=8, gender='F', time=900.64}
+{place=65, name='Claire Lapp', school='Grand Forks Red River', grade=8, gender='F', time=900.8}
+{place=66, name='Abby Vizenor', school='Jordan', grade=8, gender='F', time=901.45}
+{place=67, name='Hallie Rootkie', school='Hinckley-Finlayson', grade=8, gender='F', time=901.65}
+{place=68, name='Grace Zimmerman', school='Rockford', grade=8, gender='F', time=901.87}
+{place=69, name='Maddie Thene', school='United North Central', grade=8, gender='F', time=902.87}
+{place=70, name='Nessa Peters', school='Bemidji', grade=8, gender='F', time=904.28}
+{place=71, name='Atley Schreiner', school='Champlin Park', grade=8, gender='F', time=904.89}
+{place=72, name='Lili Sampson', school='New London-Spicer', grade=8, gender='F', time=907.72}
+{place=73, name='Allison Thornton', school='Esko', grade=8, gender='F', time=909.28}
+{place=74, name='Ashlee Ogren', school='Big Lake', grade=8, gender='F', time=909.28}
+{place=75, name='Jayne Russell', school='Redwood Valley', grade=8, gender='F', time=909.77}
+{place=76, name='Alexa Geyer', school='Minot', grade=8, gender='F', time=909.95}
+{place=77, name='Olivia Johnson', school='Blooming Prairie', grade=8, gender='F', time=911.53}
+{place=78, name='Madelyn Haapala', school='Esko', grade=8, gender='F', time=912.0}
+{place=79, name='Brooke Wuertz', school='Melrose', grade=8, gender='F', time=913.28}
+{place=80, name='Natalie Lieser', school='Paynesville', grade=8, gender='F', time=914.28}
+{place=81, name='Aislyn  Malone', school='New London-Spicer', grade=8, gender='F', time=916.25}
+{place=82, name='Emma Young', school='Princeton', grade=8, gender='F', time=917.25}
+{place=83, name='Jana Lynch', school='Nova Classical Academy', grade=8, gender='F', time=918.28}
+{place=84, name='Emily Senkowski', school='Hill-Murray', grade=8, gender='F', time=923.6}
+{place=85, name='Ariel Hale', school='Minot', grade=8, gender='F', time=925.22}
+{place=86, name='Rose Michaud', school='Blooming Prairie', grade=8, gender='F', time=925.78}
+{place=87, name='Grace Park', school='Minot', grade=8, gender='F', time=926.85}
+{place=88, name='CAYLA COLLINS', school='Prior Lake', grade=8, gender='F', time=927.78}
+{place=89, name='Hannah Alexander', school='Bemidji', grade=8, gender='F', time=929.5}
+{place=90, name='Lanie Rau', school='Foley', grade=8, gender='F', time=929.68}
+{place=91, name='Kylie Severson', school='Grand Forks Red River', grade=8, gender='F', time=930.5}
+{place=92, name='Natalie Fransen', school='Fergus Falls', grade=8, gender='F', time=935.97}
+{place=93, name='Avery Vanderlinden', school='Monticello', grade=8, gender='F', time=938.43}
+{place=94, name='Kiara Wheelright', school='Perham', grade=8, gender='F', time=938.43}
+{place=95, name='Anna Wolf', school='Osakis', grade=8, gender='F', time=938.64}
+{place=96, name='Julia Van Dyke', school='North Branch', grade=8, gender='F', time=939.32}
+{place=97, name='Isabella Hall', school='White Bear Lake', grade=8, gender='F', time=939.65}
+{place=98, name='Allison Cavallin', school='Pine City', grade=8, gender='F', time=940.25}
+{place=99, name='Anna Ryan', school='White Bear Lake', grade=8, gender='F', time=940.45}
+{place=100, name='Bella Leen', school='Sartell', grade=8, gender='F', time=940.65}
+{place=101, name='Angela Zaccaria', school='Owatonna', grade=7, gender='F', time=941.27}
+{place=102, name='Faith Stoll', school='Monticello', grade=8, gender='F', time=945.92}
+{place=103, name='Kate Graham', school='Maple Lake', grade=8, gender='F', time=946.12}
+{place=104, name='Ella Mensen', school='Minot', grade=8, gender='F', time=950.18}
+{place=105, name='Emma  Nissen', school='Minot', grade=8, gender='F', time=951.18}
+{place=106, name='Morgan Thomas', school='Monticello', grade=8, gender='F', time=952.22}
+{place=107, name='Sarah Sypnieski', school='Monticello', grade=8, gender='F', time=952.4}
+{place=108, name='Lauren Opatz', school='Sartell', grade=8, gender='F', time=955.25}
+{place=109, name='Elizabeth Hetzer', school='White Bear Lake', grade=8, gender='F', time=960.28}
+{place=110, name='Neve Palubicki', school='Perham', grade=8, gender='F', time=961.53}
+{place=111, name='Kalli Smith', school='Maple Grove', grade=8, gender='F', time=962.0}
+{place=112, name='Julia Basten', school='Wayzata', grade=8, gender='F', time=964.4}
+{place=113, name='Gionna Parsa', school='LQPV-DB', grade=8, gender='F', time=967.87}
+{place=114, name='Abigail Weber', school='Esko', grade=8, gender='F', time=968.67}
+{place=115, name='Savannah Wickham', school='Monticello', grade=8, gender='F', time=969.27}
+{place=116, name='Laurel Rolfs', school='Maple Grove', grade=8, gender='F', time=970.53}
+{place=117, name='Annika Andrix', school='Owatonna', grade=8, gender='F', time=971.9}
+{place=118, name='Aubrey Ratka', school='Foley', grade=8, gender='F', time=971.9}
+{place=119, name='Braelyn  Harrington', school='Mille Lacs', grade=8, gender='F', time=974.95}
+{place=120, name='Emily Bakken', school='Sartell', grade=8, gender='F', time=975.28}
+{place=121, name='Kaitlyn Salmela', school='Esko', grade=8, gender='F', time=976.28}
+{place=122, name='Elyse Haley', school='Monticello', grade=8, gender='F', time=977.01}
+{place=123, name='Ella Tollefsrud', school='Waconia', grade=8, gender='F', time=979.0}
+{place=124, name='Sutheree Nestvold', school='North Branch', grade=8, gender='F', time=979.4}
+{place=125, name='Sarah Adams', school='Minot', grade=8, gender='F', time=980.28}
+{place=126, name='Aigul Simpson', school='Rockford', grade=8, gender='F', time=981.78}
+{place=127, name='Brianna Filson', school='Grand Forks Central', grade=8, gender='F', time=982.45}
+{place=128, name='Brigit Mackie', school='Mora', grade=8, gender='F', time=983.28}
+{place=129, name='Ariella Onasch', school='Mora', grade=8, gender='F', time=984.5}
+{place=130, name='Sarah Wilts', school='Monticello', grade=8, gender='F', time=986.12}
+{place=131, name='Caroline Hess', school='Wayzata', grade=8, gender='F', time=987.93}
+{place=132, name='Kennedy Johnson', school='Lakeview Christian Acad', grade=8, gender='F', time=990.27}
+{place=133, name='Sofia Kumpala', school='Waconia', grade=8, gender='F', time=990.53}
+{place=134, name='Angelica Tello', school='Paynesville', grade=8, gender='F', time=991.59}
+{place=135, name='Ari Shaw-Kerkoff', school='Redwood Valley', grade=8, gender='F', time=993.2}
+{place=136, name='Hazel Oberholtzer', school='North Shore', grade=8, gender='F', time=993.42}
+{place=137, name='Sophie  Goebel', school='North Branch', grade=8, gender='F', time=994.43}
+{place=138, name='Elaina Siers', school='Duluth East', grade=8, gender='F', time=994.85}
+{place=139, name='Erin Rootes', school='Big Lake', grade=8, gender='F', time=996.28}
+{place=140, name='Anna Jeffrey', school='Big Lake', grade=8, gender='F', time=997.26}
+{place=141, name='Saira Smith', school='North Shore', grade=8, gender='F', time=997.78}
+{place=142, name='Sidni Hendren', school='North Shore', grade=8, gender='F', time=999.53}
+{place=143, name='Cassie Omtvedt', school='Redwood Valley', grade=7, gender='F', time=1001.78}
+{place=144, name='Elizabeth Packer', school='Duluth East', grade=8, gender='F', time=1002.59}
+{place=145, name='Hailey Szczech', school='Foley', grade=8, gender='F', time=1002.8}
+{place=146, name='Madi Lee', school='East Grand Forks', grade=7, gender='F', time=1003.2}
+{place=147, name='Sophia Uhlenkamp', school='Redwood Valley', grade=7, gender='F', time=1003.78}
+{place=148, name='Emma Asleson', school='Moorhead', grade=8, gender='F', time=1005.53}
+{place=149, name='Isabelle Bear', school='White Bear Lake', grade=8, gender='F', time=1008.28}
+{place=150, name='Grace Gondeck', school='Wayzata', grade=8, gender='F', time=1012.53}
+{place=151, name='Kate Lachowitzer', school='Perham', grade=8, gender='F', time=1013.53}
+{place=152, name='Aria Gish', school='Bemidji', grade=8, gender='F', time=1015.0}
+{place=153, name='Jensen Cunz', school='Wayzata', grade=8, gender='F', time=1015.53}
+{place=154, name='Olivia Taylor', school='Laporte', grade=8, gender='F', time=1020.43}
+{place=155, name='Martha Carlson', school='Duluth East', grade=8, gender='F', time=1025.32}
+{place=156, name='Amelia Wright', school='Maple Grove', grade=7, gender='F', time=1025.49}
+{place=157, name='Kayla Schroepfer', school='SMSENUC', grade=8, gender='F', time=1025.7}
+{place=158, name='Mallika Kommera', school='Wayzata', grade=8, gender='F', time=1025.7}
+{place=159, name='Payton Schueller', school='Redwood Valley', grade=7, gender='F', time=1025.9}
+{place=160, name='Ellie Bock', school='Hutchinson', grade=8, gender='F', time=1027.28}
+{place=161, name='Ryan Kehl', school='Trinity', grade=8, gender='F', time=1028.95}
+{place=162, name='Pearl Larson', school='Fridley', grade=8, gender='F', time=1029.28}
+{place=163, name='Beatrice Monhaut', school='Trinity', grade=8, gender='F', time=1029.37}
+{place=164, name='Sophia  Lamont', school='Sartell', grade=8, gender='F', time=1032.32}
+{place=165, name='Neysa Munthe', school='Esko', grade=8, gender='F', time=1033.62}
+{place=166, name='Ayna Eckerle', school='MACA', grade=8, gender='F', time=1034.65}
+{place=167, name='Madlyn Dutcher', school='Hinckley-Finlayson', grade=8, gender='F', time=1035.78}
+{place=168, name='Tabitha Thorpe', school='Grand Forks Central', grade=8, gender='F', time=1038.9}
+{place=169, name='Aubrie Milhausen', school='Redwood Valley', grade=8, gender='F', time=1043.18}
+{place=170, name='Jasmine Kerezsi', school='East Grand Forks', grade=8, gender='F', time=1044.84}
+{place=171, name='Clara Getchell', school='North Lakes-LILA ', grade=8, gender='F', time=1045.87}
+{place=172, name='Sanjali Subash', school='Wayzata', grade=8, gender='F', time=1046.47}
+{place=173, name='Noelle Somnars', school='White Bear Lake', grade=8, gender='F', time=1050.8}
+{place=174, name='Lana Schultz', school='Zimmerman', grade=8, gender='F', time=1052.75}
+{place=175, name='Emma Hester', school='Waconia', grade=8, gender='F', time=1053.15}
+{place=176, name='Mackenzie  Paurus', school='Maple Grove', grade=8, gender='F', time=1059.32}
+{place=177, name='Anya Mendoza-Pineda', school='Fridley', grade=8, gender='F', time=1064.75}
+{place=178, name='Caitlin McArdle', school='Champlin Park', grade=8, gender='F', time=1074.53}
+{place=179, name='Ellie Wehseler', school='New London-Spicer', grade=7, gender='F', time=1075.3}
+{place=180, name='Ann Vanderlinde', school='Waconia', grade=8, gender='F', time=1078.92}
+{place=181, name='Molly Erickson', school='Maple Lake', grade=8, gender='F', time=1080.93}
+{place=182, name='Abby Daniels', school='Sartell', grade=8, gender='F', time=1081.77}
+{place=183, name='Kerry Carlstrom', school='Wayzata', grade=8, gender='F', time=1082.78}
+{place=184, name='Avery Kozel', school='North Branch', grade=8, gender='F', time=1083.39}
+{place=185, name='Kelsey McAlpin', school='Big Lake', grade=8, gender='F', time=1084.8}
+{place=186, name='Heidi Whipple', school='Bemidji', grade=8, gender='F', time=1084.99}
+{place=187, name='Chloe Samec', school='Wayzata', grade=8, gender='F', time=1085.78}
+{place=188, name='Victoria Kent', school='North Branch', grade=8, gender='F', time=1087.32}
+{place=189, name='Anna Johnson', school='North Shore', grade=7, gender='F', time=1088.24}
+{place=190, name='Nhi Le', school='White Bear Lake', grade=8, gender='F', time=1089.32}
+{place=191, name='Karla Alameda', school='St James', grade=8, gender='F', time=1106.78}
+{place=192, name='Ava Weinreis', school='St Cloud Cathedral', grade=8, gender='F', time=1108.8}
+{place=193, name='Katia Brink', school='Trinity', grade=8, gender='F', time=1111.65}
+{place=194, name='Isabelle Honkomp', school='Waconia', grade=8, gender='F', time=1112.45}
+{place=195, name='Rebecca Stay', school='Wayzata', grade=8, gender='F', time=1116.93}
+{place=196, name='Arianna Jenniges', school='New London-Spicer', grade=8, gender='F', time=1123.57}
+{place=197, name='Cora Gleason', school='Benson-KMS', grade=8, gender='F', time=1124.43}
+{place=198, name='Haley Mullen', school='Esko', grade=8, gender='F', time=1135.3}
+{place=199, name='Tia Keranen', school='East Central', grade=8, gender='F', time=1139.45}
+{place=200, name='Carrigan Dock', school='Waconia', grade=8, gender='F', time=1143.51}
+{place=201, name='Abbey Stoddard', school='North Shore', grade=8, gender='F', time=1143.7}
+{place=202, name='Libby Pfannenstein', school='St Cloud Cathedral', grade=8, gender='F', time=1148.8}
+{place=203, name='Lydia Tallarini', school='Trinity', grade=8, gender='F', time=1154.9}
+{place=204, name='Mikayla Marshall', school='Prior Lake', grade=8, gender='F', time=1178.8}
+{place=205, name='Jaeden Klingensmith', school='Braham', grade=8, gender='F', time=1184.5}
+{place=206, name='Carlie Kedrowski', school='St Cloud Cathedral', grade=8, gender='F', time=1187.35}
+{place=207, name='Ellie Isakson', school='Osseo', grade=8, gender='F', time=1199.34}
+{place=208, name='Megan Kern', school='Waconia', grade=8, gender='F', time=1200.55}
+{place=209, name='Maddisyn Lee', school='Champlin Park', grade=8, gender='F', time=1201.95}
+{place=210, name='Kalle Tollefsrud', school='Waconia', grade=8, gender='F', time=1206.18}
+{place=211, name='Hailey Carlson', school='Pequot Lakes', grade=8, gender='F', time=1230.95}
+{place=212, name='Sophie Begnaud', school='LCWM-Nicollet', grade=8, gender='F', time=1242.93}
+{place=213, name='Tabitha Matz', school='Watertown-Mayer', grade=8, gender='F', time=1251.45}
+{place=214, name='Ashley Vongsaphay', school='Big Lake', grade=8, gender='F', time=1258.14}
+{place=215, name='Alexis MacMillan', school='Chisolm', grade=8, gender='F', time=1261.59}
+{place=216, name='Codi Bunting', school='Big Lake', grade=8, gender='F', time=1263.82}
+{place=217, name='Kate Mealey', school='Trinity', grade=9, gender='F', time=1269.7}
+{place=218, name='Ellie Reeves', school='Mora', grade=8, gender='F', time=1338.5}
+{place=219, name='Emma Hess', school='Big Lake', grade=8, gender='F', time=1357.39}
+{place=220, name='Danterrah Rambo', school='South Ridge', grade=8, gender='F', time=1366.3}

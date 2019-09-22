@@ -1,0 +1,122 @@
+Race : 1030
+{place=1, name='Luke Swanson', school='Northwest', grade=6, gender='M', time=516.92}
+{place=2, name='Parker Sandquist', school='Cambridge-Isanti', grade=8, gender='M', time=536.55}
+{place=3, name='Henry  Abraham', school='Cambridge-Isanti', grade=8, gender='M', time=538.5}
+{place=4, name='Ben Becker', school='Hutchinson', grade=8, gender='M', time=539.21}
+{place=5, name='George Tepfer', school='Litchfield', grade=8, gender='M', time=542.66}
+{place=6, name='Gage  Thesing', school='Albany', grade=8, gender='M', time=544.48}
+{place=7, name='Jacob  Ziebarth', school='Cambridge-Isanti', grade=7, gender='M', time=546.94}
+{place=8, name='Nathan  Schibilla', school='Cambridge-Isanti', grade=7, gender='M', time=548.16}
+{place=9, name='Jake Blommer', school='EV-W-K', grade=8, gender='M', time=549.57}
+{place=10, name='Kagan Jakobson', school='New London-Spicer', grade=8, gender='M', time=550.5}
+{place=11, name='Jason  Kirchner', school='Albany', grade=8, gender='M', time=551.19}
+{place=12, name='Jayden Peterman', school='Northwest', grade=8, gender='M', time=551.19}
+{place=13, name='Gabe Stassen', school='Hutchinson', grade=8, gender='M', time=553.62}
+{place=14, name='Trent Viesselman', school='Cambridge-Isanti', grade=8, gender='M', time=554.42}
+{place=15, name='Logan Graphenteen', school='Litchfield', grade=8, gender='M', time=554.5}
+{place=16, name='Will  Friederichs', school='Albany', grade=8, gender='M', time=555.85}
+{place=17, name='Tate Renning', school='Hutchinson', grade=6, gender='M', time=555.85}
+{place=18, name='Brady Decker', school='Hutchinson', grade=8, gender='M', time=557.25}
+{place=19, name='Isaac Herrmann', school='Annandale ', grade=7, gender='M', time=565.3}
+{place=20, name='Ben Kuenzi', school='Hutchinson', grade=8, gender='M', time=569.5}
+{place=21, name='Alex  Knebel', school='Sauk Rapids-Rice', grade=8, gender='M', time=569.55}
+{place=22, name='Jon Beckner', school='Annandale ', grade=8, gender='M', time=570.96}
+{place=23, name='Wyatt Wothe', school='Cambridge-Isanti', grade=7, gender='M', time=572.78}
+{place=24, name='Cole Niemela', school='Dassel-Cokato', grade=8, gender='M', time=572.98}
+{place=25, name='Sam Haseth', school='Cambridge-Isanti', grade=8, gender='M', time=573.19}
+{place=26, name='Jonah Johannes', school='Annandale ', grade=8, gender='M', time=574.25}
+{place=27, name='Logan Weninger', school='Maple Lake', grade=8, gender='M', time=578.6}
+{place=28, name='sam jiminez', school='Litchfield', grade=8, gender='M', time=582.69}
+{place=29, name='Adam  Colbert', school='Cambridge-Isanti', grade=8, gender='M', time=583.5}
+{place=30, name='Matt Koltes', school='Orono', grade=8, gender='M', time=584.14}
+{place=31, name='Austin Dean', school='Hutchinson', grade=8, gender='M', time=584.5}
+{place=32, name='Christian Lessman', school='New London-Spicer', grade=8, gender='M', time=589.66}
+{place=33, name='Cameron Wagner', school='Hutchinson', grade=6, gender='M', time=589.85}
+{place=34, name='Andy Lochen', school='Sauk Rapids-Rice', grade=8, gender='M', time=591.25}
+{place=35, name='Kirkland Allen', school='Annandale ', grade=8, gender='M', time=592.92}
+{place=36, name='Sean  Smith', school='Cambridge-Isanti', grade=8, gender='M', time=593.75}
+{place=37, name='Paul Vetsch', school='Dassel-Cokato', grade=8, gender='M', time=594.16}
+{place=38, name='Connor Worden', school='Litchfield', grade=8, gender='M', time=594.16}
+{place=39, name='TJ Tydlacka', school='Hutchinson', grade=7, gender='M', time=597.8}
+{place=40, name='Logan Wipper', school='Annandale ', grade=8, gender='M', time=598.23}
+{place=41, name='Ben  Gilbertson', school='Sauk Rapids-Rice', grade=8, gender='M', time=598.76}
+{place=42, name='Gavin Fuchs', school='Sauk Rapids-Rice', grade=8, gender='M', time=599.23}
+{place=43, name='Isaac Gratton', school='New London-Spicer', grade=7, gender='M', time=600.0}
+{place=44, name='Tanner Sperl', school='Hutchinson', grade=7, gender='M', time=600.48}
+{place=45, name='Micah Schmitz', school='Hutchinson', grade=7, gender='M', time=601.5}
+{place=46, name='Austin Hagen', school='Hutchinson', grade=7, gender='M', time=601.69}
+{place=47, name='William Olson', school='Dassel-Cokato', grade=8, gender='M', time=602.71}
+{place=48, name='Alex Juhl', school='New London-Spicer', grade=7, gender='M', time=604.39}
+{place=49, name='Damien Schrubbe', school='Albany', grade=8, gender='M', time=604.75}
+{place=50, name='Joey Carlson', school='Litchfield', grade=7, gender='M', time=605.55}
+{place=51, name='Zachary  Kramer', school='EV-W-K', grade=7, gender='M', time=606.24}
+{place=52, name='Ben Nelson', school='Litchfield', grade=8, gender='M', time=608.23}
+{place=53, name='Ben Wehseler', school='New London-Spicer', grade=8, gender='M', time=608.42}
+{place=54, name='Luke  Sonnenberg', school='Albany', grade=8, gender='M', time=610.25}
+{place=55, name='Cole Hause', school='Albany', grade=7, gender='M', time=611.75}
+{place=56, name='Nate Tebben', school='New London-Spicer', grade=8, gender='M', time=611.8}
+{place=57, name='Rudy  Challander', school='Cambridge-Isanti', grade=8, gender='M', time=614.94}
+{place=58, name='alex matheson', school='Litchfield', grade=8, gender='M', time=615.5}
+{place=59, name='Isaac Voigt', school='Annandale ', grade=7, gender='M', time=616.14}
+{place=60, name='Trevor Voigt', school='Annandale ', grade=7, gender='M', time=616.25}
+{place=61, name='Evan  Tebben', school='Cambridge-Isanti', grade=7, gender='M', time=616.55}
+{place=62, name='Ben Riewer', school='Hutchinson', grade=8, gender='M', time=617.76}
+{place=63, name='Darby Halonen', school='Dassel-Cokato', grade=7, gender='M', time=618.76}
+{place=64, name='Tristan Clark', school='Dassel-Cokato', grade=8, gender='M', time=618.98}
+{place=65, name='Ben Witt', school='Dassel-Cokato', grade=7, gender='M', time=620.75}
+{place=66, name='Schyler Jensen-Athoy', school='Albany', grade=7, gender='M', time=621.41}
+{place=67, name='Sam Schuler', school='Delano', grade=7, gender='M', time=621.6}
+{place=68, name='Jack Obrien', school='Sauk Rapids-Rice', grade=6, gender='M', time=625.67}
+{place=69, name='Jacob Welter', school='Annandale ', grade=8, gender='M', time=625.67}
+{place=70, name='Matthew Reardon', school='Dassel-Cokato', grade=8, gender='M', time=631.41}
+{place=71, name='Trevor Wilson', school='Annandale ', grade=8, gender='M', time=635.26}
+{place=72, name='Parker Kulm', school='Annandale ', grade=8, gender='M', time=637.89}
+{place=73, name='Wally Camp', school='Dassel-Cokato', grade=8, gender='M', time=638.5}
+{place=74, name='Nic Riewer', school='Hutchinson', grade=6, gender='M', time=639.26}
+{place=75, name='Rayne Jacobsen', school='Maple Lake', grade=8, gender='M', time=639.92}
+{place=76, name='Kirby Schmalz', school='Northwest', grade=8, gender='M', time=640.73}
+{place=77, name='Cole  Smith', school='Annandale ', grade=7, gender='M', time=641.25}
+{place=78, name='Jacob Donnett', school='Maple Lake', grade=8, gender='M', time=641.73}
+{place=79, name='Andrew Gohman', school='Annandale ', grade=8, gender='M', time=643.16}
+{place=80, name='Angelo Fiataruolo', school='Orono', grade=6, gender='M', time=646.87}
+{place=81, name='Biagio McGuinnes', school='Albany', grade=7, gender='M', time=647.46}
+{place=82, name='Dan Neutz', school='Maple Lake', grade=7, gender='M', time=649.1}
+{place=83, name='Noah  Beffel', school='Maple Lake', grade=7, gender='M', time=649.92}
+{place=84, name='Nathan  Kalthoff', school='Albany', grade=7, gender='M', time=657.71}
+{place=85, name='Bennett Peterson', school='Dassel-Cokato', grade=7, gender='M', time=657.91}
+{place=86, name='Nathan  Harding', school='Albany', grade=7, gender='M', time=658.1}
+{place=87, name='Connor  Wipper', school='Annandale ', grade=7, gender='M', time=660.74}
+{place=88, name='Noah Tague', school='Hutchinson', grade=6, gender='M', time=661.39}
+{place=89, name='Riley Puck', school='Cambridge-Isanti', grade=8, gender='M', time=663.64}
+{place=90, name='Jaden Schmalz', school='Hutchinson', grade=8, gender='M', time=666.28}
+{place=91, name='Charlie Jenum', school='Hutchinson', grade=6, gender='M', time=671.17}
+{place=92, name='Austin Pundsack', school='Albany', grade=7, gender='M', time=671.35}
+{place=93, name='Turner Schad', school='Sauk Rapids-Rice', grade=6, gender='M', time=682.75}
+{place=94, name='Mason Getz', school='Hutchinson', grade=6, gender='M', time=683.32}
+{place=95, name='Ronan Banavige', school='Orono', grade=7, gender='M', time=690.51}
+{place=96, name='Chase Maher', school='Hutchinson', grade=6, gender='M', time=692.67}
+{place=97, name='Braden  Kohn', school='Cambridge-Isanti', grade=7, gender='M', time=692.67}
+{place=98, name='achillez jaquith', school='Litchfield', grade=8, gender='M', time=695.51}
+{place=99, name='Gabe Brenden', school='Northwest', grade=7, gender='M', time=697.51}
+{place=100, name='Carter Prenovost', school='Cambridge-Isanti', grade=7, gender='M', time=702.21}
+{place=101, name='Braden Kavanagh', school='Orono', grade=7, gender='M', time=706.48}
+{place=102, name='Reign Doty', school='New London-Spicer', grade=7, gender='M', time=707.89}
+{place=103, name='Jaden Welch', school='Maple Lake', grade=8, gender='M', time=710.26}
+{place=104, name='Jacob Bates', school='Albany', grade=8, gender='M', time=720.48}
+{place=105, name='Kayne Jacques', school='Albany', grade=7, gender='M', time=721.12}
+{place=106, name='Austin  Gillette', school='Cambridge-Isanti', grade=8, gender='M', time=728.23}
+{place=107, name='Kyler McMonagle', school='Cambridge-Isanti', grade=7, gender='M', time=734.48}
+{place=108, name='noah kotze', school='Litchfield', grade=8, gender='M', time=734.76}
+{place=109, name='Austin Exsted', school='Glencoe-Silver Lake', grade=7, gender='M', time=737.92}
+{place=110, name='Julian Zoller', school='EV-W-K', grade=7, gender='M', time=746.71}
+{place=111, name='Finn Soderstrom', school='Orono', grade=7, gender='M', time=747.94}
+{place=112, name='Trevor Wersal', school='Hutchinson', grade=7, gender='M', time=751.14}
+{place=113, name='Linus Brown', school='Maple Lake', grade=8, gender='M', time=752.46}
+{place=114, name='Nolan Carlson', school='Dassel-Cokato', grade=7, gender='M', time=756.14}
+{place=115, name='Tristan Pavlish', school='Northwest', grade=7, gender='M', time=769.71}
+{place=116, name='Dylan Johnson', school='Dassel-Cokato', grade=7, gender='M', time=789.51}
+{place=117, name='Ian  Cairns', school='Sauk Rapids-Rice', grade=6, gender='M', time=797.14}
+{place=118, name='Matthew Marohn', school='Cambridge-Isanti', grade=8, gender='M', time=831.76}
+{place=119, name='Brett Ryynanen', school='Dassel-Cokato', grade=7, gender='M', time=832.55}
+{place=120, name='Blake Niska', school='Dassel-Cokato', grade=8, gender='M', time=837.66}
+{place=121, name='Aiden Spiess', school='Cambridge-Isanti', grade=7, gender='M', time=1107.66}

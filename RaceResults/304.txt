@@ -1,0 +1,147 @@
+Race : 304
+{place=1, name='Emma Bates', school='Elk River', grade=12, gender='F', time=889.06}
+{place=2, name='Becca Dyson', school='Roseville', grade=11, gender='F', time=896.56}
+{place=3, name='ABBI ASPENGREN', school='Elk River', grade=11, gender='F', time=909.6}
+{place=4, name='Kaila Urick', school='Chaska', grade=11, gender='F', time=924.18}
+{place=5, name='Allison Cordes', school='Roseville', grade=9, gender='F', time=929.43}
+{place=6, name='Kayla Uphoff', school='Lakeville South', grade=12, gender='F', time=931.49}
+{place=7, name='Megan Platner', school='Eden Prairie', grade=11, gender='F', time=931.89}
+{place=8, name='Cassidy Soli', school='Champlin Park', grade=9, gender='F', time=934.62}
+{place=9, name='Hannah Jocelyn', school='Hopkins', grade=12, gender='F', time=938.62}
+{place=10, name='Claire Johnson', school='Eden Prairie', grade=12, gender='F', time=943.75}
+{place=11, name='Anne  Ferguson', school='Eastview', grade=11, gender='F', time=945.25}
+{place=12, name='Erin Kilbride', school='Lakeville South', grade=8, gender='F', time=950.24}
+{place=13, name='Jacque Thaemert', school='Buffalo', grade=12, gender='F', time=951.31}
+{place=14, name='Meghan Barry', school='Lakeville South', grade=11, gender='F', time=952.43}
+{place=15, name='Laura Lawton', school='Eden Prairie', grade=11, gender='F', time=954.75}
+{place=16, name='Jane Kallemeyn', school='Elk River', grade=11, gender='F', time=958.04}
+{place=17, name='Jordyn Ross', school='Lakeville South', grade=12, gender='F', time=959.29}
+{place=18, name='Sammy Nielsen', school='Roseville', grade=9, gender='F', time=960.0}
+{place=19, name='Jena  Moody', school='Eastview', grade=8, gender='F', time=960.66}
+{place=20, name='Kayla  Johnson', school='Coon Rapids', grade=12, gender='F', time=962.64}
+{place=21, name='Alyssa Wojack', school='Coon Rapids', grade=12, gender='F', time=963.2}
+{place=22, name='Selamawit Shannon-Tamrat', school='Hopkins', grade=11, gender='F', time=963.7}
+{place=23, name='Sarah Klecker', school='Hopkins', grade=9, gender='F', time=964.2}
+{place=24, name='Molly Bjustrom', school='Maple Grove', grade=11, gender='F', time=964.68}
+{place=25, name='Karissa Martens', school='Coon Rapids', grade=11, gender='F', time=965.2}
+{place=26, name='Laura Willenbring', school='Mounds View Girls', grade=12, gender='F', time=965.83}
+{place=27, name='Alexandra Birkle', school='Eden Prairie', grade=11, gender='F', time=966.27}
+{place=28, name='Kayla Goeman', school='Hopkins', grade=11, gender='F', time=966.77}
+{place=29, name='Piper Bain', school='Edina', grade=10, gender='F', time=967.54}
+{place=30, name='Megan Kilbride', school='Lakeville South', grade=10, gender='F', time=968.01}
+{place=31, name='Anna  Nelson', school='Roseville', grade=9, gender='F', time=969.45}
+{place=32, name='Miranda Aarons', school='Maple Grove', grade=11, gender='F', time=971.02}
+{place=33, name='Sara Heegaard', school='Hopkins', grade=11, gender='F', time=973.89}
+{place=34, name='Hannah Borowski', school='Hopkins', grade=11, gender='F', time=974.39}
+{place=35, name='Anna Jefferson', school='Eden Prairie', grade=12, gender='F', time=974.83}
+{place=36, name='Collette Celichowski', school='Minnetonka', grade=12, gender='F', time=975.31}
+{place=37, name='Jordan Skelly', school='Buffalo', grade=12, gender='F', time=975.81}
+{place=38, name='Beth Knopf', school='Mounds View Girls', grade=10, gender='F', time=976.29}
+{place=39, name='Nicole Franz', school='Chanhassen', grade=11, gender='F', time=976.83}
+{place=40, name='Kailey Johnson', school='Buffalo', grade=9, gender='F', time=978.2}
+{place=41, name='Megan Bailey', school='Minnetonka', grade=11, gender='F', time=978.76}
+{place=42, name='Alexandria Forbes', school='Minnetonka', grade=9, gender='F', time=979.27}
+{place=43, name='Emma Lucken', school='Roseville', grade=12, gender='F', time=980.68}
+{place=44, name='Claire Bulat', school='Chaska', grade=9, gender='F', time=981.37}
+{place=45, name='ANNA HAUGEN', school='Elk River', grade=9, gender='F', time=981.97}
+{place=46, name='Carli Schulz', school='Eden Prairie', grade=10, gender='F', time=983.1}
+{place=47, name='Emma Krieter', school='Edina', grade=12, gender='F', time=983.58}
+{place=48, name='Sarah Woodland', school='Chaska', grade=12, gender='F', time=984.08}
+{place=49, name='Lizzy Narigon', school='Mounds View Girls', grade=12, gender='F', time=984.64}
+{place=50, name='Emma Gray', school='Roseville', grade=11, gender='F', time=985.22}
+{place=51, name='Melissa Engstrom', school='Coon Rapids', grade=11, gender='F', time=985.89}
+{place=52, name='Jordan Paschke', school='Chanhassen', grade=10, gender='F', time=986.54}
+{place=53, name='VICTORIA JANASZ', school='Elk River', grade=12, gender='F', time=987.1}
+{place=54, name='Jordyn Dass', school='Hopkins', grade=12, gender='F', time=988.29}
+{place=55, name='Annie Brekken', school='Lakeville South', grade=7, gender='F', time=988.85}
+{place=56, name='Margaret Caruth', school='Minnetonka', grade=8, gender='F', time=989.56}
+{place=57, name='Jessie Lynch', school='Chanhassen', grade=11, gender='F', time=990.22}
+{place=58, name='Rachael Hoerauf', school='Minnetonka', grade=12, gender='F', time=990.85}
+{place=59, name='Melissa Cabak', school='Robbinsdale Armstrong', grade=10, gender='F', time=991.29}
+{place=60, name='Amy Holovnia', school='Chanhassen', grade=11, gender='F', time=991.77}
+{place=61, name='Bailey Cogan', school='Roseville', grade=9, gender='F', time=992.37}
+{place=62, name='Courtney Branch', school='Hopkins', grade=10, gender='F', time=992.89}
+{place=63, name='Megan Ackerman', school='Buffalo', grade=12, gender='F', time=993.56}
+{place=64, name='Franziska Herbert', school='Minnetonka', grade=12, gender='F', time=995.68}
+{place=65, name='Brittney Johnson', school='Mounds View Girls', grade=11, gender='F', time=996.41}
+{place=66, name='Jenna Urick', school='Chaska', grade=9, gender='F', time=996.91}
+{place=67, name='Sam Miller', school='Edina', grade=11, gender='F', time=997.43}
+{place=68, name='Ekaterina Espe', school='Eden Prairie', grade=12, gender='F', time=997.89}
+{place=69, name='Kati Meiusi', school='Minnetonka', grade=11, gender='F', time=999.04}
+{place=70, name='Abbey Brodeur', school='Minnetonka', grade=11, gender='F', time=999.58}
+{place=71, name='Courtney  Conroy', school='Eastview', grade=10, gender='F', time=1000.16}
+{place=72, name='Claire Madison', school='Edina', grade=11, gender='F', time=1001.56}
+{place=73, name='Emily Castanias', school='Chanhassen', grade=8, gender='F', time=1002.39}
+{place=74, name='Emily Eckberg', school='Maple Grove', grade=10, gender='F', time=1002.85}
+{place=75, name='Anna Meiusi', school='Minnetonka', grade=9, gender='F', time=1003.35}
+{place=76, name='Krystina Hoey', school='Hopkins', grade=12, gender='F', time=1003.83}
+{place=77, name='Paige D'Heilly', school='Coon Rapids', grade=9, gender='F', time=1004.37}
+{place=78, name='Britta Huffman', school='Coon Rapids', grade=11, gender='F', time=1005.25}
+{place=79, name='McKenzie Lee', school='Edina', grade=10, gender='F', time=1005.74}
+{place=80, name='Breanna Adams', school='Robbinsdale Armstrong', grade=12, gender='F', time=1006.29}
+{place=81, name='Rebecca  Pachuta', school='Eastview', grade=12, gender='F', time=1006.87}
+{place=82, name='Megan Feyereisen', school='Chanhassen', grade=11, gender='F', time=1007.45}
+{place=83, name='Tara Rudie', school='Willmar', grade=8, gender='F', time=1007.97}
+{place=84, name='Sarah Stuart', school='Robbinsdale Armstrong', grade=11, gender='F', time=1008.51}
+{place=85, name='Morgan Herold', school='Chanhassen', grade=9, gender='F', time=1010.33}
+{place=86, name='Brittany Platt', school='Eden Prairie', grade=9, gender='F', time=1011.22}
+{place=87, name='Claire Schmidt', school='Chaska', grade=12, gender='F', time=1011.77}
+{place=88, name='Grace Peterson', school='Chanhassen', grade=11, gender='F', time=1013.35}
+{place=89, name='Larissa Juelich', school='Chanhassen', grade=9, gender='F', time=1014.62}
+{place=90, name='MacKenzie Burkstrand', school='Eastview', grade=11, gender='F', time=1016.27}
+{place=91, name='Kim Nagel', school='Mounds View Girls', grade=10, gender='F', time=1018.56}
+{place=92, name='Erin Sheehan', school='Willmar', grade=12, gender='F', time=1019.45}
+{place=93, name='Katie Batters', school='Champlin Park', grade=12, gender='F', time=1021.39}
+{place=94, name='Emily Dyson', school='Roseville', grade=8, gender='F', time=1021.91}
+{place=95, name='Rachel Mason', school='Roseville', grade=12, gender='F', time=1022.58}
+{place=96, name='Mary Klecker', school='Hopkins', grade=10, gender='F', time=1024.0}
+{place=97, name='Jayne Cole', school='Willmar', grade=12, gender='F', time=1024.24}
+{place=98, name='Jackie Johnson', school='Willmar', grade=12, gender='F', time=1025.29}
+{place=99, name='Katie Kiecker', school='Coon Rapids', grade=8, gender='F', time=1026.58}
+{place=100, name='Megan Lubow', school='Lakeville South', grade=8, gender='F', time=1029.6}
+{place=101, name='Carly Rasmussen', school='Robbinsdale Armstrong', grade=12, gender='F', time=1030.31}
+{place=102, name='Amy Kempf', school='Robbinsdale Armstrong', grade=10, gender='F', time=1031.54}
+{place=103, name='Amy Waananen', school='Maple Grove', grade=11, gender='F', time=1032.1}
+{place=104, name='Laura Schmiel', school='Edina', grade=10, gender='F', time=1035.81}
+{place=105, name='Madison Miler', school='Chaska', grade=10, gender='F', time=1036.74}
+{place=106, name='Allie Pino', school='Lakeville South', grade=12, gender='F', time=1039.66}
+{place=107, name='Madeline Verbeten', school='Robbinsdale Armstrong', grade=10, gender='F', time=1042.25}
+{place=108, name='Cassandra Johnson', school='Willmar', grade=9, gender='F', time=1042.79}
+{place=109, name='Hailey Downing', school='Buffalo', grade=8, gender='F', time=1044.7}
+{place=110, name='Jerlie Jensen', school='Coon Rapids', grade=9, gender='F', time=1046.24}
+{place=111, name='Marin Hanson', school='Willmar', grade=10, gender='F', time=1046.41}
+{place=112, name='Rebekah Schulz', school='Minnetonka', grade=12, gender='F', time=1046.66}
+{place=113, name='Hannah A Brecht', school='Buffalo', grade=12, gender='F', time=1051.45}
+{place=114, name='Ashley Clark', school='Mounds View Girls', grade=10, gender='F', time=1052.0}
+{place=115, name='Lauren Schwinghammer', school='Chaska', grade=11, gender='F', time=1052.29}
+{place=116, name='Kendall Johnson', school='Maple Grove', grade=8, gender='F', time=1053.87}
+{place=117, name='Megan Sanders', school='Robbinsdale Armstrong', grade=12, gender='F', time=1054.37}
+{place=118, name='Megan Olsen', school='Lakeville South', grade=11, gender='F', time=1055.29}
+{place=119, name='Kelsi Miller', school='Lakeville South', grade=12, gender='F', time=1055.45}
+{place=120, name='Natalie Kapphan', school='Champlin Park', grade=12, gender='F', time=1056.72}
+{place=121, name='Ally  Lawrence', school='Eastview', grade=12, gender='F', time=1057.04}
+{place=122, name='Mckinley Moore', school='Champlin Park', grade=10, gender='F', time=1057.41}
+{place=123, name='Emily Knapczyk', school='Robbinsdale Armstrong', grade=10, gender='F', time=1060.02}
+{place=124, name='Emily Feyereisen', school='Chanhassen', grade=11, gender='F', time=1061.62}
+{place=125, name='Morgan Johnson', school='Edina', grade=9, gender='F', time=1070.91}
+{place=126, name='Jane Hannula', school='Coon Rapids', grade=9, gender='F', time=1072.83}
+{place=127, name='BRITTNI ELLEFSON', school='Elk River', grade=11, gender='F', time=1077.37}
+{place=128, name='Jenna McElroy', school='Champlin Park', grade=11, gender='F', time=1080.0}
+{place=129, name='Cathleen Gross', school='Robbinsdale Armstrong', grade=10, gender='F', time=1082.7}
+{place=130, name='Kelsi Dey', school='Coon Rapids', grade=11, gender='F', time=1091.79}
+{place=131, name='Cate Rudnicki', school='Edina', grade=10, gender='F', time=1092.18}
+{place=132, name='Abby Bunnell', school='Maple Grove', grade=9, gender='F', time=1095.18}
+{place=133, name='Kaia Carlson', school='Maple Grove', grade=10, gender='F', time=1095.72}
+{place=134, name='Emily Karp', school='Champlin Park', grade=12, gender='F', time=1096.29}
+{place=135, name='Amanda Dvorak', school='Champlin Park', grade=12, gender='F', time=1096.91}
+{place=136, name='Megan Ask', school='Buffalo', grade=10, gender='F', time=1100.31}
+{place=137, name='Maddie Lamo', school='Edina', grade=11, gender='F', time=1106.25}
+{place=138, name='Alyse Kaml', school='Champlin Park', grade=11, gender='F', time=1108.1}
+{place=139, name='Betsy Cogan', school='Roseville', grade=11, gender='F', time=1109.62}
+{place=140, name='Julie Bonham', school='Eastview', grade=12, gender='F', time=1112.56}
+{place=141, name='Alison Heroux', school='Maple Grove', grade=11, gender='F', time=1126.37}
+{place=142, name='Katherine McLellan', school='Edina', grade=10, gender='F', time=1142.97}
+{place=143, name='Megan Johnston', school='Maple Grove', grade=11, gender='F', time=1144.24}
+{place=144, name='Kelsie Johnson', school='Champlin Park', grade=11, gender='F', time=1165.64}
+{place=145, name='Sandra Ruhr', school='Buffalo', grade=10, gender='F', time=1174.83}
+{place=146, name='Mandy Samuelson', school='Buffalo', grade=12, gender='F', time=1177.2}

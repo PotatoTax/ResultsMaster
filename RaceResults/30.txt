@@ -1,0 +1,53 @@
+Race : 30
+{place=1, name='Tim Holter', school='Cambridge-Isanti', grade=7, gender='M', time=750.33}
+{place=2, name='Derick Berhow', school='STMA', grade=8, gender='M', time=766.45}
+{place=3, name='Kyle Sandberg', school='Buffalo', grade=8, gender='M', time=767.94}
+{place=4, name='Ben Brion', school='Monticello', grade=8, gender='M', time=768.76}
+{place=5, name='Trevor Riles', school='STMA', grade=8, gender='M', time=775.04}
+{place=6, name='Alex Unger', school='Monticello', grade=8, gender='M', time=776.32}
+{place=7, name='Andrew Crocker', school='Big Lake', grade=8, gender='M', time=776.61}
+{place=8, name='David Joseph', school='STMA', grade=7, gender='M', time=787.48}
+{place=9, name='Kyle Salonek', school='STMA', grade=8, gender='M', time=791.82}
+{place=10, name='Blake Solberg', school='Buffalo', grade=8, gender='M', time=800.37}
+{place=11, name='Grant Brakob', school='Monticello', grade=8, gender='M', time=801.83}
+{place=12, name='Nathan Lemke', school='Monticello', grade=8, gender='M', time=805.06}
+{place=13, name='Billy Eifert', school='Cambridge-Isanti', grade=8, gender='M', time=813.22}
+{place=14, name='Connor Graham', school='Buffalo', grade=8, gender='M', time=813.58}
+{place=15, name='Charles Nolt', school='Monticello', grade=8, gender='M', time=817.2}
+{place=16, name='Scott Albares', school='Monticello', grade=8, gender='M', time=820.6}
+{place=17, name='Mason Loegering', school='Big Lake', grade=7, gender='M', time=825.18}
+{place=18, name='Sam Papas', school='STMA', grade=8, gender='M', time=825.57}
+{place=19, name='Dalton Sonenstahl', school='Big Lake', grade=7, gender='M', time=825.79}
+{place=20, name='Mark Frank', school='STMA', grade=8, gender='M', time=826.85}
+{place=21, name='Brett Kalnbach', school='Monticello', grade=8, gender='M', time=829.85}
+{place=22, name='Steven Thomalla', school='Big Lake', grade=7, gender='M', time=833.65}
+{place=23, name='Jordan Land', school='Monticello', grade=8, gender='M', time=845.73}
+{place=24, name='Dennis Joerg', school='Monticello', grade=7, gender='M', time=847.27}
+{place=25, name='Danny Moes', school='Becker', grade=8, gender='M', time=848.04}
+{place=26, name='Erick Traut', school='Monticello', grade=8, gender='M', time=852.31}
+{place=27, name='Josh Henry', school='Monticello', grade=8, gender='M', time=857.57}
+{place=28, name='Bailey Denzer', school='Monticello', grade=7, gender='M', time=861.53}
+{place=29, name='Jordan Walters', school='Monticello', grade=8, gender='M', time=863.46}
+{place=30, name='Aaron Sohler', school='Monticello', grade=8, gender='M', time=864.9}
+{place=31, name='Hunter Kopff', school='Monticello', grade=7, gender='M', time=868.25}
+{place=32, name='Chad Barthel', school='STMA', grade=7, gender='M', time=870.55}
+{place=33, name='Jack Davis', school='Buffalo', grade=8, gender='M', time=877.45}
+{place=34, name='Daniel Evans', school='Cambridge-Isanti', grade=8, gender='M', time=879.55}
+{place=35, name='Cody Dessellier Dessellier', school='STMA', grade=7, gender='M', time=880.09}
+{place=36, name='Eric Ramerth', school='Big Lake', grade=7, gender='M', time=886.43}
+{place=37, name='Josh Popp', school='Becker', grade=7, gender='M', time=894.46}
+{place=38, name='Matt Beck', school='STMA', grade=8, gender='M', time=901.38}
+{place=39, name='Brian Duval', school='Cambridge-Isanti', grade=7, gender='M', time=907.6}
+{place=40, name='Dan Aubol', school='Big Lake', grade=8, gender='M', time=909.89}
+{place=41, name='John Suddard-Bangsun', school='Monticello', grade=7, gender='M', time=916.98}
+{place=42, name='Trent Hoffer', school='Princeton', grade=7, gender='M', time=920.61}
+{place=43, name='Shane Lally', school='STMA', grade=7, gender='M', time=922.15}
+{place=44, name='Cody Anderson', school='Cambridge-Isanti', grade=7, gender='M', time=929.47}
+{place=45, name='Derek Hein', school='STMA', grade=8, gender='M', time=930.08}
+{place=46, name='Tom Tessier', school='Monticello', grade=7, gender='M', time=930.93}
+{place=47, name='Sam Kemp', school='Buffalo', grade=8, gender='M', time=956.35}
+{place=48, name='Tyler Thomas', school='Big Lake', grade=7, gender='M', time=957.39}
+{place=49, name='Derek Guthmiller', school='Big Lake', grade=7, gender='M', time=957.75}
+{place=50, name='Cody Johnson', school='Buffalo', grade=8, gender='M', time=1014.03}
+{place=51, name='Josh Collins', school='Princeton', grade=7, gender='M', time=1046.82}
+{place=52, name='Adam Sandberg', school='Buffalo', grade=7, gender='M', time=1061.43}

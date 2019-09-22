@@ -1,0 +1,135 @@
+Race : 805
+{place=1, name='Grace Zieske', school='Waconia', grade=7, gender='F', time=1051.54}
+{place=2, name='Alyssa Torola', school='Dassel-Cokato', grade=12, gender='F', time=1052.39}
+{place=3, name='Shanna Grambart', school='Annandale', grade=12, gender='F', time=1080.0}
+{place=4, name='Briana Canesi', school='Annandale', grade=7, gender='F', time=1086.27}
+{place=5, name='Julia Massmann', school='Annandale', grade=9, gender='F', time=1090.93}
+{place=6, name='Jennifer Schommer', school='Hutchinson', grade=9, gender='F', time=1097.23}
+{place=7, name='Ella Dahlin', school='Holy Family Catholic', grade=12, gender='F', time=1101.06}
+{place=8, name='Paige Strigel', school='Holy Family Catholic', grade=10, gender='F', time=1101.29}
+{place=9, name='Madilyn Marohn', school='Annandale', grade=8, gender='F', time=1110.19}
+{place=10, name='Allyson Marrs', school='Waconia', grade=10, gender='F', time=1118.52}
+{place=11, name='Bobbie Jo Benda', school='Dassel-Cokato', grade=11, gender='F', time=1120.75}
+{place=12, name='Nadine Schwanke', school='Orono', grade=12, gender='F', time=1122.54}
+{place=13, name='Gabrielle Ward', school='Annandale', grade=10, gender='F', time=1124.04}
+{place=14, name='Madison Kasper', school='Annandale', grade=11, gender='F', time=1130.46}
+{place=15, name='Abbey Halonen', school='Dassel-Cokato', grade=12, gender='F', time=1134.95}
+{place=16, name='Nicole Schommer', school='Hutchinson', grade=11, gender='F', time=1136.79}
+{place=17, name='Ally Harlander', school='Hutchinson', grade=9, gender='F', time=1146.7}
+{place=18, name='Taylor Sangren', school='Dassel-Cokato', grade=10, gender='F', time=1153.21}
+{place=19, name='Catty Bradley', school='Hutchinson', grade=12, gender='F', time=1160.29}
+{place=20, name='Ashley Kendrick', school='Waconia', grade=7, gender='F', time=1160.79}
+{place=21, name='Jera Zellmann', school='Waconia', grade=11, gender='F', time=1162.54}
+{place=22, name='Sidney Zieske', school='Waconia', grade=8, gender='F', time=1164.77}
+{place=23, name='Olivia Jacobs', school='Delano', grade=11, gender='F', time=1165.77}
+{place=24, name='Lela Torola', school='Dassel-Cokato', grade=9, gender='F', time=1172.06}
+{place=25, name='Lauren Strigel', school='Holy Family Catholic', grade=12, gender='F', time=1177.79}
+{place=26, name='Emily Quandt', school='Annandale', grade=10, gender='F', time=1193.79}
+{place=27, name='Meghan Matt', school='Mound-Westonka', grade=10, gender='F', time=1194.79}
+{place=28, name='Sandi Hawley', school='Litchfield', grade=10, gender='F', time=1196.25}
+{place=29, name='Katherine Spurlock', school='Orono', grade=12, gender='F', time=1197.66}
+{place=30, name='Kylie Hughes', school='Hutchinson', grade=10, gender='F', time=1208.29}
+{place=31, name='Emily Kirsch', school='Holy Family Catholic', grade=12, gender='F', time=1208.81}
+{place=32, name='Cali Patten', school='Dassel-Cokato', grade=12, gender='F', time=1210.81}
+{place=33, name='Colleen Nazzaro', school='Waconia', grade=11, gender='F', time=1212.81}
+{place=34, name='Kirsten Barott', school='Glencoe-Silver Lake', grade=10, gender='F', time=1214.5}
+{place=35, name='Christina Busche', school='Dassel-Cokato', grade=10, gender='F', time=1216.31}
+{place=36, name='Chloe Lilliston', school='Delano', grade=7, gender='F', time=1217.52}
+{place=37, name='Katelyn  Johnson', school='Annandale', grade=10, gender='F', time=1218.93}
+{place=38, name='Sam Wilsey', school='Waconia', grade=10, gender='F', time=1222.79}
+{place=39, name='Kathryn Fahrenkamp', school='Waconia', grade=7, gender='F', time=1224.04}
+{place=40, name='Lucy Soderstrom', school='Orono', grade=10, gender='F', time=1224.56}
+{place=41, name='Emily Shaw', school='Waconia', grade=11, gender='F', time=1225.41}
+{place=42, name='Rebecca Schoen', school='Orono', grade=11, gender='F', time=1229.68}
+{place=43, name='Mavis Ekholm', school='Annandale', grade=11, gender='F', time=1234.77}
+{place=44, name='Lydia Weinand', school='Waconia', grade=11, gender='F', time=1235.77}
+{place=45, name='Gunn Reinertsen', school='Hutchinson', grade=12, gender='F', time=1244.29}
+{place=46, name='Kenedy Ferkingstad', school='Dassel-Cokato', grade=10, gender='F', time=1249.16}
+{place=47, name='Marlaina Chelman', school='Glencoe-Silver Lake', grade=9, gender='F', time=1249.31}
+{place=48, name='Morgan Berg', school='Dassel-Cokato', grade=11, gender='F', time=1251.0}
+{place=49, name='Riley Rassman', school='Waconia', grade=8, gender='F', time=1253.04}
+{place=50, name='Claire Goloja', school='Waconia', grade=8, gender='F', time=1253.04}
+{place=51, name='Katherine Hughes', school='Waconia', grade=10, gender='F', time=1254.25}
+{place=52, name='Aleah Jones', school='Waconia', grade=10, gender='F', time=1256.79}
+{place=53, name='Ashley Pederson', school='Dassel-Cokato', grade=9, gender='F', time=1261.77}
+{place=54, name='Rachel Oeffling', school='Delano', grade=12, gender='F', time=1263.0}
+{place=55, name='Paige Sangren', school='Dassel-Cokato', grade=12, gender='F', time=1263.56}
+{place=56, name='Bailey Kiel', school='Waconia', grade=11, gender='F', time=1263.6}
+{place=57, name='Mackenzie Strehle', school='Mound-Westonka', grade=12, gender='F', time=1264.02}
+{place=58, name='Victoria Harder', school='Waconia', grade=10, gender='F', time=1264.29}
+{place=59, name='Claire Rude', school='Mound-Westonka', grade=10, gender='F', time=1265.27}
+{place=60, name='Paulina Gabos', school='Orono', grade=11, gender='F', time=1265.27}
+{place=61, name='Annie Anderson', school='Dassel-Cokato', grade=10, gender='F', time=1266.81}
+{place=62, name='Annah Fritz', school='Waconia', grade=8, gender='F', time=1269.08}
+{place=63, name='Rachel Fay', school='Orono', grade=10, gender='F', time=1274.77}
+{place=64, name='Addie  Clarke', school='Mound-Westonka', grade=11, gender='F', time=1278.81}
+{place=65, name='Megan Daggett', school='Waconia', grade=10, gender='F', time=1279.67}
+{place=66, name='Jayden Debus', school='Waconia', grade=10, gender='F', time=1283.81}
+{place=67, name='Jenna Loch', school='Annandale', grade=11, gender='F', time=1283.81}
+{place=68, name='Hannah Brustad', school='Mound-Westonka', grade=12, gender='F', time=1287.56}
+{place=69, name='Kartina Bigalk', school='Annandale', grade=11, gender='F', time=1293.65}
+{place=70, name='Katelyn Siebert', school='Waconia', grade=7, gender='F', time=1294.27}
+{place=71, name='Elle Swanson', school='Waconia', grade=11, gender='F', time=1300.77}
+{place=72, name='Maddie Ohlson', school='Waconia', grade=10, gender='F', time=1303.97}
+{place=73, name='Katrina Impola', school='Dassel-Cokato', grade=11, gender='F', time=1307.47}
+{place=74, name='Samantha Dahlke', school='Glencoe-Silver Lake', grade=12, gender='F', time=1307.56}
+{place=75, name='Marilyn Saulsbury', school='Dassel-Cokato', grade=12, gender='F', time=1308.29}
+{place=76, name='Amanda Van Den Berg', school='Waconia', grade=9, gender='F', time=1308.92}
+{place=77, name='Alecia Alto', school='Waconia', grade=11, gender='F', time=1311.31}
+{place=78, name='Vanessa Livermore', school='Waconia', grade=11, gender='F', time=1312.31}
+{place=79, name='Abby Kalenberg', school='Waconia', grade=12, gender='F', time=1312.54}
+{place=80, name='Shanie Streachek', school='Delano', grade=9, gender='F', time=1312.54}
+{place=81, name='Molly  Klima', school='Waconia', grade=10, gender='F', time=1313.08}
+{place=82, name='Chloe McEnelly', school='Waconia', grade=8, gender='F', time=1313.95}
+{place=83, name='Megan Lind', school='Waconia', grade=11, gender='F', time=1314.56}
+{place=84, name='Kasey Reese', school='Orono', grade=10, gender='F', time=1317.81}
+{place=85, name='Erika Cover', school='Waconia', grade=10, gender='F', time=1321.06}
+{place=86, name='Nicole Groeneveld', school='Waconia', grade=11, gender='F', time=1328.38}
+{place=87, name='Hailey Mueller', school='Litchfield', grade=11, gender='F', time=1332.02}
+{place=88, name='Alisa Godejahn', school='Litchfield', grade=11, gender='F', time=1332.02}
+{place=89, name='Elizabeth Erenstein', school='Waconia', grade=7, gender='F', time=1334.07}
+{place=90, name='Makarena Faundez Amigo', school='Waconia', grade=10, gender='F', time=1334.81}
+{place=91, name='Tori Marschall', school='Dassel-Cokato', grade=12, gender='F', time=1335.81}
+{place=92, name='Claire Hagstrom', school='Annandale', grade=9, gender='F', time=1337.72}
+{place=93, name='Ellie Schmidt', school='Delano', grade=12, gender='F', time=1341.06}
+{place=94, name='Carli Christensen', school='Litchfield', grade=9, gender='F', time=1343.31}
+{place=95, name='Kennedy  Penk', school='Litchfield', grade=9, gender='F', time=1343.43}
+{place=96, name='Becca Green', school='Glencoe-Silver Lake', grade=11, gender='F', time=1346.81}
+{place=97, name='Elizabeth Kern', school='Waconia', grade=9, gender='F', time=1347.29}
+{place=98, name='Elizabeth Beuning', school='Waconia', grade=10, gender='F', time=1349.11}
+{place=99, name='Dana Hatfield', school='Waconia', grade=10, gender='F', time=1351.54}
+{place=100, name='Sarah Gifford', school='Waconia', grade=9, gender='F', time=1352.06}
+{place=101, name='Sarah Weisbecker', school='Waconia', grade=10, gender='F', time=1352.95}
+{place=102, name='Dayo Wadsworth', school='Hutchinson', grade=12, gender='F', time=1360.27}
+{place=103, name='Olivia Dahlin', school='Dassel-Cokato', grade=10, gender='F', time=1361.06}
+{place=104, name='Sydney Morton', school='Waconia', grade=12, gender='F', time=1366.36}
+{place=105, name='Abby Esser', school='Hutchinson', grade=12, gender='F', time=1366.98}
+{place=106, name='Jennifer Bistodeau', school='Dassel-Cokato', grade=11, gender='F', time=1368.56}
+{place=107, name='Abigail Van Den Berg', school='Waconia', grade=11, gender='F', time=1370.91}
+{place=108, name='Ella Wuollet', school='Dassel-Cokato', grade=12, gender='F', time=1373.25}
+{place=109, name='Julie Berger', school='Orono', grade=11, gender='F', time=1378.81}
+{place=110, name='Courtney Halonen', school='Dassel-Cokato', grade=11, gender='F', time=1380.0}
+{place=111, name='Mary Schmidt', school='Glencoe-Silver Lake', grade=11, gender='F', time=1386.31}
+{place=112, name='Halle White', school='Orono', grade=10, gender='F', time=1387.81}
+{place=113, name='Mary Fisher', school='Orono', grade=12, gender='F', time=1390.52}
+{place=114, name='Madison Schochenmaier', school='Waconia', grade=10, gender='F', time=1394.97}
+{place=115, name='Julia Peller', school='Dassel-Cokato', grade=12, gender='F', time=1399.42}
+{place=116, name='Peyton Miska-Alberts', school='Glencoe-Silver Lake', grade=11, gender='F', time=1400.81}
+{place=117, name='Payton Wills', school='Waconia', grade=7, gender='F', time=1402.27}
+{place=118, name='Katya Sparboe', school='Dassel-Cokato', grade=9, gender='F', time=1424.81}
+{place=119, name='Mikanna Maresh', school='Glencoe-Silver Lake', grade=11, gender='F', time=1452.22}
+{place=120, name='Nikki Hannan', school='Delano', grade=10, gender='F', time=1454.64}
+{place=121, name='Madison Harvala', school='Waconia', grade=10, gender='F', time=1468.81}
+{place=122, name='Eliza O'Brien', school='Orono', grade=10, gender='F', time=1476.73}
+{place=123, name='Holly Heldt', school='Waconia', grade=10, gender='F', time=1476.93}
+{place=124, name='Josie Schmitt', school='Glencoe-Silver Lake', grade=11, gender='F', time=1477.81}
+{place=125, name='Veronica Spurbeck', school='Mound-Westonka', grade=12, gender='F', time=1488.73}
+{place=126, name='Lily Frenete', school='Mound-Westonka', grade=12, gender='F', time=1501.06}
+{place=127, name='Emily Frisinger', school='Waconia', grade=10, gender='F', time=1504.7}
+{place=128, name='Madison Sherwood', school='Waconia', grade=12, gender='F', time=1521.81}
+{place=129, name='Aleya Huebner', school='Waconia', grade=10, gender='F', time=1559.11}
+{place=130, name='Makayla Gustafson', school='Dassel-Cokato', grade=11, gender='F', time=1658.81}
+{place=131, name='Kiersten Short', school='Waconia', grade=12, gender='F', time=1757.15}
+{place=132, name='Emily Frey', school='Waconia', grade=11, gender='F', time=1758.56}
+{place=133, name='Sammi Lund', school='Waconia', grade=11, gender='F', time=1758.77}
+{place=134, name='Maddy Kohrman', school='Holy Family Catholic', grade=9, gender='F', time=1854.45}

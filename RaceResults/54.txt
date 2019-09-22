@@ -1,0 +1,53 @@
+Race : 54
+{place=1, name='Jonathan Stubliski', school='Henry Sibley', grade=12, gender='M', time=965.98}
+{place=2, name='Nick Saucedo', school='Henry Sibley', grade=12, gender='M', time=973.57}
+{place=3, name='Pieter Gagnon', school='Washburn', grade=11, gender='M', time=1000.53}
+{place=4, name='Joe Wells', school='Minneapolis Southwest', grade=11, gender='M', time=1022.32}
+{place=5, name='Chris Wilson', school='Minneapolis Southwest', grade=12, gender='M', time=1023.23}
+{place=6, name='Will Nielsen', school='Richfield', grade=11, gender='M', time=1032.75}
+{place=7, name='Sam Shidla', school='Mound-Westonka', grade=12, gender='M', time=1058.09}
+{place=8, name='Paul Weigel', school='Holy Family Catholic', grade=11, gender='M', time=1058.48}
+{place=9, name='Jon Libra', school='Richfield', grade=12, gender='M', time=1065.36}
+{place=10, name='Alex Syverson', school='Minneapolis Southwest', grade=12, gender='M', time=1066.79}
+{place=11, name='Scott Vaughn', school='Henry Sibley', grade=11, gender='M', time=1069.67}
+{place=12, name='Jake Senn', school='Washburn', grade=12, gender='M', time=1074.59}
+{place=13, name='Kyle Maloney', school='Richfield', grade=8, gender='M', time=1074.98}
+{place=14, name='Andrew Tilman', school='St Louis Park', grade=12, gender='M', time=1076.28}
+{place=15, name='Elliott Unseth', school='Holy Family Catholic', grade=11, gender='M', time=1080.0}
+{place=16, name='Dylan Cheever', school='Minneapolis Southwest', grade=10, gender='M', time=1080.29}
+{place=17, name='Chad Richards', school='Mound-Westonka', grade=12, gender='M', time=1080.9}
+{place=18, name='Tim Cheesebro', school='St Louis Park', grade=12, gender='M', time=1081.4}
+{place=19, name='Brian Curran', school='Holy Family Catholic', grade=11, gender='M', time=1083.15}
+{place=20, name='Mitch Miller', school='Mound-Westonka', grade=11, gender='M', time=1085.79}
+{place=21, name='Adam Luesse', school='Mound-Westonka', grade=12, gender='M', time=1089.07}
+{place=22, name='Tho Kieu', school='Minneapolis Southwest', grade=12, gender='M', time=1091.15}
+{place=23, name='Matt Harrison', school='Mound-Westonka', grade=10, gender='M', time=1093.03}
+{place=24, name='Josh Eide', school='Henry Sibley', grade=10, gender='M', time=1093.88}
+{place=25, name='Sean Vig', school='St Louis Park', grade=12, gender='M', time=1103.02}
+{place=26, name='Joel Graczyk', school='Holy Family Catholic', grade=11, gender='M', time=1103.38}
+{place=27, name='Luke Sperduto', school='Orono', grade=12, gender='M', time=1105.57}
+{place=28, name='Kyle Peterson', school='Mound-Westonka', grade=10, gender='M', time=1106.25}
+{place=29, name='Dillon Davis', school='St Louis Park', grade=9, gender='M', time=1108.78}
+{place=30, name='Josh Phenow', school='Richfield', grade=11, gender='M', time=1114.05}
+{place=31, name='Gary Babatz', school='St Louis Park', grade=11, gender='M', time=1118.42}
+{place=32, name='Dan Opheim', school='Mound-Westonka', grade=11, gender='M', time=1122.36}
+{place=33, name='Tyler Hendrickson', school='St Louis Park', grade=12, gender='M', time=1128.98}
+{place=34, name='Ryan Macey', school='Henry Sibley', grade=12, gender='M', time=1131.78}
+{place=35, name='Cole Hendrickson', school='St Louis Park', grade=9, gender='M', time=1134.81}
+{place=36, name='Adam Iverson', school='Holy Family Catholic', grade=10, gender='M', time=1136.98}
+{place=37, name='Neil Hanke', school='Orono', grade=12, gender='M', time=1146.17}
+{place=38, name='Graham Hanson', school='Richfield', grade=10, gender='M', time=1157.36}
+{place=39, name='Robert S Mrkonich', school='Orono', grade=12, gender='M', time=1162.29}
+{place=40, name='Daniel Geiger', school='Orono', grade=12, gender='M', time=1165.19}
+{place=41, name='Max Morgen', school='Henry Sibley', grade=12, gender='M', time=1174.88}
+{place=42, name='Sam Stemper', school='Richfield', grade=12, gender='M', time=1177.48}
+{place=43, name='Zeb Scanlan', school='Minneapolis Southwest', grade=11, gender='M', time=1187.98}
+{place=44, name='Brad Paradise', school='Holy Family Catholic', grade=12, gender='M', time=1189.48}
+{place=45, name='Brent Schultz', school='Orono', grade=10, gender='M', time=1204.46}
+{place=46, name='Zachary Fiepke', school='Orono', grade=8, gender='M', time=1216.29}
+{place=47, name='Aleck Hiscox', school='Holy Family Catholic', grade=12, gender='M', time=1219.11}
+{place=48, name='Matt Hensel', school='Henry Sibley', grade=11, gender='M', time=1230.34}
+{place=49, name='Taylor Vanoosbree', school='Orono', grade=11, gender='M', time=1234.75}
+{place=50, name='Terrence Demmings', school='Washburn', grade=11, gender='M', time=1292.32}
+{place=51, name='Tim Markos', school='Richfield', grade=10, gender='M', time=1358.11}
+{place=52, name='Mckinley Johnson', school='Washburn', grade=10, gender='M', time=1626.01}

@@ -1,0 +1,190 @@
+Race : 2688
+{place=1, name='Ryan Wirz', school='EV-W-K', grade=8, gender='M', time=741.3}
+{place=2, name='Bryce Kjesbo', school='West Central', grade=8, gender='M', time=751.3}
+{place=3, name='Alex Jennissen', school='Foley', grade=8, gender='M', time=767.8}
+{place=4, name='Jett Kubesh', school='New London-Spicer', grade=8, gender='M', time=769.4}
+{place=5, name='Mason Grove', school='Osakis', grade=8, gender='M', time=770.9}
+{place=6, name='Charlie Ausmus', school='Pine City', grade=7, gender='M', time=771.3}
+{place=7, name='Jack Courrier', school='West Central', grade=8, gender='M', time=777.4}
+{place=8, name='Alex Williams', school='Mora', grade=8, gender='M', time=777.4}
+{place=9, name='Weston  Harris', school='Foley', grade=7, gender='M', time=781.4}
+{place=10, name='Brennen Gustafson', school='Osakis', grade=8, gender='M', time=783.7}
+{place=11, name='Zach Fiskness', school='Osakis', grade=8, gender='M', time=784.8}
+{place=12, name='Jacob Taplin', school='Osakis', grade=8, gender='M', time=785.6}
+{place=13, name='Marcus Hayes', school='Royalton', grade=8, gender='M', time=794.3}
+{place=14, name='Jameson Dale', school='Brainerd', grade=8, gender='M', time=802.7}
+{place=15, name='Henry Vetsch', school='New London-Spicer', grade=7, gender='M', time=810.1}
+{place=16, name='Camden  Anderson', school='West Central', grade=8, gender='M', time=817.1}
+{place=17, name='Ben Stadum', school='Brainerd', grade=7, gender='M', time=821.9}
+{place=18, name='Roman McKinney', school='Pine City', grade=7, gender='M', time=822.4}
+{place=19, name='Joel Kelling', school='Mora', grade=8, gender='M', time=833.8}
+{place=20, name='Matthew Szucs', school='Milaca', grade=8, gender='M', time=838.1}
+{place=21, name='Noah Borgerding', school='Sauk Centre', grade=7, gender='M', time=838.1}
+{place=22, name='Owen  Lee', school='New London-Spicer', grade=7, gender='M', time=838.6}
+{place=23, name='James Rabasco', school='Brainerd', grade=8, gender='M', time=840.5}
+{place=24, name='Alexander Rindels', school='Zimmerman', grade=7, gender='M', time=840.7}
+{place=25, name='Joe Neumann', school='Brainerd', grade=7, gender='M', time=851.6}
+{place=26, name='Griffin Stiel', school='Hinckley-Finlayson', grade=8, gender='M', time=851.9}
+{place=27, name='Owen Szoka', school='Mora', grade=8, gender='M', time=851.9}
+{place=28, name='Ayden Fitzgerald', school='Maple Lake', grade=7, gender='M', time=860.7}
+{place=29, name='Guy Clemons-Virnig', school='Pierz', grade=7, gender='M', time=862.6}
+{place=30, name='Daniel Heuring', school='EV-W-K', grade=8, gender='M', time=865.9}
+{place=31, name='Brodric Jenc', school='Zimmerman', grade=8, gender='M', time=866.7}
+{place=32, name='Cole Hofstad', school='Royalton', grade=7, gender='M', time=871.2}
+{place=33, name='Gavin Hansen', school='Heritage Christian', grade=8, gender='M', time=872.4}
+{place=34, name='Jayden Mann', school='Zimmerman', grade=7, gender='M', time=872.6}
+{place=35, name='Thomas Avra', school='Heritage Christian', grade=9, gender='M', time=872.6}
+{place=36, name='Cyler Ruhoff', school='Foley', grade=8, gender='M', time=877.7}
+{place=37, name='Ben Bye', school='West Central', grade=7, gender='M', time=878.1}
+{place=38, name='Zander Olmschenk', school='Sauk Centre', grade=8, gender='M', time=879.6}
+{place=39, name='Eli Fromm', school='Pine City', grade=7, gender='M', time=879.6}
+{place=40, name='Levi Wilson', school='Pine City', grade=7, gender='M', time=879.8}
+{place=41, name='Axel Mertens', school='Staples-Motley', grade=7, gender='M', time=882.2}
+{place=42, name='Gabriel Olson', school='Milaca', grade=8, gender='M', time=882.9}
+{place=43, name='Levi Koltes', school='Holdingford', grade=7, gender='M', time=883.5}
+{place=44, name='Paul Skretvedt', school='New London-Spicer', grade=7, gender='M', time=883.7}
+{place=45, name='Ledgyn Nelson', school='Mora', grade=7, gender='M', time=884.2}
+{place=46, name='Axton Svir', school='Brainerd', grade=7, gender='M', time=885.7}
+{place=47, name='Nate Nelson', school='New London-Spicer', grade=7, gender='M', time=885.9}
+{place=48, name='Thomas Leom', school='Milaca', grade=8, gender='M', time=888.1}
+{place=49, name='Tanner Berry', school='Mora', grade=8, gender='M', time=888.6}
+{place=50, name='Kyler J Carlson', school='Brainerd', grade=7, gender='M', time=891.2}
+{place=51, name='Ted Anderson', school='Mora', grade=8, gender='M', time=893.1}
+{place=52, name='Sawyer McDaniel', school='Pine City', grade=7, gender='M', time=894.2}
+{place=53, name='Eli Knapp', school='Brainerd', grade=8, gender='M', time=898.6}
+{place=54, name='Ben Berg', school='Milaca', grade=7, gender='M', time=899.2}
+{place=55, name='Bryer Willert', school='Pine City', grade=7, gender='M', time=899.6}
+{place=56, name='Samuel Lueck', school='Howard Lake-Waverly', grade=7, gender='M', time=901.8}
+{place=57, name='Hunter Walburn', school='Royalton', grade=8, gender='M', time=902.2}
+{place=58, name='Colton Froehling', school='Hinckley-Finlayson', grade=7, gender='M', time=903.3}
+{place=59, name='Nathan Tax', school='Pierz', grade=6, gender='M', time=904.5}
+{place=60, name='Alan Haglin', school='Maple Lake', grade=8, gender='M', time=905.9}
+{place=61, name='Max Erickson', school='Crosby-Ironton', grade=8, gender='M', time=909.2}
+{place=62, name='Leif Hoffman', school='Brainerd', grade=8, gender='M', time=910.2}
+{place=63, name='Nathan Klatt', school='Annandale ', grade=7, gender='M', time=911.2}
+{place=64, name='Dalton Hosna', school='Hinckley-Finlayson', grade=8, gender='M', time=917.7}
+{place=65, name='Logan Anglin', school='Maple Lake', grade=7, gender='M', time=921.3}
+{place=66, name='Riley Lauer', school='Albany', grade=7, gender='M', time=921.3}
+{place=67, name='Alex Kueppers', school='Brainerd', grade=6, gender='M', time=921.9}
+{place=68, name='Dominic St. Marie', school='Albany', grade=8, gender='M', time=922.1}
+{place=69, name='Brennan Hill', school='Annandale ', grade=7, gender='M', time=926.6}
+{place=70, name='Lance Nathan', school='Albany', grade=8, gender='M', time=930.2}
+{place=71, name='Noah Mix', school='Foley', grade=7, gender='M', time=930.7}
+{place=72, name='Andrew Hayes', school='Royalton', grade=7, gender='M', time=931.5}
+{place=73, name='Austin Young', school='Heritage Christian', grade=9, gender='M', time=932.9}
+{place=74, name='Willy McCallum', school='Mora', grade=8, gender='M', time=933.9}
+{place=75, name='Ryan Yearley', school='Brainerd', grade=6, gender='M', time=934.7}
+{place=76, name='Judah Smith', school='Brainerd', grade=6, gender='M', time=935.2}
+{place=77, name='Owen Klisch', school='Holdingford', grade=7, gender='M', time=936.3}
+{place=78, name='Connor Bacigalupe', school='Brainerd', grade=5, gender='M', time=938.2}
+{place=79, name='Boston Mitzel', school='Long Prairie-Grey Eagle', grade=7, gender='M', time=938.4}
+{place=80, name='Jesse  Goble', school='Brainerd', grade=5, gender='M', time=938.6}
+{place=81, name='Jeremiah Skreen', school='Maple Lake', grade=8, gender='M', time=941.1}
+{place=82, name='Cody Sneller', school='Annandale ', grade=7, gender='M', time=943.1}
+{place=83, name='Jerret Sauer', school='Royalton', grade=7, gender='M', time=943.1}
+{place=84, name='Sam Acker', school='Zimmerman', grade=7, gender='M', time=943.1}
+{place=85, name='Gabe Hallgren', school='Brainerd', grade=7, gender='M', time=948.2}
+{place=86, name='William Schultz', school='Long Prairie-Grey Eagle', grade=7, gender='M', time=950.3}
+{place=87, name='Tyler Classon', school='Albany', grade=7, gender='M', time=951.9}
+{place=88, name='Will Spielmann', school='Annandale ', grade=7, gender='M', time=952.5}
+{place=89, name='Issac Ruegemer', school='Osakis', grade=8, gender='M', time=952.8}
+{place=90, name='Liam Christopherson', school='Howard Lake-Waverly', grade=8, gender='M', time=952.9}
+{place=91, name='Taylor Daucsavage', school='New London-Spicer', grade=7, gender='M', time=953.4}
+{place=92, name='Parker Mathews', school='West Central', grade=8, gender='M', time=955.2}
+{place=93, name='Jack Bock', school='Osakis', grade=8, gender='M', time=956.8}
+{place=94, name='Ivan Rivard', school='Mora', grade=7, gender='M', time=961.4}
+{place=95, name='Ashton Trisko', school='Sauk Centre', grade=7, gender='M', time=964.4}
+{place=96, name='Cody Helm', school='Osakis', grade=8, gender='M', time=967.3}
+{place=97, name='Greg Spilde', school='Otter Tail Central', grade=8, gender='M', time=970.9}
+{place=98, name='Tom Heitzman', school='Holdingford', grade=7, gender='M', time=971.5}
+{place=99, name='Jacob Treu', school='Pine City', grade=8, gender='M', time=972.8}
+{place=100, name='Ben  Mulford', school='Mora', grade=8, gender='M', time=973.6}
+{place=101, name='Dylan Geihsler', school='Otter Tail Central', grade=7, gender='M', time=976.9}
+{place=102, name='Derek Nathe', school='Zimmerman', grade=8, gender='M', time=977.3}
+{place=103, name='AJ Pirrotta', school='New London-Spicer', grade=8, gender='M', time=977.3}
+{place=104, name='Gavin Broz', school='Pine City', grade=8, gender='M', time=978.1}
+{place=105, name='Mclane Robinson', school='Howard Lake-Waverly', grade=7, gender='M', time=979.9}
+{place=106, name='Eli Lippert', school='New London-Spicer', grade=7, gender='M', time=984.1}
+{place=107, name='Aidan  Heggem', school='Otter Tail Central', grade=7, gender='M', time=984.6}
+{place=108, name='Trent Lindquist', school='West Central', grade=7, gender='M', time=984.6}
+{place=109, name='Devin Classon', school='Albany', grade=7, gender='M', time=995.3}
+{place=110, name='Dylan Doffing', school='Annandale ', grade=7, gender='M', time=995.9}
+{place=111, name='Nick Block', school='Royalton', grade=8, gender='M', time=996.5}
+{place=112, name='Rollie Steinbrecher', school='Milaca', grade=7, gender='M', time=996.9}
+{place=113, name='Gavin Kadlec', school='Foley', grade=8, gender='M', time=1001.9}
+{place=114, name='Alex Kurowski', school='EV-W-K', grade=7, gender='M', time=1002.4}
+{place=115, name='Gabe Kroll', school='Staples-Motley', grade=6, gender='M', time=1004.4}
+{place=116, name='Nicholas Jost', school='Maple Lake', grade=8, gender='M', time=1007.6}
+{place=117, name='Everett Mans', school='Hinckley-Finlayson', grade=7, gender='M', time=1009.1}
+{place=118, name='Michael Bradshaw', school='Hinckley-Finlayson', grade=7, gender='M', time=1009.3}
+{place=119, name='Daimien Lord', school='Pine City', grade=7, gender='M', time=1013.4}
+{place=120, name='Carson Donaghue', school='Mora', grade=8, gender='M', time=1019.3}
+{place=121, name='Landon Marketon', school='Howard Lake-Waverly', grade=8, gender='M', time=1020.2}
+{place=122, name='Logan Kueppers', school='Brainerd', grade=6, gender='M', time=1022.4}
+{place=123, name='Evan Flan', school='Long Prairie-Grey Eagle', grade=6, gender='M', time=1025.1}
+{place=124, name='Grant Siegersma', school='Howard Lake-Waverly', grade=8, gender='M', time=1029.6}
+{place=125, name='Aidan Deur', school='Heritage Christian', grade=8, gender='M', time=1032.6}
+{place=126, name='Nathan Nord', school='Milaca', grade=7, gender='M', time=1037.3}
+{place=127, name='AJ Westin', school='Crosby-Ironton', grade=7, gender='M', time=1040.6}
+{place=128, name='Devan Southard', school='Albany', grade=7, gender='M', time=1040.9}
+{place=129, name='Noah Brady', school='Pine City', grade=7, gender='M', time=1051.1}
+{place=130, name='Deacon Foss', school='Pine City', grade=8, gender='M', time=1053.8}
+{place=131, name='Drew Churchill', school='Hinckley-Finlayson', grade=8, gender='M', time=1054.5}
+{place=132, name='Ben Christman', school='Albany', grade=8, gender='M', time=1056.6}
+{place=133, name='Collin Friedrich', school='Holdingford', grade=8, gender='M', time=1057.3}
+{place=134, name='Hunter Huggett', school='Howard Lake-Waverly', grade=8, gender='M', time=1058.5}
+{place=135, name='David Herath', school='Brainerd', grade=7, gender='M', time=1062.8}
+{place=136, name='Oscar Gribauval', school='Pine City', grade=8, gender='M', time=1063.8}
+{place=137, name='Nate Chaussee', school='Brainerd', grade=7, gender='M', time=1066.5}
+{place=138, name='Damian Skwira', school='Holdingford', grade=7, gender='M', time=1069.8}
+{place=139, name='Tyler Lemke', school='Long Prairie-Grey Eagle', grade=6, gender='M', time=1075.3}
+{place=140, name='Gabriel Jergens', school='Milaca', grade=8, gender='M', time=1075.6}
+{place=141, name='Mathew Brunko', school='Sauk Centre', grade=7, gender='M', time=1077.5}
+{place=142, name='Caden Schlichting', school='Pine City', grade=8, gender='M', time=1077.9}
+{place=143, name='Justin Houdek', school='Long Prairie-Grey Eagle', grade=7, gender='M', time=1083.3}
+{place=144, name='Parker Carlson', school='Otter Tail Central', grade=7, gender='M', time=1085.4}
+{place=145, name='Benjamin Beasley', school='Brainerd', grade=8, gender='M', time=1087.5}
+{place=146, name='Henry Fisher', school='Howard Lake-Waverly', grade=7, gender='M', time=1088.6}
+{place=147, name='Harry Dunn', school='Sauk Centre', grade=8, gender='M', time=1090.7}
+{place=148, name='Nathan Zander', school='Maple Lake', grade=8, gender='M', time=1094.1}
+{place=149, name='Joe Neutz', school='Maple Lake', grade=7, gender='M', time=1096.6}
+{place=150, name='Harrison Hultman', school='Milaca', grade=7, gender='M', time=1097.4}
+{place=151, name='Tristan Wilson', school='Brainerd', grade=7, gender='M', time=1100.8}
+{place=152, name='Adam Carlier', school='Hinckley-Finlayson', grade=8, gender='M', time=1103.4}
+{place=153, name='Eli Millbeck', school='Otter Tail Central', grade=8, gender='M', time=1108.9}
+{place=154, name='Aiden Larson', school='Howard Lake-Waverly', grade=8, gender='M', time=1110.1}
+{place=155, name='Austin Lindstrom', school='Milaca', grade=7, gender='M', time=1132.7}
+{place=156, name='Eyan Potter', school='Brainerd', grade=8, gender='M', time=1144.3}
+{place=157, name='Austin Wahl', school='Foley', grade=8, gender='M', time=1144.3}
+{place=158, name='Landon McFadden', school='Howard Lake-Waverly', grade=7, gender='M', time=1144.9}
+{place=159, name='Reid Judd', school='Staples-Motley', grade=6, gender='M', time=1146.4}
+{place=160, name='Nathan Anderson', school='Long Prairie-Grey Eagle', grade=7, gender='M', time=1147.8}
+{place=161, name='Brody Ammann', school='Mora', grade=8, gender='M', time=1162.9}
+{place=162, name='Michael McIntee', school='Annandale ', grade=8, gender='M', time=1162.9}
+{place=163, name='Michael Garcia', school='Howard Lake-Waverly', grade=7, gender='M', time=1172.5}
+{place=164, name='Connor Wood', school='Albany', grade=7, gender='M', time=1177.8}
+{place=165, name='Lukas Jendro', school='Holdingford', grade=8, gender='M', time=1179.3}
+{place=166, name='Hunter Donabauer', school='Albany', grade=7, gender='M', time=1181.8}
+{place=167, name='Liam van der Hagen', school='Albany', grade=7, gender='M', time=1185.6}
+{place=168, name='Jonah Jacobson', school='Mora', grade=8, gender='M', time=1187.9}
+{place=169, name='Keegan Lommel ', school='EV-W-K', grade=8, gender='M', time=1216.4}
+{place=170, name='Cadence Hartman', school='Otter Tail Central', grade=8, gender='M', time=1219.2}
+{place=171, name='Cayden  Mansker', school='Otter Tail Central', grade=7, gender='M', time=1225.6}
+{place=172, name='Ben Poirier', school='Howard Lake-Waverly', grade=7, gender='M', time=1235.6}
+{place=173, name='Harrison Kreft', school='Hinckley-Finlayson', grade=8, gender='M', time=1245.1}
+{place=174, name='Alex Ludlow', school='EV-W-K', grade=8, gender='M', time=1250.7}
+{place=175, name='Christian Williams', school='Crosby-Ironton', grade=7, gender='M', time=1264.8}
+{place=176, name='Christian Cheney', school='Pierz', grade=6, gender='M', time=1265.4}
+{place=177, name='Forest Wabaunsee', school='Annandale ', grade=7, gender='M', time=1302.3}
+{place=178, name='Silas Osborne', school='Brainerd', grade=7, gender='M', time=1305.4}
+{place=179, name='Liam Connely', school='Mora', grade=7, gender='M', time=1320.8}
+{place=180, name='Damyen Weaver', school='Albany', grade=7, gender='M', time=1325.8}
+{place=181, name='Trevor Stans', school='Otter Tail Central', grade=7, gender='M', time=1333.3}
+{place=182, name='Blake Schultz', school='Long Prairie-Grey Eagle', grade=7, gender='M', time=1367.2}
+{place=183, name='Ramsey Keranen', school='East Central', grade=7, gender='M', time=1394.1}
+{place=184, name='Wyatt Dehne', school='Howard Lake-Waverly', grade=8, gender='M', time=1423.8}
+{place=185, name='Carson Cherne', school='Albany', grade=8, gender='M', time=1458.1}
+{place=186, name='Nick Merdan', school='Albany', grade=7, gender='M', time=1462.4}
+{place=187, name='Isaac Holland', school='Mora', grade=7, gender='M', time=1465.3}
+{place=188, name='Matthew Masterson', school='Hinckley-Finlayson', grade=8, gender='M', time=1475.8}
+{place=189, name='Ronan Smith', school='St Johns Prep', grade=7, gender='M', time=1488.6}

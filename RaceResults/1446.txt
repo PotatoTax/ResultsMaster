@@ -1,0 +1,117 @@
+Race : 1446
+{place=1, name='Jadon Boots', school='Buffalo', grade=7, gender='M', time=619.89}
+{place=2, name='Jonny Cantin', school='Buffalo', grade=8, gender='M', time=652.14}
+{place=3, name='Drew` Hjelmstad', school='Maple Grove', grade=8, gender='M', time=661.73}
+{place=4, name='Parker  Ryan', school='Buffalo', grade=8, gender='M', time=670.89}
+{place=5, name='Drew Nylander', school='STMA', grade=8, gender='M', time=674.89}
+{place=6, name='Joey Driver', school='STMA', grade=8, gender='M', time=674.89}
+{place=7, name='Flannagan Corkery', school='Rogers', grade=7, gender='M', time=681.23}
+{place=8, name='Nick Bakeberg', school='Buffalo', grade=8, gender='M', time=684.25}
+{place=9, name='Kyle Ross', school='STMA', grade=7, gender='M', time=685.61}
+{place=10, name='Brian Ramola', school='Rogers', grade=7, gender='M', time=685.69}
+{place=11, name='Nate Passig', school='Buffalo', grade=7, gender='M', time=689.11}
+{place=12, name='Matthew Hosmann', school='Maple Grove', grade=7, gender='M', time=689.64}
+{place=13, name='Thomas Libbey', school='STMA', grade=8, gender='M', time=689.89}
+{place=14, name='Bryan Coskey', school='Rogers', grade=8, gender='M', time=690.33}
+{place=15, name='James Lyke', school='STMA', grade=8, gender='M', time=693.58}
+{place=16, name='Ryan Davis', school='Rogers', grade=8, gender='M', time=696.22}
+{place=17, name='Zachary  Helman', school='STMA', grade=8, gender='M', time=697.23}
+{place=18, name='James Dorado', school='Buffalo', grade=7, gender='M', time=698.39}
+{place=19, name='Zach Ingebrigtson', school='STMA', grade=8, gender='M', time=700.69}
+{place=20, name='Brock Olson', school='Maple Grove', grade=7, gender='M', time=701.1}
+{place=21, name='Dalton Cate', school='STMA', grade=7, gender='M', time=703.33}
+{place=22, name='Levi Case', school='Maple Grove', grade=8, gender='M', time=703.64}
+{place=23, name='Hayden O'Connor', school='Rogers', grade=8, gender='M', time=704.52}
+{place=24, name='Caleb Reames', school='STMA', grade=7, gender='M', time=711.64}
+{place=25, name='Tucker Segraves', school='Rogers', grade=8, gender='M', time=711.66}
+{place=26, name='Jon (Jack) Taylor', school='Anoka', grade=8, gender='M', time=711.66}
+{place=27, name='Nate Von Ruden', school='STMA', grade=7, gender='M', time=714.12}
+{place=28, name='Griffin Johnson', school='Maple Grove', grade=7, gender='M', time=714.33}
+{place=29, name='Maxwell Ricks', school='Rogers', grade=7, gender='M', time=716.97}
+{place=30, name='Parker Koland', school='Maple Grove', grade=7, gender='M', time=717.36}
+{place=31, name='Tyler Hill', school='Howard Lake-Waverly', grade=7, gender='M', time=721.89}
+{place=32, name='Andy Huber', school='Rogers', grade=7, gender='M', time=724.02}
+{place=33, name='London Fischer', school='Maple Grove', grade=8, gender='M', time=728.1}
+{place=34, name='Jaari Larson', school='Buffalo', grade=7, gender='M', time=729.89}
+{place=35, name='Jacob Zumbusch', school='Buffalo', grade=8, gender='M', time=730.35}
+{place=36, name='Jackson Trom', school='Maple Grove', grade=8, gender='M', time=732.37}
+{place=37, name='Peyton Smith', school='Rogers', grade=8, gender='M', time=732.77}
+{place=38, name='Micah Hanson', school='Anoka', grade=8, gender='M', time=735.14}
+{place=39, name='Jackson Thour', school='STMA', grade=7, gender='M', time=736.62}
+{place=40, name='Eli Potts', school='STMA', grade=7, gender='M', time=736.62}
+{place=41, name='Caleb Karg', school='Howard Lake-Waverly', grade=7, gender='M', time=742.64}
+{place=42, name='Cayden. Dehmer', school='STMA', grade=8, gender='M', time=743.41}
+{place=43, name='Ashton Mihajlov', school='STMA', grade=7, gender='M', time=747.14}
+{place=44, name='Braden Ridlehoover', school='Rogers', grade=8, gender='M', time=747.89}
+{place=45, name='Sterling Gjesvold', school='STMA', grade=8, gender='M', time=748.0}
+{place=46, name='Luke  Larson', school='Buffalo', grade=8, gender='M', time=749.14}
+{place=47, name='Chase Worth', school='Buffalo', grade=8, gender='M', time=750.33}
+{place=48, name='Isaac Mikkola', school='Maple Grove', grade=7, gender='M', time=752.89}
+{place=49, name='Jack Lyttleton-Frances', school='Maple Grove', grade=7, gender='M', time=752.89}
+{place=50, name='Jared Gregoire', school='Buffalo', grade=7, gender='M', time=753.91}
+{place=51, name='Weston Marx', school='Buffalo', grade=8, gender='M', time=753.91}
+{place=52, name='Nick Stelter', school='STMA', grade=8, gender='M', time=756.54}
+{place=53, name='Justin Holmgren', school='Maple Grove', grade=7, gender='M', time=756.91}
+{place=54, name='Bobby Cilke', school='STMA', grade=7, gender='M', time=756.94}
+{place=55, name='Cooper Petit', school='Maple Grove', grade=8, gender='M', time=763.41}
+{place=56, name='Andrew Shaffer', school='Buffalo', grade=7, gender='M', time=766.69}
+{place=57, name='John Hartnett', school='STMA', grade=7, gender='M', time=772.14}
+{place=58, name='Logan Brecht', school='Rogers', grade=8, gender='M', time=774.14}
+{place=59, name='Jack Swan', school='Rogers', grade=7, gender='M', time=775.61}
+{place=60, name='Ryan Bottema', school='Maple Grove', grade=7, gender='M', time=778.47}
+{place=61, name='Bennett Reines', school='Rogers', grade=8, gender='M', time=778.64}
+{place=62, name='Hunter Korbel', school='Buffalo', grade=8, gender='M', time=780.39}
+{place=63, name='Dillon Cassady', school='Rogers', grade=7, gender='M', time=781.64}
+{place=64, name='Michael Dulski', school='Rogers', grade=7, gender='M', time=784.73}
+{place=65, name='Kyle Sorrentino', school='Maple Grove', grade=8, gender='M', time=787.58}
+{place=66, name='Tyler Suchla', school='STMA', grade=7, gender='M', time=788.14}
+{place=67, name='Dylan Perron', school='STMA', grade=7, gender='M', time=797.79}
+{place=68, name='Andrew Crone', school='Buffalo', grade=7, gender='M', time=798.98}
+{place=69, name='Braden Bjornson', school='Buffalo', grade=7, gender='M', time=801.14}
+{place=70, name='Max Detlefsen', school='STMA', grade=7, gender='M', time=802.62}
+{place=71, name='Andrew  Braun', school='Buffalo', grade=7, gender='M', time=803.36}
+{place=72, name='Brennan Mattson', school='Buffalo', grade=8, gender='M', time=810.33}
+{place=73, name='Hunter Palmer', school='STMA', grade=7, gender='M', time=812.97}
+{place=74, name='Martin Skare', school='STMA', grade=7, gender='M', time=814.0}
+{place=75, name='Curtis Meersman', school='Rogers', grade=8, gender='M', time=814.6}
+{place=76, name='Cade Rosacker', school='Rogers', grade=8, gender='M', time=816.05}
+{place=77, name='Aidan Stevenson', school='STMA', grade=7, gender='M', time=818.03}
+{place=78, name='Jacob Williams', school='Buffalo', grade=7, gender='M', time=819.04}
+{place=79, name='Jackson Cooper', school='Maple Grove', grade=8, gender='M', time=820.39}
+{place=80, name='Jackson Collins', school='STMA', grade=7, gender='M', time=822.89}
+{place=81, name='Lincoln Moehn', school='STMA', grade=8, gender='M', time=825.75}
+{place=82, name='Karsten Locke', school='Buffalo', grade=8, gender='M', time=825.96}
+{place=83, name='Preston Toring', school='STMA', grade=8, gender='M', time=826.35}
+{place=84, name='Cody Kryzer', school='Maple Grove', grade=7, gender='M', time=827.77}
+{place=85, name='Evan  Lovdahl', school='Maple Grove', grade=8, gender='M', time=829.6}
+{place=86, name='Matt Mikolich', school='Rogers', grade=8, gender='M', time=832.64}
+{place=87, name='Lleyton Jocelyn', school='STMA', grade=7, gender='M', time=840.39}
+{place=88, name='William  Holcomb', school='Maple Grove', grade=7, gender='M', time=842.16}
+{place=89, name='Devin Reyes', school='Buffalo', grade=7, gender='M', time=842.41}
+{place=90, name='Issac Badowski', school='Buffalo', grade=7, gender='M', time=845.66}
+{place=91, name='Tyler Tutt', school='Maple Grove', grade=8, gender='M', time=847.08}
+{place=92, name='Kirk Carlson', school='Maple Grove', grade=7, gender='M', time=851.73}
+{place=93, name='Grant Dahl', school='Maple Grove', grade=7, gender='M', time=852.35}
+{place=94, name='Collin Spande', school='Anoka', grade=8, gender='M', time=859.14}
+{place=95, name='Tyler Nosko', school='Anoka', grade=7, gender='M', time=866.58}
+{place=96, name='Blake Northagen', school='Maple Grove', grade=7, gender='M', time=867.39}
+{place=97, name='Brock Perry', school='Buffalo', grade=7, gender='M', time=872.64}
+{place=98, name='Aaron Rourke', school='Buffalo', grade=7, gender='M', time=876.3}
+{place=99, name='Spencer Peterson', school='Buffalo', grade=7, gender='M', time=878.52}
+{place=100, name='Owen  Peterson', school='STMA', grade=8, gender='M', time=880.89}
+{place=101, name='Holden. Bursey', school='STMA', grade=8, gender='M', time=886.05}
+{place=102, name='Spencer French', school='Maple Grove', grade=7, gender='M', time=894.64}
+{place=103, name='Owen Klaphake', school='Buffalo', grade=8, gender='M', time=900.41}
+{place=104, name='Andrew Lubke', school='Rogers', grade=8, gender='M', time=902.05}
+{place=105, name='Aidan Foss', school='STMA', grade=8, gender='M', time=903.14}
+{place=106, name='Charlie Fox', school='STMA', grade=7, gender='M', time=905.33}
+{place=107, name='Justin Rud', school='Buffalo', grade=8, gender='M', time=905.75}
+{place=108, name='Zach Schmitz', school='Rogers', grade=8, gender='M', time=906.35}
+{place=109, name='Santhony Johnson', school='Buffalo', grade=7, gender='M', time=938.0}
+{place=110, name='Aries Bueckers', school='Maple Grove', grade=7, gender='M', time=947.66}
+{place=111, name='Caleb Bigham', school='Maple Grove', grade=7, gender='M', time=953.62}
+{place=112, name='Dev Amin', school='Maple Grove', grade=8, gender='M', time=964.91}
+{place=113, name='Austin Laumann', school='Buffalo', grade=7, gender='M', time=983.03}
+{place=114, name='Ezekiel Riemer', school='Howard Lake-Waverly', grade=7, gender='M', time=985.61}
+{place=115, name='Braden Schiro', school='Buffalo', grade=7, gender='M', time=1026.66}
+{place=116, name='Locke Rowland', school='STMA', grade=8, gender='M', time=1028.45}

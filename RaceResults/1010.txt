@@ -1,0 +1,85 @@
+Race : 1010
+{place=1, name='Theresa Mueller', school='Trinity', grade=12, gender='F', time=910.39}
+{place=2, name='Grace Ennis', school='Trinity', grade=10, gender='F', time=912.02}
+{place=3, name='Mary Naas', school='St Paul Academy', grade=12, gender='F', time=916.08}
+{place=4, name='Kendra Franck', school='Holy Family Catholic', grade=10, gender='F', time=930.08}
+{place=5, name='Carenna  Saunders', school='St Paul Academy', grade=8, gender='F', time=933.91}
+{place=6, name='Brittany Staab', school='St Croix Lutheran', grade=12, gender='F', time=934.11}
+{place=7, name='Lotus Schifsky', school='Trinity', grade=12, gender='F', time=937.33}
+{place=8, name='Maria Eastman', school='Holy Family Catholic', grade=11, gender='F', time=941.42}
+{place=9, name='Rebecca Wilkin', school='Trinity', grade=11, gender='F', time=941.83}
+{place=10, name='Elizabeth Neil', school='Trinity', grade=8, gender='F', time=943.66}
+{place=11, name='Katelyn Barclay', school='Jordan', grade=9, gender='F', time=950.55}
+{place=12, name='Marin Fredrickson', school='Minnehaha Academy', grade=11, gender='F', time=958.33}
+{place=13, name='Morgan Richter', school='Breck', grade=7, gender='F', time=962.4}
+{place=14, name='Lexi Hilton', school='St Paul Academy', grade=11, gender='F', time=966.15}
+{place=15, name='Ellie Haland', school='Math & Science Academy', grade=10, gender='F', time=969.67}
+{place=16, name='Amelia Hornseth', school='Nova Classical Academy', grade=10, gender='F', time=977.02}
+{place=17, name='Kayla Williams', school='Minnehaha Academy', grade=9, gender='F', time=980.45}
+{place=18, name='Jessica Norton', school='Nova Classical Academy', grade=7, gender='F', time=988.13}
+{place=19, name='Val Hart', school='St Paul Academy', grade=9, gender='F', time=989.95}
+{place=20, name='Ellen McCarthy', school='St Paul Academy', grade=12, gender='F', time=990.39}
+{place=21, name='Charlotte Howland', school='Trinity', grade=10, gender='F', time=990.4}
+{place=22, name='Terra Rhoades', school='Minnehaha Academy', grade=9, gender='F', time=1008.42}
+{place=23, name='Kendall Riskevich', school='Breck', grade=8, gender='F', time=1008.92}
+{place=24, name='Anna Maunu', school='Trinity', grade=10, gender='F', time=1010.47}
+{place=25, name='Becky Boehlke', school='St Croix Lutheran', grade=11, gender='F', time=1012.69}
+{place=26, name='Olivia Witt', school='St Croix Prep', grade=9, gender='F', time=1018.92}
+{place=27, name='Grace  Scott', school='Southwest Christian', grade=9, gender='F', time=1023.7}
+{place=28, name='Abby Hanscom', school='Holy Family Catholic', grade=12, gender='F', time=1024.42}
+{place=29, name='Mary New', school='Holy Family Catholic', grade=9, gender='F', time=1029.77}
+{place=30, name='Saakje Hoekstra', school='Minnehaha Academy', grade=11, gender='F', time=1030.59}
+{place=31, name='Greta Siekmeier', school='Math & Science Academy', grade=12, gender='F', time=1031.41}
+{place=32, name='Megan Beulke', school='Holy Family Catholic', grade=9, gender='F', time=1036.5}
+{place=33, name='Katelyn  Schroeder', school='Math & Science Academy', grade=12, gender='F', time=1037.93}
+{place=34, name='Anna Wintz', school='Minnehaha Academy', grade=9, gender='F', time=1037.93}
+{place=35, name='Julia  Clark', school='Math & Science Academy', grade=10, gender='F', time=1038.13}
+{place=36, name='Kian Dahlberg', school='Mounds Park Academy', grade=11, gender='F', time=1041.8}
+{place=37, name='Abby Shaffer', school='Minnehaha Academy', grade=9, gender='F', time=1042.35}
+{place=38, name='Elise Lohmann', school='Math & Science Academy', grade=12, gender='F', time=1047.68}
+{place=39, name='Molly Gardner', school='Mounds Park Academy', grade=10, gender='F', time=1051.71}
+{place=40, name='Jenny Eichten', school='Jordan', grade=11, gender='F', time=1054.42}
+{place=41, name='Grace Kirkpatrick', school='Minnehaha Academy', grade=9, gender='F', time=1054.55}
+{place=42, name='Nora Kempainen', school='St Paul Academy', grade=10, gender='F', time=1055.92}
+{place=43, name='Katie Baumann', school='Math & Science Academy', grade=12, gender='F', time=1057.6}
+{place=44, name='Kathleen Klinzing', school='St Croix Prep', grade=10, gender='F', time=1060.04}
+{place=45, name='Britta Hornback', school='St Croix Prep', grade=7, gender='F', time=1064.92}
+{place=46, name='Alex Westby', school='St Croix Prep', grade=9, gender='F', time=1066.25}
+{place=47, name='Julia Ing', school='Math & Science Academy', grade=12, gender='F', time=1073.67}
+{place=48, name='Ellie Quam', school='Mounds Park Academy', grade=8, gender='F', time=1073.92}
+{place=49, name='Taylin Church', school='Jordan', grade=10, gender='F', time=1087.88}
+{place=50, name='Nina Reamer', school='Mounds Park Academy', grade=8, gender='F', time=1088.27}
+{place=51, name='Lucia Witikko', school='St Croix Prep', grade=7, gender='F', time=1088.88}
+{place=52, name='Casey O'Hern', school='Jordan', grade=11, gender='F', time=1089.08}
+{place=53, name='Savita  Sidhu', school='Jordan', grade=11, gender='F', time=1091.31}
+{place=54, name='Greta  Sirek', school='St Paul Academy', grade=9, gender='F', time=1092.32}
+{place=55, name='Kajsa Johansson', school='Breck', grade=10, gender='F', time=1092.42}
+{place=56, name='Bella Wedes', school='Nova Classical Academy', grade=9, gender='F', time=1096.67}
+{place=57, name='Kyra Lussier', school='Jordan', grade=7, gender='F', time=1100.65}
+{place=58, name='Grace Bain', school='St Croix Lutheran', grade=9, gender='F', time=1102.38}
+{place=59, name='Alysha Nerison', school='St Croix Prep', grade=12, gender='F', time=1103.9}
+{place=60, name='Angela  Wunderlich', school='Nova Classical Academy', grade=12, gender='F', time=1107.55}
+{place=61, name='Elena Berman', school='Breck', grade=10, gender='F', time=1108.76}
+{place=62, name='Erin Quam', school='Mounds Park Academy', grade=10, gender='F', time=1110.68}
+{place=63, name='Maya Czeneszew', school='Breck', grade=9, gender='F', time=1117.93}
+{place=64, name='Kayli Kerchner', school='St Croix Prep', grade=10, gender='F', time=1130.53}
+{place=65, name='Emma Revenaugh', school='Nova Classical Academy', grade=7, gender='F', time=1130.94}
+{place=66, name='Caitlin  Elsenpeter', school='Jordan', grade=8, gender='F', time=1131.42}
+{place=67, name='Pam  Lebert', school='Nova Classical Academy', grade=10, gender='F', time=1148.92}
+{place=68, name='Anna Salzman', school='Nova Classical Academy', grade=10, gender='F', time=1151.82}
+{place=69, name='Claire Roth', school='Holy Family Catholic', grade=12, gender='F', time=1173.68}
+{place=70, name='Haley Pritchard', school='St Croix Lutheran', grade=9, gender='F', time=1174.93}
+{place=71, name='Paige Strigel', school='Holy Family Catholic', grade=11, gender='F', time=1174.96}
+{place=72, name='Isabel Schmenk', school='St Croix Lutheran', grade=10, gender='F', time=1182.42}
+{place=73, name='Katherine Solohub', school='Breck', grade=8, gender='F', time=1188.5}
+{place=74, name='Elsa Osmond', school='Minneapolis Edison', grade=7, gender='F', time=1195.68}
+{place=75, name='Daisy Dominguez', school='St Paul Humboldt', grade=12, gender='F', time=1212.93}
+{place=76, name='Sara Rex', school='Breck', grade=8, gender='F', time=1215.98}
+{place=77, name='Umayyah Wright', school='Fair School', grade=10, gender='F', time=1221.02}
+{place=78, name='Eleanor Craig', school='Minneapolis Edison', grade=7, gender='F', time=1308.09}
+{place=79, name='Grace  Boisvert', school='Concordia Acad-Rs', grade=12, gender='F', time=1320.5}
+{place=80, name='Danielle  Scott', school='Minneapolis Edison', grade=11, gender='F', time=1339.6}
+{place=81, name='Alondra Romero', school='St Paul Humboldt', grade=11, gender='F', time=1341.59}
+{place=82, name='Pa Yao Vue', school='St Paul Humboldt', grade=12, gender='F', time=1430.93}
+{place=83, name='Michelle Sosa', school='St Paul Humboldt', grade=11, gender='F', time=1484.32}
+{place=84, name='Chavelita Zambrano', school='St Paul Humboldt', grade=9, gender='F', time=1484.53}

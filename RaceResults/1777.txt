@@ -1,0 +1,111 @@
+Race : 1777
+{place=1, name='Ava Durand', school='Richfield', grade=8, gender='F', time=551.96}
+{place=2, name='Abby  Mickus', school='Belle Plaine', grade=8, gender='F', time=570.21}
+{place=3, name='Molly Dinardo', school='Minnehaha Academy', grade=7, gender='F', time=574.67}
+{place=4, name='Sierra Larson', school='Oak Grove Middle School', grade=8, gender='F', time=581.17}
+{place=5, name='Amelia Kidd', school='Richfield', grade=7, gender='F', time=605.91}
+{place=6, name='Ava Hanks', school='Richfield', grade=8, gender='F', time=608.36}
+{place=7, name='Violet Benson', school='St Paul Academy', grade=6, gender='F', time=614.85}
+{place=8, name='Seyi Akinmusire', school='Nova Classical Academy', grade=8, gender='F', time=615.88}
+{place=9, name='Emily Roach', school='Olson Middle School', grade=7, gender='F', time=616.69}
+{place=10, name='Eliana Riley', school='Richfield', grade=7, gender='F', time=619.13}
+{place=11, name='Cynda Gorshe', school='Richfield', grade=8, gender='F', time=621.15}
+{place=12, name='ZOE MCKEE', school='Rochester Century', grade=7, gender='F', time=624.39}
+{place=13, name='SARRAH LINDNER', school='Rochester Century', grade=8, gender='F', time=626.01}
+{place=14, name='Hallie Dickey', school='Oak Grove Middle School', grade=6, gender='F', time=626.42}
+{place=15, name='Chloe Reece', school='Burnsville', grade=7, gender='F', time=629.7}
+{place=16, name='Alyana Lindahl', school='Belle Plaine', grade=7, gender='F', time=635.64}
+{place=17, name='Courtney Anderson', school='Olson Middle School', grade=7, gender='F', time=636.85}
+{place=18, name='Maren Myers', school='Oak Grove Middle School', grade=6, gender='F', time=639.69}
+{place=19, name='Isabella Haefner', school='Belle Plaine', grade=7, gender='F', time=642.09}
+{place=20, name='Helen Oblonsky', school='Olson Middle School', grade=7, gender='F', time=642.72}
+{place=21, name='Shaylee Rademacher', school='Belle Plaine', grade=8, gender='F', time=643.73}
+{place=22, name='ELANIV BURNETT', school='Rochester Century', grade=7, gender='F', time=644.13}
+{place=23, name='Katie von Gillern', school='Blake', grade=7, gender='F', time=644.73}
+{place=24, name='Sidney  Dorvil', school='Blake', grade=7, gender='F', time=645.14}
+{place=25, name='Meghan O'Laughlin', school='Belle Plaine', grade=8, gender='F', time=648.98}
+{place=26, name='Paige Schwenn', school='Burnsville', grade=7, gender='F', time=653.48}
+{place=27, name='Darrian Gardner', school='Burnsville', grade=8, gender='F', time=662.62}
+{place=28, name='Kaelyn Ambuehl', school='Burnsville', grade=6, gender='F', time=666.39}
+{place=29, name='Alicia Navarro', school='Burnsville', grade=7, gender='F', time=667.92}
+{place=30, name='Zakiyah Ellis', school='Richfield', grade=7, gender='F', time=668.72}
+{place=31, name='Shay Scanlan', school='Nova Classical Academy', grade=8, gender='F', time=671.48}
+{place=32, name='Yvette Higgins', school='Nova Classical Academy', grade=7, gender='F', time=672.15}
+{place=33, name='Amayramy Ruiz Barrios', school='Fridley', grade=7, gender='F', time=673.16}
+{place=34, name='Hannah Zastrow', school='Burnsville', grade=8, gender='F', time=673.96}
+{place=35, name='Bridget Foley', school='Richfield', grade=8, gender='F', time=676.39}
+{place=36, name='Talia Tomhave', school='Nova Middle School', grade=6, gender='F', time=676.73}
+{place=37, name='Quintessa Antilla', school='Burnsville', grade=8, gender='F', time=679.87}
+{place=38, name='Ella Schmidt', school='Belle Plaine', grade=7, gender='F', time=681.71}
+{place=39, name='Mia Schwartz', school='Nova Classical Academy', grade=8, gender='F', time=682.32}
+{place=40, name='Ingrid Johnson', school='St Paul Academy', grade=5, gender='F', time=683.15}
+{place=41, name='Julia Larson', school='Olson Middle School', grade=7, gender='F', time=684.17}
+{place=42, name='Abby Tapajna', school='Olson Middle School', grade=8, gender='F', time=685.98}
+{place=43, name='Nora Czoschke', school='Olson Middle School', grade=6, gender='F', time=687.73}
+{place=44, name='Elizabeth Weber', school='Minnehaha Academy', grade=7, gender='F', time=690.45}
+{place=45, name='Ava Ball', school='Nova Middle School', grade=5, gender='F', time=697.39}
+{place=46, name='Greta McCoy', school='Fridley', grade=8, gender='F', time=699.84}
+{place=47, name='Siena Kath', school='Minnehaha Academy', grade=6, gender='F', time=700.36}
+{place=48, name='Molly  Woods', school='Olson Middle School', grade=7, gender='F', time=704.69}
+{place=49, name='Shelby Svien', school='Valley View Middle School', grade=8, gender='F', time=708.53}
+{place=50, name='Lauren Waypa', school='Owatonna', grade=7, gender='F', time=711.17}
+{place=51, name='Aaliyah Lawrence', school='Oak Grove Middle School', grade=6, gender='F', time=714.83}
+{place=52, name='Lila Czoschke', school='Olson Middle School', grade=6, gender='F', time=715.99}
+{place=53, name='Ruby Studer', school='Olson Middle School', grade=8, gender='F', time=718.43}
+{place=54, name='Anni Moran', school='Owatonna', grade=7, gender='F', time=719.69}
+{place=55, name='Anne-Louise Kolstad', school='Oak Grove Middle School', grade=8, gender='F', time=720.49}
+{place=56, name='Dominique Deming', school='Burnsville', grade=7, gender='F', time=721.41}
+{place=57, name='Lucia Luepker', school='Nova Middle School', grade=5, gender='F', time=721.92}
+{place=58, name='Elizabeth Sellnow', school='Belle Plaine', grade=8, gender='F', time=727.79}
+{place=59, name='Yanette Dominguez Flores', school='Richfield', grade=8, gender='F', time=734.48}
+{place=60, name='Elizabeth Reyes-Coca', school='Richfield', grade=7, gender='F', time=736.74}
+{place=61, name='Hailey Peterson', school='Burnsville', grade=7, gender='F', time=739.49}
+{place=62, name='Morgan Hanson', school='Burnsville', grade=7, gender='F', time=739.74}
+{place=63, name='Lindsey Czarneki', school='Belle Plaine', grade=8, gender='F', time=741.63}
+{place=64, name='Aryanna Krautkramer', school='Richfield', grade=8, gender='F', time=744.42}
+{place=65, name='Fern Fisher', school='Nova Middle School', grade=6, gender='F', time=745.49}
+{place=66, name='Paloma Francisco Machuca', school='Oak Grove Middle School', grade=8, gender='F', time=748.49}
+{place=67, name='Addy Bernardy', school='Valley View Middle School', grade=8, gender='F', time=748.93}
+{place=68, name='Jamie Drewitz', school='Olson Middle School', grade=6, gender='F', time=751.49}
+{place=69, name='Rejanae Hudson', school='Richfield', grade=7, gender='F', time=752.19}
+{place=70, name='Nora Rikansrud', school='Valley View Middle School', grade=6, gender='F', time=755.67}
+{place=71, name='Anna Tomas', school='Burnsville', grade=6, gender='F', time=762.52}
+{place=72, name='Madigan Ryan', school='Oak Grove Middle School', grade=7, gender='F', time=766.73}
+{place=73, name='Erin Rudd', school='Belle Plaine', grade=7, gender='F', time=768.71}
+{place=74, name='Zoe Edinburgh', school='Blake', grade=7, gender='F', time=770.09}
+{place=75, name='Evelyn Oliver', school='Valley View Middle School', grade=6, gender='F', time=770.49}
+{place=76, name='Elizabeth Herman', school='Belle Plaine', grade=8, gender='F', time=773.33}
+{place=77, name='Maria Gutierrez', school='Olson Middle School', grade=6, gender='F', time=779.65}
+{place=78, name='Sophia Barbie', school='Nova Middle School', grade=5, gender='F', time=779.86}
+{place=79, name='Kayla Schletty', school='Oak Grove Middle School', grade=6, gender='F', time=787.49}
+{place=80, name='Lulu Skroch', school='Breck', grade=8, gender='F', time=790.44}
+{place=81, name='Regan Friederich', school='Olson Middle School', grade=6, gender='F', time=791.74}
+{place=82, name='Ema Tilbury', school='Burnsville', grade=7, gender='F', time=800.45}
+{place=83, name='Adrian Musta', school='Olson Middle School', grade=6, gender='F', time=802.39}
+{place=84, name='Elena Coarasa', school='Olson Middle School', grade=8, gender='F', time=803.4}
+{place=85, name='Anna Dennis', school='Burnsville', grade=7, gender='F', time=805.43}
+{place=86, name='Amari Taylor', school='Burnsville', grade=6, gender='F', time=818.4}
+{place=87, name='Aria Jamison', school='Belle Plaine', grade=8, gender='F', time=818.99}
+{place=88, name='Lily Penniman', school='Nova Middle School', grade=6, gender='F', time=823.44}
+{place=89, name='Mini Seang', school='Oak Grove Middle School', grade=6, gender='F', time=828.36}
+{place=90, name='Charlotte Wadzinski', school='Oak Grove Middle School', grade=8, gender='F', time=828.49}
+{place=91, name='ShaRaya Adams', school='Richfield', grade=9, gender='F', time=831.42}
+{place=92, name='Ursula Lehunger', school='Nova Middle School', grade=5, gender='F', time=850.13}
+{place=93, name='Luella Burkhardt', school='Nova Middle School', grade=5, gender='F', time=858.99}
+{place=94, name='Miriam Laabs', school='Burnsville', grade=6, gender='F', time=859.5}
+{place=95, name='Alanna Moe', school='Burnsville', grade=7, gender='F', time=878.33}
+{place=96, name='Leah Merid', school='Burnsville', grade=7, gender='F', time=885.39}
+{place=97, name='Daneesha Dowell', school='Burnsville', grade=7, gender='F', time=902.51}
+{place=98, name='Haven Puivance', school='Nova Middle School', grade=6, gender='F', time=908.96}
+{place=99, name='Kara Seaver', school='Oak Grove Middle School', grade=6, gender='F', time=911.74}
+{place=100, name='Recce Gerdes', school='Belle Plaine', grade=7, gender='F', time=912.74}
+{place=101, name='Jacie Strander', school='Burnsville', grade=7, gender='F', time=913.74}
+{place=102, name='Mya Weirich', school='Richfield', grade=7, gender='F', time=916.65}
+{place=103, name='Maria Torp', school='Olson Middle School', grade=6, gender='F', time=924.19}
+{place=104, name='Amber Landis', school='Oak Grove Middle School', grade=6, gender='F', time=935.74}
+{place=105, name='Emily Larsen', school='Burnsville', grade=6, gender='F', time=973.11}
+{place=106, name='Emma McNellis', school='Nova Middle School', grade=6, gender='F', time=985.78}
+{place=107, name='Carmela Shea', school='Nova Middle School', grade=5, gender='F', time=1001.1}
+{place=108, name='Aminata Jaiteh', school='Oak Grove Middle School', grade=7, gender='F', time=1021.2}
+{place=109, name='Grace Ohara', school='Olson Middle School', grade=7, gender='F', time=1073.5}
+{place=110, name='Ellie Hinnenkamp', school='Fridley', grade=8, gender='F', time=1148.75}

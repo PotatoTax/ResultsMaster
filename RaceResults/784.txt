@@ -1,0 +1,71 @@
+Race : 784
+{place=1, name='Ben Morris', school='Big Lake', grade=8, gender='M', time=736.19}
+{place=2, name='Jack Swanson', school='Foley', grade=8, gender='M', time=742.2}
+{place=3, name='Gabe Katzke', school='Princeton', grade=8, gender='M', time=760.79}
+{place=4, name='Nathan  Russell', school='Princeton', grade=7, gender='M', time=764.4}
+{place=5, name='Adam Nygaard', school='Big Lake', grade=8, gender='M', time=764.84}
+{place=6, name='Parker Carlberg', school='Princeton', grade=8, gender='M', time=773.18}
+{place=7, name='Parker Liebl', school='Big Lake', grade=8, gender='M', time=775.04}
+{place=8, name='Jackson Rasmusson', school='Foley', grade=7, gender='M', time=775.65}
+{place=9, name='Sam Morris', school='Foley', grade=8, gender='M', time=793.91}
+{place=10, name='Joe Morris', school='Big Lake', grade=8, gender='M', time=796.45}
+{place=11, name='John Dierkes', school='Foley', grade=7, gender='M', time=797.1}
+{place=12, name='Alec Pautzke', school='Mora', grade=8, gender='M', time=804.95}
+{place=13, name='Austin Telander', school='Mora', grade=8, gender='M', time=805.6}
+{place=14, name='Drew Storkamp', school='Foley', grade=7, gender='M', time=806.67}
+{place=15, name='Jacob Gagne', school='Zimmerman', grade=8, gender='M', time=807.27}
+{place=16, name='Alex White', school='Big Lake', grade=7, gender='M', time=808.7}
+{place=17, name='Sam Hart', school='Big Lake', grade=7, gender='M', time=809.69}
+{place=18, name='Aiden Bear', school='North Branch', grade=7, gender='M', time=810.39}
+{place=19, name='Kris Stenger', school='Princeton', grade=8, gender='M', time=820.16}
+{place=20, name='Anders Wold', school='Princeton', grade=8, gender='M', time=820.72}
+{place=21, name='Clay Nelson', school='Princeton', grade=8, gender='M', time=821.31}
+{place=22, name='Alex Prom', school='Big Lake', grade=8, gender='M', time=822.15}
+{place=23, name='Max Graves', school='Pine City', grade=8, gender='M', time=823.08}
+{place=24, name='Jake Adams', school='Pine City', grade=7, gender='M', time=826.86}
+{place=25, name='Jordan Woods', school='Mora', grade=8, gender='M', time=828.48}
+{place=26, name='Matthew Stuber', school='North Branch', grade=7, gender='M', time=829.4}
+{place=27, name='Peter Grund', school='North Branch', grade=8, gender='M', time=831.74}
+{place=28, name='Josh Fuller', school='Princeton', grade=8, gender='M', time=838.18}
+{place=29, name='Joe Baker', school='Milaca', grade=8, gender='M', time=841.18}
+{place=30, name='Michael Aubol', school='Big Lake', grade=7, gender='M', time=842.53}
+{place=31, name='Tyler Arend', school='Mora', grade=7, gender='M', time=844.11}
+{place=32, name='Carson Bisbee', school='Big Lake', grade=8, gender='M', time=846.74}
+{place=33, name='Micah Pick', school='North Branch', grade=8, gender='M', time=863.8}
+{place=34, name='Lachlan  Lahr', school='Becker', grade=8, gender='M', time=865.06}
+{place=35, name='Nick Hippen', school='Mora', grade=7, gender='M', time=865.72}
+{place=36, name='Nathan Clausing', school='Big Lake', grade=7, gender='M', time=866.41}
+{place=37, name='Ryan  Rasmussen', school='Becker', grade=8, gender='M', time=867.31}
+{place=38, name='Wayde Rhonemus', school='Foley', grade=8, gender='M', time=879.43}
+{place=39, name='Ryan Gamec-Bromberg', school='Pine City', grade=8, gender='M', time=881.16}
+{place=40, name='TJ Rank', school='Pine City', grade=7, gender='M', time=892.66}
+{place=41, name='Evan Warner', school='Foley', grade=7, gender='M', time=898.23}
+{place=42, name='Stefan  Jones', school='Big Lake', grade=8, gender='M', time=901.18}
+{place=43, name='Aaron Koch', school='Zimmerman', grade=8, gender='M', time=906.35}
+{place=44, name='Jarrod Favilla', school='Becker', grade=8, gender='M', time=908.6}
+{place=45, name='Jaydon Dickey', school='Big Lake', grade=8, gender='M', time=911.48}
+{place=46, name='Kaden Smart', school='Mora', grade=7, gender='M', time=924.89}
+{place=47, name='Caleb Pozorski', school='Foley', grade=7, gender='M', time=925.95}
+{place=48, name='Isaac Balmer', school='Mora', grade=7, gender='M', time=943.0}
+{place=49, name='Tyler Novak', school='Foley', grade=8, gender='M', time=947.82}
+{place=50, name='Brandon Paulson', school='Milaca', grade=8, gender='M', time=952.29}
+{place=51, name='Cody Frericks', school='Foley', grade=7, gender='M', time=958.58}
+{place=52, name='Jay Richard', school='Zimmerman', grade=7, gender='M', time=962.69}
+{place=53, name='Joey Lindberg', school='Big Lake', grade=8, gender='M', time=966.97}
+{place=54, name='Wilson Krueger', school='Mora', grade=7, gender='M', time=969.29}
+{place=55, name='Jack Hagberg', school='Big Lake', grade=8, gender='M', time=990.78}
+{place=56, name='Alex Putz', school='Milaca', grade=7, gender='M', time=995.36}
+{place=57, name='Brendan Potter', school='Becker', grade=7, gender='M', time=1017.52}
+{place=58, name='Billy Braun', school='Becker', grade=7, gender='M', time=1020.08}
+{place=59, name='Noah Herbst', school='Foley', grade=8, gender='M', time=1029.63}
+{place=60, name='Joseph Root', school='Pine City', grade=8, gender='M', time=1034.58}
+{place=61, name='Max Helmbrecht', school='Mora', grade=8, gender='M', time=1044.8}
+{place=62, name='Nathaniel Zambrano', school='Milaca', grade=7, gender='M', time=1057.44}
+{place=63, name='Donald Aasen', school='Pine City', grade=7, gender='M', time=1084.8}
+{place=64, name='Jacob Hjulberg', school='Zimmerman', grade=8, gender='M', time=1105.72}
+{place=65, name='Noah Weinand', school='Mora', grade=7, gender='M', time=1137.23}
+{place=66, name='Justin Stolp', school='Pine City', grade=7, gender='M', time=1141.97}
+{place=67, name='Ian Scheele', school='North Branch', grade=7, gender='M', time=1173.98}
+{place=68, name='Caleb Dix', school='Big Lake', grade=7, gender='M', time=1350.94}
+{place=69, name='Erik Poffenberger', school='Big Lake', grade=7, gender='M', time=1395.21}
+{place=70, name='Sean Thompson', school='Big Lake', grade=10, gender='M', time=7581.17}

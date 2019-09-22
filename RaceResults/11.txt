@@ -1,0 +1,86 @@
+Race : 11
+{place=1, name='Andrew Quinn', school='Benilde-St Margaret', grade=11, gender='M', time=639.08}
+{place=2, name='Chris Wilson', school='Minneapolis Southwest', grade=11, gender='M', time=645.2}
+{place=3, name='Mark Miller', school='Benilde-St Margaret', grade=11, gender='M', time=650.2}
+{place=4, name='Pat Brown', school='Benilde-St Margaret', grade=11, gender='M', time=655.5}
+{place=5, name='Sam Shidla', school='Mound-Westonka', grade=11, gender='M', time=657.02}
+{place=6, name='Matt Walstrom', school='Mound-Westonka', grade=11, gender='M', time=658.75}
+{place=7, name='Luke Sperduto', school='Orono', grade=11, gender='M', time=659.25}
+{place=8, name='Mark Rustad', school='Benilde-St Margaret', grade=11, gender='M', time=661.16}
+{place=9, name='Kyle Prelgo', school='St Croix Lutheran', grade=11, gender='M', time=661.89}
+{place=10, name='Nick Emanuel', school='Benilde-St Margaret', grade=11, gender='M', time=667.54}
+{place=11, name='Bryan Jamieson', school='Hill-Murray', grade=11, gender='M', time=668.98}
+{place=12, name='Paul Milner', school='St Thomas Academy', grade=11, gender='M', time=677.1}
+{place=13, name='Luke Bohnen', school='Hill-Murray', grade=11, gender='M', time=679.72}
+{place=14, name='Mike  Brubaker', school='Trinity', grade=11, gender='M', time=682.81}
+{place=15, name='Quinten Moore', school='Totino Grace', grade=11, gender='M', time=685.5}
+{place=16, name='Jake Senn', school='Washburn', grade=11, gender='M', time=693.99}
+{place=17, name='Adam Luesse', school='Mound-Westonka', grade=11, gender='M', time=694.93}
+{place=18, name='Pat Geiwitz', school='Benilde-St Margaret', grade=11, gender='M', time=695.35}
+{place=19, name='Ricky Anderson', school='Benilde-St Margaret', grade=11, gender='M', time=696.77}
+{place=20, name='Joseph Backman', school='Academy of Holy Angels', grade=11, gender='M', time=699.14}
+{place=21, name='Chad Richards', school='Mound-Westonka', grade=11, gender='M', time=704.41}
+{place=22, name='Patrick Scanlon', school='St Thomas Academy', grade=11, gender='M', time=705.08}
+{place=23, name='Trevor  Johnson', school='Trinity', grade=11, gender='M', time=722.29}
+{place=24, name='John Olin', school='Totino Grace', grade=11, gender='M', time=724.08}
+{place=25, name='Ben Wales', school='St Croix Lutheran', grade=11, gender='M', time=724.93}
+{place=26, name='Alex Syverson', school='Minneapolis Southwest', grade=11, gender='M', time=727.93}
+{place=27, name='Jim Renier', school='Benilde-St Margaret', grade=11, gender='M', time=728.72}
+{place=28, name='Doug Gavic', school='St Thomas Academy', grade=11, gender='M', time=734.62}
+{place=29, name='Andy Priester', school='Minneapolis Southwest', grade=11, gender='M', time=736.2}
+{place=30, name='Robert S Mrkonich', school='Orono', grade=11, gender='M', time=738.2}
+{place=31, name='John Foster', school='Minneapolis Southwest', grade=11, gender='M', time=744.02}
+{place=32, name='Matt Ries', school='Totino Grace', grade=11, gender='M', time=747.12}
+{place=33, name='Ben Getchell', school='Benilde-St Margaret', grade=11, gender='M', time=747.95}
+{place=34, name='Daniel Geiger', school='Orono', grade=11, gender='M', time=754.16}
+{place=35, name='Blaise Poupore', school='St Thomas Academy', grade=11, gender='M', time=758.5}
+{place=36, name='Roy Norris', school='St Thomas Academy', grade=10, gender='M', time=762.12}
+{place=37, name='Teddy Solberg', school='St Thomas Academy', grade=11, gender='M', time=763.12}
+{place=38, name='Anthony Muscala', school='Benilde-St Margaret', grade=11, gender='M', time=766.58}
+{place=39, name='Jae Kim', school='St Croix Lutheran', grade=11, gender='M', time=767.58}
+{place=40, name='David Olson', school='Totino Grace', grade=11, gender='M', time=770.02}
+{place=41, name='Aleck Hiscox', school='Holy Family Catholic', grade=11, gender='M', time=771.45}
+{place=42, name='Patrick Healy', school='Academy of Holy Angels', grade=11, gender='M', time=772.2}
+{place=43, name='Jared Beaulieu', school='St Croix Lutheran', grade=11, gender='M', time=773.12}
+{place=44, name='Brian Golio', school='Totino Grace', grade=11, gender='M', time=774.0}
+{place=45, name='Ben Kerby', school='St Thomas Academy', grade=11, gender='M', time=778.29}
+{place=46, name='Paul Overbee', school='Benilde-St Margaret', grade=11, gender='M', time=779.35}
+{place=47, name='Paul Sanstead', school='Academy of Holy Angels', grade=11, gender='M', time=785.35}
+{place=48, name='Kyle Simonson', school='St Thomas Academy', grade=11, gender='M', time=785.83}
+{place=49, name='Marc Egeland', school='Academy of Holy Angels', grade=11, gender='M', time=787.29}
+{place=50, name='Elliot Vaughan', school='Minneapolis Southwest', grade=11, gender='M', time=787.75}
+{place=51, name='Sam Eilers', school='DeLaSalle', grade=11, gender='M', time=789.56}
+{place=52, name='Will Dolezal', school='DeLaSalle', grade=11, gender='M', time=790.02}
+{place=53, name='John Machacek', school='Academy of Holy Angels', grade=11, gender='M', time=790.43}
+{place=54, name='Phil Sibbald', school='Hill-Murray', grade=11, gender='M', time=793.6}
+{place=55, name='Joe Berlin', school='Mound-Westonka', grade=11, gender='M', time=797.02}
+{place=56, name='Ivar Hendrickson', school='Minneapolis Southwest', grade=11, gender='M', time=799.68}
+{place=57, name='Brad Paradise', school='Holy Family Catholic', grade=11, gender='M', time=801.31}
+{place=58, name='Casey Horgan', school='Mound-Westonka', grade=11, gender='M', time=802.91}
+{place=59, name='Parker Ogden', school='Minneapolis Southwest', grade=11, gender='M', time=807.58}
+{place=60, name='Dan Tollefson', school='St Thomas Academy', grade=11, gender='M', time=810.27}
+{place=61, name='Adam Szymanski', school='St Thomas Academy', grade=11, gender='M', time=815.62}
+{place=62, name='Charlie Randall', school='Benilde-St Margaret', grade=11, gender='M', time=817.66}
+{place=63, name='Jim Gallagher', school='Benilde-St Margaret', grade=11, gender='M', time=818.08}
+{place=64, name='Peter Neraasen', school='Benilde-St Margaret', grade=11, gender='M', time=819.02}
+{place=65, name='Sean Martinson', school='Mound-Westonka', grade=11, gender='M', time=820.45}
+{place=66, name='Bobby Taylor', school='St Thomas Academy', grade=11, gender='M', time=820.97}
+{place=67, name='Dan Flatten', school='Mound-Westonka', grade=11, gender='M', time=823.35}
+{place=68, name='Tom Flanagan', school='St Thomas Academy', grade=11, gender='M', time=826.18}
+{place=69, name='Tristan Flodin', school='St Thomas Academy', grade=11, gender='M', time=829.68}
+{place=70, name='John Schumacher', school='Benilde-St Margaret', grade=11, gender='M', time=842.33}
+{place=71, name='Andy North', school='Academy of Holy Angels', grade=11, gender='M', time=843.62}
+{place=72, name='Chris Harrell', school='Mound-Westonka', grade=11, gender='M', time=844.16}
+{place=73, name='Pat McLaughlin', school='Totino Grace', grade=11, gender='M', time=853.39}
+{place=74, name='Israel Munoz', school='St Thomas Academy', grade=11, gender='M', time=871.66}
+{place=75, name='Dan Guerin', school='Benilde-St Margaret', grade=11, gender='M', time=888.1}
+{place=76, name='Edward Knouft', school='Academy of Holy Angels', grade=11, gender='M', time=893.77}
+{place=77, name='Jeremy Blazer', school='Minneapolis Southwest', grade=11, gender='M', time=894.39}
+{place=78, name='Peter Moloney', school='Benilde-St Margaret', grade=11, gender='M', time=904.49}
+{place=79, name='James Reynolds', school='St Thomas Academy', grade=11, gender='M', time=905.5}
+{place=80, name='Joe Moore', school='Totino Grace', grade=11, gender='M', time=914.06}
+{place=81, name='Jack Steward', school='Holy Family Catholic', grade=11, gender='M', time=921.12}
+{place=82, name='Eric Anderson', school='Benilde-St Margaret', grade=11, gender='M', time=941.39}
+{place=83, name='John Schultz', school='St Croix Lutheran', grade=11, gender='M', time=965.02}
+{place=84, name='Ryan Olson', school='Minneapolis Roosevelt', grade=11, gender='M', time=1001.16}
+{place=85, name='Alex Restrepo', school='Academy of Holy Angels', grade=11, gender='M', time=2612.33}

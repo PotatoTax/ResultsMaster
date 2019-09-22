@@ -1,0 +1,51 @@
+Race : 1671
+{place=1, name='Declan Dahlberg', school='Mounds Park Academy', grade=12, gender='M', time=608.43}
+{place=2, name='Joseph Minor', school='Washburn', grade=12, gender='M', time=624.23}
+{place=3, name='Caleb Jones', school='RAACHE ', grade=12, gender='M', time=639.48}
+{place=4, name='Kai Johnson', school='Washburn', grade=12, gender='M', time=641.71}
+{place=5, name='Ben Perry', school='Washburn', grade=12, gender='M', time=648.6}
+{place=6, name='Evan Ouverson', school='RAACHE ', grade=12, gender='M', time=649.15}
+{place=7, name='Chris Norton', school='Nova Classical Academy', grade=12, gender='M', time=650.0}
+{place=8, name='Simon Midtbo', school='Washburn', grade=12, gender='M', time=650.44}
+{place=9, name='Ian Roberts', school='Nova Classical Academy', grade=12, gender='M', time=654.2998}
+{place=10, name='Jacob Engler', school='Mankato East', grade=12, gender='M', time=654.9}
+{place=11, name='Peter Weber', school='Minnehaha Academy', grade=12, gender='M', time=655.24}
+{place=12, name='Caleb Caflisch', school='Mankato East', grade=12, gender='M', time=660.4}
+{place=13, name='Luke Lehne', school='Mankato East', grade=12, gender='M', time=673.2}
+{place=14, name='Luke  Miller', school='Academy of Holy Angels', grade=12, gender='M', time=692.47}
+{place=15, name='George Goldade', school='Orono', grade=12, gender='M', time=693.29}
+{place=16, name='Lucas DiBlasi', school='Minnehaha Academy', grade=12, gender='M', time=693.91}
+{place=17, name='Jack Seltz', school='Southwest Christian', grade=12, gender='M', time=699.51}
+{place=18, name='Ben Schmidt', school='Southwest Christian', grade=12, gender='M', time=700.74}
+{place=19, name='Paul Steege', school='Washburn', grade=12, gender='M', time=707.71}
+{place=20, name='Aaron Johnson', school='Washburn', grade=12, gender='M', time=709.34}
+{place=21, name='Timmy Dudley', school='Orono', grade=12, gender='M', time=710.24}
+{place=22, name='Tavo Moline', school='Orono', grade=12, gender='M', time=711.58}
+{place=23, name='Quinn Ingram', school='Washburn', grade=12, gender='M', time=716.86}
+{place=24, name='Sumner Wu', school='Mounds Park Academy', grade=12, gender='M', time=726.22}
+{place=25, name='Brennan Bauer', school='Academy of Holy Angels', grade=12, gender='M', time=735.49}
+{place=26, name='Tristan Tew', school='Minnehaha Academy', grade=12, gender='M', time=740.21}
+{place=27, name='Sam Carlson', school='Nova Classical Academy', grade=12, gender='M', time=746.99}
+{place=28, name='Joseph Yannie', school='Southwest Christian', grade=12, gender='M', time=766.71}
+{place=29, name='Matt Nordby', school='Concordia Acad-Rs', grade=12, gender='M', time=772.75}
+{place=30, name='Trent Cairns', school='Minnehaha Academy', grade=12, gender='M', time=774.1}
+{place=31, name='John Lindholm', school='Academy of Holy Angels', grade=12, gender='M', time=781.42}
+{place=32, name='Christian  Huonder', school='St Croix Lutheran', grade=12, gender='M', time=781.74}
+{place=33, name='Jack Swenson', school='Orono', grade=12, gender='M', time=783.64}
+{place=34, name='Elijah Haugland', school='Washburn', grade=12, gender='M', time=783.85}
+{place=35, name='Larry Chen', school='St Paul Academy', grade=12, gender='M', time=787.93}
+{place=36, name='Brendan Gallaher', school='Benilde-St Margaret', grade=12, gender='M', time=792.0}
+{place=37, name='Truman Kinne', school='Benilde-St Margaret', grade=12, gender='M', time=794.43}
+{place=38, name='Christian Sanderson', school='Benilde-St Margaret', grade=12, gender='M', time=796.45}
+{place=39, name='John Hower', school='Benilde-St Margaret', grade=12, gender='M', time=796.62}
+{place=40, name='Dayton Gonyea', school='Benilde-St Margaret', grade=12, gender='M', time=809.46}
+{place=41, name='Adam Glade', school='Mankato East', grade=12, gender='M', time=809.66}
+{place=42, name='Will Fabian', school='Hill-Murray', grade=12, gender='M', time=830.25}
+{place=43, name='Brady Solomon', school='Benilde-St Margaret', grade=12, gender='M', time=853.67}
+{place=44, name='Rob Muniz', school='Hill-Murray', grade=12, gender='M', time=859.75}
+{place=45, name='Garrett Hoffman', school='RAACHE ', grade=12, gender='M', time=889.25}
+{place=46, name='Charlie Kraemer', school='Benilde-St Margaret', grade=12, gender='M', time=927.2}
+{place=47, name='Harrison Rowe', school='DeLaSalle', grade=12, gender='M', time=949.6}
+{place=48, name='Logan Samountry', school='Academy of Holy Angels', grade=12, gender='M', time=983.63}
+{place=49, name='Eyob Neda', school='Concordia Acad-Rs', grade=12, gender='M', time=992.12}
+{place=50, name='Max Pellant', school='Breck', grade=12, gender='M', time=1005.86}

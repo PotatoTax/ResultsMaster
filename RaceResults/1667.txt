@@ -1,0 +1,89 @@
+Race : 1667
+{place=1, name='Peter Lynch', school='Benilde-St Margaret', grade=10, gender='M', time=643.56}
+{place=2, name='Jack Peschel', school='Academy of Holy Angels', grade=10, gender='M', time=647.65}
+{place=3, name='Jett Oachs', school='Mankato East', grade=10, gender='M', time=649.46}
+{place=4, name='Calvin Rykhus', school='Mankato East', grade=10, gender='M', time=657.39}
+{place=5, name='Alex Bion', school='Washburn', grade=10, gender='M', time=660.44}
+{place=6, name='Dare Akinmusire', school='Nova Classical Academy', grade=10, gender='M', time=664.56}
+{place=7, name='Peter Shaffer', school='Minnehaha Academy', grade=10, gender='M', time=664.78}
+{place=8, name='Lukas Ladas', school='Nova Classical Academy', grade=10, gender='M', time=668.32}
+{place=9, name='Peter Bittner', school='Trinity', grade=10, gender='M', time=669.2}
+{place=10, name='Mark Ramel', school='Benilde-St Margaret', grade=10, gender='M', time=678.31}
+{place=11, name='Tavin Zeise', school='Nova Classical Academy', grade=10, gender='M', time=679.56}
+{place=12, name='Tristin Voigt', school='Washburn', grade=10, gender='M', time=680.8}
+{place=13, name='Matthew Wedzina', school='Mankato East', grade=10, gender='M', time=684.67}
+{place=14, name='Austin Ranweiler', school='Hill-Murray', grade=10, gender='M', time=686.96}
+{place=15, name='Isaac Laddusaw', school='Minnehaha Academy', grade=10, gender='M', time=694.3}
+{place=16, name='Trace Chiodo', school='Minnehaha Academy', grade=10, gender='M', time=695.53}
+{place=17, name='Ezra Craven', school='RAACHE ', grade=10, gender='M', time=699.37}
+{place=18, name='Sam Fulton', school='RAACHE ', grade=10, gender='M', time=714.31}
+{place=19, name='Arne Christiansen', school='Minnehaha Academy', grade=10, gender='M', time=717.21}
+{place=20, name='Jeremiah Osterlund', school='RAACHE ', grade=10, gender='M', time=726.68}
+{place=21, name='Paul Chan', school='St Croix Lutheran', grade=10, gender='M', time=726.81}
+{place=22, name='Benjamin Huff', school='Minneapolis Roosevelt', grade=10, gender='M', time=732.55}
+{place=23, name='Henry Fisher', school='DeLaSalle', grade=10, gender='M', time=732.62}
+{place=24, name='Jack Schutz', school='Academy of Holy Angels', grade=10, gender='M', time=734.31}
+{place=25, name='Hunter Pickerign', school='St Croix Lutheran', grade=10, gender='M', time=740.32}
+{place=26, name='Thomas Stokman', school='St Agnes', grade=10, gender='M', time=744.19}
+{place=27, name='Kainoa Victor', school='Hill-Murray', grade=10, gender='M', time=748.82}
+{place=28, name='Walker Niebergall', school='Benilde-St Margaret', grade=10, gender='M', time=750.32}
+{place=29, name='Alex Maclean', school='Mankato East', grade=10, gender='M', time=755.52}
+{place=30, name='James Sabatka', school='Mankato East', grade=10, gender='M', time=756.2}
+{place=31, name='Matt Koltes', school='Orono', grade=10, gender='M', time=757.21}
+{place=32, name='Caleb Korabek', school='RAACHE ', grade=10, gender='M', time=762.3}
+{place=33, name='Joseph Williams', school='St Agnes', grade=10, gender='M', time=765.74}
+{place=34, name='Eli Cullison', school='Washburn', grade=10, gender='M', time=774.77}
+{place=35, name='Mason Beise', school='Southwest Christian', grade=10, gender='M', time=776.71}
+{place=36, name='Bo Clough', school='Washburn', grade=10, gender='M', time=784.21}
+{place=37, name='Benjamin Johnson-Fry', school='Breck', grade=10, gender='M', time=784.56}
+{place=38, name='Samuel Peters', school='St Croix Lutheran', grade=10, gender='M', time=785.32}
+{place=39, name='Caleb Loomis', school='Concordia Acad-Rs', grade=10, gender='M', time=788.46}
+{place=40, name='John Heinz', school='Hill-Murray', grade=10, gender='M', time=796.21}
+{place=41, name='Elliot Steeves', school='DeLaSalle', grade=10, gender='M', time=796.32}
+{place=42, name='Colin Dlugosch', school='Breck', grade=10, gender='M', time=798.41}
+{place=43, name='Anthony Shea', school='Nova Classical Academy', grade=10, gender='M', time=798.44}
+{place=44, name='Aidan Dobish', school='Minneapolis Roosevelt', grade=10, gender='M', time=803.1}
+{place=45, name='Andres Freeberg', school='Minneapolis Roosevelt', grade=10, gender='M', time=813.88}
+{place=46, name='Kaisuke Momohara', school='St Croix Lutheran', grade=10, gender='M', time=814.87}
+{place=47, name='Jonny Stevenson', school='Trinity', grade=10, gender='M', time=816.57}
+{place=48, name='Ryan Wagoner', school='Minneapolis Roosevelt', grade=10, gender='M', time=817.53}
+{place=49, name='Carsten Sasse', school='St Croix Lutheran', grade=10, gender='M', time=817.54}
+{place=50, name='Louis Borgelt', school='Benilde-St Margaret', grade=10, gender='M', time=817.54}
+{place=51, name='Harry Meshbesher', school='Benilde-St Margaret', grade=10, gender='M', time=817.73}
+{place=52, name='Sam Harris', school='Minnehaha Academy', grade=10, gender='M', time=818.76}
+{place=53, name='Charlie Pihart', school='Benilde-St Margaret', grade=10, gender='M', time=821.8}
+{place=54, name='Micheal DiPrima', school='Orono', grade=10, gender='M', time=826.62}
+{place=55, name='Eli Knaus', school='Washburn', grade=10, gender='M', time=840.52}
+{place=56, name='Christian Toledo-Garcia', school='Washburn', grade=10, gender='M', time=846.7}
+{place=57, name='Loren Griffen', school='Minneapolis Roosevelt', grade=10, gender='M', time=847.82}
+{place=58, name='Jacob Wood', school='Mankato East', grade=10, gender='M', time=849.45}
+{place=59, name='Cole Himmer', school='Mankato East', grade=10, gender='M', time=850.46}
+{place=60, name='Lucas Lorenz', school='Trinity', grade=10, gender='M', time=853.7}
+{place=61, name='Griffin Thompson', school='Washburn', grade=10, gender='M', time=853.74}
+{place=62, name='Peter Findell', school='St Paul Academy', grade=10, gender='M', time=863.89}
+{place=63, name='Aidan O'Neil', school='Washburn', grade=10, gender='M', time=869.78}
+{place=64, name='Cody French', school='Minneapolis Roosevelt', grade=10, gender='M', time=872.12}
+{place=65, name='Isaac Rubey', school='Minneapolis Roosevelt', grade=10, gender='M', time=872.12}
+{place=66, name='Peter  Anderson', school='Washburn', grade=10, gender='M', time=874.82}
+{place=67, name='Matthew Kinzley', school='Minneapolis Roosevelt', grade=10, gender='M', time=875.44}
+{place=68, name='Charlie Klage', school='Washburn', grade=10, gender='M', time=875.64}
+{place=69, name='Lucas  Gross', school='Hill-Murray', grade=10, gender='M', time=878.28}
+{place=70, name='Charles Johnson', school='Benilde-St Margaret', grade=10, gender='M', time=881.54}
+{place=71, name='Gavin Sellner', school='Mankato East', grade=10, gender='M', time=882.14}
+{place=72, name='Nick  Hardcopf', school='Academy of Holy Angels', grade=10, gender='M', time=883.32}
+{place=73, name='Alex DeMaris', school='Breck', grade=10, gender='M', time=899.25}
+{place=74, name='Ryan Kroonblawd', school='Concordia Acad-Rs', grade=10, gender='M', time=901.69}
+{place=75, name='Dylan Mika', school='Orono', grade=10, gender='M', time=901.69}
+{place=76, name='Owen Fuls', school='Academy of Holy Angels', grade=10, gender='M', time=902.7}
+{place=77, name='Brian Bianchi', school='Benilde-St Margaret', grade=10, gender='M', time=914.94}
+{place=78, name='Finn Olson', school='Academy of Holy Angels', grade=10, gender='M', time=917.2}
+{place=79, name='Ben Siems', school='Minnehaha Academy', grade=10, gender='M', time=917.81}
+{place=80, name='Ben Thiede', school='Benilde-St Margaret', grade=10, gender='M', time=921.57}
+{place=81, name='Xander Caraballo-Estrade', school='St Croix Lutheran', grade=10, gender='M', time=991.26}
+{place=82, name='Ekemini Jones', school='Breck', grade=10, gender='M', time=998.83}
+{place=83, name='Adam Jans', school='Benilde-St Margaret', grade=10, gender='M', time=1005.66}
+{place=84, name='Doran Torbenson', school='Minneapolis Roosevelt', grade=10, gender='M', time=1040.58}
+{place=85, name='Jake Horesji', school='Benilde-St Margaret', grade=10, gender='M', time=1078.75}
+{place=86, name='Wels Bowen', school='Orono', grade=10, gender='M', time=1080.83}
+{place=87, name='Jingli Kong', school='Washburn', grade=10, gender='M', time=1166.17}
+{place=88, name='Alex Litts', school='Benilde-St Margaret', grade=10, gender='M', time=1175.95}

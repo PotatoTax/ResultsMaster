@@ -1,0 +1,103 @@
+Race : 2265
+{place=1, name='Giselle Jahner', school='Alexandria', grade=8, gender='F', time=774.2}
+{place=2, name='Norah Kluz', school='Mounds View', grade=8, gender='F', time=790.7}
+{place=3, name='Elena Fuglestad', school='Alexandria', grade=8, gender='F', time=793.7}
+{place=4, name='Macee Hansen', school='Willmar', grade=7, gender='F', time=794.3}
+{place=5, name='Ella Nyholm', school='Mounds View', grade=8, gender='F', time=800.6}
+{place=6, name='Kyra Cabrera-Nelson', school='Willmar', grade=8, gender='F', time=805.1}
+{place=7, name='Greta Oldenkamp', school='Alexandria', grade=7, gender='F', time=808.2}
+{place=8, name='Becca Dawson', school='Willmar', grade=7, gender='F', time=808.7}
+{place=9, name='Brynn Kosters', school='Alexandria', grade=8, gender='F', time=817.1}
+{place=10, name='Ila Baumgart', school='Willmar', grade=8, gender='F', time=817.1}
+{place=11, name='Catharine Neumann', school='Alexandria', grade=8, gender='F', time=818.1}
+{place=12, name='Kenzie Arnold', school='Sartell', grade=8, gender='F', time=827.2}
+{place=13, name='Julia Dahl', school='Mounds View', grade=8, gender='F', time=829.6}
+{place=14, name='Madi Engstrom', school='Willmar', grade=7, gender='F', time=831.3}
+{place=15, name='Fayese Smith', school='Monticello', grade=8, gender='F', time=831.7}
+{place=16, name='Brynn Cross', school='Alexandria', grade=7, gender='F', time=832.6}
+{place=17, name='Brooklyn Hart', school='Buffalo', grade=7, gender='F', time=833.2}
+{place=18, name='Ava Fallgater', school='Mounds View', grade=8, gender='F', time=842.3}
+{place=19, name='Makenna Lutes', school='Monticello', grade=7, gender='F', time=842.6}
+{place=20, name='Ella Roeber', school='Mounds View', grade=8, gender='F', time=843.7}
+{place=21, name='Isabel Kraabel', school='Mounds View', grade=9, gender='F', time=844.1}
+{place=22, name='Maija Hipp', school='Buffalo', grade=8, gender='F', time=845.1}
+{place=23, name='Maycee Gustafson', school='Willmar', grade=7, gender='F', time=845.1}
+{place=24, name='Melanie Gasca', school='Willmar', grade=7, gender='F', time=845.2}
+{place=25, name='Eva  Barsness', school='Mounds View', grade=9, gender='F', time=854.0}
+{place=26, name='Rowan Laninga', school='Minnetonka', grade=8, gender='F', time=859.7}
+{place=27, name='Hope Guertin', school='Monticello', grade=7, gender='F', time=860.5}
+{place=28, name='Ava Nebben', school='Monticello', grade=7, gender='F', time=861.2}
+{place=29, name='Alea Briggs', school='Becker', grade=7, gender='F', time=862.1}
+{place=30, name='Josey Nygaard', school='Monticello', grade=7, gender='F', time=862.7}
+{place=31, name='Clara Warmka', school='Monticello', grade=7, gender='F', time=863.1}
+{place=32, name='Rachel Kluz', school='Mounds View', grade=9, gender='F', time=863.7}
+{place=33, name='Emma Holtz', school='Windom', grade=7, gender='F', time=865.7}
+{place=34, name='Lexi Pauzauski', school='Red Wing', grade=8, gender='F', time=868.2}
+{place=35, name='Sarah Solfest', school='Mounds View', grade=9, gender='F', time=872.5}
+{place=36, name='Hadyn Halverson', school='Alexandria', grade=8, gender='F', time=877.6}
+{place=37, name='Logan Bone', school='Mounds View', grade=8, gender='F', time=878.1}
+{place=38, name='Elisabeth Schavee', school='Mounds View', grade=9, gender='F', time=881.2}
+{place=39, name='Hailey Klimek', school='Alexandria', grade=8, gender='F', time=881.2}
+{place=40, name='Amelia Reed', school='Willmar', grade=9, gender='F', time=881.5}
+{place=41, name='Madison Foss', school='Monticello', grade=8, gender='F', time=882.6}
+{place=42, name='Lauren Kath', school='Mounds View', grade=7, gender='F', time=883.0}
+{place=43, name='Hailey Nelson', school='Mounds View', grade=10, gender='F', time=884.6}
+{place=44, name='Ellie Erickson', school='Monticello', grade=8, gender='F', time=885.3}
+{place=45, name='Tailia Moore', school='Mounds View', grade=8, gender='F', time=887.1}
+{place=46, name='Kaylee Snider', school='Red Wing', grade=8, gender='F', time=893.7}
+{place=47, name='Emma Hochhalter', school='Alexandria', grade=8, gender='F', time=895.2}
+{place=48, name='Kasey Hart', school='Buffalo', grade=7, gender='F', time=896.6}
+{place=49, name='Madeline Hochhalter', school='Alexandria', grade=7, gender='F', time=899.1}
+{place=50, name='Erin Yager', school='Monticello', grade=9, gender='F', time=899.5}
+{place=51, name='Lauren Huber', school='Alexandria', grade=7, gender='F', time=903.1}
+{place=52, name='Abby Wick', school='Mounds View', grade=9, gender='F', time=903.5}
+{place=53, name='Jasmine Singsank', school='Willmar', grade=9, gender='F', time=903.5}
+{place=54, name='Aubri Spielman', school='Windom', grade=7, gender='F', time=904.1}
+{place=55, name='Alexus Klimek', school='Alexandria', grade=7, gender='F', time=904.2}
+{place=56, name='Ella Smith', school='Windom', grade=7, gender='F', time=904.6}
+{place=57, name='Addie Burns', school='Sartell', grade=8, gender='F', time=907.1}
+{place=58, name='Teresa Bitzan', school='Alexandria', grade=8, gender='F', time=910.8}
+{place=59, name='Adeline Cruze', school='Willmar', grade=9, gender='F', time=911.7}
+{place=60, name='Gabriella Cruz-Longley', school='Monticello', grade=7, gender='F', time=914.6}
+{place=61, name='Isabella Miller', school='Monticello', grade=9, gender='F', time=914.8}
+{place=62, name='Raegan Leaders', school='Becker', grade=8, gender='F', time=915.6}
+{place=63, name='Abi Berning', school='Becker', grade=7, gender='F', time=916.0}
+{place=64, name='Olivia Babler', school='Becker', grade=7, gender='F', time=916.7}
+{place=65, name='Aubree Klien', school='Mounds View', grade=8, gender='F', time=918.0}
+{place=66, name='Anikah Hall', school='Becker', grade=7, gender='F', time=928.0}
+{place=67, name='Kassandra Neeser', school='Red Wing', grade=9, gender='F', time=929.0}
+{place=68, name='Isabella Kelley', school='Monticello', grade=8, gender='F', time=932.6}
+{place=69, name='Madison Biegler', school='Monticello', grade=7, gender='F', time=933.2}
+{place=70, name='Abigail Kor', school='Alexandria', grade=7, gender='F', time=934.6}
+{place=71, name='Halle Mortensen', school='Willmar', grade=8, gender='F', time=936.6}
+{place=72, name='Layla  White', school='Red Wing', grade=7, gender='F', time=941.7}
+{place=73, name='Julia Peterson', school='Mounds View', grade=8, gender='F', time=943.8}
+{place=74, name='Lexie Anderson', school='Monticello', grade=9, gender='F', time=944.8}
+{place=75, name='Taylor Huber', school='Alexandria', grade=7, gender='F', time=946.2}
+{place=76, name='Alexa Johnson', school='Alexandria', grade=8, gender='F', time=952.8}
+{place=77, name='Christina  Dahlseng', school='Alexandria', grade=7, gender='F', time=954.8}
+{place=78, name='Makenna Botten', school='Alexandria', grade=8, gender='F', time=955.8}
+{place=79, name='Rylie Raverty', school='Windom', grade=7, gender='F', time=965.0}
+{place=80, name='Anisha D'Souza', school='Mounds View', grade=8, gender='F', time=978.5}
+{place=81, name='Anabella Witschen', school='Monticello', grade=8, gender='F', time=983.3}
+{place=82, name='Samantha  Chavez', school='Marshall', grade=7, gender='F', time=996.8}
+{place=83, name='Kayla Kesteloot', school='Marshall', grade=8, gender='F', time=999.5}
+{place=84, name='Naomi Furman', school='Monticello', grade=8, gender='F', time=1000.3}
+{place=85, name='Katelyn Henning', school='Sartell', grade=7, gender='F', time=1002.5}
+{place=86, name='Taylor Fuller', school='Monticello', grade=8, gender='F', time=1002.5}
+{place=87, name='Lily Borders-Carlson', school='Buffalo', grade=9, gender='F', time=1002.6}
+{place=88, name='Grace Esselman', school='Monticello', grade=8, gender='F', time=1002.8}
+{place=89, name='Mallary Bade', school='Red Wing', grade=9, gender='F', time=1014.6}
+{place=90, name='Olivia Torgrimson', school='Sartell', grade=9, gender='F', time=1022.4}
+{place=91, name='Emily Jelinski', school='Sartell', grade=9, gender='F', time=1022.4}
+{place=92, name='Abby Humphreys', school='Monticello', grade=8, gender='F', time=1034.0}
+{place=93, name='Charlotte Lee', school='Mounds View', grade=9, gender='F', time=1035.2}
+{place=94, name='Ava Haley', school='Monticello', grade=8, gender='F', time=1042.6}
+{place=95, name='Katrina Hellman', school='Monticello', grade=7, gender='F', time=1045.5}
+{place=96, name='emily ESTABROOKS', school='Red Wing', grade=8, gender='F', time=1050.0}
+{place=97, name='Olivia Lupkes', school='Marshall', grade=7, gender='F', time=1070.0}
+{place=98, name='Jada Cauwels', school='Marshall', grade=7, gender='F', time=1078.3}
+{place=99, name='Mattie  Scholten', school='Alexandria', grade=8, gender='F', time=1094.3}
+{place=100, name='Sophia Stemwedel', school='Marshall', grade=7, gender='F', time=1104.8}
+{place=101, name='Esmeralda Garcia', school='Willmar', grade=9, gender='F', time=1105.8}
+{place=102, name='Allison Hart', school='Monticello', grade=7, gender='F', time=1198.1}

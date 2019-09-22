@@ -1,0 +1,72 @@
+Race : 982
+{place=1, name='Rachel King', school='STMA', grade=12, gender='F', time=862.06}
+{place=2, name='Lizzy Heil', school='STMA', grade=10, gender='F', time=901.33}
+{place=3, name='Molly Moynihan', school='Apple Valley', grade=9, gender='F', time=904.08}
+{place=4, name='Annalise Davis', school='STMA', grade=8, gender='F', time=911.08}
+{place=5, name='Alexi Miller', school='Maple Grove', grade=8, gender='F', time=944.6}
+{place=6, name='Olivia  Anger', school='Apple Valley', grade=11, gender='F', time=946.91}
+{place=7, name='Maria Kalkman', school='Anoka', grade=11, gender='F', time=953.18}
+{place=8, name='Erica O'Borsky', school='Buffalo', grade=8, gender='F', time=964.33}
+{place=9, name='Sydney Paulson', school='Anoka', grade=9, gender='F', time=964.97}
+{place=10, name='Alice Zieska', school='Robbinsdale Cooper', grade=9, gender='F', time=970.41}
+{place=11, name='Sarone Paulzine', school='Anoka', grade=12, gender='F', time=970.83}
+{place=12, name='McKenna Rogers', school='STMA', grade=11, gender='F', time=971.04}
+{place=13, name='Brooke Johnson', school='STMA', grade=9, gender='F', time=971.58}
+{place=14, name='Belle Nyhus', school='STMA', grade=10, gender='F', time=971.83}
+{place=15, name='Maddie Marino', school='Maple Grove', grade=8, gender='F', time=973.33}
+{place=16, name='Katie Zachman', school='STMA', grade=10, gender='F', time=973.71}
+{place=17, name='Mia Salas', school='STMA', grade=8, gender='F', time=975.83}
+{place=18, name='Cami Sjoquist', school='Apple Valley', grade=12, gender='F', time=976.08}
+{place=19, name='Paige McAloon', school='STMA', grade=7, gender='F', time=978.33}
+{place=20, name='Taylor Krone', school='Anoka', grade=9, gender='F', time=979.08}
+{place=21, name='Meredith Reynolds', school='Buffalo', grade=9, gender='F', time=985.83}
+{place=22, name='Jena Hauch', school='Maple Grove', grade=10, gender='F', time=987.83}
+{place=23, name='Christina Bolcer', school='Maple Grove', grade=7, gender='F', time=988.29}
+{place=24, name='Lauren Scheidler', school='Maple Grove', grade=11, gender='F', time=989.31}
+{place=25, name='Claire Anderson', school='Maple Grove', grade=12, gender='F', time=992.23}
+{place=26, name='Paige Cassibo', school='Maple Grove', grade=10, gender='F', time=993.56}
+{place=27, name='Noelle Josephson', school='Anoka', grade=9, gender='F', time=994.16}
+{place=28, name='Macey  McClay', school='Buffalo', grade=11, gender='F', time=994.33}
+{place=29, name='Tara Rosacker', school='Maple Grove', grade=8, gender='F', time=1000.25}
+{place=30, name='Delaney Butler', school='Anoka', grade=9, gender='F', time=1003.08}
+{place=31, name='Jenna Karls', school='Rogers', grade=11, gender='F', time=1008.2}
+{place=32, name='Areefa Seepersaud', school='Buffalo', grade=8, gender='F', time=1016.95}
+{place=33, name='Hannah Teasdale', school='Rogers', grade=9, gender='F', time=1021.02}
+{place=34, name='Megan Kucera', school='STMA', grade=10, gender='F', time=1021.33}
+{place=35, name='Madie Mikolich', school='Rogers', grade=12, gender='F', time=1025.08}
+{place=36, name='Leah Lyngen', school='Rogers', grade=8, gender='F', time=1029.45}
+{place=37, name='Clair Ward', school='Anoka', grade=10, gender='F', time=1032.08}
+{place=38, name='Madison Weigel', school='Maple Grove', grade=8, gender='F', time=1032.08}
+{place=39, name='Taylor Rosacker', school='Maple Grove', grade=10, gender='F', time=1032.79}
+{place=40, name='Lydia Johnson', school='Anoka', grade=9, gender='F', time=1037.08}
+{place=41, name='Megan Sperr', school='Buffalo', grade=10, gender='F', time=1042.31}
+{place=42, name='Emma Weber', school='Buffalo', grade=9, gender='F', time=1043.95}
+{place=43, name='Mary Schmitz', school='STMA', grade=11, gender='F', time=1049.58}
+{place=44, name='Hailey Shoemaker', school='Maple Grove', grade=12, gender='F', time=1050.25}
+{place=45, name='Emma Steffens', school='Anoka', grade=11, gender='F', time=1051.68}
+{place=46, name='Elizabeth Smude', school='Robbinsdale Cooper', grade=9, gender='F', time=1055.93}
+{place=47, name='Katie Lorenz', school='Apple Valley', grade=10, gender='F', time=1057.83}
+{place=48, name='Shyanne C Lambrecht', school='Buffalo', grade=12, gender='F', time=1058.77}
+{place=49, name='Allison Urevig', school='Robbinsdale Cooper', grade=11, gender='F', time=1059.98}
+{place=50, name='Abbie Herbst', school='STMA', grade=12, gender='F', time=1063.04}
+{place=51, name='Ellie Cargill', school='Rogers', grade=9, gender='F', time=1065.04}
+{place=52, name='Emily Kern', school='Buffalo', grade=8, gender='F', time=1081.71}
+{place=53, name='Sarah Janckila', school='Rogers', grade=10, gender='F', time=1087.33}
+{place=54, name='Leighton McAlpin', school='Buffalo', grade=10, gender='F', time=1088.0}
+{place=55, name='Emma Martin', school='Anoka', grade=11, gender='F', time=1089.62}
+{place=56, name='Muna Abrahim', school='Robbinsdale Cooper', grade=9, gender='F', time=1091.58}
+{place=57, name='Hailey Strenge', school='Buffalo', grade=8, gender='F', time=1094.29}
+{place=58, name='Madison  Hansen', school='Rogers', grade=9, gender='F', time=1098.96}
+{place=59, name='Amelia Heusinkveld', school='Robbinsdale Cooper', grade=11, gender='F', time=1104.33}
+{place=60, name='Teresa Howard', school='Apple Valley', grade=9, gender='F', time=1105.56}
+{place=61, name='Emily Brand', school='Anoka', grade=11, gender='F', time=1107.58}
+{place=62, name='Elizabeth Hepp', school='Robbinsdale Cooper', grade=10, gender='F', time=1114.81}
+{place=63, name='Sara Belden', school='Robbinsdale Cooper', grade=11, gender='F', time=1115.85}
+{place=64, name='Marissa LeClaire', school='Rogers', grade=9, gender='F', time=1122.72}
+{place=65, name='Katie Moynihan', school='Apple Valley', grade=11, gender='F', time=1125.97}
+{place=66, name='Sarah Crippes', school='Apple Valley', grade=10, gender='F', time=1134.29}
+{place=67, name='Rachel Neiderkorn', school='Apple Valley', grade=10, gender='F', time=1147.58}
+{place=68, name='Katelyn Kemmetmueller', school='Rogers', grade=11, gender='F', time=1155.37}
+{place=69, name='Kaitlyn Benz', school='Rogers', grade=10, gender='F', time=1158.83}
+{place=70, name='Sam Dubois', school='Apple Valley', grade=9, gender='F', time=1235.33}
+{place=71, name='Ava LeNeau', school='Maple Grove', grade=7, gender='F', time=997.81}

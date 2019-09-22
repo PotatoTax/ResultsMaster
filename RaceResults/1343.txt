@@ -1,0 +1,88 @@
+Race : 1343
+{place=1, name='Andrew Reeves', school='Mora', grade=11, gender='M', time=1114.56}
+{place=2, name='Clayton Teff', school='St Cloud Cathedral', grade=11, gender='M', time=1121.31}
+{place=3, name='Daniel Bartkowitz', school='Little Falls', grade=9, gender='', time=1123.56}
+{place=4, name='Cameron Carl', school='Little Falls', grade=11, gender='M', time=1124.2}
+{place=5, name='Gabe  Nord', school='Mora', grade=11, gender='M', time=1130.47}
+{place=6, name='Dakota Kern', school='Little Falls', grade=10, gender='M', time=1133.91}
+{place=7, name='Nathan Williams', school='Mora', grade=9, gender='M', time=1135.77}
+{place=8, name='Peter Reisdorf', school='St Cloud Cathedral', grade=10, gender='M', time=1144.81}
+{place=9, name='Sam Bolt', school='Milaca', grade=9, gender='M', time=1151.18}
+{place=10, name='Leo Wilczek', school='Little Falls', grade=10, gender='M', time=1160.06}
+{place=11, name='Chase  Oslin', school='Mora', grade=10, gender='M', time=1165.56}
+{place=12, name='Caleb Weinand', school='Mora', grade=11, gender='M', time=1166.56}
+{place=13, name='William Riitters', school='Little Falls', grade=9, gender='M', time=1169.04}
+{place=14, name='Nathan Stracke', school='St Cloud Cathedral', grade=12, gender='M', time=1172.3}
+{place=15, name='Riley Halstrom', school='St Cloud Cathedral', grade=9, gender='M', time=1176.54}
+{place=16, name='Nolan Zimny', school='Little Falls', grade=10, gender='M', time=1183.85}
+{place=17, name='Sam Scherping', school='Albany', grade=10, gender='M', time=1184.85}
+{place=18, name='Tyler Zabinski', school='St Cloud Cathedral', grade=10, gender='M', time=1187.7}
+{place=19, name='Jordan Woods', school='Mora', grade=10, gender='M', time=1188.5}
+{place=20, name='John Kauder', school='Albany', grade=2, gender='M', time=1188.91}
+{place=21, name='Cade Anderson', school='St Cloud Cathedral', grade=9, gender='M', time=1190.81}
+{place=22, name='Isaac Balmer', school='Mora', grade=9, gender='M', time=1195.56}
+{place=23, name='Chandler Karki', school='St Cloud Cathedral', grade=12, gender='M', time=1201.31}
+{place=24, name='Bennett Edling', school='Becker', grade=7, gender='M', time=1205.22}
+{place=25, name='Lachlan  Lahr', school='Becker', grade=10, gender='M', time=1207.25}
+{place=26, name='Quinn Clapper', school='Albany', grade=9, gender='M', time=1209.31}
+{place=27, name='Blake Alholm', school='Little Falls', grade=10, gender='M', time=1211.27}
+{place=28, name='Matthew Wedin', school='St Cloud Cathedral', grade=10, gender='M', time=1216.56}
+{place=29, name='Aaron Borash', school='Little Falls', grade=11, gender='M', time=1218.41}
+{place=30, name='Gunner Kleinschmidt', school='Little Falls', grade=12, gender='M', time=1220.06}
+{place=31, name='Scott Kahler', school='Little Falls', grade=9, gender='M', time=1220.35}
+{place=32, name='Matthew Gruber', school='St Cloud Cathedral', grade=12, gender='M', time=1230.79}
+{place=33, name='Elisha Duckson', school='Albany', grade=10, gender='M', time=1237.47}
+{place=34, name='Ben Peterson', school='Little Falls', grade=9, gender='M', time=1240.93}
+{place=35, name='Joe Stangler', school='St Cloud Cathedral', grade=10, gender='M', time=1241.77}
+{place=36, name='Brendan Potter', school='Becker', grade=9, gender='M', time=1244.8}
+{place=37, name='Blaise Ebel', school='St Cloud Cathedral', grade=11, gender='M', time=1245.22}
+{place=38, name='Riley Braegelmann', school='St Cloud Cathedral', grade=12, gender='M', time=1245.31}
+{place=39, name='Christian Ganz', school='Little Falls', grade=12, gender='M', time=1250.54}
+{place=40, name='Kyle Schwinghamer', school='Albany', grade=10, gender='M', time=1254.8}
+{place=41, name='Matt Thole', school='Foley', grade=10, gender='M', time=1255.02}
+{place=42, name='Nathan  Tamm', school='Albany', grade=9, gender='M', time=1260.0}
+{place=43, name='Rishi Gulati', school='St Cloud Cathedral', grade=9, gender='M', time=1261.29}
+{place=44, name='Mitchell Schirmers', school='Albany', grade=12, gender='M', time=1265.31}
+{place=45, name='Blake Chmielewski', school='Foley', grade=9, gender='M', time=1272.04}
+{place=46, name='Dan Vogt', school='St Cloud Cathedral', grade=10, gender='M', time=1274.29}
+{place=47, name='Tyler Fischer', school='Albany', grade=11, gender='M', time=1278.54}
+{place=48, name='Thomas Pfannenstein', school='St Cloud Cathedral', grade=9, gender='M', time=1288.47}
+{place=49, name='David Myres', school='Becker', grade=8, gender='M', time=1292.56}
+{place=50, name='Brett Parson', school='Becker', grade=12, gender='M', time=1293.97}
+{place=51, name='Henry Skuza', school='St Cloud Cathedral', grade=9, gender='M', time=1303.29}
+{place=52, name='Nathan Voshall', school='Little Falls', grade=12, gender='M', time=1305.56}
+{place=53, name='Nick Hippen', school='Mora', grade=9, gender='M', time=1318.79}
+{place=54, name='Joseph Klosowski', school='Little Falls', grade=9, gender='M', time=1320.56}
+{place=55, name='Nic Pedersen', school='St Cloud Cathedral', grade=11, gender='M', time=1327.68}
+{place=56, name='Keagan Kearney', school='St Cloud Cathedral', grade=10, gender='M', time=1328.81}
+{place=57, name='Dan Strohmayer', school='Milaca', grade=12, gender='M', time=1333.31}
+{place=58, name='Evan Czajkowski', school='Albany', grade=10, gender='M', time=1336.81}
+{place=59, name='Jacob Hutchins', school='Foley', grade=11, gender='M', time=1338.3}
+{place=60, name='Terrel Monnier', school='Foley', grade=12, gender='M', time=1340.29}
+{place=61, name='Erik  Parson', school='Becker', grade=10, gender='M', time=1342.31}
+{place=62, name='Paul Decker', school='St Cloud Cathedral', grade=11, gender='M', time=1345.16}
+{place=63, name='Austin Telander', school='Mora', grade=10, gender='M', time=1354.3}
+{place=64, name='Alex Voigt', school='St Cloud Cathedral', grade=10, gender='M', time=1357.77}
+{place=65, name='Michael Vogel', school='Little Falls', grade=12, gender='M', time=1366.81}
+{place=66, name='William Hjort', school='St Cloud Cathedral', grade=9, gender='M', time=1373.99}
+{place=67, name='Isaiah Moorefield', school='St Cloud Cathedral', grade=11, gender='M', time=1385.93}
+{place=68, name='Logan Lahr', school='Becker', grade=12, gender='M', time=1403.37}
+{place=69, name='Robbie Jandik', school='St Cloud Cathedral', grade=10, gender='M', time=1416.97}
+{place=70, name='Ryan Ferris', school='St Cloud Cathedral', grade=10, gender='M', time=1419.81}
+{place=71, name='Connor Senkyr', school='St Cloud Cathedral', grade=10, gender='M', time=1420.56}
+{place=72, name='Trevor  Anderson', school='Mora', grade=10, gender='M', time=1426.93}
+{place=73, name='Tanner Magee', school='Little Falls', grade=12, gender='M', time=1427.75}
+{place=74, name='Joe Roehl', school='Milaca', grade=10, gender='M', time=1432.02}
+{place=75, name='Nick Rudnitski', school='Foley', grade=11, gender='M', time=1445.41}
+{place=76, name='Daniel Silkman', school='St Cloud Cathedral', grade=12, gender='M', time=1452.31}
+{place=77, name='Travis Boyer', school='Albany', grade=9, gender='M', time=1463.29}
+{place=78, name='Griffin Johnson', school='St Cloud Cathedral', grade=10, gender='M', time=1481.81}
+{place=79, name='Jake Andersen', school='St Cloud Cathedral', grade=12, gender='M', time=1485.97}
+{place=80, name='Noah Weinand', school='Mora', grade=9, gender='M', time=1533.83}
+{place=81, name='Max Helmbrecht', school='Mora', grade=10, gender='M', time=1547.04}
+{place=82, name='John Greeley', school='Albany', grade=10, gender='M', time=1548.83}
+{place=83, name='Thomas Curtis', school='St Cloud Cathedral', grade=9, gender='M', time=1591.58}
+{place=84, name='Tyler Gaetz', school='St Cloud Cathedral', grade=9, gender='M', time=1647.83}
+{place=85, name='Evan Walter', school='Little Falls', grade=12, gender='M', time=1668.33}
+{place=86, name='Brandon Okroi', school='Mora', grade=10, gender='M', time=1684.58}
+{place=87, name='Jackson Lennox', school='Mora', grade=11, gender='M', time=1726.52}

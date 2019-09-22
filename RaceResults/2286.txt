@@ -1,0 +1,61 @@
+Race : 2286
+{place=1, name='Aaron Gregory', school='Becker', grade=11, gender='M', time=1110.6}
+{place=2, name='David Myres', school='Becker', grade=11, gender='M', time=1118.7}
+{place=3, name='Hayden O'Connor', school='Rogers', grade=10, gender='M', time=1122.9}
+{place=4, name='Alexander Skinner', school='Rogers', grade=10, gender='M', time=1124.5}
+{place=5, name='Lucas Bistodeau', school='Rogers', grade=12, gender='M', time=1128.6}
+{place=6, name='Riley Rongere', school='Rogers', grade=10, gender='M', time=1131.6}
+{place=7, name='Ethan Tobako', school='Becker', grade=10, gender='M', time=1147.7}
+{place=8, name='Nathan Zimmerman', school='Becker', grade=10, gender='M', time=1156.3}
+{place=9, name='Tre Gordy', school='Big Lake', grade=10, gender='M', time=1160.1}
+{place=10, name='Adrian Johnson', school='Becker', grade=11, gender='M', time=1160.4}
+{place=11, name='Bennett Edling', school='Becker', grade=10, gender='M', time=1166.1}
+{place=12, name='Dylan Harbaugh', school='Big Lake', grade=12, gender='M', time=1173.2}
+{place=13, name='Nathan Franz', school='Rogers', grade=11, gender='M', time=1191.5}
+{place=14, name='Braden Ridlehoover', school='Rogers', grade=10, gender='M', time=1193.2}
+{place=15, name='Blake Soenneker', school='Becker', grade=11, gender='M', time=1199.7}
+{place=16, name='Flannagan Corkery', school='Rogers', grade=9, gender='M', time=1203.8}
+{place=17, name='Zach Carlson', school='Big Lake', grade=10, gender='M', time=1214.2}
+{place=18, name='Adam Paris', school='Rogers', grade=11, gender='M', time=1218.5}
+{place=19, name='Jack Swan', school='Rogers', grade=9, gender='M', time=1220.3}
+{place=20, name='Braydon Wald', school='Rogers', grade=12, gender='M', time=1220.9}
+{place=21, name='Ben Schreder', school='Princeton', grade=10, gender='M', time=1235.2}
+{place=22, name='Owen Haubenschild', school='Princeton', grade=9, gender='M', time=1236.2}
+{place=23, name='Brock Ramola', school='Becker', grade=10, gender='M', time=1236.4}
+{place=24, name='Andy Huber', school='Rogers', grade=9, gender='M', time=1244.7}
+{place=25, name='Bennett Reines', school='Rogers', grade=10, gender='M', time=1246.2}
+{place=26, name='Evan O'Konek', school='Rogers', grade=11, gender='M', time=1247.4}
+{place=27, name='Tucker Segraves', school='Rogers', grade=10, gender='M', time=1250.7}
+{place=28, name='Luke Behnke', school='Rogers', grade=11, gender='M', time=1255.3}
+{place=29, name='Cris Rothfork', school='Becker', grade=11, gender='M', time=1257.6}
+{place=30, name='Freddy Visci', school='Big Lake', grade=10, gender='M', time=1257.7}
+{place=31, name='Joey Reshetar', school='Rogers', grade=11, gender='M', time=1261.2}
+{place=32, name='Antonio Candia', school='Princeton', grade=10, gender='M', time=1261.5}
+{place=33, name='Asher Wyganowski', school='Princeton', grade=9, gender='M', time=1267.7}
+{place=34, name='Jayden McLearen', school='Big Lake', grade=10, gender='M', time=1268.4}
+{place=35, name='Johnny Book', school='Big Lake', grade=12, gender='M', time=1270.8}
+{place=36, name='Mitchell Hansen', school='Rogers', grade=8, gender='M', time=1283.9}
+{place=37, name='Chad  Boeckman', school='Big Lake', grade=11, gender='M', time=1304.5}
+{place=38, name='Lincoln Torborg', school='Princeton', grade=10, gender='M', time=1320.7}
+{place=39, name='Matt Mikolich', school='Rogers', grade=10, gender='M', time=1322.2}
+{place=40, name='Ryan Davis', school='Rogers', grade=10, gender='M', time=1323.3}
+{place=41, name='Maxwell Ricks', school='Rogers', grade=9, gender='M', time=1329.2}
+{place=42, name='Michael Dulski', school='Rogers', grade=9, gender='M', time=1344.6}
+{place=43, name='Seamus Corkery', school='Rogers', grade=11, gender='M', time=1352.7}
+{place=44, name='Ryan Getz', school='Rogers', grade=11, gender='M', time=1354.2}
+{place=45, name='Adam Gunderson', school='Rogers', grade=11, gender='M', time=1354.2}
+{place=46, name='Grant Goodrich', school='Rogers', grade=12, gender='M', time=1356.6}
+{place=47, name='Avery Swenson', school='Rogers', grade=11, gender='M', time=1363.3}
+{place=48, name='Evan Scales', school='Big Lake', grade=10, gender='M', time=1398.2}
+{place=49, name='Levi Tesmer', school='Becker', grade=11, gender='M', time=1454.7}
+{place=50, name='Zach Schmitz', school='Rogers', grade=10, gender='M', time=1488.7}
+{place=51, name='Cade Rosacker', school='Rogers', grade=10, gender='M', time=1495.3}
+{place=52, name='Logan Brecht', school='Rogers', grade=10, gender='M', time=1495.6}
+{place=53, name='Tyler Strombeck', school='Rogers', grade=10, gender='M', time=1508.3}
+{place=54, name='Curtis Meersman', school='Rogers', grade=10, gender='M', time=1511.2}
+{place=55, name='Dillon Cassady', school='Rogers', grade=9, gender='M', time=1511.4}
+{place=56, name='Alex Hedlund', school='Rogers', grade=11, gender='M', time=1646.1}
+{place=57, name='Tristin Hegdahl', school='Big Lake', grade=10, gender='M', time=1663.6}
+{place=58, name='Damian McIntire', school='Big Lake', grade=10, gender='M', time=1744.7}
+{place=59, name='Trenton Brown', school='Big Lake', grade=9, gender='M', time=1822.5}
+{place=60, name='Nathan Wright', school='Princeton', grade=10, gender='M', time=1830.3}

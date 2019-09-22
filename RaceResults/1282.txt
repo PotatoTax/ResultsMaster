@@ -1,0 +1,61 @@
+Race : 1282
+{place=1, name='Luke Swanson', school='Northwest', grade=6, gender='M', time=623.85}
+{place=2, name='Patrick Ricke', school='Mound-Westonka', grade=7, gender='M', time=641.16}
+{place=3, name='Carson Archie', school='Minneapolis Southwest', grade=8, gender='M', time=645.65}
+{place=4, name='Austin Amelse', school='St Louis Park', grade=7, gender='M', time=663.82}
+{place=5, name='Scott Klinefelter', school='Blake', grade=8, gender='M', time=664.64}
+{place=6, name='Jayden Peterman', school='Northwest', grade=8, gender='M', time=664.84}
+{place=7, name='Lance Nemecek', school='Mound-Westonka', grade=6, gender='M', time=674.6}
+{place=8, name='Jack Eberhardt', school='Mound-Westonka', grade=6, gender='M', time=692.27}
+{place=9, name='Carter Rost', school='St Louis Park', grade=8, gender='M', time=697.58}
+{place=10, name='Isaac Miner', school='Mound-Westonka', grade=7, gender='M', time=698.76}
+{place=11, name='William Longley', school='Blake', grade=8, gender='M', time=699.64}
+{place=12, name='Jack Myhre', school='Orono', grade=8, gender='M', time=701.36}
+{place=13, name='Shef West', school='Blake', grade=6, gender='M', time=706.32}
+{place=14, name='David Klein', school='St Louis Park', grade=8, gender='M', time=712.24}
+{place=15, name='Matt Koltes', school='Orono', grade=8, gender='M', time=717.86}
+{place=16, name='Nolan Hanson', school='Mound-Westonka', grade=7, gender='M', time=745.11}
+{place=17, name='Will Murphy', school='Breck', grade=7, gender='M', time=746.49}
+{place=18, name='Charlie Herder', school='Mound-Westonka', grade=7, gender='M', time=752.92}
+{place=19, name='Jack Ryall', school='Mound-Westonka', grade=7, gender='M', time=754.53}
+{place=20, name='Cole Garlick', school='Mound-Westonka', grade=8, gender='M', time=771.77}
+{place=21, name='Roman Fenzl', school='Mound-Westonka', grade=7, gender='M', time=773.4}
+{place=22, name='Logan Throdahl', school='St Peter', grade=7, gender='M', time=783.14}
+{place=23, name='Julian Moyer', school='Breck', grade=8, gender='M', time=784.58}
+{place=24, name='Tommy Pan', school='Blake', grade=7, gender='M', time=787.4}
+{place=25, name='Colin Dlugosch', school='Breck', grade=8, gender='M', time=788.02}
+{place=26, name='Robby Brustad', school='Mound-Westonka', grade=7, gender='M', time=788.61}
+{place=27, name='Angelo Fiataruolo', school='Orono', grade=6, gender='M', time=799.79}
+{place=28, name='Gabe Brenden', school='Northwest', grade=7, gender='M', time=801.36}
+{place=29, name='Will Kietzmann', school='St Louis Park', grade=7, gender='M', time=804.24}
+{place=30, name='Julian Barrows', school='Blake', grade=7, gender='M', time=807.3}
+{place=31, name='John Erlandson', school='Blake', grade=7, gender='M', time=817.09}
+{place=32, name='Blake Lee', school='Mound-Westonka', grade=6, gender='M', time=818.86}
+{place=33, name='Julius Riedel', school='Blake', grade=7, gender='M', time=822.35}
+{place=34, name='Ian Acheson', school='Blake', grade=7, gender='M', time=825.11}
+{place=35, name='Kirby Schmalz', school='Northwest', grade=8, gender='M', time=828.11}
+{place=36, name='Parker Domras', school='St Peter', grade=7, gender='M', time=833.32}
+{place=37, name='Eli Lund', school='St Peter', grade=8, gender='M', time=836.58}
+{place=38, name='Will Rekas', school='Blake', grade=7, gender='M', time=846.86}
+{place=39, name='Tristan Philipps', school='Mound-Westonka', grade=7, gender='M', time=852.61}
+{place=40, name='Weston Lawrence', school='Mound-Westonka', grade=7, gender='M', time=853.61}
+{place=41, name='Tommy Morsman', school='Blake', grade=8, gender='M', time=857.86}
+{place=42, name='Zach Segler', school='St Peter', grade=7, gender='M', time=859.52}
+{place=43, name='Rakesh Plantz', school='St Louis Park', grade=8, gender='M', time=863.36}
+{place=44, name='Ronan Banavige', school='Orono', grade=7, gender='M', time=880.11}
+{place=45, name='Tanner Kittelson', school='Mound-Westonka', grade=7, gender='M', time=887.34}
+{place=46, name='Mason Brakemeier', school='Mound-Westonka', grade=6, gender='M', time=887.61}
+{place=47, name='Mitchell Brown', school='St Louis Park', grade=8, gender='M', time=892.82}
+{place=48, name='Ryan Cunningham', school='Blake', grade=7, gender='M', time=896.26}
+{place=49, name='Jett Andrews', school='Mound-Westonka', grade=7, gender='M', time=900.11}
+{place=50, name='Tyler Gravelle', school='Mound-Westonka', grade=7, gender='M', time=901.32}
+{place=51, name='Patrick Djerf', school='St Louis Park', grade=8, gender='M', time=942.86}
+{place=52, name='Charlie Remmert', school='St Peter', grade=8, gender='M', time=956.52}
+{place=53, name='Nathan Blum', school='Blake', grade=8, gender='M', time=975.61}
+{place=54, name='Trace Chute', school='Blake', grade=8, gender='M', time=975.82}
+{place=55, name='Carson Merritt', school='Mound-Westonka', grade=7, gender='M', time=977.11}
+{place=56, name='Finn Soderstrom', school='Orono', grade=7, gender='M', time=1009.86}
+{place=57, name='Declan Fries', school='Breck', grade=8, gender='M', time=1027.36}
+{place=58, name='Tristan Pavlish', school='Northwest', grade=7, gender='M', time=1076.86}
+{place=59, name='Joey Miller', school='St Louis Park', grade=8, gender='M', time=1080.11}
+{place=60, name='Connor Soule', school='Mound-Westonka', grade=8, gender='M', time=1184.83}

@@ -1,0 +1,72 @@
+Race : 2460
+{place=1, name='Cooper Lennox', school='Mora', grade=11, gender='M', time=1073.1}
+{place=2, name='Cedric LaFave', school='Hinckley-Finlayson', grade=11, gender='M', time=1073.9}
+{place=3, name='Jake Andres', school='Pierz', grade=12, gender='M', time=1081.5}
+{place=4, name='Cole Andres', school='Pierz', grade=11, gender='M', time=1090.1}
+{place=5, name='Kaden Smart', school='Mora', grade=12, gender='M', time=1092.7}
+{place=6, name='Rishi Gulati', school='St Cloud Cathedral', grade=12, gender='M', time=1104.1}
+{place=7, name='Nathan Williams', school='Mora', grade=12, gender='M', time=1105.3}
+{place=8, name='Kade Layton', school='Big Lake', grade=8, gender='M', time=1108.8}
+{place=9, name='Joe Nihart', school='North Branch', grade=12, gender='M', time=1128.7}
+{place=10, name='Joel Ebel', school='St Cloud Cathedral', grade=12, gender='M', time=1147.2}
+{place=11, name='Matthew Stuber', school='North Branch', grade=12, gender='M', time=1149.8}
+{place=12, name='Isaiah Novak', school='Foley', grade=11, gender='M', time=1158.2}
+{place=13, name='Mason Voshell', school='Milaca', grade=11, gender='M', time=1159.8}
+{place=14, name='Jackson Rasmusson', school='Foley', grade=12, gender='M', time=1163.8}
+{place=15, name='Turner Schad', school='St Cloud Cathedral', grade=9, gender='M', time=1166.3}
+{place=16, name='Jackson Grant', school='Little Falls', grade=10, gender='M', time=1167.7}
+{place=17, name='Matt Papke', school='Rush City', grade=11, gender='M', time=1174.3}
+{place=18, name='Alex Heen', school='St Cloud Cathedral', grade=9, gender='M', time=1177.2}
+{place=19, name='Will Nelson', school='Chisago Lakes', grade=12, gender='M', time=1194.7}
+{place=20, name='Devin Ironi', school='Foley', grade=11, gender='M', time=1196.7}
+{place=21, name='Mason Vitalis', school='Chisago Lakes', grade=11, gender='M', time=1202.8}
+{place=22, name='Anders Prater', school='Hinckley-Finlayson', grade=12, gender='M', time=1203.2}
+{place=23, name='Brock Bjerke', school='Hinckley-Finlayson', grade=11, gender='M', time=1206.4}
+{place=24, name='Grant Koehler', school='Chisago Lakes', grade=11, gender='M', time=1208.9}
+{place=25, name='Drew Storkamp', school='Foley', grade=12, gender='M', time=1209.7}
+{place=26, name='Ethan Oswald', school='Foley', grade=11, gender='M', time=1210.3}
+{place=27, name='Michael Aubol', school='Big Lake', grade=12, gender='M', time=1214.4}
+{place=28, name='Shane Corbett', school='St Cloud Cathedral', grade=11, gender='M', time=1217.1}
+{place=29, name='Aiden Bear', school='North Branch', grade=12, gender='M', time=1220.7}
+{place=30, name='Jacob Johnson', school='Mora', grade=10, gender='M', time=1220.9}
+{place=31, name='Mitchell Miller', school='St Cloud Cathedral', grade=11, gender='M', time=1232.5}
+{place=32, name='Wade Rhonemus', school='Foley', grade=12, gender='M', time=1232.6}
+{place=33, name='Josey Olson', school='Hinckley-Finlayson', grade=11, gender='M', time=1235.1}
+{place=34, name='Joseph Klosowski', school='Little Falls', grade=12, gender='M', time=1239.5}
+{place=35, name='Wilson Krueger', school='Mora', grade=12, gender='M', time=1248.8}
+{place=36, name='Kyle Longstrom', school='St Cloud Cathedral', grade=10, gender='M', time=1250.9}
+{place=37, name='Ben Peterson', school='Little Falls', grade=12, gender='M', time=1254.8}
+{place=38, name='Drew Peterson', school='Little Falls', grade=12, gender='M', time=1269.6}
+{place=39, name='Sam Hart', school='Big Lake', grade=12, gender='M', time=1274.9}
+{place=40, name='Nathan Clausing', school='Big Lake', grade=12, gender='M', time=1285.1}
+{place=41, name='Carson Yates', school='Pierz', grade=10, gender='M', time=1298.2}
+{place=42, name='Luke Widenstrom', school='Rush City', grade=10, gender='M', time=1303.5}
+{place=43, name='Luke Velaski', school='Chisago Lakes', grade=10, gender='M', time=1304.3}
+{place=44, name='Simon Park', school='Little Falls', grade=11, gender='M', time=1307.9}
+{place=45, name='Jaden Hennen', school='Pierz', grade=11, gender='M', time=1324.8}
+{place=46, name='Jacob Barstad', school='Hinckley-Finlayson', grade=11, gender='M', time=1328.2}
+{place=47, name='Michael Goulet', school='Foley', grade=12, gender='M', time=1345.3}
+{place=48, name='Logan Murphy', school='North Branch', grade=9, gender='M', time=1357.5}
+{place=49, name='Will Lund', school='Chisago Lakes', grade=10, gender='M', time=1359.7}
+{place=50, name='Anton Erickson', school='Milaca', grade=10, gender='M', time=1366.2}
+{place=51, name='William Heschke', school='Pierz', grade=10, gender='M', time=1393.6}
+{place=52, name='Seth Thompson', school='Chisago Lakes', grade=12, gender='M', time=1397.9}
+{place=53, name='Brody Newton', school='Braham', grade=11, gender='M', time=1413.9}
+{place=54, name='Kaden Halverson', school='Mora', grade=12, gender='M', time=1420.9}
+{place=55, name='Tre Gordy', school='Big Lake', grade=10, gender='M', time=1431.2}
+{place=56, name='Zachary Johnson', school='North Branch', grade=9, gender='M', time=1438.5}
+{place=57, name='Adam Rempel', school='Big Lake', grade=11, gender='M', time=1441.3}
+{place=58, name='Johnny Book', school='Big Lake', grade=12, gender='M', time=1466.1}
+{place=59, name='Harrison Shepard', school='Milaca', grade=11, gender='M', time=1470.7}
+{place=60, name='Simon Kroll', school='Pierz', grade=11, gender='M', time=1475.2}
+{place=61, name='Garrett Hall', school='Milaca', grade=11, gender='M', time=1490.9}
+{place=62, name='Alex  Dick', school='North Branch', grade=9, gender='M', time=1497.7}
+{place=63, name='Hayden Hultman', school='Milaca', grade=11, gender='M', time=1500.2}
+{place=64, name='Howard Hodena', school='Hinckley-Finlayson', grade=11, gender='M', time=1509.3}
+{place=65, name='Sam Pick', school='North Branch', grade=12, gender='M', time=1512.8}
+{place=66, name='Dan Istvanovich', school='Chisago Lakes', grade=10, gender='M', time=1516.2}
+{place=67, name='Bradley Pawlu', school='Pierz', grade=10, gender='M', time=1585.2}
+{place=68, name='Hunter Honstrom', school='Mora', grade=11, gender='M', time=1597.4}
+{place=69, name='Kevin Laman', school='Braham', grade=10, gender='M', time=1618.3}
+{place=70, name='Isaiah Lancrain', school='Braham', grade=10, gender='M', time=1649.1}
+{place=71, name='Dalton Warne', school='Milaca', grade=11, gender='M', time=1845.0}

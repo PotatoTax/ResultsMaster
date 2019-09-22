@@ -1,0 +1,98 @@
+Race : 2194
+{place=1, name='Lorelai Nelson', school='Creek Valley', grade=4, gender='F', time=409.2617}
+{place=2, name='Lou Ruffien', school='Normandale', grade=4, gender='F', time=410.4688}
+{place=3, name='Taylor Thompson', school='Creek Valley', grade=4, gender='F', time=442.5508}
+{place=4, name='Megan Hayward', school='Creek Valley', grade=4, gender='F', time=442.7891}
+{place=5, name='Isabella Travis', school='Normandale', grade=4, gender='F', time=443.7891}
+{place=6, name='Harper Maiser', school='Concord', grade=4, gender='F', time=446.5391}
+{place=7, name='Natalie Anderson', school='Creek Valley', grade=4, gender='F', time=452.4688}
+{place=8, name='Annie Chi', school='Creek Valley', grade=4, gender='F', time=459.9102}
+{place=9, name='Lucia Begg', school='Cornelia', grade=4, gender='F', time=460.3008}
+{place=10, name='Lily Sannes-Eckhoff', school='Highlands', grade=4, gender='F', time=460.5117}
+{place=11, name='Kate Lunseth', school='Cornelia', grade=4, gender='F', time=463.3008}
+{place=12, name='Lillian Dodd', school='Concord', grade=4, gender='F', time=465.7695}
+{place=13, name='Keelyn Reilly', school='Normandale', grade=4, gender='F', time=467.5781}
+{place=14, name='Alaina Garza', school='Countryside', grade=4, gender='F', time=469.1992}
+{place=15, name='Dylan Collins', school='Concord', grade=4, gender='F', time=472.2813}
+{place=16, name='Scarlett Erlandson', school='Countryside', grade=4, gender='F', time=472.6797}
+{place=17, name='Marlow Bennett', school='Concord', grade=4, gender='F', time=476.4883}
+{place=18, name='Alina Amado', school='Creek Valley', grade=4, gender='F', time=479.2383}
+{place=19, name='Zoe Kelman', school='Creek Valley', grade=4, gender='F', time=480.4609}
+{place=20, name='Claire Boylan', school='Countryside', grade=4, gender='F', time=481.6602}
+{place=21, name='Lilly Bancroft', school='Countryside', grade=4, gender='F', time=483.3008}
+{place=22, name='Anja Nymo', school='Creek Valley', grade=4, gender='F', time=483.4883}
+{place=23, name='Eleanna Yannopoulou', school='Normandale', grade=4, gender='F', time=484.5117}
+{place=24, name='Eleanor Porisch', school='Normandale', grade=4, gender='F', time=484.5195}
+{place=25, name='Libbi McCarthy', school='Creek Valley', grade=4, gender='F', time=485.5195}
+{place=26, name='Jane Hughes', school='Concord', grade=4, gender='F', time=485.75}
+{place=27, name='Gina Russo', school='Creek Valley', grade=4, gender='F', time=489.9609}
+{place=28, name='Claire Johnson', school='Concord', grade=4, gender='F', time=490.3008}
+{place=29, name='Caroline Potter', school='Normandale', grade=4, gender='F', time=490.7813}
+{place=30, name='Samantha Stoneking', school='Cornelia', grade=4, gender='F', time=492.7891}
+{place=31, name='Cate McCoy', school='Countryside', grade=4, gender='F', time=494.2305}
+{place=32, name='Riley Koehler', school='Normandale', grade=4, gender='F', time=494.2383}
+{place=33, name='Abby Nichol', school='Concord', grade=4, gender='F', time=498.3008}
+{place=34, name='Finley Tooly', school='Cornelia', grade=4, gender='F', time=499.1289}
+{place=35, name='Kathryn Ewers', school='Normandale', grade=4, gender='F', time=503.5508}
+{place=36, name='Kathryn Zantek', school='Cornelia', grade=4, gender='F', time=509.6914}
+{place=37, name='Madeline Hall', school='Concord', grade=4, gender='F', time=510.5508}
+{place=38, name='Lena Christianson', school='Concord', grade=4, gender='F', time=514.9883}
+{place=39, name='Abby Pfeifer', school='Cornelia', grade=4, gender='F', time=515.5117}
+{place=40, name='Valentine Tavenas', school='Normandale', grade=4, gender='F', time=516.8008}
+{place=41, name='Iris Nordin', school='Normandale', grade=4, gender='F', time=518.5508}
+{place=42, name='Nora Hoffman', school='Countryside', grade=4, gender='F', time=519.8008}
+{place=43, name='Lucy Hang', school='Creek Valley', grade=4, gender='F', time=521.6914}
+{place=44, name='Ella Duplessis', school='Cornelia', grade=4, gender='F', time=524.1094}
+{place=45, name='Addie Lovaas', school='Normandale', grade=4, gender='F', time=525.5117}
+{place=46, name='Brynn Willette', school='Countryside', grade=4, gender='F', time=535.9297}
+{place=47, name='Charlotte Einck', school='Countryside', grade=4, gender='F', time=538.9688}
+{place=48, name='Anna Bennett', school='Normandale', grade=4, gender='F', time=545.2813}
+{place=49, name='Aubrey Mueller', school='Concord', grade=4, gender='F', time=547.9219}
+{place=50, name='Fairouz Aly', school='Concord', grade=4, gender='F', time=551.5508}
+{place=51, name='Immi Gill', school='Countryside', grade=4, gender='F', time=555.8008}
+{place=52, name='Anika Ecklund', school='Highlands', grade=4, gender='F', time=561.7383}
+{place=53, name='Anna Wood', school='Countryside', grade=4, gender='F', time=569.3008}
+{place=54, name='Addison Ortmeier', school='Countryside', grade=4, gender='F', time=570.4414}
+{place=55, name='Marit Peterson', school='Normandale', grade=4, gender='F', time=572.48047}
+{place=56, name='Greta Boudjouk', school='Normandale', grade=4, gender='F', time=574.51953}
+{place=57, name='Lillia Schmidtke', school='Countryside', grade=4, gender='F', time=574.51953}
+{place=58, name='Ava Voelker', school='Cornelia', grade=4, gender='F', time=576.5313}
+{place=59, name='Mariana Stojmenovic', school='Concord', grade=4, gender='F', time=577.3008}
+{place=60, name='Elleyanna Ratliff', school='Countryside', grade=4, gender='F', time=579.9883}
+{place=61, name='Sophia Gabr', school='Cornelia', grade=4, gender='F', time=579.9883}
+{place=62, name='Brynn Ellingson', school='Concord', grade=4, gender='F', time=581.8008}
+{place=63, name='Megan Voigts', school='Countryside', grade=4, gender='F', time=583.2383}
+{place=64, name='Maria Reichart', school='Cornelia', grade=4, gender='F', time=583.6406}
+{place=65, name='Rose Downey', school='Creek Valley', grade=4, gender='F', time=584.2617}
+{place=66, name='Ruby Peterson', school='Countryside', grade=4, gender='F', time=584.8008}
+{place=67, name='Enna Swackhamer', school='Creek Valley', grade=4, gender='F', time=586.8984}
+{place=68, name='Shelby Schnell', school='Countryside', grade=4, gender='F', time=593.1992}
+{place=69, name='Frances Muir', school='Cornelia', grade=4, gender='F', time=599.3281}
+{place=70, name='Ava Armbrustmacher', school='Normandale', grade=4, gender='F', time=604.2305}
+{place=71, name='Addison Payne', school='Highlands', grade=4, gender='F', time=615.1602}
+{place=72, name='McKenna Cossack', school='Highlands', grade=4, gender='F', time=615.3711}
+{place=73, name='Libby Schmidt', school='Creek Valley', grade=4, gender='F', time=619.6406}
+{place=74, name='Chloe Boudjouk', school='Normandale', grade=4, gender='F', time=621.4688}
+{place=75, name='Katelin Seward', school='Countryside', grade=4, gender='F', time=626.9492}
+{place=76, name='Lily Cartwright', school='Creek Valley', grade=4, gender='F', time=631.6484}
+{place=77, name='Aarushi Bhatnagar', school='Cornelia', grade=4, gender='F', time=642.5508}
+{place=78, name='Eva Teske', school='Normandale', grade=4, gender='F', time=646.3008}
+{place=79, name='Jessica Sit', school='Countryside', grade=4, gender='F', time=646.5586}
+{place=80, name='Ella Meyer', school='Countryside', grade=4, gender='F', time=650.5117}
+{place=81, name='Chloe McLeod', school='Normandale', grade=4, gender='F', time=657.3086}
+{place=82, name='Phoebe Bernstein', school='Cornelia', grade=4, gender='F', time=658.4492}
+{place=83, name='Cecilia Jancourt', school='Cornelia', grade=4, gender='F', time=658.4414}
+{place=84, name='Amelia Hester', school='Cornelia', grade=4, gender='F', time=658.4492}
+{place=85, name='Mia Kapoor', school='Countryside', grade=4, gender='F', time=658.8008}
+{place=86, name='Sylvia Van Norman', school='Normandale', grade=4, gender='F', time=659.2617}
+{place=87, name='Eva Barrows', school='Cornelia', grade=4, gender='F', time=660.4609}
+{place=88, name='Emily Smith', school='Cornelia', grade=4, gender='F', time=662.8008}
+{place=89, name='Elsa Munsen', school='Normandale', grade=4, gender='F', time=670.2305}
+{place=90, name='MaryBell Arashiba', school='Cornelia', grade=4, gender='F', time=671.5313}
+{place=91, name='Ragna Bartleson', school='Creek Valley', grade=4, gender='F', time=688.3711}
+{place=92, name='Abigail McGovern-Erickson', school='Countryside', grade=4, gender='F', time=693.3008}
+{place=93, name='Greta Eisenmenger', school='Cornelia', grade=4, gender='F', time=695.5898}
+{place=94, name='Neha Rayudu', school='Cornelia', grade=4, gender='F', time=701.3008}
+{place=95, name='Aanya Swaroop', school='Cornelia', grade=4, gender='F', time=755.4297}
+{place=96, name='Maheeya Bhattacharya', school='Normandale', grade=4, gender='F', time=757.5508}
+{place=97, name='Safa Rashid', school='Normandale', grade=4, gender='F', time=850.1797}

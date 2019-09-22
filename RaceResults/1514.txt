@@ -1,0 +1,50 @@
+Race : 1514
+{place=1, name='Zak Ketterson', school='Bloomington', grade=12, gender='M', time=810.45}
+{place=2, name='Alex Larson', school='Bloomington', grade=12, gender='M', time=904.47}
+{place=3, name='Conrad Phelan', school='St Louis Park', grade=12, gender='M', time=929.43}
+{place=4, name='Matt Paal', school='Benilde-St Margaret', grade=11, gender='M', time=942.72}
+{place=5, name='Jackson Sokolowski', school='St Louis Park', grade=11, gender='M', time=972.92}
+{place=6, name='Matthew Clarke', school='Bloomington', grade=9, gender='M', time=974.22}
+{place=7, name='Jackson Eilers', school='St Louis Park', grade=12, gender='M', time=980.05}
+{place=8, name='Clyde Sellke', school='Benilde-St Margaret', grade=9, gender='M', time=983.86}
+{place=9, name='Matt Lynch', school='Benilde-St Margaret', grade=11, gender='M', time=989.74}
+{place=10, name='Keelan Gorman', school='Benilde-St Margaret', grade=8, gender='M', time=998.72}
+{place=11, name='Ben Chong', school='St Louis Park', grade=12, gender='M', time=1004.38}
+{place=12, name='Adam Wetmore', school='Bloomington', grade=9, gender='M', time=1030.57}
+{place=13, name='Demetrius Armbrecht', school='St Louis Park', grade=12, gender='M', time=1032.7}
+{place=14, name='Anders Olson', school='Bloomington', grade=11, gender='M', time=1060.84}
+{place=15, name='Spencer  Urick', school='Chaska-Chan', grade=13, gender='M', time=1075.3}
+{place=16, name='Jens Albright', school='St Louis Park', grade=12, gender='M', time=1088.2}
+{place=17, name='Jackson Davis', school='Chaska-Chan', grade=9, gender='M', time=1090.45}
+{place=18, name='Eric Hendricks', school='St Louis Park', grade=12, gender='M', time=1104.26}
+{place=19, name='Connor Meany', school='Bloomington', grade=11, gender='M', time=1105.59}
+{place=20, name='Emmett Foner', school='St Louis Park', grade=9, gender='M', time=1109.18}
+{place=21, name='Kurt Nystuen', school='St Louis Park', grade=10, gender='M', time=1135.03}
+{place=22, name='Nick Scheller', school='Chaska-Chan', grade=8, gender='M', time=1148.38}
+{place=23, name='Isaac Griffin-Wiesner', school='Cooper', grade=12, gender='M', time=1148.74}
+{place=24, name='Nathan Milligan', school='Chaska-Chan', grade=9, gender='M', time=1175.18}
+{place=25, name='Lorenzo Moneti', school='Bloomington', grade=11, gender='M', time=1188.7}
+{place=26, name='Martin Spies', school='Cooper', grade=11, gender='M', time=1189.32}
+{place=27, name='Joel Schaefer', school='Richfield', grade=9, gender='M', time=1204.24}
+{place=28, name='Tino Fialo', school='Benilde-St Margaret', grade=9, gender='M', time=1218.4}
+{place=29, name='Jacob Rochell-Share', school='Bloomington', grade=9, gender='M', time=1231.4}
+{place=30, name='Jeremy  Hendricks', school='Bloomington', grade=12, gender='M', time=1231.86}
+{place=31, name='Cyrus Abrahamson', school='St Louis Park', grade=9, gender='M', time=1232.28}
+{place=32, name='Stanislaw  Bednarski', school='Benilde-St Margaret', grade=7, gender='M', time=1242.84}
+{place=33, name='Marcus Schaefer', school='Richfield', grade=12, gender='M', time=1244.9}
+{place=34, name='Zachary Westerlund', school='Cooper', grade=12, gender='M', time=1251.68}
+{place=35, name='Fredrik Voigt', school='Chaska-Chan', grade=11, gender='M', time=1260.78}
+{place=36, name='Isaac Schwarz', school='Chaska-Chan', grade=13, gender='M', time=1305.72}
+{place=37, name='Joseph Wolf', school='Chaska-Chan', grade=10, gender='M', time=1311.76}
+{place=38, name='Mitchell  Holman', school='Chaska-Chan', grade=10, gender='M', time=1330.43}
+{place=39, name='Kieran Hammer', school='Bloomington', grade=11, gender='M', time=1392.8}
+{place=40, name='Matthew Bernard', school='Cooper', grade=12, gender='M', time=1426.82}
+{place=41, name='Kyle Lindgren', school='Cooper', grade=12, gender='M', time=1513.65}
+{place=42, name='Andrew  Scherer', school='Benilde-St Margaret', grade=12, gender='M', time=1524.11}
+{place=43, name='Zachary Thomas', school='Cooper', grade=11, gender='M', time=1606.78}
+{place=44, name='Jerod Amerson', school='Cooper', grade=11, gender='M', time=1673.05}
+{place=45, name='Zach Benz', school='Richfield', grade=9, gender='M', time=1806.28}
+{place=46, name='Austin Manirath', school='Richfield', grade=9, gender='M', time=1815.78}
+{place=47, name='Evan Matson', school='Richfield', grade=12, gender='M', time=1870.45}
+{place=48, name='Samuel Herman', school='Cooper', grade=11, gender='M', time=1922.57}
+{place=49, name='Logan Juell', school='Richfield', grade=10, gender='M', time=1948.2}

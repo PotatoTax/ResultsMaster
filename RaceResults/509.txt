@@ -1,0 +1,112 @@
+Race : 509
+{place=1, name='Hannah Rudd', school='Robbinsdale Armstrong', grade=8, gender='F', time=1045.87}
+{place=2, name='Shelby White', school='Andover', grade=12, gender='F', time=1060.83}
+{place=3, name='Amy Kempf', school='Robbinsdale Armstrong', grade=12, gender='F', time=1066.52}
+{place=4, name='Anna Hjerpe', school='Robbinsdale Armstrong', grade=12, gender='F', time=1074.58}
+{place=5, name='Katie Yoder', school='Andover', grade=10, gender='F', time=1076.91}
+{place=6, name='Sara Moen', school='Centennial', grade=7, gender='F', time=1083.81}
+{place=7, name='Erin Rafferty', school='Centennial', grade=8, gender='F', time=1087.52}
+{place=8, name='Shyanne C Lambrecht', school='Buffalo', grade=9, gender='F', time=1092.89}
+{place=9, name='Susanna Trombley', school='Providence Academy', grade=11, gender='F', time=1095.94}
+{place=10, name='Emily Kruschek', school='Princeton', grade=8, gender='F', time=1115.02}
+{place=11, name='Marta Hale', school='St Francis', grade=8, gender='F', time=1116.67}
+{place=12, name='Destiny  Young', school='Robbinsdale Armstrong', grade=9, gender='F', time=1118.54}
+{place=13, name='Sidney Barnette', school='Andover', grade=10, gender='F', time=1119.59}
+{place=14, name='Lexi Funaro', school='Princeton', grade=10, gender='F', time=1120.27}
+{place=15, name='Cheyenne Vavrina', school='STMA', grade=9, gender='F', time=1123.04}
+{place=16, name='Anika Janzen', school='Centennial', grade=12, gender='F', time=1125.87}
+{place=17, name='Katherine Schoff', school='Robbinsdale Armstrong', grade=9, gender='F', time=1129.96}
+{place=18, name='Emily Bedker', school='Buffalo', grade=12, gender='F', time=1130.33}
+{place=19, name='Claire Daughters', school='Buffalo', grade=11, gender='F', time=1137.52}
+{place=20, name='Shanie Streachek', school='Delano', grade=7, gender='F', time=1142.47}
+{place=21, name='Maggie Cantlon', school='North St Paul', grade=9, gender='F', time=1143.75}
+{place=22, name='Shannon Sydow', school='Becker', grade=8, gender='F', time=1144.29}
+{place=23, name='Allison Urevig', school='Robbinsdale Cooper', grade=8, gender='F', time=1144.69}
+{place=24, name='Alecia Janzen', school='Centennial', grade=9, gender='F', time=1145.34}
+{place=25, name='Krista Rambo', school='STMA', grade=9, gender='F', time=1149.02}
+{place=26, name='Brianne Ziegler', school='Centennial', grade=9, gender='F', time=1149.7}
+{place=27, name='Sara Belden', school='Robbinsdale Cooper', grade=8, gender='F', time=1149.93}
+{place=28, name='Ashley Ages', school='Big Lake', grade=12, gender='F', time=1152.24}
+{place=29, name='Ashlee Reichel', school='Becker', grade=10, gender='F', time=1158.83}
+{place=30, name='Megan Pederson', school='Centennial', grade=10, gender='F', time=1161.36}
+{place=31, name='Katherine Underwood', school='Centennial', grade=10, gender='F', time=1166.6}
+{place=32, name='Alison Robichaud', school='Centennial', grade=9, gender='F', time=1167.1}
+{place=33, name='Olivia McCall', school='Robbinsdale Cooper', grade=8, gender='F', time=1169.91}
+{place=34, name='Claire Johnston', school='Mankato East', grade=7, gender='F', time=1171.22}
+{place=35, name='Siera Knick', school='Becker', grade=8, gender='F', time=1175.24}
+{place=36, name='Elise Walters', school='Buffalo', grade=12, gender='F', time=1177.21}
+{place=37, name='Sarah Bliss', school='Robbinsdale Armstrong', grade=10, gender='F', time=1186.41}
+{place=38, name='Allie Kloncz', school='Princeton', grade=9, gender='F', time=1186.98}
+{place=39, name='Katie Wolf', school='Benilde-St Margaret', grade=10, gender='F', time=1187.81}
+{place=40, name='Jami Peden', school='Andover', grade=11, gender='F', time=1188.08}
+{place=41, name='Abby Cafferty', school='Centennial', grade=11, gender='F', time=1191.4}
+{place=42, name='Isabel Brown', school='Providence Academy', grade=12, gender='F', time=1194.56}
+{place=43, name='Katelyn McEnelly', school='Andover', grade=9, gender='F', time=1200.83}
+{place=44, name='Shawna Kocisko', school='Princeton', grade=9, gender='F', time=1206.81}
+{place=45, name='Melody Morrow', school='Mankato East', grade=7, gender='F', time=1207.25}
+{place=46, name='Anna Burneske', school='Mankato East', grade=12, gender='F', time=1208.45}
+{place=47, name='Jordan Hathaway', school='Mankato East', grade=9, gender='F', time=1208.74}
+{place=48, name='Brooke Dippon', school='St Francis', grade=8, gender='F', time=1209.24}
+{place=49, name='Maddie Jesser', school='STMA', grade=9, gender='F', time=1210.44}
+{place=50, name='Carly Haskins', school='Andover', grade=11, gender='F', time=1211.31}
+{place=51, name='Rachel Lachinski', school='Andover', grade=12, gender='F', time=1211.56}
+{place=52, name='Sammy Rude', school='Benilde-St Margaret', grade=10, gender='F', time=1212.46}
+{place=53, name='Natalie Van Wyhe', school='STMA', grade=11, gender='F', time=1213.23}
+{place=54, name='Kaelyn Rosenberg', school='Cambridge-Isanti', grade=10, gender='F', time=1214.13}
+{place=55, name='Samantha Brewer', school='St Francis', grade=10, gender='F', time=1216.85}
+{place=56, name='Olivia Head', school='Andover', grade=11, gender='F', time=1218.62}
+{place=57, name='Megan Hanson', school='Centennial', grade=9, gender='F', time=1220.52}
+{place=58, name='Jada Rositas', school='Becker', grade=7, gender='F', time=1222.1}
+{place=59, name='Elena Cameron', school='Benilde-St Margaret', grade=9, gender='F', time=1222.79}
+{place=60, name='Alexis Pearson', school='Andover', grade=9, gender='F', time=1226.85}
+{place=61, name='Erika Gudmundson', school='Becker', grade=12, gender='F', time=1228.83}
+{place=62, name='Abigail Pederson', school='Centennial', grade=9, gender='F', time=1233.13}
+{place=63, name='Naomi Green', school='Buffalo', grade=9, gender='F', time=1235.87}
+{place=64, name='Brooke  Thunstrom', school='Cambridge-Isanti', grade=10, gender='F', time=1238.52}
+{place=65, name='Madaline Malone', school='STMA', grade=11, gender='F', time=1241.68}
+{place=66, name='Adrienne Barberg', school='Robbinsdale Cooper', grade=10, gender='F', time=1242.64}
+{place=67, name='Krystal Kraemer', school='Robbinsdale Cooper', grade=12, gender='F', time=1244.04}
+{place=68, name='Courtney Kueppers', school='Centennial', grade=12, gender='F', time=1245.91}
+{place=69, name='Sarah Lindner', school='Princeton', grade=11, gender='F', time=1249.44}
+{place=70, name='Mary Pat Ross', school='Benilde-St Margaret', grade=9, gender='F', time=1253.83}
+{place=71, name='Meghan Jones', school='North St Paul', grade=9, gender='F', time=1254.71}
+{place=72, name='Michelle Ziebarth', school='Cambridge-Isanti', grade=12, gender='F', time=1255.84}
+{place=73, name='Kalley Gunderson', school='Big Lake', grade=9, gender='F', time=1256.27}
+{place=74, name='Hannah Reisner', school='Robbinsdale Armstrong', grade=12, gender='F', time=1257.0}
+{place=75, name='Kay Adamski', school='Andover', grade=11, gender='F', time=1262.77}
+{place=76, name='Elizabeth Banfield', school='Mankato East', grade=12, gender='F', time=1263.7}
+{place=77, name='Danielle Chmielewski', school='Princeton', grade=9, gender='F', time=1270.64}
+{place=78, name='Allie Graving', school='Big Lake', grade=12, gender='F', time=1273.77}
+{place=79, name='Elizabeth Vertina', school='Benilde-St Margaret', grade=11, gender='F', time=1275.73}
+{place=80, name='Annie White', school='Benilde-St Margaret', grade=10, gender='F', time=1276.4}
+{place=81, name='Christine Miller', school='STMA', grade=9, gender='F', time=1280.68}
+{place=82, name='Kirsten Langen', school='Delano', grade=12, gender='F', time=1281.84}
+{place=83, name='Erin Daly', school='STMA', grade=9, gender='F', time=1283.33}
+{place=84, name='Emma Schwartz', school='North St Paul', grade=10, gender='F', time=1286.85}
+{place=85, name='Claire Trombley', school='Providence Academy', grade=9, gender='F', time=1287.1}
+{place=86, name='Becky  Dowell', school='Cambridge-Isanti', grade=12, gender='F', time=1305.41}
+{place=87, name='Erin Kinney', school='Big Lake', grade=9, gender='F', time=1308.9}
+{place=88, name='Charlotte Port', school='Centennial', grade=11, gender='F', time=1310.49}
+{place=89, name='Angie Chamberlain', school='North St Paul', grade=9, gender='F', time=1312.81}
+{place=90, name='Andrea  White', school='Cambridge-Isanti', grade=12, gender='F', time=1322.9}
+{place=91, name='Sammie Johnson', school='Benilde-St Margaret', grade=11, gender='F', time=1330.34}
+{place=92, name='Shelby Sylvester', school='Cambridge-Isanti', grade=12, gender='F', time=1331.79}
+{place=93, name='Eleanor Reather', school='Benilde-St Margaret', grade=11, gender='F', time=1332.49}
+{place=94, name='Samantha Sharp', school='Princeton', grade=11, gender='F', time=1333.43}
+{place=95, name='Alexa Stilp', school='North St Paul', grade=12, gender='F', time=1348.89}
+{place=96, name='Allison Maass', school='Big Lake', grade=12, gender='F', time=1365.7}
+{place=97, name='Rachel Holt', school='Andover', grade=11, gender='F', time=1381.04}
+{place=98, name='Emily Composto', school='Benilde-St Margaret', grade=10, gender='F', time=1388.29}
+{place=99, name='Alanna  Bares', school='Cambridge-Isanti', grade=12, gender='F', time=1404.75}
+{place=100, name='Kelly McGowan', school='Princeton', grade=10, gender='F', time=1419.56}
+{place=101, name='Hannah Ried', school='St Francis', grade=12, gender='F', time=1425.09}
+{place=102, name='Katherine Mendenhall', school='Centennial', grade=9, gender='F', time=1429.16}
+{place=103, name='Anna Altman', school='Buffalo', grade=9, gender='F', time=1442.98}
+{place=104, name='Aliya Hinz', school='Delano', grade=9, gender='F', time=1465.12}
+{place=105, name='Emily Jansen', school='Rogers', grade=10, gender='F', time=1482.93}
+{place=106, name='Mary Zieglmeir', school='Cambridge-Isanti', grade=12, gender='F', time=1483.85}
+{place=107, name='Karlie Nord', school='Princeton', grade=10, gender='F', time=1492.45}
+{place=108, name='Whitney  Derby', school='Cambridge-Isanti', grade=11, gender='F', time=1494.08}
+{place=109, name='Elizabeth Chappell', school='Cambridge-Isanti', grade=11, gender='F', time=1542.52}
+{place=110, name='Kayo Hussein', school='Robbinsdale Armstrong', grade=9, gender='F', time=1589.27}
+{place=111, name='Lauren Doyle', school='Benilde-St Margaret', grade=11, gender='F', time=1590.96}

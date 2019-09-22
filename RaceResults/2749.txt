@@ -1,0 +1,59 @@
+Race : 2749
+{place=1, name='Addison Hogan', school='Willmar', grade=10, gender='F', time=1239.5}
+{place=2, name='Claire Schow', school='Willmar', grade=8, gender='F', time=1259.3}
+{place=3, name='Ali Boschee', school='Sartell', grade=10, gender='F', time=1289.6}
+{place=4, name='Nina Dawson', school='Willmar', grade=9, gender='F', time=1297.1}
+{place=5, name='Abby Coquyt', school='Willmar', grade=10, gender='F', time=1302.6}
+{place=6, name='Katie Senchea', school='Sartell', grade=12, gender='F', time=1309.6}
+{place=7, name='Megan Driste', school='Sartell', grade=9, gender='F', time=1323.5}
+{place=8, name='Lydia Anderson', school='Sartell', grade=11, gender='F', time=1336.3}
+{place=9, name='Anna Kucala', school='Sartell', grade=12, gender='F', time=1352.2}
+{place=10, name='Kenzie Arnold', school='Sartell', grade=8, gender='F', time=1357.5}
+{place=11, name='Grace Panther', school='Alexandria', grade=10, gender='F', time=1360.3}
+{place=12, name='Kylie Newcomer', school='Willmar', grade=11, gender='F', time=1364.4}
+{place=13, name='Rachel Kumorowicz', school='Alexandria', grade=12, gender='F', time=1370.4}
+{place=14, name='Gracie Uhde', school='Alexandria', grade=9, gender='F', time=1379.1}
+{place=15, name='Avery Jones', school='Sartell', grade=10, gender='F', time=1382.4}
+{place=16, name='Amanda Bittman', school='Alexandria', grade=11, gender='F', time=1383.2}
+{place=17, name='Greta Urke', school='Alexandria', grade=9, gender='F', time=1393.5}
+{place=18, name='Grace Haugen', school='Willmar', grade=9, gender='F', time=1397.9}
+{place=19, name='Ava Legatt', school='Rocori', grade=11, gender='F', time=1402.4}
+{place=20, name='Mary Whalen', school='Alexandria', grade=12, gender='F', time=1404.2}
+{place=21, name='Carly Wiire', school='Alexandria', grade=11, gender='F', time=1408.8}
+{place=22, name='Aubri Akervik', school='Sartell', grade=12, gender='F', time=1416.3}
+{place=23, name='Amelia Reed', school='Willmar', grade=9, gender='F', time=1430.3}
+{place=24, name='Sam Reger', school='Alexandria', grade=12, gender='F', time=1434.4}
+{place=25, name='Tessa Schwinn', school='Sartell', grade=12, gender='F', time=1443.8}
+{place=26, name='Raquel Woods', school='Rocori', grade=12, gender='F', time=1450.9}
+{place=27, name='Abby Johnson', school='Brainerd', grade=9, gender='F', time=1461.3}
+{place=28, name='Cheyenne Abear', school='Brainerd', grade=12, gender='F', time=1467.3}
+{place=29, name='Merriam Schmitz', school='Brainerd', grade=11, gender='F', time=1470.5}
+{place=30, name='Haley Pickar', school='Brainerd', grade=10, gender='F', time=1474.4}
+{place=31, name='Allison Mattson', school='Willmar', grade=9, gender='F', time=1477.8}
+{place=32, name='Julia Johnson', school='Sartell', grade=10, gender='F', time=1485.7}
+{place=33, name='Maggie Schliepsiek', school='Sartell', grade=10, gender='F', time=1488.2}
+{place=34, name='Bella Leen', school='Sartell', grade=10, gender='F', time=1488.5}
+{place=35, name='Julia Brito', school='Alexandria', grade=11, gender='F', time=1493.5}
+{place=36, name='Kaileigh Schneider', school='Alexandria', grade=9, gender='F', time=1493.8}
+{place=37, name='Cate Bloom', school='Alexandria', grade=10, gender='F', time=1494.8}
+{place=38, name='Rachel Heinen', school='Rocori', grade=9, gender='F', time=1495.1}
+{place=39, name='Jasmine Singsank', school='Willmar', grade=9, gender='F', time=1504.4}
+{place=40, name='Josie Boelter', school='Sartell', grade=11, gender='F', time=1510.4}
+{place=41, name='Caylee Christianson', school='Willmar', grade=12, gender='F', time=1518.5}
+{place=42, name='Adeline Cruze', school='Willmar', grade=9, gender='F', time=1533.2}
+{place=43, name='Trina Schwinn', school='Sartell', grade=10, gender='F', time=1576.8}
+{place=44, name='Saryn May', school='Willmar', grade=12, gender='F', time=1577.4}
+{place=45, name='Abby Daniels', school='Sartell', grade=10, gender='F', time=1577.5}
+{place=46, name='Ella Hanlon', school='Rocori', grade=10, gender='F', time=1579.2}
+{place=47, name='Cora Blomberg', school='St Cloud Tech', grade=11, gender='F', time=1616.9}
+{place=48, name='Olivia Torgrimson', school='Sartell', grade=9, gender='F', time=1648.7}
+{place=49, name='Greta Kremer', school='Alexandria', grade=11, gender='F', time=1650.7}
+{place=50, name='Lauren Opatz', school='Sartell', grade=10, gender='F', time=1701.7}
+{place=51, name='Brianna Weber', school='Rocori', grade=9, gender='F', time=1706.8}
+{place=52, name='Brooklyn Berge', school='Fergus Falls', grade=10, gender='F', time=1724.1}
+{place=53, name='Jordyn Marsh', school='Brainerd', grade=9, gender='F', time=1743.3}
+{place=54, name='Esmeralda Garcia', school='Willmar', grade=9, gender='F', time=1783.8}
+{place=55, name='Alyssa Waytashek', school='Sauk Rapids-Rice', grade=10, gender='F', time=1821.2}
+{place=56, name='Mary Heipel', school='Alexandria', grade=9, gender='F', time=1832.2}
+{place=57, name='Emma Rund', school='Fergus Falls', grade=11, gender='F', time=1893.1}
+{place=58, name='Pukjira Prarakkamo', school='St Cloud Apollo', grade=11, gender='F', time=1952.9}

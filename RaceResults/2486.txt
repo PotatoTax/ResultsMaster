@@ -1,0 +1,144 @@
+Race : 2486
+{place=1, name='Andrew Stefonwicz', school='MME', grade=7, gender='M', time=491.2}
+{place=2, name='Daniel McCollor', school='Wayzata Middle School', grade=7, gender='M', time=491.3}
+{place=3, name='Parker Dietrick', school='Wayzata Middle School', grade=7, gender='M', time=508.2}
+{place=4, name='JACK SENNES', school='Edina', grade=7, gender='M', time=510.6}
+{place=5, name='Landon Hering', school='Hopkins Junior High', grade=7, gender='M', time=522.2}
+{place=6, name='CHARLIE MOORE', school='Edina', grade=7, gender='M', time=527.1}
+{place=7, name='Tyler Kissell', school='Wayzata Middle School', grade=7, gender='M', time=529.1}
+{place=8, name='Aidan McKeever', school='Eastern Carver Middle', grade=6, gender='M', time=530.7}
+{place=9, name='Jack McNeill', school='MME', grade=7, gender='M', time=531.3}
+{place=10, name='Samuel Siegel', school='MME', grade=7, gender='M', time=532.5}
+{place=11, name='BRADLEY YONKE', school='Edina', grade=7, gender='M', time=537.3}
+{place=12, name='Alex Ballbach', school='MME', grade=6, gender='M', time=537.7}
+{place=13, name='Zach Stennes', school='MME', grade=7, gender='M', time=542.6}
+{place=14, name='James Thomas', school='MME', grade=6, gender='M', time=542.7}
+{place=15, name='Gaard Swenson', school='Wayzata Middle School', grade=7, gender='M', time=545.3}
+{place=16, name='Alex Litterer', school='Wayzata Middle School', grade=7, gender='M', time=550.3}
+{place=17, name='Gordie Molin', school='Eastern Carver Middle', grade=7, gender='M', time=551.3}
+{place=18, name='Mason Edwards', school='Eastern Carver Middle', grade=7, gender='M', time=551.5}
+{place=19, name='LUCAS HAENEL', school='Edina', grade=7, gender='M', time=552.1}
+{place=20, name='KADE CHRYSLER', school='Edina', grade=7, gender='M', time=553.2}
+{place=21, name='JACK LIETHEN', school='Edina', grade=7, gender='M', time=554.5}
+{place=22, name='Anthony Provenzano', school='Hopkins Junior High', grade=7, gender='M', time=556.3}
+{place=23, name='Willaim Youngberg', school='MME', grade=6, gender='M', time=560.5}
+{place=24, name='Gage Alstead', school='Wayzata Middle School', grade=7, gender='M', time=562.5}
+{place=25, name='Jackson Fischer', school='Wayzata Middle School', grade=7, gender='M', time=564.5}
+{place=26, name='Thomas Wichmann', school='Wayzata Middle School', grade=7, gender='M', time=568.2}
+{place=27, name='Hans Greenwood', school='Hopkins Junior High', grade=7, gender='M', time=568.6}
+{place=28, name='Jackson BArber', school='Hopkins Junior High', grade=7, gender='M', time=570.5}
+{place=29, name='Blake Bjerke', school='Wayzata Middle School', grade=7, gender='M', time=571.3}
+{place=30, name='Tristan Schmanski', school='Hopkins Junior High', grade=7, gender='M', time=572.1}
+{place=31, name='Chris Brown', school='MME', grade=7, gender='M', time=573.1}
+{place=32, name='Orrin Vogel', school='Hopkins Junior High', grade=7, gender='M', time=573.3}
+{place=33, name='Hawley John (Alex)', school='Eastern Carver Middle', grade=6, gender='M', time=575.6}
+{place=34, name='Shafi Mohomed', school='Wayzata Middle School', grade=7, gender='M', time=576.6}
+{place=35, name='Thomas  Demann', school='MME', grade=7, gender='M', time=577.3}
+{place=36, name='Cale Myers', school='Wayzata Middle School', grade=7, gender='M', time=578.8}
+{place=37, name='Noah Tyler', school='MMW', grade=7, gender='M', time=579.3}
+{place=38, name='Ethan  Binder', school='MME', grade=7, gender='M', time=579.6}
+{place=39, name='Grant Anundson', school='MMW', grade=7, gender='M', time=583.5}
+{place=40, name='Max Goodman', school='Hopkins Junior High', grade=7, gender='M', time=583.8}
+{place=41, name='Will Chose', school='MMW', grade=6, gender='M', time=583.8}
+{place=42, name='Olin Lysne', school='Hopkins Junior High', grade=7, gender='M', time=584.3}
+{place=43, name='Ian Skiermont', school='MME', grade=6, gender='M', time=584.8}
+{place=44, name='Parker Barry', school='MME', grade=7, gender='M', time=586.1}
+{place=45, name='Tyler Wujcik', school='Eastern Carver Middle', grade=6, gender='M', time=588.3}
+{place=46, name='Colin Owens', school='Eastern Carver Middle', grade=7, gender='M', time=588.6}
+{place=47, name='William Fiedler', school='Eastern Carver Middle', grade=7, gender='M', time=588.8}
+{place=48, name='Eddy McLean', school='Wayzata Middle School', grade=7, gender='M', time=589.6}
+{place=49, name='Liam Fehlen', school='Wayzata Middle School', grade=7, gender='M', time=590.3}
+{place=50, name='Hudson  Craft', school='MME', grade=6, gender='M', time=591.1}
+{place=51, name='Anders Halverson', school='Wayzata Middle School', grade=7, gender='M', time=593.5}
+{place=52, name='Evan Bennett', school='Wayzata Middle School', grade=7, gender='M', time=593.5}
+{place=53, name='Cotlen Benedict', school='MME', grade=7, gender='M', time=593.8}
+{place=54, name='John Donohue', school='MME', grade=6, gender='M', time=593.8}
+{place=55, name='Will Steingas', school='MMW', grade=6, gender='M', time=594.1}
+{place=56, name='Levi Trombley', school='MMW', grade=6, gender='M', time=594.7}
+{place=57, name='Cooper Hemink', school='MME', grade=7, gender='M', time=595.7}
+{place=58, name='Gavin Allard', school='Wayzata Middle School', grade=7, gender='M', time=601.5}
+{place=59, name='Tirfe Horvick', school='MMW', grade=6, gender='M', time=603.7}
+{place=60, name='Broder Jagodinskie', school='MME', grade=6, gender='M', time=605.7}
+{place=61, name='Liam Urbanowicz', school='Hopkins Junior High', grade=7, gender='M', time=607.1}
+{place=62, name='HENRY LEFEBVRE', school='Edina', grade=7, gender='M', time=607.5}
+{place=63, name='Liam Halloran', school='MME', grade=6, gender='M', time=608.3}
+{place=64, name='Bergan Wolf', school='Wayzata Middle School', grade=7, gender='M', time=611.2}
+{place=65, name='David Allred', school='MME', grade=7, gender='M', time=611.3}
+{place=66, name='Drake Rega', school='MMW', grade=7, gender='M', time=613.2}
+{place=67, name='Jake  Fogarty', school='Eastern Carver Middle', grade=7, gender='M', time=614.6}
+{place=68, name='JACK SANDA', school='Edina', grade=7, gender='M', time=614.6}
+{place=69, name='Adam Dehm', school='Wayzata Middle School', grade=7, gender='M', time=615.1}
+{place=70, name='Theo  Showalter', school='MME', grade=6, gender='M', time=615.2}
+{place=71, name='Zachary Lambert', school='Eastern Carver Middle', grade=7, gender='M', time=616.1}
+{place=72, name='Sam Annis', school='Eastern Carver Middle', grade=7, gender='M', time=618.5}
+{place=73, name='Ethan Grams', school='Eastern Carver Middle', grade=7, gender='M', time=619.3}
+{place=74, name='Alex Freeman', school='Wayzata Middle School', grade=7, gender='M', time=620.8}
+{place=75, name='Levi Black', school='Hopkins Junior High', grade=7, gender='M', time=622.3}
+{place=76, name='ALEX VANDENBURGT', school='Edina', grade=7, gender='M', time=626.5}
+{place=77, name='Kyle O'Conner', school='Eastern Carver Middle', grade=7, gender='M', time=629.2}
+{place=78, name='Hayden McDaniel', school='Eastern Carver Middle', grade=7, gender='M', time=630.1}
+{place=79, name='Macclain Boge', school='MME', grade=6, gender='M', time=631.5}
+{place=80, name='Blake Juntunen', school='Hopkins Junior High', grade=7, gender='M', time=633.6}
+{place=81, name='Jack Jones', school='Hopkins Junior High', grade=7, gender='M', time=634.2}
+{place=82, name='John Wipson', school='MMW', grade=6, gender='M', time=635.3}
+{place=83, name='Andrew Skarohlid', school='MME', grade=7, gender='M', time=636.5}
+{place=84, name='Noah Slinde', school='Eastern Carver Middle', grade=6, gender='M', time=637.5}
+{place=85, name='Tyler Voss', school='MMW', grade=7, gender='M', time=642.7}
+{place=86, name='PETER HANSON', school='Edina', grade=7, gender='M', time=644.3}
+{place=87, name='Nathan Burk', school='Wayzata Middle School', grade=7, gender='M', time=648.1}
+{place=88, name='Cullen Murray', school='MMW', grade=6, gender='M', time=653.1}
+{place=89, name='Jalen Watts', school='Hopkins Junior High', grade=7, gender='M', time=655.2}
+{place=90, name='Leo Kaplan', school='Hopkins Junior High', grade=7, gender='M', time=655.8}
+{place=91, name='Charlie Scroggins', school='Benilde-St Margaret', grade=7, gender='M', time=659.8}
+{place=92, name='Hudson Demars', school='MMW', grade=7, gender='M', time=661.1}
+{place=93, name='William Sayer', school='MME', grade=6, gender='M', time=661.7}
+{place=94, name='JOHN FERNANDES', school='Edina', grade=7, gender='M', time=662.6}
+{place=95, name='Noah Doane', school='Wayzata Middle School', grade=7, gender='M', time=662.6}
+{place=96, name='Kevin Jarjoura', school='Wayzata Middle School', grade=7, gender='M', time=664.2}
+{place=97, name='Kahl Barr', school='MME', grade=6, gender='M', time=664.2}
+{place=98, name='Liam Henderleiter', school='MME', grade=6, gender='M', time=667.2}
+{place=99, name='Brady  Schulz', school='Eastern Carver Middle', grade=7, gender='M', time=671.8}
+{place=100, name='Alec Ring', school='MMW', grade=7, gender='M', time=676.2}
+{place=101, name='Brode Haskings', school='MMW', grade=7, gender='M', time=677.6}
+{place=102, name='Beck Hagen', school='Hopkins Junior High', grade=7, gender='M', time=679.3}
+{place=103, name='Dominic Volby', school='Eastern Carver Middle', grade=6, gender='M', time=680.2}
+{place=104, name='Leo Pederson', school='MMW', grade=7, gender='M', time=680.5}
+{place=105, name='Anders Leighton', school='MMW', grade=7, gender='M', time=681.1}
+{place=106, name='Owen Geertsen', school='MMW', grade=7, gender='M', time=683.5}
+{place=107, name='Grant  Huntley', school='Eastern Carver Middle', grade=6, gender='M', time=683.8}
+{place=108, name='Luke Baustert', school='MME', grade=7, gender='M', time=684.5}
+{place=109, name='Edward Conlin', school='MME', grade=7, gender='M', time=685.7}
+{place=110, name='Marty  Krueger', school='MME', grade=7, gender='M', time=689.3}
+{place=111, name='Cameron Stenzel', school='Eastern Carver Middle', grade=6, gender='M', time=689.7}
+{place=112, name='Connor Ryan', school='MME', grade=7, gender='M', time=690.1}
+{place=113, name='Parker Lindlief', school='MMW', grade=6, gender='M', time=691.3}
+{place=114, name='Louis Chenier', school='MME', grade=6, gender='M', time=692.3}
+{place=115, name='Noah Swanson', school='Wayzata Middle School', grade=7, gender='M', time=692.3}
+{place=116, name='Jackson Craven', school='Hopkins Junior High', grade=7, gender='M', time=694.6}
+{place=117, name='Nolan Schmidt', school='MME', grade=6, gender='M', time=697.8}
+{place=118, name='Ben Welsh', school='MMW', grade=6, gender='M', time=703.2}
+{place=119, name='Aiden Petit', school='MME', grade=6, gender='M', time=704.3}
+{place=120, name='Henry Doten', school='MMW', grade=6, gender='M', time=722.1}
+{place=121, name='Maccabee Harad', school='MME', grade=6, gender='M', time=728.5}
+{place=122, name='AJ Welsch', school='MMW', grade=7, gender='M', time=739.1}
+{place=123, name='Finn Ims', school='MMW', grade=6, gender='M', time=747.7}
+{place=124, name='Tyler Clair', school='MMW', grade=6, gender='M', time=748.3}
+{place=125, name='Matthew Smith', school='MME', grade=6, gender='M', time=748.7}
+{place=126, name='Isaac Ingvalsaon', school='MME', grade=6, gender='M', time=748.8}
+{place=127, name='Ricky Allanson', school='MME', grade=7, gender='M', time=752.1}
+{place=128, name='Kaelem Culbertson', school='Agape Christi Academy', grade=7, gender='M', time=772.2}
+{place=129, name='Thomas Gerace', school='Eastern Carver Middle', grade=6, gender='M', time=784.5}
+{place=130, name='Louis Schachtman', school='Hopkins Junior High', grade=7, gender='M', time=787.8}
+{place=131, name='Drayton Knutson', school='Hopkins Junior High', grade=7, gender='M', time=795.8}
+{place=132, name='Isaac Walker', school='MMW', grade=7, gender='M', time=804.1}
+{place=133, name='Ryan Farnan', school='MMW', grade=7, gender='M', time=806.2}
+{place=134, name='Vasily Gaponenko', school='Hopkins Junior High', grade=7, gender='M', time=808.2}
+{place=135, name='Parker Glenn', school='MME', grade=6, gender='M', time=809.7}
+{place=136, name='Noah Kovic', school='Eastern Carver Middle', grade=7, gender='M', time=812.3}
+{place=137, name='Cameron McKinney', school='Eastern Carver Middle', grade=7, gender='M', time=820.2}
+{place=138, name='Charlie Nichols', school='MME', grade=7, gender='M', time=822.2}
+{place=139, name='Dominic Ciaccio', school='MMW', grade=6, gender='M', time=838.3}
+{place=140, name='BODE SCHELIN', school='Edina', grade=7, gender='M', time=917.8}
+{place=141, name='Eli Frost', school='Eastern Carver Middle', grade=6, gender='M', time=930.6}
+{place=142, name='Kurt Ransom', school='Eastern Carver Middle', grade=6, gender='M', time=1122.5}
+{place=143, name='Ratan Vuyyuru', school='Eastern Carver Middle', grade=6, gender='M', time=1171.7}

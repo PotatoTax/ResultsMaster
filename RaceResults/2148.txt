@@ -1,0 +1,73 @@
+Race : 2148
+{place=1, name='Mara McCollor', school='Wayzata', grade=11, gender='F', time=821.8}
+{place=2, name='Luci Anderson', school='Armstrong', grade=11, gender='F', time=867.3}
+{place=3, name='Lauren McCollor', school='Wayzata', grade=9, gender='F', time=849.3}
+{place=4, name='Charlie Brown', school='Benilde-St Margaret', grade=10, gender='F', time=887.3}
+{place=5, name='Leah Rudd', school='Armstrong', grade=11, gender='F', time=888.9}
+{place=6, name='Mae Barnes', school='Armstrong', grade=11, gender='F', time=908.8}
+{place=7, name='Ava Schieffert', school='Benilde-St Margaret', grade=10, gender='F', time=895.8}
+{place=8, name='Kaelin Jackson', school='Hopkins', grade=11, gender='F', time=912.5}
+{place=9, name='Carolyn House', school='Wayzata', grade=11, gender='F', time=916.8}
+{place=10, name='Rainey Baker', school='Armstrong', grade=11, gender='F', time=922.6}
+{place=11, name='Lauren Munger', school='Hopkins', grade=8, gender='F', time=947.4}
+{place=12, name='Kyra Jackson', school='Hopkins', grade=12, gender='F', time=957.6}
+{place=13, name='Cece Schmelzle', school='St Louis Park', grade=11, gender='F', time=961.3}
+{place=14, name='Ellie Munger', school='Hopkins', grade=10, gender='F', time=950.7}
+{place=15, name='Alexis Mullen', school='Orono', grade=11, gender='F', time=972.1}
+{place=16, name='Lucia Sculati', school='Armstrong', grade=12, gender='F', time=994.8}
+{place=17, name='Jenny Haus', school='Orono', grade=12, gender='F', time=1028.3}
+{place=18, name='Caroline Green', school='St Louis Park', grade=12, gender='F', time=1007.1}
+{place=19, name='Naomi Ohman', school='Orono', grade=10, gender='F', time=1027.8}
+{place=20, name='Ingrid Halverson', school='Wayzata', grade=9, gender='F', time=1013.8}
+{place=21, name='Lily Den Hartog', school='Hopkins', grade=12, gender='F', time=1061.5}
+{place=22, name='Carisa Chen', school='Wayzata', grade=12, gender='F', time=1026.2}
+{place=23, name='Emily Ingemann', school='Wayzata', grade=10, gender='F', time=1039.5}
+{place=24, name='Abigail Bremseth', school='Wayzata', grade=10, gender='F', time=1043.3}
+{place=25, name='Taylor Lundquist', school='Heritage-Providence', grade=12, gender='F', time=1071.9}
+{place=26, name='Briana Umana', school='Armstrong', grade=11, gender='F', time=1051.5}
+{place=27, name='Tracy Renier', school='Benilde-St Margaret', grade=12, gender='F', time=1019.9}
+{place=28, name='Sonja Squiers', school='Orono', grade=11, gender='F', time=1060.0}
+{place=29, name='Avalon Johnson', school='Orono', grade=10, gender='F', time=1070.6}
+{place=30, name='Leah Baker', school='Armstrong', grade=12, gender='F', time=1094.5}
+{place=31, name='Sammi Tarnowski', school='Benilde-St Margaret', grade=12, gender='F', time=1088.0}
+{place=32, name='Abby Sohm', school='Benilde-St Margaret', grade=11, gender='F', time=1044.3}
+{place=33, name='Nalia Petersen', school='Heritage-Providence', grade=10, gender='F', time=1166.6}
+{place=34, name='Nora Griffin-Wiesner', school='Cooper', grade=11, gender='F', time=1129.3}
+{place=35, name='Elsa Soderstrom', school='Orono', grade=12, gender='F', time=1129.6}
+{place=36, name='Simone Lundquist', school='Heritage-Providence', grade=9, gender='F', time=1158.3}
+{place=37, name='Annie Van Pilsum-Johnson', school='St Louis Park', grade=12, gender='F', time=1136.1}
+{place=38, name='Kate McGown', school='Mound-Westonka', grade=10, gender='F', time=1095.9}
+{place=39, name='Laci Provenzano', school='Hopkins', grade=9, gender='F', time=1211.3}
+{place=40, name='Lauren Lachenmayer', school='Mound-Westonka', grade=11, gender='F', time=1161.3}
+{place=41, name='Ella Hammerstrand', school='St Louis Park', grade=10, gender='F', time=1150.8}
+{place=42, name='Isabel Kjaer', school='St Louis Park', grade=10, gender='F', time=1173.8}
+{place=43, name='Molly Schoephoerster', school='Mound-Westonka', grade=12, gender='F', time=1157.7}
+{place=44, name='Nicole  Dorn', school='Benilde-St Margaret', grade=12, gender='F', time=1164.3}
+{place=45, name='Elizabeth Smude', school='Cooper', grade=12, gender='F', time=1193.8}
+{place=46, name='Calli Battis', school='Mound-Westonka', grade=12, gender='F', time=1142.3}
+{place=47, name='Elletta Firehammer', school='Hopkins', grade=10, gender='F', time=1210.8}
+{place=48, name='Anika Hanson', school='St Louis Park', grade=11, gender='F', time=1210.0}
+{place=49, name='Emma Kelly', school='Heritage-Providence', grade=8, gender='F', time=1256.6}
+{place=50, name='Kate Brinkman', school='St Louis Park', grade=12, gender='F', time=1261.4}
+{place=51, name='Carly McGown', school='Mound-Westonka', grade=9, gender='F', time=1213.9}
+{place=52, name='Maya Czeneszew', school='Breck', grade=12, gender='F', time=1273.9}
+{place=53, name='Clare Lynch', school='Benilde-St Margaret', grade=9, gender='F', time=1328.3}
+{place=54, name='Louise Kim', school='Breck', grade=11, gender='F', time=1190.8}
+{place=55, name='Morgan Bell', school='Heritage-Providence', grade=9, gender='F', time=1283.9}
+{place=56, name='Jenna Wicht', school='Heritage-Providence', grade=11, gender='F', time=1328.5}
+{place=57, name='Quincy Shelp', school='Orono', grade=8, gender='F', time=1357.2}
+{place=58, name='Rachel Gunderson', school='Breck', grade=10, gender='F', time=1367.1}
+{place=59, name='Lexi Fine', school='Blake', grade=12, gender='F', time=1308.4}
+{place=60, name='Evelyn Villalobos', school='Cooper', grade=10, gender='F', time=1376.1}
+{place=61, name='Grace Hanson', school='Mound-Westonka', grade=10, gender='F', time=1442.3}
+{place=62, name='Katherine Pletcher', school='Cooper', grade=11, gender='F', time=1444.9}
+{place=63, name='Eloise Cherian', school='Breck', grade=11, gender='F', time=1352.9}
+{place=64, name='Anna Janzen', school='Breck', grade=11, gender='F', time=1389.0}
+{place=65, name='Nora Kushner', school='Breck', grade=8, gender='F', time=1403.6}
+{place=66, name='Bridget Hodgkin', school='Heritage-Providence', grade=9, gender='F', time=1459.6}
+{place=67, name='Claire Stromberg', school='Cooper', grade=8, gender='F', time=1579.9}
+{place=68, name='Elleythea Smith', school='Cooper', grade=9, gender='F', time=1564.2}
+{place=69, name='Tori Reisberg', school='Breck', grade=8, gender='F', time=1594.5}
+{place=70, name='Emily Kral', school='Mpls Patrick Henry', grade=10, gender='F', time=1535.3}
+{place=71, name='Linnea Krig', school='Blake', grade=9, gender='F', time=1621.3}
+{place=72, name='Anastasia Sikkila', school='Cooper', grade=12, gender='F', time=1816.8}

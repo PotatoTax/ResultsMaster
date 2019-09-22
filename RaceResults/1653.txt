@@ -1,0 +1,95 @@
+Race : 1653
+{place=1, name='Danielle Ruhr', school='Buffalo', grade=9, gender='F', time=1367.41}
+{place=2, name='Emma Weber', school='Buffalo', grade=11, gender='F', time=1371.94}
+{place=3, name='Lily Hanson', school='Buffalo', grade=10, gender='F', time=1396.44}
+{place=4, name='Callie Doucette', school='Becker', grade=9, gender='F', time=1419.44}
+{place=5, name='Kaylin Wiehle', school='Becker', grade=10, gender='F', time=1424.52}
+{place=6, name='Isabelle Scully', school='Blaine', grade=8, gender='F', time=1428.94}
+{place=7, name='Olivia Bigelow', school='Monticello', grade=8, gender='F', time=1436.94}
+{place=8, name='Sara Parent', school='Rogers', grade=9, gender='F', time=1441.56}
+{place=9, name='Alli Garding', school='Becker', grade=10, gender='F', time=1455.79}
+{place=10, name='CECE Miller', school='Buffalo', grade=11, gender='F', time=1466.54}
+{place=11, name='McKenze Alders', school='Spectrum High School', grade=9, gender='F', time=1467.94}
+{place=12, name='Hailey Strenge', school='Buffalo', grade=10, gender='F', time=1468.72}
+{place=13, name='Taylor Bidon', school='Blaine', grade=10, gender='F', time=1469.44}
+{place=14, name='Julia Forsman', school='Monticello', grade=10, gender='F', time=1480.39}
+{place=15, name='Kaitlyn Benz', school='Rogers', grade=12, gender='F', time=1481.39}
+{place=16, name='Josie Lavato', school='Buffalo', grade=9, gender='F', time=1486.46}
+{place=17, name='Bryanna Edling', school='Becker', grade=10, gender='F', time=1488.54}
+{place=18, name='Jade Kurtz', school='Blaine', grade=10, gender='F', time=1493.39}
+{place=19, name='Lilia Hoover', school='Buffalo', grade=11, gender='F', time=1496.02}
+{place=20, name='Kayden Westin', school='Becker', grade=11, gender='F', time=1496.02}
+{place=21, name='Lauren Kern', school='Blaine', grade=10, gender='F', time=1499.06}
+{place=22, name='Grace Wunderlich', school='St Francis', grade=10, gender='F', time=1500.0}
+{place=23, name='Lily Bandy', school='Rogers', grade=9, gender='F', time=1502.19}
+{place=24, name='Cayla Paumen', school='Becker', grade=9, gender='F', time=1503.31}
+{place=25, name='Makayla Harmer', school='Spectrum High School', grade=7, gender='F', time=1510.46}
+{place=26, name='Sophia Wulf', school='Buffalo', grade=9, gender='F', time=1511.52}
+{place=27, name='Gretchen Larson', school='Spectrum High School', grade=10, gender='F', time=1515.59}
+{place=28, name='Annia Alventosa Pijuan', school='St Francis', grade=11, gender='F', time=1536.66}
+{place=29, name='Ava Soucy', school='Monticello', grade=9, gender='F', time=1538.29}
+{place=30, name='Jasmine Brockberg', school='Rogers', grade=11, gender='F', time=1538.69}
+{place=31, name='Sarah Shogren', school='Blaine', grade=11, gender='F', time=1544.46}
+{place=32, name='Caitlin Hackbarth', school='Spectrum High School', grade=11, gender='F', time=1556.58}
+{place=33, name='Sophia Braun', school='Buffalo', grade=9, gender='F', time=1562.21}
+{place=34, name='Jenna Palmer', school='Buffalo', grade=9, gender='F', time=1562.66}
+{place=35, name='Lauren Peckham', school='Spectrum High School', grade=8, gender='F', time=1563.67}
+{place=36, name='Amorita DeStefano', school='Princeton', grade=9, gender='F', time=1566.08}
+{place=37, name='Sarah Janckila', school='Rogers', grade=12, gender='F', time=1567.09}
+{place=38, name='Jennifer Hellstrom', school='Princeton', grade=12, gender='F', time=1567.59}
+{place=39, name='Mya Tiernan', school='Buffalo', grade=9, gender='F', time=1568.71}
+{place=40, name='Caylah Chonsky', school='Becker', grade=10, gender='F', time=1570.71}
+{place=41, name='Hailey DelCastillo', school='Blaine', grade=10, gender='F', time=1577.25}
+{place=42, name='Allyssa Fleagle', school='St Francis', grade=12, gender='F', time=1584.79}
+{place=43, name='Olivia Mateyka', school='Becker', grade=9, gender='F', time=1584.96}
+{place=44, name='Marissa LeClaire', school='Rogers', grade=11, gender='F', time=1586.46}
+{place=45, name='Katie Stein', school='Rogers', grade=9, gender='F', time=1591.96}
+{place=46, name='Karly Kowalsky', school='Becker', grade=10, gender='F', time=1594.71}
+{place=47, name='Hannah Solberg', school='St Francis', grade=11, gender='F', time=1596.46}
+{place=48, name='Jessica Sand', school='Becker', grade=11, gender='F', time=1597.21}
+{place=49, name='Abigail Hendrickson', school='St Francis', grade=10, gender='F', time=1602.46}
+{place=50, name='Grace Clark', school='Rogers', grade=12, gender='F', time=1613.61}
+{place=51, name='Elise Crow', school='Rogers', grade=10, gender='F', time=1615.96}
+{place=52, name='Breanna Schumacher', school='Rogers', grade=9, gender='F', time=1623.21}
+{place=53, name='Gretta Jensen', school='Rogers', grade=9, gender='F', time=1625.59}
+{place=54, name='Becca Wilts', school='Monticello', grade=10, gender='F', time=1631.21}
+{place=55, name='Kirsten Meinert', school='Spectrum High School', grade=11, gender='F', time=1640.42}
+{place=56, name='Allie Rother', school='Rogers', grade=10, gender='F', time=1641.21}
+{place=57, name='Tori Evans', school='Princeton', grade=9, gender='F', time=1644.46}
+{place=58, name='Leah Mork', school='Rogers', grade=9, gender='F', time=1649.34}
+{place=59, name='Katie Alickson', school='Princeton', grade=10, gender='F', time=1649.54}
+{place=60, name='Mackenzie Frederick', school='Big Lake', grade=11, gender='F', time=1652.19}
+{place=61, name='Jazzy  Humphreys', school='Monticello', grade=11, gender='F', time=1654.04}
+{place=62, name='Allison Dinsmore', school='Big Lake', grade=11, gender='F', time=1658.52}
+{place=63, name='Madison  Hansen', school='Rogers', grade=11, gender='F', time=1662.71}
+{place=64, name='Stacy Anderson', school='Rogers', grade=11, gender='F', time=1669.21}
+{place=65, name='Rebecca Daniels', school='Princeton', grade=9, gender='F', time=1676.96}
+{place=66, name='Marielle Seeleman', school='Buffalo', grade=12, gender='F', time=1680.0}
+{place=67, name='Lia Piazza', school='Rogers', grade=10, gender='F', time=1680.21}
+{place=68, name='Samantha Hed', school='Blaine', grade=11, gender='F', time=1680.61}
+{place=69, name='Grace Watson', school='Monticello', grade=9, gender='F', time=1684.06}
+{place=70, name='Renee Tripp', school='Becker', grade=11, gender='F', time=1686.08}
+{place=71, name='Ellie Schwartz', school='Becker', grade=11, gender='F', time=1686.47}
+{place=72, name='Holly Eshleman', school='Rogers', grade=10, gender='F', time=1688.14}
+{place=73, name='Heather Hulinsky', school='Rogers', grade=9, gender='F', time=1689.46}
+{place=74, name='Katie  Langenfeld', school='Princeton', grade=10, gender='F', time=1703.96}
+{place=75, name='Selena Garcia', school='Blaine', grade=12, gender='F', time=1725.29}
+{place=76, name='Payton Beedle', school='St Francis', grade=10, gender='F', time=1727.96}
+{place=77, name='Skyler Hennig', school='Blaine', grade=11, gender='F', time=1731.21}
+{place=78, name='Paige Jordan', school='Rogers', grade=9, gender='F', time=1741.75}
+{place=79, name='Elle Wertish', school='Big Lake', grade=9, gender='F', time=1743.79}
+{place=80, name='Maizie Mattson', school='Buffalo', grade=9, gender='F', time=1749.21}
+{place=81, name='Victoria Nygaard', school='Big Lake', grade=9, gender='F', time=1751.69}
+{place=82, name='Isabella Que', school='Blaine', grade=10, gender='F', time=1815.39}
+{place=83, name='Alyssa Thielen', school='Becker', grade=12, gender='F', time=1824.94}
+{place=84, name='Marie Reimer', school='Rogers', grade=10, gender='F', time=1837.94}
+{place=85, name='Grace Alford', school='Rogers', grade=11, gender='F', time=1849.67}
+{place=86, name='Elizabeth Schue', school='Blaine', grade=9, gender='F', time=1863.94}
+{place=87, name='Portia Davin', school='Monticello', grade=9, gender='F', time=1900.96}
+{place=88, name='Anna Anderley', school='Monticello', grade=10, gender='F', time=1905.41}
+{place=89, name='Madeline Doggett', school='Buffalo', grade=9, gender='F', time=1917.09}
+{place=90, name='Marlana Brander', school='Monticello', grade=9, gender='F', time=1929.21}
+{place=91, name='Grace Wilhelm', school='Becker', grade=9, gender='F', time=1948.5}
+{place=92, name='Madison Terlinder', school='Big Lake', grade=11, gender='F', time=1984.08}
+{place=93, name='Olivia Reitmeier', school='Monticello', grade=11, gender='F', time=2129.72}
+{place=94, name='Lauren DeCamp', school='Monticello', grade=10, gender='F', time=2206.59}

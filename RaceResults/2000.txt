@@ -1,0 +1,11 @@
+Race : 2000
+{place=1, name='Vars C Edina', school='Edina', grade=12, gender='M', time=685.77}
+{place=2, name='Vars C Tonka', school='Minnetonka', grade=12, gender='M', time=694.45}
+{place=3, name='Vars C Hopkins', school='Hopkins', grade=12, gender='M', time=705.27}
+{place=4, name='Vars D Wayzata', school='Wayzata', grade=12, gender='M', time=708.29}
+{place=5, name='Vars B Edina', school='Edina', grade=12, gender='M', time=709.5}
+{place=6, name='Vars F Wayzata', school='Wayzata', grade=12, gender='M', time=709.5}
+{place=7, name='Vars B Eden Pr', school='Eden Prairie', grade=12, gender='M', time=713.75}
+{place=8, name='Vars D Tonka', school='Minnetonka', grade=12, gender='M', time=730.14}
+{place=9, name='Vars E Eden Pr', school='Eden Prairie', grade=12, gender='M', time=733.25}
+{place=10, name='Vars D Hopkins', school='Hopkins', grade=12, gender='M', time=748.77}

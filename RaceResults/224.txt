@@ -1,0 +1,72 @@
+Race : 224
+{place=1, name='Zach Mellon', school='Buffalo', grade=12, gender='M', time=992.65}
+{place=2, name='Dylan Cheever', school='Minneapolis Southwest', grade=12, gender='M', time=1017.52}
+{place=3, name='Stewart Richardson', school='Blake', grade=12, gender='M', time=1026.66}
+{place=4, name='Josh Eide', school='Henry Sibley', grade=12, gender='M', time=1041.66}
+{place=5, name='Stephen Thibodeaus', school='Buffalo', grade=9, gender='M', time=1047.91}
+{place=6, name='Patrick  Bryant', school='DeLaSalle', grade=12, gender='M', time=1050.03}
+{place=7, name='Brandon Kingston', school='Waseca', grade=12, gender='M', time=1051.37}
+{place=8, name='Brent Schultz', school='Orono', grade=12, gender='M', time=1059.78}
+{place=9, name='Michael Unruh', school='Henry Sibley', grade=11, gender='M', time=1062.06}
+{place=10, name='Jeremy Sass', school='Waseca', grade=11, gender='M', time=1067.56}
+{place=11, name='AJ Vanacek', school='Mound-Westonka', grade=10, gender='M', time=1070.11}
+{place=12, name='Matt Harrison', school='Mound-Westonka', grade=12, gender='M', time=1071.17}
+{place=13, name='Ben  Jones', school='Blake', grade=12, gender='M', time=1071.91}
+{place=14, name='Paul Koullick', school='Blake', grade=11, gender='M', time=1074.33}
+{place=15, name='Alec Schultz', school='Orono', grade=11, gender='M', time=1076.33}
+{place=16, name='Marquez Hobson', school='Minneapolis Southwest', grade=11, gender='M', time=1080.0}
+{place=17, name='Dillon Davis', school='St Louis Park', grade=11, gender='M', time=1086.88}
+{place=18, name='Jesse Doyle', school='Buffalo', grade=12, gender='M', time=1093.43}
+{place=19, name='Sean Tyree', school='Blake', grade=11, gender='M', time=1095.57}
+{place=20, name='Wyatt Doop', school='Orono', grade=11, gender='M', time=1102.1}
+{place=21, name='Nick Teetzel', school='Buffalo', grade=11, gender='M', time=1102.36}
+{place=22, name='Dakota Darkstar', school='Minneapolis Southwest', grade=11, gender='M', time=1102.66}
+{place=23, name='John Boyce', school='DeLaSalle', grade=11, gender='M', time=1105.88}
+{place=24, name='Daniel B Bakken', school='Orono', grade=11, gender='M', time=1107.05}
+{place=25, name='Kelson MacKenzie', school='St Louis Park', grade=11, gender='M', time=1109.37}
+{place=26, name='Cruz Barrera', school='Henry Sibley', grade=9, gender='M', time=1112.27}
+{place=27, name='Kevin Hayes', school='Buffalo', grade=12, gender='M', time=1115.37}
+{place=28, name='Parker Wharram', school='Mound-Westonka', grade=9, gender='M', time=1115.77}
+{place=29, name='Ben Ohman', school='Orono', grade=11, gender='M', time=1121.57}
+{place=30, name='yusuke Nakamura', school='Mound-Westonka', grade=12, gender='M', time=1123.52}
+{place=31, name='Blake Solberg', school='Buffalo', grade=11, gender='M', time=1124.87}
+{place=32, name='Luke Darger', school='DeLaSalle', grade=11, gender='M', time=1126.37}
+{place=33, name='Ethan Oscarson', school='Washburn', grade=9, gender='M', time=1134.66}
+{place=34, name='Nathan Engfer', school='Buffalo', grade=12, gender='M', time=1135.77}
+{place=35, name='Paul Brauchle', school='Orono', grade=8, gender='M', time=1141.77}
+{place=36, name='Ben Anderson-Smith', school='Mound-Westonka', grade=12, gender='M', time=1145.7}
+{place=37, name='Patrick Holec', school='Henry Sibley', grade=10, gender='M', time=1146.75}
+{place=38, name='Charles Noel', school='Minneapolis Southwest', grade=12, gender='M', time=1147.64}
+{place=39, name='Losha Ndemeno', school='DeLaSalle', grade=11, gender='M', time=1152.43}
+{place=40, name='Trevor Jahn', school='Orono', grade=10, gender='M', time=1153.53}
+{place=41, name='Chris Nasby', school='Henry Sibley', grade=11, gender='M', time=1154.1}
+{place=42, name='Brett Szalapski', school='Blake', grade=10, gender='M', time=1165.25}
+{place=43, name='Ryan Landkamer', school='Waseca', grade=12, gender='M', time=1167.9}
+{place=44, name='Elliot Hodgson', school='Henry Sibley', grade=11, gender='M', time=1173.72}
+{place=45, name='Christian Hall', school='Waseca', grade=11, gender='M', time=1175.75}
+{place=46, name='Josh Wareham', school='Henry Sibley', grade=10, gender='M', time=1180.91}
+{place=47, name='Joe O''Neil', school='Mound-Westonka', grade=12, gender='M', time=1182.34}
+{place=48, name='David Skodje', school='DeLaSalle', grade=11, gender='M', time=1185.55}
+{place=49, name='Chuck Noble', school='St Louis Park', grade=12, gender='M', time=1191.2}
+{place=50, name='Kevin Johnson', school='DeLaSalle', grade=11, gender='M', time=1192.27}
+{place=51, name='Zachary Alexander', school='Minneapolis Southwest', grade=12, gender='M', time=1192.5}
+{place=52, name='Blake Malecha', school='Waseca', grade=10, gender='M', time=1193.59}
+{place=53, name='Tyler Mulcahey', school='Waseca', grade=12, gender='M', time=1196.61}
+{place=54, name='Eddie Mousel', school='Concordia Acad-Bl', grade=11, gender='M', time=1201.18}
+{place=55, name='Ryan Skinner', school='St Louis Park', grade=12, gender='M', time=1201.46}
+{place=56, name='Dominic  Reed', school='St Louis Park', grade=9, gender='M', time=1203.7}
+{place=57, name='Nic Rudolph', school='Waseca', grade=10, gender='M', time=1204.19}
+{place=58, name='Dyaln Gilbertson', school='St Louis Park', grade=10, gender='M', time=1205.49}
+{place=59, name='Jack Inglis', school='Mound-Westonka', grade=9, gender='M', time=1210.54}
+{place=60, name='John Grotenhuis', school='International Schl of MN', grade=10, gender='M', time=1213.64}
+{place=61, name='Kent Carlson', school='Blake', grade=11, gender='M', time=1221.75}
+{place=62, name='Elias Hutchinson', school='Washburn', grade=12, gender='M', time=1236.82}
+{place=63, name='Nick Noethe', school='Concordia Acad-Bl', grade=10, gender='M', time=1239.2}
+{place=64, name='Sam Renikoff', school='Washburn', grade=9, gender='M', time=1257.37}
+{place=65, name='Jacob Sweeney', school='St Louis Park', grade=11, gender='M', time=1258.8}
+{place=66, name='Ahmed Ali', school='Washburn', grade=10, gender='M', time=1320.36}
+{place=67, name='Stephen Carter', school='Washburn', grade=10, gender='M', time=1346.72}
+{place=68, name='Drew Essington', school='DeLaSalle', grade=11, gender='M', time=1349.03}
+{place=69, name='Nick Tscherne', school='Washburn', grade=12, gender='M', time=1358.15}
+{place=70, name='Nick Rigert', school='Washburn', grade=10, gender='M', time=1365.13}
+{place=71, name='Ben Campion', school='International Schl of MN', grade=10, gender='M', time=1433.31}

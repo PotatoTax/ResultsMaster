@@ -1,0 +1,66 @@
+Race : 1356
+{place=1, name='Alec Sanbeck', school='Mora', grade=12, gender='M', time=1010.49}
+{place=2, name='Michael Schwinghamer', school='Mora', grade=12, gender='M', time=1021.79}
+{place=3, name='Matthew Trutna', school='Big Lake', grade=11, gender='M', time=1059.68}
+{place=4, name='Tyler Moore', school='Little Falls', grade=12, gender='M', time=1103.54}
+{place=5, name='Jake Andres', school='Pierz', grade=10, gender='M', time=1117.68}
+{place=6, name='Zach Garza', school='Mora', grade=11, gender='M', time=1134.87}
+{place=7, name='Zach Patten', school='Milaca', grade=12, gender='M', time=1142.85}
+{place=8, name='John Schwinghamer', school='Mora', grade=12, gender='M', time=1146.93}
+{place=9, name='Nathan Williams', school='Mora', grade=10, gender='M', time=1146.93}
+{place=10, name='Jon Hall', school='Milaca', grade=11, gender='M', time=1151.35}
+{place=11, name='Luke  Crouse', school='Chisago Lakes', grade=12, gender='M', time=1160.43}
+{place=12, name='Cooper Lennox', school='Mora', grade=9, gender='M', time=1165.5}
+{place=13, name='Noah  Pick', school='North Branch', grade=12, gender='M', time=1172.27}
+{place=14, name='Mason Voshell', school='Milaca', grade=9, gender='M', time=1175.39}
+{place=15, name='Nick Lindsey', school='Chisago Lakes', grade=11, gender='M', time=1176.43}
+{place=16, name='Matthew Stuber', school='North Branch', grade=10, gender='M', time=1176.93}
+{place=17, name='Parker Liebl', school='Big Lake', grade=11, gender='M', time=1178.81}
+{place=18, name='Jake Dickinson', school='Big Lake', grade=11, gender='M', time=1183.91}
+{place=19, name='Tanner Burton', school='Big Lake', grade=11, gender='M', time=1189.2}
+{place=20, name='Nolan Zimny', school='Little Falls', grade=11, gender='M', time=1193.27}
+{place=21, name='Drew Peterson', school='Little Falls', grade=10, gender='M', time=1196.14}
+{place=22, name='Tyler Schlattman', school='Little Falls', grade=12, gender='M', time=1196.95}
+{place=23, name='Jonah Ploof', school='Little Falls', grade=11, gender='M', time=1197.43}
+{place=24, name='Calvin Engberg', school='Braham', grade=11, gender='M', time=1197.95}
+{place=25, name='Brandon Wyganowski', school='Braham', grade=12, gender='M', time=1206.68}
+{place=26, name='Sam Bolt', school='Milaca', grade=10, gender='M', time=1207.7}
+{place=27, name='Ben Morris', school='Big Lake', grade=11, gender='M', time=1217.25}
+{place=28, name='Brett Hussman', school='Milaca', grade=12, gender='M', time=1219.1}
+{place=29, name='Jackson Rasmusson', school='Foley', grade=10, gender='M', time=1230.29}
+{place=30, name='Christian Patterson', school='Braham', grade=12, gender='M', time=1233.93}
+{place=31, name='Jared Pflipsen', school='Foley', grade=12, gender='M', time=1234.93}
+{place=32, name='William Riitters', school='Little Falls', grade=10, gender='M', time=1238.6}
+{place=33, name='Seth Hora', school='Rush City', grade=10, gender='M', time=1243.68}
+{place=34, name='Aiden Bear', school='North Branch', grade=10, gender='M', time=1245.93}
+{place=35, name='Sandon Stepp', school='Rush City', grade=9, gender='M', time=1246.16}
+{place=36, name='August Leopold', school='Chisago Lakes', grade=11, gender='M', time=1253.47}
+{place=37, name='Jared  Greenberg', school='Mora', grade=12, gender='M', time=1255.27}
+{place=38, name='Gabe Petty', school='Milaca', grade=12, gender='M', time=1269.95}
+{place=39, name='Wade Rhonemus', school='Foley', grade=10, gender='M', time=1283.79}
+{place=40, name='Logan Johnson', school='Big Lake', grade=11, gender='M', time=1287.66}
+{place=41, name='Leo Wilczek', school='Little Falls', grade=11, gender='M', time=1295.16}
+{place=42, name='Drew Storkamp', school='Foley', grade=10, gender='M', time=1296.43}
+{place=43, name='Will Nelson', school='Chisago Lakes', grade=10, gender='M', time=1310.43}
+{place=44, name='Steven Ranweiler', school='Foley', grade=12, gender='M', time=1326.2}
+{place=45, name='Joe Morris', school='Big Lake', grade=11, gender='M', time=1343.77}
+{place=46, name='Chad Fleischhacker', school='Rush City', grade=11, gender='M', time=1349.27}
+{place=47, name='Tanner Brosh', school='Foley', grade=12, gender='M', time=1349.89}
+{place=48, name='Cole Andres', school='Pierz', grade=9, gender='M', time=1352.95}
+{place=49, name='Ryan Wyganowski', school='Braham', grade=10, gender='M', time=1356.0}
+{place=50, name='Grant Koehler', school='Chisago Lakes', grade=9, gender='M', time=1362.52}
+{place=51, name='Kyle  Hendren', school='North Branch', grade=12, gender='M', time=1365.95}
+{place=52, name='Noah Griser', school='Rush City', grade=12, gender='M', time=1367.6}
+{place=53, name='Matt Thole', school='Foley', grade=11, gender='M', time=1373.45}
+{place=54, name='Alex Gottwalt', school='Pierz', grade=9, gender='M', time=1380.0}
+{place=55, name='Ashton Langworthy', school='Rush City', grade=9, gender='M', time=1404.95}
+{place=56, name='Jaden Hennen', school='Pierz', grade=9, gender='M', time=1413.7}
+{place=57, name='Colby Weber', school='North Branch', grade=12, gender='M', time=1438.2}
+{place=58, name='Joe Baker', school='Milaca', grade=11, gender='M', time=1439.49}
+{place=59, name='Leo  Cornelius', school='North Branch', grade=12, gender='M', time=1442.16}
+{place=60, name='Derek Murphy', school='Rush City', grade=10, gender='M', time=1449.5}
+{place=61, name='Mitch Garber', school='Milaca', grade=12, gender='M', time=1487.75}
+{place=62, name='Tony Kaminski', school='Chisago Lakes', grade=10, gender='M', time=1487.97}
+{place=63, name='Micah Pick', school='North Branch', grade=11, gender='M', time=1488.37}
+{place=64, name='Tony Colburn', school='Chisago Lakes', grade=10, gender='M', time=1571.25}
+{place=65, name='Connor Rowland', school='Braham', grade=11, gender='M', time=1906.95}

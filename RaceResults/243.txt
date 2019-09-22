@@ -1,0 +1,58 @@
+Race : 243
+{place=1, name='Karlee Cox', school='Monticello', grade=11, gender='F', time=1013.53}
+{place=2, name='Katelynn Andres', school='Becker', grade=11, gender='F', time=1020.0}
+{place=3, name='Kaitlyn Jude', school='Monticello', grade=12, gender='F', time=1033.47}
+{place=4, name='Brooke Rasmussen', school='Monticello', grade=7, gender='F', time=1041.82}
+{place=5, name='Jasmine  Maki', school='Becker', grade=12, gender='F', time=1042.37}
+{place=6, name='Erica Nordin', school='Monticello', grade=10, gender='F', time=1046.06}
+{place=7, name='Amanda  Olander', school='Cambridge-Isanti', grade=9, gender='F', time=1064.05}
+{place=8, name='Sandra Ruhr', school='Buffalo', grade=9, gender='F', time=1068.63}
+{place=9, name='Emily S. Nygaard', school='STMA', grade=11, gender='F', time=1071.79}
+{place=10, name='Heidi Christenson', school='Monticello', grade=12, gender='F', time=1077.38}
+{place=11, name='Nina Jepsen', school='Buffalo', grade=11, gender='F', time=1081.23}
+{place=12, name='Brittney Shipman', school='Monticello', grade=11, gender='F', time=1086.96}
+{place=13, name='Karielle Larson', school='Monticello', grade=9, gender='F', time=1089.3}
+{place=14, name='Kelly Chies', school='Cambridge-Isanti', grade=12, gender='F', time=1092.47}
+{place=15, name='Allie Mack', school='Monticello', grade=9, gender='F', time=1096.65}
+{place=16, name='Brandi  Mallinger', school='STMA', grade=10, gender='F', time=1104.65}
+{place=17, name='Mariah M Stolp', school='Big Lake', grade=9, gender='F', time=1115.05}
+{place=18, name='Jaimee Ewert', school='Monticello', grade=12, gender='F', time=1119.52}
+{place=19, name='Alexa  Leon', school='Becker', grade=9, gender='F', time=1129.55}
+{place=20, name='Emma Young', school='STMA', grade=10, gender='F', time=1141.68}
+{place=21, name='Victoria Mulvihill', school='Becker', grade=10, gender='F', time=1142.3}
+{place=22, name='Mari Liestman', school='Becker', grade=10, gender='F', time=1149.4}
+{place=23, name='Brianna LaDuke', school='STMA', grade=10, gender='F', time=1152.32}
+{place=24, name='Gina Bongaarts', school='STMA', grade=12, gender='F', time=1157.7}
+{place=25, name='Lauren Muller', school='Big Lake', grade=10, gender='F', time=1165.73}
+{place=26, name='Shauna  Ellefson', school='Big Lake', grade=9, gender='F', time=1171.88}
+{place=27, name='Becky  Dowell', school='Cambridge-Isanti', grade=9, gender='F', time=1173.87}
+{place=28, name='Shelby Sylvester', school='Cambridge-Isanti', grade=9, gender='F', time=1177.64}
+{place=29, name='Miranda Christenson', school='Cambridge-Isanti', grade=10, gender='F', time=1178.8}
+{place=30, name='Amber Samson', school='Becker', grade=10, gender='F', time=1184.02}
+{place=31, name='Caroline Persons', school='Buffalo', grade=9, gender='F', time=1193.28}
+{place=32, name='Susan Holker', school='Monticello', grade=11, gender='F', time=1197.77}
+{place=33, name='Meghan  Morin', school='Cambridge-Isanti', grade=10, gender='F', time=1199.33}
+{place=34, name='Andrea  White', school='Cambridge-Isanti', grade=9, gender='F', time=1200.2}
+{place=35, name='Svenja Ullmann', school='STMA', grade=12, gender='F', time=1203.5}
+{place=36, name='Alana Bares', school='Cambridge-Isanti', grade=9, gender='F', time=1206.11}
+{place=37, name='Alyssa H. Scott', school='STMA', grade=10, gender='F', time=1209.8}
+{place=38, name='Katie  Sladek', school='STMA', grade=10, gender='F', time=1214.52}
+{place=39, name='Melissa Peterson', school='Cambridge-Isanti', grade=10, gender='F', time=1218.09}
+{place=40, name='Maggie Casey', school='STMA', grade=9, gender='F', time=1219.77}
+{place=41, name='Jashlyn Yang', school='Cambridge-Isanti', grade=12, gender='F', time=1220.4}
+{place=42, name='Ashley Saysithi', school='STMA', grade=11, gender='F', time=1233.63}
+{place=43, name='Danielle Swanson', school='Big Lake', grade=9, gender='F', time=1237.56}
+{place=44, name='Kayla Roden', school='STMA', grade=12, gender='F', time=1249.56}
+{place=45, name='Erika Gudmundson', school='Becker', grade=9, gender='F', time=1252.62}
+{place=46, name='Betty Toivanen', school='Monticello', grade=12, gender='F', time=1258.27}
+{place=47, name='Mica Harris', school='Princeton', grade=10, gender='F', time=1259.48}
+{place=48, name='Lauren Stelflug', school='Rogers', grade=10, gender='F', time=1260.0}
+{place=49, name='Dani Mustonen', school='Big Lake', grade=11, gender='F', time=1271.97}
+{place=50, name='Marie Christenson', school='Buffalo', grade=9, gender='F', time=1280.02}
+{place=51, name='Kadie Jorgensen', school='Rogers', grade=9, gender='F', time=1304.52}
+{place=52, name='Mandy Thurmes', school='STMA', grade=12, gender='F', time=1316.48}
+{place=53, name='Alyssa Lommel', school='Big Lake', grade=9, gender='F', time=1353.77}
+{place=54, name='Lauren VanBeek', school='Monticello', grade=9, gender='F', time=1371.93}
+{place=55, name='Noelle Bauer', school='Princeton', grade=11, gender='F', time=1375.53}
+{place=56, name='Leah Odegard', school='STMA', grade=9, gender='F', time=1417.27}
+{place=57, name='Victoria Hansen', school='Monticello', grade=11, gender='F', time=1470.08}

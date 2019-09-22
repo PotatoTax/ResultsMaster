@@ -1,0 +1,40 @@
+Race : 1655
+{place=1, name='Sarah Olson', school='Blaine', grade=10, gender='F', time=1215.66}
+{place=2, name='Amanda Montplaisir', school='Buffalo', grade=11, gender='F', time=1232.87}
+{place=3, name='Emily Kern', school='Buffalo', grade=10, gender='F', time=1249.14}
+{place=4, name='Lexi Duscher', school='Princeton', grade=9, gender='F', time=1261.91}
+{place=5, name='Morgan Novotny', school='Spectrum High School', grade=8, gender='F', time=1288.47}
+{place=6, name='Martha Bergley', school='Spectrum High School', grade=9, gender='F', time=1288.91}
+{place=7, name='Meredith Reynolds', school='Buffalo', grade=11, gender='F', time=1300.43}
+{place=8, name='Kylie Wolfe', school='St Francis', grade=10, gender='F', time=1314.22}
+{place=9, name='Ellie Cargill', school='Rogers', grade=11, gender='F', time=1322.16}
+{place=10, name='Areefa Seepersaud', school='Buffalo', grade=10, gender='F', time=1322.97}
+{place=11, name='Kaitlin Berg', school='Buffalo', grade=9, gender='F', time=1325.66}
+{place=12, name='Katelyn Gramstad', school='Spectrum High School', grade=8, gender='F', time=1328.47}
+{place=13, name='Maria Novotny', school='Spectrum High School', grade=10, gender='F', time=1330.22}
+{place=14, name='Anna Cargill', school='Rogers', grade=7, gender='F', time=1338.97}
+{place=15, name='Erica O'Borsky', school='Buffalo', grade=10, gender='F', time=1341.66}
+{place=16, name='Rachel Adams', school='Big Lake', grade=12, gender='F', time=1341.81}
+{place=17, name='Mackenzie Bialka', school='Princeton', grade=9, gender='F', time=1343.1}
+{place=18, name='Kassie Bastian', school='Princeton', grade=9, gender='F', time=1348.39}
+{place=19, name='Bailey Alberts', school='Rogers', grade=9, gender='F', time=1355.97}
+{place=20, name='Nicole Beutz', school='Rogers', grade=10, gender='F', time=1359.37}
+{place=21, name='Samantha Swedzinski', school='Princeton', grade=12, gender='F', time=1369.72}
+{place=22, name='Kayla Niedzielski', school='Spectrum High School', grade=8, gender='F', time=1377.47}
+{place=23, name='Ella Burfeind', school='Spectrum High School', grade=8, gender='F', time=1389.97}
+{place=24, name='Lily Opay', school='Princeton', grade=9, gender='F', time=1400.72}
+{place=25, name='Emma Latchem Reiter', school='Buffalo', grade=9, gender='F', time=1403.74}
+{place=26, name='Whitney  Meyer', school='Rogers', grade=9, gender='F', time=1415.74}
+{place=27, name='Sydney Hauck', school='St Francis', grade=10, gender='F', time=1419.24}
+{place=28, name='Ellie Murphy', school='Big Lake', grade=11, gender='F', time=1434.64}
+{place=29, name='Maria Laudenbach', school='St Francis', grade=9, gender='F', time=1440.0}
+{place=30, name='Emma Lamberger', school='Rogers', grade=7, gender='F', time=1455.75}
+{place=31, name='Skylar Fedor', school='Big Lake', grade=12, gender='F', time=1477.68}
+{place=32, name='Aria Daly', school='Blaine', grade=11, gender='F', time=1490.68}
+{place=33, name='Ava Duke', school='Rogers', grade=8, gender='F', time=1496.49}
+{place=34, name='Courtney Waterhouse', school='Spectrum High School', grade=10, gender='F', time=1507.25}
+{place=35, name='Britta Nordberg', school='Big Lake', grade=10, gender='F', time=1524.97}
+{place=36, name='Hailey Dickson', school='Big Lake', grade=8, gender='F', time=1538.74}
+{place=37, name='Alexis Kluk', school='Big Lake', grade=11, gender='F', time=1541.66}
+{place=38, name='Kristen Alickson', school='Princeton', grade=11, gender='F', time=1543.47}
+{place=39, name='Emma Thompson', school='Big Lake', grade=11, gender='F', time=1659.74}

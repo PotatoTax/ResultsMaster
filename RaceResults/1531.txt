@@ -1,0 +1,115 @@
+Race : 1531
+{place=1, name='Xavier Mansield', school='Spring Lake Park', grade=11, gender='M', time=936.0}
+{place=2, name='Colin Webster', school='Elk River', grade=12, gender='M', time=978.39}
+{place=3, name='Ian Ivens', school='Champlin Park', grade=11, gender='M', time=989.12}
+{place=4, name='Luke Crandall', school='Champlin Park', grade=11, gender='M', time=993.14}
+{place=5, name='McEwan Rodefeld', school='Irondale', grade=11, gender='M', time=1008.16}
+{place=6, name='Bradley Beaver', school='Elk River', grade=12, gender='M', time=1017.68}
+{place=7, name='Sam Anderson', school='Andover', grade=12, gender='M', time=1021.45}
+{place=8, name='Ben Olson', school='Blaine', grade=10, gender='M', time=1022.39}
+{place=9, name='Michael Carlson', school='Armstrong', grade=11, gender='M', time=1032.91}
+{place=10, name='George Elsesser', school='Spring Lake Park', grade=11, gender='M', time=1039.56}
+{place=11, name='Joey Jankowski', school='Irondale', grade=12, gender='M', time=1040.62}
+{place=12, name='Drew Carlson', school='Champlin Park', grade=11, gender='M', time=1046.27}
+{place=13, name='Tim Axberg', school='Irondale', grade=12, gender='M', time=1047.64}
+{place=14, name='Aaron Ley', school='Elk River', grade=12, gender='M', time=1052.52}
+{place=15, name='Joe Lynch', school='Spring Lake Park', grade=9, gender='M', time=1058.45}
+{place=16, name='Jonathan Soderstrom', school='Osseo', grade=12, gender='M', time=1061.16}
+{place=17, name='Tom Brueckman', school='Andover', grade=10, gender='M', time=1062.58}
+{place=18, name='Dan Matthews', school='Coon Rapids', grade=12, gender='M', time=1066.89}
+{place=19, name='Nick Byrne', school='Armstrong', grade=11, gender='M', time=1074.91}
+{place=20, name='Peter Scheller', school='Champlin Park', grade=11, gender='M', time=1075.18}
+{place=21, name='Matt Omann', school='Champlin Park', grade=10, gender='M', time=1076.39}
+{place=22, name='Paul Breitbach', school='Coon Rapids', grade=10, gender='M', time=1077.14}
+{place=23, name='Jack Brandes', school='Armstrong', grade=12, gender='M', time=1081.89}
+{place=24, name='Marcus Schultz', school='Irondale', grade=12, gender='M', time=1086.16}
+{place=25, name='Nathan Dropik-Landwehr', school='Spring Lake Park', grade=12, gender='M', time=1086.85}
+{place=26, name='Clayton Hubred', school='Armstrong', grade=12, gender='M', time=1091.06}
+{place=27, name='Josh Tillman', school='Irondale', grade=11, gender='M', time=1102.87}
+{place=28, name='Chad Korby', school='Park Center', grade=11, gender='M', time=1112.66}
+{place=29, name='Cory Warner', school='Elk River', grade=12, gender='M', time=1113.91}
+{place=30, name='Michael Urvig', school='Champlin Park', grade=11, gender='M', time=1113.91}
+{place=31, name='Evan Huber', school='Elk River', grade=12, gender='M', time=1117.45}
+{place=32, name='Mike Hall', school='Andover', grade=11, gender='M', time=1118.64}
+{place=33, name='Jacob Stangret', school='Andover', grade=12, gender='M', time=1126.72}
+{place=34, name='James Symanski', school='Blaine', grade=10, gender='M', time=1131.2}
+{place=35, name='Sam Himes', school='Armstrong', grade=10, gender='M', time=1132.68}
+{place=36, name='Matt Hempe', school='Maple Grove', grade=11, gender='M', time=1143.62}
+{place=37, name='Spenser Brown', school='Irondale', grade=10, gender='M', time=1145.85}
+{place=38, name='Mitch Zandaroski', school='Coon Rapids', grade=10, gender='M', time=1148.95}
+{place=39, name='Ricky Petroff', school='Coon Rapids', grade=7, gender='M', time=1150.04}
+{place=40, name='Max Kivi', school='Maple Grove', grade=10, gender='M', time=1155.08}
+{place=41, name='Isaac Holcomb', school='Maple Grove', grade=11, gender='M', time=1155.91}
+{place=42, name='Parker Wright', school='Maple Grove', grade=12, gender='M', time=1157.6}
+{place=43, name='Nathan Mueggenberg', school='Coon Rapids', grade=12, gender='M', time=1160.28}
+{place=44, name='Sam Theisen', school='Armstrong', grade=9, gender='M', time=1161.2}
+{place=45, name='Nick Dacon', school='Anoka', grade=12, gender='M', time=1163.41}
+{place=46, name='Max Friese', school='Elk River', grade=11, gender='M', time=1163.43}
+{place=47, name='Noah Adams', school='Elk River', grade=10, gender='M', time=1165.89}
+{place=48, name='Sean Neeser', school='Anoka', grade=10, gender='M', time=1175.91}
+{place=49, name='Nate Kuelbs', school='Armstrong', grade=11, gender='M', time=1181.58}
+{place=50, name='Carter Weinzierl', school='Andover', grade=10, gender='M', time=1183.68}
+{place=51, name='Trygg Lysne', school='Armstrong', grade=10, gender='M', time=1186.83}
+{place=52, name='Greg Miller', school='Park Center', grade=11, gender='M', time=1188.06}
+{place=53, name='Aaron Foster', school='Andover', grade=12, gender='M', time=1192.2}
+{place=54, name='Tommy Kiecker', school='Coon Rapids', grade=12, gender='M', time=1195.06}
+{place=55, name='Aaron Breidenbach', school='Maple Grove', grade=12, gender='M', time=1196.85}
+{place=56, name='Sean Collins', school='Osseo', grade=11, gender='M', time=1202.66}
+{place=57, name='Tyler Linman', school='Osseo', grade=12, gender='M', time=1207.79}
+{place=58, name='CJ Young', school='Maple Grove', grade=8, gender='M', time=1209.1}
+{place=59, name='Brandon Radzom', school='Anoka', grade=12, gender='M', time=1210.93}
+{place=60, name='Joe Huffman', school='Andover', grade=10, gender='M', time=1211.54}
+{place=61, name='John Nguyen', school='Osseo', grade=12, gender='M', time=1217.58}
+{place=62, name='Alec Burgoyne', school='Irondale', grade=11, gender='M', time=1218.14}
+{place=63, name='Luke Tschida', school='Blaine', grade=12, gender='M', time=1219.56}
+{place=64, name='Nik Rem', school='Maple Grove', grade=12, gender='M', time=1220.93}
+{place=65, name='Conor Quinn', school='Armstrong', grade=12, gender='M', time=1221.66}
+{place=66, name='Erik Strootman', school='Osseo', grade=12, gender='M', time=1225.93}
+{place=67, name='Noah Haaf', school='Elk River', grade=10, gender='M', time=1230.08}
+{place=68, name='Mark Scheller', school='Champlin Park', grade=8, gender='M', time=1235.95}
+{place=69, name='Connor Janostin', school='Champlin Park', grade=10, gender='M', time=1237.93}
+{place=70, name='EThan Butler', school='Anoka', grade=12, gender='M', time=1239.2}
+{place=71, name='Mark Hartzel', school='Armstrong', grade=11, gender='M', time=1243.2}
+{place=72, name='Michael Symanski', school='Blaine', grade=10, gender='M', time=1244.79}
+{place=73, name='Nathan Gahr', school='Irondale', grade=9, gender='M', time=1245.1}
+{place=74, name='Ben Hauge', school='Anoka', grade=12, gender='M', time=1253.14}
+{place=75, name='Matt Morton', school='Blaine', grade=10, gender='M', time=1253.68}
+{place=76, name='Tyler Grant', school='Osseo', grade=12, gender='M', time=1256.0}
+{place=77, name='Nick Kjome', school='Osseo', grade=8, gender='M', time=1256.54}
+{place=78, name='Darrin Gable', school='Anoka', grade=11, gender='M', time=1261.62}
+{place=79, name='McKone Corkery', school='Elk River', grade=11, gender='M', time=1283.47}
+{place=80, name='Henry Heinks', school='Irondale', grade=10, gender='M', time=1285.45}
+{place=81, name='Skip Nelson', school='Irondale', grade=12, gender='M', time=1293.43}
+{place=82, name='Alex Meyers', school='Anoka', grade=11, gender='M', time=1293.62}
+{place=83, name='Phillip Marquardt', school='Blaine', grade=9, gender='M', time=1297.89}
+{place=84, name='Justin Brakob', school='Maple Grove', grade=11, gender='M', time=1305.45}
+{place=85, name='Jared Heida', school='Coon Rapids', grade=8, gender='M', time=1307.14}
+{place=86, name='Anthony Hagerty', school='Anoka', grade=10, gender='M', time=1314.68}
+{place=87, name='Marcus Bradt', school='Spring Lake Park', grade=11, gender='M', time=1315.93}
+{place=88, name='Connor Schmidt', school='Blaine', grade=11, gender='M', time=1322.22}
+{place=89, name='Michael Volk', school='Champlin Park', grade=12, gender='M', time=1329.2}
+{place=90, name='Cole Williams', school='Anoka', grade=12, gender='M', time=1350.66}
+{place=91, name='Lucas Gustafson', school='Elk River', grade=9, gender='M', time=1354.99}
+{place=92, name='Parker Salmi', school='Andover', grade=11, gender='M', time=1360.7}
+{place=93, name='Chris Kwon', school='Maple Grove', grade=10, gender='M', time=1361.91}
+{place=94, name='Sam Quist', school='Anoka', grade=11, gender='M', time=1362.7}
+{place=95, name='Gavin Schuster', school='Spring Lake Park', grade=9, gender='M', time=1366.93}
+{place=96, name='Collin Rodmyre', school='Blaine', grade=12, gender='M', time=1380.45}
+{place=97, name='Jonathan Christianson', school='Park Center', grade=8, gender='M', time=1381.58}
+{place=98, name='Oliver Stinson', school='Andover', grade=11, gender='M', time=1398.97}
+{place=99, name='Joe Thoen', school='Coon Rapids', grade=11, gender='M', time=1400.6}
+{place=100, name='Josh Johnson', school='Maple Grove', grade=11, gender='M', time=1405.45}
+{place=101, name='Adam Koch', school='Champlin Park', grade=12, gender='M', time=1407.95}
+{place=102, name='Bailey Krolnik', school='Park Center', grade=12, gender='M', time=1420.18}
+{place=103, name='Joe Zuliger', school='Andover', grade=12, gender='M', time=1423.93}
+{place=104, name='Carter Woetzel', school='Blaine', grade=11, gender='M', time=1434.72}
+{place=105, name='Josiah Somers', school='Park Center', grade=10, gender='M', time=1464.02}
+{place=106, name='Jake Samit', school='Coon Rapids', grade=11, gender='M', time=1499.18}
+{place=107, name='Josh Reed', school='Park Center', grade=8, gender='M', time=1519.89}
+{place=108, name='Roman Gilyard', school='Coon Rapids', grade=11, gender='M', time=1520.66}
+{place=109, name='Tyler Reichenborn', school='Blaine', grade=12, gender='M', time=1536.16}
+{place=110, name='Mark Droessler', school='Spring Lake Park', grade=9, gender='M', time=1554.7}
+{place=111, name='Michael Stansberry', school='Park Center', grade=10, gender='M', time=1562.95}
+{place=112, name='Johnathan Ernst', school='Park Center', grade=9, gender='M', time=1582.79}
+{place=113, name='Cole Beattie', school='Park Center', grade=7, gender='M', time=1683.66}
+{place=114, name='Joe Toenies', school='Park Center', grade=11, gender='M', time=1708.93}

@@ -1,0 +1,93 @@
+Race : 1870
+{place=1, name='Alex Nemeth', school='Sartell', grade=11, gender='M', time=994.1211}
+{place=2, name='Jonah Breuer', school='STMA', grade=11, gender='M', time=994.6211}
+{place=3, name='Carter  Knaus', school='STMA', grade=11, gender='M', time=1002.238}
+{place=4, name='Ryan Fernholz', school='Sartell', grade=12, gender='M', time=1009.629}
+{place=5, name='Matthew Trutna', school='Big Lake', grade=12, gender='M', time=1011.961}
+{place=6, name='Zach Nemeth', school='Sartell', grade=10, gender='M', time=1012.781}
+{place=7, name='Nick Juntunen', school='Sartell', grade=12, gender='M', time=1014.56}
+{place=8, name='Mitchell Grand', school='Hutchinson', grade=11, gender='M', time=1023.77}
+{place=9, name='Christopher Groth', school='Annandale ', grade=12, gender='M', time=1027.621}
+{place=10, name='Patrick Hesse', school='Sartell', grade=12, gender='M', time=1030.238}
+{place=11, name='David Anderson', school='Sartell', grade=12, gender='M', time=1041.76}
+{place=12, name='Basil Ricker', school='Becker', grade=11, gender='M', time=1053.75}
+{place=13, name='Joey Och', school='STMA', grade=12, gender='M', time=1057.828}
+{place=14, name='Michael Younberg', school='STMA', grade=12, gender='M', time=1060.629}
+{place=15, name='Justin Heimkes', school='Annandale ', grade=12, gender='M', time=1062.53}
+{place=16, name='Logan Hoff', school='Hutchinson', grade=11, gender='M', time=1064.941}
+{place=17, name='Jack Jaeger', school='Hutchinson', grade=10, gender='M', time=1066.25}
+{place=18, name='Ethan Anderson', school='Rogers', grade=11, gender='M', time=1067.98}
+{place=19, name='Tommy Hamilton', school='STMA', grade=11, gender='M', time=1068.47}
+{place=20, name='Austin Willey', school='Buffalo', grade=11, gender='M', time=1072.879}
+{place=21, name='Riley Jenum', school='Hutchinson', grade=11, gender='M', time=1078.57}
+{place=22, name='Gabe Stassen', school='Hutchinson', grade=10, gender='M', time=1079.98}
+{place=23, name='Tyler Bartholomew', school='STMA', grade=11, gender='M', time=1084.828}
+{place=24, name='Alex Heidorn', school='Rogers', grade=9, gender='M', time=1094.801}
+{place=25, name='Justin Kringler', school='Becker', grade=12, gender='M', time=1097.621}
+{place=26, name='Tennessee Scott-Lumbar', school='St Cloud Tech', grade=11, gender='M', time=1098.238}
+{place=27, name='Logan Wright', school='Monticello', grade=12, gender='M', time=1098.461}
+{place=28, name='Payton Lund', school='Annandale ', grade=11, gender='M', time=1098.67}
+{place=29, name='Tanner Burton', school='Big Lake', grade=12, gender='M', time=1101.488}
+{place=30, name='Jacob Lipke', school='Hutchinson', grade=11, gender='M', time=1103.871}
+{place=31, name='Joe Morris', school='Big Lake', grade=12, gender='M', time=1110.172}
+{place=32, name='Mitchell Meilahn', school='STMA', grade=10, gender='M', time=1110.578}
+{place=33, name='Sam Ricker', school='Becker', grade=11, gender='M', time=1111.371}
+{place=34, name='Lucas Bistodeau', school='Rogers', grade=11, gender='M', time=1112.219}
+{place=35, name='Ben Becker', school='Hutchinson', grade=10, gender='M', time=1119.7109}
+{place=36, name='Dalmas Omwoyo', school='Robbinsdale Cooper', grade=11, gender='M', time=1122.359}
+{place=37, name='Marcus LaVallee', school='Monticello', grade=12, gender='M', time=1123.46}
+{place=38, name='Frank Emerick', school='Buffalo', grade=10, gender='M', time=1125.23}
+{place=39, name='Luke Pappenfus', school='Becker', grade=12, gender='M', time=1128.68}
+{place=40, name='Josh Martin', school='St Francis', grade=10, gender='M', time=1129.871}
+{place=41, name='Chet Jurrens', school='Rogers', grade=12, gender='M', time=1131.102}
+{place=42, name='Paul Guertin', school='Monticello', grade=9, gender='M', time=1132.102}
+{place=43, name='Duncan Quinn', school='St Cloud Tech', grade=11, gender='M', time=1132.512}
+{place=44, name='Joey Anderson', school='Buffalo', grade=11, gender='M', time=1133.328}
+{place=45, name='Nick Oak', school='Buffalo', grade=10, gender='M', time=1133.371}
+{place=46, name='Ryan Russek', school='Buffalo', grade=11, gender='M', time=1133.52}
+{place=47, name='Jadon Boots', school='Buffalo', grade=8, gender='M', time=1133.52}
+{place=48, name='Ben Morris', school='Big Lake', grade=12, gender='M', time=1134.621}
+{place=49, name='Zach Revenig', school='Monticello', grade=11, gender='M', time=1136.578}
+{place=50, name='Thomas Glad', school='Rogers', grade=10, gender='M', time=1140.441}
+{place=51, name='Matthew Stuber', school='North Branch', grade=11, gender='M', time=1141.63}
+{place=52, name='Reid Benson', school='St Francis', grade=11, gender='M', time=1149.871}
+{place=53, name='Joe Nihart', school='North Branch', grade=11, gender='M', time=1149.93}
+{place=54, name='Isaac Herrmann', school='Annandale ', grade=9, gender='M', time=1156.609}
+{place=55, name='Oliver Ziebart', school='St Francis', grade=11, gender='M', time=1159.531}
+{place=56, name='Alex Fuchs', school='St Francis', grade=12, gender='M', time=1161.309}
+{place=57, name='Jake Dickinson', school='Big Lake', grade=12, gender='M', time=1163.121}
+{place=58, name='Zach Sykora', school='Annandale ', grade=12, gender='M', time=1163.941}
+{place=59, name='Alec Smieja', school='Monticello', grade=11, gender='M', time=1164.25}
+{place=60, name='Jacob Donahue', school='St Francis', grade=11, gender='M', time=1168.371}
+{place=61, name='Joel Nathe', school='Park Center', grade=10, gender='M', time=1169.371}
+{place=62, name='Tyler Fingal', school='St Francis', grade=12, gender='M', time=1175.5391}
+{place=63, name='Josh Reed', school='Park Center', grade=10, gender='M', time=1177.129}
+{place=64, name='Thomas Hotvedt', school='Robbinsdale Cooper', grade=11, gender='M', time=1182.199}
+{place=65, name='Eli Schaffer', school='Monticello', grade=10, gender='M', time=1182.199}
+{place=66, name='Jack Massmann', school='Annandale ', grade=11, gender='M', time=1184.35}
+{place=67, name='Logan Murphy', school='North Branch', grade=8, gender='M', time=1193.801}
+{place=68, name='Hunter Lund', school='Annandale ', grade=12, gender='M', time=1197.23}
+{place=69, name='Cade Stommes', school='Becker', grade=9, gender='M', time=1201.488}
+{place=70, name='Shane Vachal', school='St Cloud Tech', grade=11, gender='M', time=1201.969}
+{place=71, name='Aiden Bear', school='North Branch', grade=11, gender='M', time=1202.102}
+{place=72, name='Bennett Edling', school='Becker', grade=9, gender='M', time=1204.73}
+{place=73, name='Blake Jenson', school='St Francis', grade=11, gender='M', time=1209.43}
+{place=74, name='Sam Hart', school='Big Lake', grade=11, gender='M', time=1209.898}
+{place=75, name='Nathan Clausing', school='Big Lake', grade=11, gender='M', time=1211.441}
+{place=76, name='Sam Hernick', school='Robbinsdale Cooper', grade=10, gender='M', time=1212.379}
+{place=77, name='Nathan Courchane', school='Park Center', grade=9, gender='M', time=1212.629}
+{place=78, name='Carlton Kayden', school='St Cloud Tech', grade=9, gender='M', time=1217.629}
+{place=79, name='Lucas Edson', school='North Branch', grade=9, gender='M', time=1220.359}
+{place=80, name='Joey Clauson', school='Rogers', grade=10, gender='M', time=1224.488}
+{place=81, name='David Myres', school='Becker', grade=10, gender='M', time=1228.672}
+{place=82, name='Ridge Hagemeister', school='St Cloud Tech', grade=9, gender='M', time=1228.68}
+{place=83, name='Jacob Dirschel', school='Rogers', grade=11, gender='M', time=1229.879}
+{place=84, name='Micah Pick', school='North Branch', grade=12, gender='M', time=1233.129}
+{place=85, name='Cameron Granner', school='Park Center', grade=10, gender='M', time=1234.129}
+{place=86, name='Ethan Maki', school='Robbinsdale Cooper', grade=10, gender='M', time=1248.238}
+{place=87, name='Josiah Somers', school='Park Center', grade=12, gender='M', time=1252.48}
+{place=88, name='Daniel Perrault', school='St Cloud Tech', grade=10, gender='M', time=1256.121}
+{place=89, name='Henry Statz', school='St Cloud Tech', grade=9, gender='M', time=1261.578}
+{place=90, name='Nolan Boswell', school='Robbinsdale Cooper', grade=10, gender='M', time=1264.129}
+{place=91, name='Reese Crowell', school='North Branch', grade=10, gender='M', time=1271.762}
+{place=92, name='Justice McElwee', school='Park Center', grade=10, gender='M', time=1280.879}

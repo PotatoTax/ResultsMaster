@@ -1,0 +1,56 @@
+Race : 1629
+{place=1, name='Margaret Dalseth', school='Visitation', grade=8, gender='F', time=1192.62}
+{place=2, name='MaryKate Schoonover', school='Visitation', grade=11, gender='F', time=1200.0}
+{place=3, name='Krista Holmstrom', school='Burnsville', grade=12, gender='F', time=1203.79}
+{place=4, name='Ilana Levine', school='Minnetonka', grade=10, gender='F', time=1233.62}
+{place=5, name='Lauren Kern', school='Visitation', grade=9, gender='F', time=1236.37}
+{place=6, name='KATHERINE BRUST', school='Northfield', grade=11, gender='F', time=1243.35}
+{place=7, name='Keaton Garrity', school='Northfield', grade=11, gender='F', time=1245.72}
+{place=8, name='GRACE BAKALA', school='Minnetonka', grade=12, gender='F', time=1266.69}
+{place=9, name='Nina Reamer', school='Visitation', grade=10, gender='F', time=1270.75}
+{place=10, name='Emma Hawes', school='Minnetonka', grade=8, gender='F', time=1271.56}
+{place=11, name='LAURA HALBAKKEN', school='Minnetonka', grade=12, gender='F', time=1289.63}
+{place=12, name='ANNE ZACK', school='Minnetonka', grade=11, gender='F', time=1290.04}
+{place=13, name='LAUREN DAHL', school='Minnetonka', grade=12, gender='F', time=1305.62}
+{place=14, name='Ellie McConville', school='Visitation', grade=9, gender='F', time=1309.72}
+{place=15, name='Katie Schroeer', school='Northfield', grade=9, gender='F', time=1314.12}
+{place=16, name='Anna Wilgenbusch', school='St Agnes', grade=11, gender='F', time=1327.97}
+{place=17, name='TESS SUTTON', school='Minnetonka', grade=12, gender='F', time=1331.62}
+{place=18, name='MONIQUE THEBERATH', school='Northfield', grade=12, gender='F', time=1336.12}
+{place=19, name='Gillian Yarano', school='Visitation', grade=11, gender='F', time=1336.31}
+{place=20, name='Hailey Malone', school='Burnsville', grade=12, gender='F', time=1343.6}
+{place=21, name='ELIZABETH ACHESON', school='Northfield', grade=10, gender='F', time=1347.29}
+{place=22, name='Caitlyn Storley', school='Rosemount', grade=10, gender='F', time=1363.75}
+{place=23, name='Natalie Fendrich', school='Rosemount', grade=11, gender='F', time=1366.02}
+{place=24, name='GRACE ACHESON', school='Northfield', grade=10, gender='F', time=1369.37}
+{place=25, name='Zoe Graham', school='Northfield', grade=9, gender='F', time=1370.02}
+{place=26, name='Ava Durand', school='Richfield', grade=8, gender='F', time=1374.62}
+{place=27, name='Greta Donnelly', school='Burnsville', grade=12, gender='F', time=1377.88}
+{place=28, name='Paige Thaler', school='Visitation', grade=8, gender='F', time=1378.31}
+{place=29, name='Maya Lissick', school='Rosemount', grade=11, gender='F', time=1386.04}
+{place=30, name='Grace Willmott', school='Rosemount', grade=9, gender='F', time=1387.87}
+{place=31, name='Addie Westman', school='Rosemount', grade=11, gender='F', time=1389.37}
+{place=32, name='Emma Brown', school='Burnsville', grade=10, gender='F', time=1391.5}
+{place=33, name='Clare Plamann', school='St Agnes', grade=12, gender='F', time=1392.52}
+{place=34, name='Crystel DiGrazia', school='Richfield', grade=8, gender='F', time=1410.22}
+{place=35, name='Ava Hanks', school='Richfield', grade=7, gender='F', time=1410.6}
+{place=36, name='Elhan Jama', school='Burnsville', grade=12, gender='F', time=1443.27}
+{place=37, name='Kaitlyn Qualley', school='Burnsville', grade=9, gender='F', time=1464.24}
+{place=38, name='Abbey McAleer', school='Burnsville', grade=8, gender='F', time=1465.77}
+{place=39, name='Caitlin O'Donnell', school='Academy of Holy Angels', grade=10, gender='F', time=1475.63}
+{place=40, name='Arianna Passeri', school='Rosemount', grade=10, gender='F', time=1479.24}
+{place=41, name='Meghan  Uldrich', school='Academy of Holy Angels', grade=12, gender='F', time=1490.54}
+{place=42, name='Emma Nollenberger', school='Richfield', grade=12, gender='F', time=1495.83}
+{place=43, name='Theresa Vaske', school='St Agnes', grade=12, gender='F', time=1496.85}
+{place=44, name='Aria DeVries', school='Richfield', grade=9, gender='F', time=1497.24}
+{place=45, name='Amy Foote', school='St Agnes', grade=12, gender='F', time=1514.5}
+{place=46, name='Bri Knecht', school='St Agnes', grade=9, gender='F', time=1523.88}
+{place=47, name='Erin Bauer', school='Academy of Holy Angels', grade=10, gender='F', time=1542.62}
+{place=48, name='Nicole Mattson', school='Richfield', grade=11, gender='F', time=1564.83}
+{place=49, name='Britta Pearson', school='Minneapolis Patrick Henry', grade=10, gender='F', time=1655.29}
+{place=50, name='Brenna Skully', school='St Agnes', grade=9, gender='F', time=1657.33}
+{place=51, name='Lexie Bennett', school='Academy of Holy Angels', grade=10, gender='F', time=1692.42}
+{place=52, name='Abby Cavanaugh', school='Academy of Holy Angels', grade=12, gender='F', time=1725.38}
+{place=53, name='Emily Kral', school='Minneapolis Patrick Henry', grade=9, gender='F', time=1881.83}
+{place=54, name='Annie Naughton', school='St Agnes', grade=11, gender='F', time=2265.4}
+{place=55, name='Ava Noack', school='Richfield', grade=9, gender='F', time=2283.58}

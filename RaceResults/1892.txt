@@ -1,0 +1,162 @@
+Race : 1892
+{place=1, name='Madison Lenarz', school='STMA', grade=12, gender='F', time=1272.7}
+{place=2, name='Kyra Geiger', school='STMA', grade=10, gender='F', time=1276.3}
+{place=3, name='Ashlyn McClintock', school='STMA', grade=9, gender='F', time=1287.5}
+{place=4, name='Brooke Cassibo', school='Maple Grove', grade=9, gender='F', time=1294.8}
+{place=5, name='Brekkyn Lammert', school='Andover', grade=9, gender='F', time=1300.1}
+{place=6, name='Britton Lund', school='Maple Grove', grade=8, gender='F', time=1320.5}
+{place=7, name='Hannah Greeno', school='STMA', grade=9, gender='F', time=1320.6}
+{place=8, name='Natalie Danzl', school='Centennial', grade=12, gender='F', time=1321.168}
+{place=9, name='Val Noel', school='STMA', grade=11, gender='F', time=1322.2}
+{place=10, name='Quinn Omar', school='Maple Grove', grade=8, gender='F', time=1327.0}
+{place=11, name='Emily Mulberry', school='Centennial', grade=12, gender='F', time=1330.7}
+{place=12, name='Sydney Aandal', school='STMA', grade=9, gender='F', time=1330.7}
+{place=13, name='Madeline Greelis', school='Andover', grade=10, gender='F', time=1333.1}
+{place=14, name='Jenna Beccam', school='Andover', grade=12, gender='F', time=1344.9}
+{place=15, name='Katelyn Routhier', school='Howard Lake-Waverly', grade=8, gender='F', time=1346.949}
+{place=16, name='Juliette Tate', school='Maple Grove', grade=12, gender='F', time=1347.6}
+{place=17, name='Maria Sylvester', school='STMA', grade=10, gender='F', time=1349.1}
+{place=18, name='Emily Ries', school='Maple Grove', grade=10, gender='F', time=1349.3}
+{place=19, name='Alexandra  Bragg', school='Anoka', grade=10, gender='F', time=1350.2}
+{place=20, name='Carmen Anderson', school='Andover', grade=9, gender='F', time=1352.9}
+{place=21, name='Alexis Lathrop', school='Andover', grade=10, gender='F', time=1359.5}
+{place=22, name='Ariel Aydt', school='STMA', grade=11, gender='F', time=1361.5}
+{place=23, name='Kaiya Carlson', school='Centennial', grade=12, gender='F', time=1363.8}
+{place=24, name='Anna Beaverson', school='Maple Grove', grade=10, gender='F', time=1368.2}
+{place=25, name='Jenna Benson', school='Maple Grove', grade=12, gender='F', time=1377.4}
+{place=26, name='Ellen Kivi', school='Maple Grove', grade=10, gender='F', time=1378.7}
+{place=27, name='Lauren Moline', school='Maple Grove', grade=12, gender='F', time=1379.8}
+{place=28, name='Arinda Barthel', school='STMA', grade=11, gender='F', time=1380.7}
+{place=29, name='Ella Rickard', school='Maple Grove', grade=8, gender='F', time=1382.7}
+{place=30, name='Naomi Peterson', school='STMA', grade=12, gender='F', time=1384.2}
+{place=31, name='Hanna Jack', school='Centennial', grade=11, gender='F', time=1388.7}
+{place=32, name='Lynnea Helman', school='STMA', grade=12, gender='F', time=1391.6}
+{place=33, name='Mackenzie Schumm', school='STMA', grade=11, gender='F', time=1393.7}
+{place=34, name='Jersey Beranek', school='Maple Grove', grade=10, gender='F', time=1398.5}
+{place=35, name='Lydia Lamey', school='STMA', grade=9, gender='F', time=1399.5}
+{place=36, name='Megan Baer', school='Apple Valley', grade=11, gender='F', time=1404.5}
+{place=37, name='Elizabeth Lofstad', school='Centennial', grade=10, gender='F', time=1406.7}
+{place=38, name='Samantha Ensign', school='Centennial', grade=10, gender='F', time=1407.2}
+{place=39, name='Ava Duke', school='Rogers', grade=9, gender='F', time=1409.8}
+{place=40, name='Marissa Papp', school='STMA', grade=10, gender='F', time=1422.8}
+{place=41, name='Avery Thompson', school='Centennial', grade=10, gender='F', time=1423.6}
+{place=42, name='Paige Manse', school='Maple Grove', grade=10, gender='F', time=1424.7}
+{place=43, name='Claire Pelant', school='STMA', grade=11, gender='F', time=1434.2}
+{place=44, name='Ivy Fasching', school='Howard Lake-Waverly', grade=7, gender='F', time=1443.129}
+{place=45, name='Elise Crow', school='Rogers', grade=11, gender='F', time=1445.9}
+{place=46, name='Betzy Guaman', school='Andover', grade=9, gender='F', time=1450.2}
+{place=47, name='Justine Salzman', school='Maple Grove', grade=11, gender='F', time=1452.7}
+{place=48, name='Abby Anderson', school='STMA', grade=10, gender='F', time=1453.6}
+{place=49, name='Madi St.Germain', school='Anoka', grade=12, gender='F', time=1457.7}
+{place=50, name='Elise  Ames', school='Rogers', grade=9, gender='F', time=1459.0}
+{place=51, name='Shannon Halen', school='Centennial', grade=11, gender='F', time=1462.8}
+{place=52, name='Danelle Ascencio', school='Maple Grove', grade=12, gender='F', time=1465.7}
+{place=53, name='Avery Burbank', school='Irondale', grade=12, gender='F', time=1469.2}
+{place=54, name='Claire Johnson', school='Centennial', grade=9, gender='F', time=1469.7}
+{place=55, name='Madi Townsend', school='Irondale', grade=8, gender='F', time=1471.9}
+{place=56, name='Madeline Ocel', school='Irondale', grade=12, gender='F', time=1474.6}
+{place=57, name='Rachael Walcheck', school='Centennial', grade=12, gender='F', time=1479.4}
+{place=58, name='Natalie Sieckert', school='Centennial', grade=10, gender='F', time=1480.7}
+{place=59, name='Gabrielle Case', school='Maple Grove', grade=12, gender='F', time=1480.7}
+{place=60, name='Lucia Manunta', school='Anoka', grade=11, gender='F', time=1483.2}
+{place=61, name='Kamille  Dorph', school='Maple Grove', grade=11, gender='F', time=1484.9}
+{place=62, name='Katie Wheeler', school='Maple Grove', grade=10, gender='F', time=1486.9}
+{place=63, name='Abby Eiynck', school='STMA', grade=11, gender='F', time=1487.9}
+{place=64, name='Cassie Cavegn', school='Centennial', grade=12, gender='F', time=1494.5}
+{place=65, name='Abigail Board', school='Andover', grade=9, gender='F', time=1497.7}
+{place=66, name='Melissa Su', school='Maple Grove', grade=10, gender='F', time=1498.7}
+{place=67, name='Emma Sherer', school='Andover', grade=11, gender='F', time=1498.7}
+{place=68, name='Keturena Henrich', school='Andover', grade=10, gender='F', time=1510.2}
+{place=69, name='Paige1 Weiss', school='STMA', grade=9, gender='F', time=1511.1}
+{place=70, name='Kalli Smith', school='Maple Grove', grade=9, gender='F', time=1513.7}
+{place=71, name='Natasha Zebrev', school='Maple Grove', grade=11, gender='F', time=1518.0}
+{place=72, name='Jasmine Brockberg', school='Rogers', grade=12, gender='F', time=1518.6}
+{place=73, name='Ceceilia Voss', school='Apple Valley', grade=9, gender='F', time=1520.0}
+{place=74, name='Gabriella Bengs', school='Rogers', grade=9, gender='F', time=1528.7}
+{place=75, name='Makenna Peterson', school='STMA', grade=12, gender='F', time=1529.7}
+{place=76, name='Samantha Hoyt', school='Apple Valley', grade=10, gender='F', time=1530.2}
+{place=77, name='Brooke Moe', school='STMA', grade=9, gender='F', time=1545.2}
+{place=78, name='Abigail Bruers', school='Rogers', grade=10, gender='F', time=1548.2}
+{place=79, name='Alysa Thieschafer', school='Anoka', grade=11, gender='F', time=1549.0}
+{place=80, name='Emily Hill', school='Howard Lake-Waverly', grade=7, gender='F', time=1570.5}
+{place=81, name='Peyton Farrell', school='Rogers', grade=11, gender='F', time=1573.2}
+{place=82, name='Abbie Vaughn', school='STMA', grade=10, gender='F', time=1574.0}
+{place=83, name='Catie Parker', school='STMA', grade=12, gender='F', time=1579.5}
+{place=84, name='Emma Huss', school='Howard Lake-Waverly', grade=7, gender='F', time=1592.2}
+{place=85, name='Alycia Haus', school='STMA', grade=9, gender='F', time=1592.3}
+{place=86, name='Lidia   Hadera', school='Maple Grove', grade=11, gender='F', time=1592.3}
+{place=87, name='Paige Cowan', school='STMA', grade=9, gender='F', time=1595.0}
+{place=88, name='Madison  Hansen', school='Rogers', grade=12, gender='F', time=1596.2}
+{place=89, name='Sydni Erickson', school='Apple Valley', grade=10, gender='F', time=1596.2}
+{place=90, name='Grace Dehmer', school='Maple Grove', grade=9, gender='F', time=1601.0}
+{place=91, name='Madison Baker', school='Centennial', grade=11, gender='F', time=1602.2}
+{place=92, name='Grace Collier', school='Maple Grove', grade=10, gender='F', time=1603.2}
+{place=93, name='Mina Merrick-Melberg', school='Anoka', grade=10, gender='F', time=1605.0}
+{place=94, name='Lily Johnson', school='Centennial', grade=12, gender='F', time=1606.0}
+{place=95, name='Gretta Jensen', school='Rogers', grade=10, gender='F', time=1607.2}
+{place=96, name='Lauren Johnson', school='Irondale', grade=8, gender='F', time=1608.2}
+{place=97, name='Katie Potter', school='STMA', grade=9, gender='F', time=1611.2}
+{place=98, name='Aubrey Hamilton', school='STMA', grade=12, gender='F', time=1611.9}
+{place=99, name='Claire Michelson', school='Apple Valley', grade=12, gender='F', time=1613.7}
+{place=100, name='Heather Hulinsky', school='Rogers', grade=10, gender='F', time=1615.5}
+{place=101, name='Abby Swim', school='Centennial', grade=11, gender='F', time=1618.2}
+{place=102, name='Sam Dubois', school='Apple Valley', grade=12, gender='F', time=1619.1}
+{place=103, name='Hannah Christman', school='STMA', grade=10, gender='F', time=1622.3}
+{place=104, name='Ella Moroz', school='Maple Grove', grade=11, gender='F', time=1624.9}
+{place=105, name='Maddy Cloutier', school='STMA', grade=11, gender='F', time=1629.2}
+{place=106, name='Claire O'Leary', school='Irondale', grade=9, gender='F', time=1629.7}
+{place=107, name='Becca Peterson', school='STMA', grade=9, gender='F', time=1630.6}
+{place=108, name='Lia Piazza', school='Rogers', grade=11, gender='F', time=1631.0}
+{place=109, name='Lexy Fuerstenburg', school='STMA', grade=12, gender='F', time=1633.1}
+{place=110, name='Sarah Lavell', school='Centennial', grade=11, gender='F', time=1636.9}
+{place=111, name='Ruth Neal', school='Andover', grade=7, gender='F', time=1643.0}
+{place=112, name='Laura Hardwick', school='Irondale', grade=10, gender='F', time=1643.2}
+{place=113, name='Anna Gess', school='Centennial', grade=10, gender='F', time=1648.5}
+{place=114, name='Hannah Tuomela', school='Anoka', grade=12, gender='F', time=1652.7}
+{place=115, name='Lucy Smit', school='Robbinsdale Cooper', grade=7, gender='F', time=1658.8}
+{place=116, name='Maia Al-Hawwari', school='Maple Grove', grade=10, gender='F', time=1665.5}
+{place=117, name='Allyson Frederick', school='Maple Grove', grade=11, gender='F', time=1670.5}
+{place=118, name='Maddie O'Connor', school='Anoka', grade=10, gender='F', time=1674.6}
+{place=119, name='Caroline Foreman', school='Centennial', grade=11, gender='F', time=1678.1}
+{place=120, name='Averi Kessler', school='STMA', grade=11, gender='F', time=1684.2}
+{place=121, name='Ellie Lange', school='Centennial', grade=10, gender='F', time=1689.1}
+{place=122, name='Claire Sandkuhler', school='Irondale', grade=12, gender='F', time=1692.0}
+{place=123, name='Jenna Guyer', school='Centennial', grade=9, gender='F', time=1705.1}
+{place=124, name='Bella Pipenhagen', school='STMA', grade=10, gender='F', time=1709.7}
+{place=125, name='Isabelle Dick', school='STMA', grade=11, gender='F', time=1711.9}
+{place=126, name='Cejay Ulrich', school='Howard Lake-Waverly', grade=12, gender='F', time=1716.8}
+{place=127, name='Jessica1 Huser', school='STMA', grade=9, gender='F', time=1717.0}
+{place=128, name='Allie Rother', school='Rogers', grade=11, gender='F', time=1718.0}
+{place=129, name='Miranda Lathrop', school='Anoka', grade=10, gender='F', time=1720.2}
+{place=130, name='Macey LeVahn', school='Maple Grove', grade=9, gender='F', time=1728.0}
+{place=131, name='April Zhang', school='Robbinsdale Cooper', grade=10, gender='F', time=1729.8}
+{place=132, name='Mackenzie  Paurus', school='Maple Grove', grade=9, gender='F', time=1733.8}
+{place=133, name='Payton Birr', school='STMA', grade=12, gender='F', time=1751.5}
+{place=134, name='Allison Birk', school='STMA', grade=12, gender='F', time=1753.6}
+{place=135, name='Courtney Jenniges', school='STMA', grade=12, gender='F', time=1754.8}
+{place=136, name='Maggie McIntyre', school='Maple Grove', grade=12, gender='F', time=1755.0}
+{place=137, name='Grace Fink', school='Anoka', grade=10, gender='F', time=1769.2}
+{place=138, name='Lauryn Mitchell', school='Apple Valley', grade=10, gender='F', time=1775.2}
+{place=139, name='Maddie LeMonds', school='STMA', grade=12, gender='F', time=1778.5}
+{place=140, name='Miriam Neal', school='Andover', grade=9, gender='F', time=1785.8}
+{place=141, name='Annika Dings', school='Anoka', grade=11, gender='F', time=1787.5}
+{place=142, name='Leah  Morris', school='Irondale', grade=10, gender='F', time=1793.5}
+{place=143, name='Trina Parlin', school='Irondale', grade=9, gender='F', time=1793.6}
+{place=144, name='Katy Payne', school='Irondale', grade=9, gender='F', time=1796.0}
+{place=145, name='Greta Anderson', school='STMA', grade=12, gender='F', time=1801.5}
+{place=146, name='Paige Jordan', school='Rogers', grade=10, gender='F', time=1812.0}
+{place=147, name='Ashlynn Poland', school='STMA', grade=9, gender='F', time=1815.7}
+{place=148, name='Tatum Birr', school='STMA', grade=10, gender='F', time=1815.7}
+{place=149, name='Erin Buckmeier', school='STMA', grade=12, gender='F', time=1818.7}
+{place=150, name='Julia Solberg', school='Centennial', grade=11, gender='F', time=1829.0}
+{place=151, name='Garmen Neal', school='Andover', grade=8, gender='F', time=1859.7}
+{place=152, name='Claire Sunsten', school='STMA', grade=10, gender='F', time=1869.0}
+{place=153, name='Annie Brenny', school='STMA', grade=12, gender='F', time=1936.8}
+{place=154, name='Merhawit Asta', school='Robbinsdale Cooper', grade=8, gender='F', time=1937.5}
+{place=155, name='Sydney Weiman', school='Robbinsdale Cooper', grade=11, gender='F', time=1937.9}
+{place=156, name='Amanda Rodgers', school='Irondale', grade=10, gender='F', time=1966.7}
+{place=157, name='Carolina Parrado Ocampo', school='STMA', grade=12, gender='F', time=1967.9}
+{place=158, name='Reilly Alexander', school='Maple Grove', grade=11, gender='F', time=1984.6}
+{place=159, name='Derartu Ahmed', school='Robbinsdale Cooper', grade=12, gender='F', time=2016.2}
+{place=160, name='Rachel  Renken', school='Maple Grove', grade=9, gender='F', time=2022.3}
+{place=161, name='Nevaeh Madison', school='Anoka', grade=9, gender='F', time=2035.9}

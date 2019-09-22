@@ -1,0 +1,62 @@
+Race : 2639
+{place=1, name='Brandon O'Hara', school='Perham', grade=11, gender='M', time=996.5}
+{place=2, name='Jacob Bright', school='West Central', grade=11, gender='M', time=998.3}
+{place=3, name='Zach Haire', school='Breckenridge-Wahpeton', grade=12, gender='M', time=1008.5}
+{place=4, name='Clayton Anderson', school='Perham', grade=12, gender='M', time=1020.6}
+{place=5, name='Hunter Gowin', school='Breckenridge-Wahpeton', grade=12, gender='M', time=1025.1}
+{place=6, name='Jack Van Kempen', school='West Central', grade=11, gender='M', time=1026.8}
+{place=7, name='Kade Runge', school='West Central', grade=9, gender='M', time=1031.8}
+{place=8, name='Jakob McCleary', school='Perham', grade=9, gender='M', time=1032.0}
+{place=9, name='Bailey Evenson', school='Perham', grade=11, gender='M', time=1042.5}
+{place=10, name='Kyle Schill', school='West Central', grade=10, gender='M', time=1054.4}
+{place=11, name='Chase Belka', school='Perham', grade=11, gender='M', time=1058.5}
+{place=12, name='David Johnston', school='Pelican Rapids', grade=11, gender='M', time=1070.6}
+{place=13, name='Tesfaye Young', school='Perham', grade=8, gender='M', time=1085.1}
+{place=14, name='Cade Dawson', school='Dilworth-Glyndon-Felton ', grade=11, gender='M', time=1085.6}
+{place=15, name='Jake Davis', school='Thief River Falls', grade=11, gender='M', time=1086.5}
+{place=16, name='Alex Salwasser', school='West Central', grade=9, gender='M', time=1091.4}
+{place=17, name='Christian Carlson', school='Frazee', grade=10, gender='M', time=1103.9}
+{place=18, name='Isaac Scheidecker', school='Perham', grade=12, gender='M', time=1108.6}
+{place=19, name='Alec Gulseth', school='Dilworth-Glyndon-Felton ', grade=11, gender='M', time=1108.8}
+{place=20, name='Grady Larsen', school='Frazee', grade=11, gender='M', time=1109.2}
+{place=21, name='Anthony Conzemius', school='Breckenridge-Wahpeton', grade=10, gender='M', time=1115.0}
+{place=22, name='Nicolas Donovan', school='Lake Park-Audubon', grade=12, gender='M', time=1126.7}
+{place=23, name='Nathan Johannsen', school='Frazee', grade=9, gender='M', time=1138.5}
+{place=24, name='Gabe Grawe', school='Dilworth-Glyndon-Felton ', grade=11, gender='M', time=1145.7}
+{place=25, name='Matt Pollock', school='Dilworth-Glyndon-Felton ', grade=10, gender='M', time=1148.5}
+{place=26, name='Corbin Cornelius', school='Breckenridge-Wahpeton', grade=11, gender='M', time=1150.0}
+{place=27, name='Daniel Quick', school='Thief River Falls', grade=11, gender='M', time=1154.7}
+{place=28, name='Josh Finseth', school='Dilworth-Glyndon-Felton ', grade=9, gender='M', time=1160.2}
+{place=29, name='Peyton Cole', school='Frazee', grade=10, gender='M', time=1163.5}
+{place=30, name='Bennett Grove', school='West Central', grade=12, gender='M', time=1164.5}
+{place=31, name='Isaac Mauch', school='Thief River Falls', grade=8, gender='M', time=1168.4}
+{place=32, name='Korey Smigelsky', school='Lake Park-Audubon', grade=10, gender='M', time=1177.4}
+{place=33, name='Chandler Gray', school='Dilworth-Glyndon-Felton ', grade=9, gender='M', time=1179.0}
+{place=34, name='Isaac Getz', school='Breckenridge-Wahpeton', grade=11, gender='M', time=1185.7}
+{place=35, name='Reubens Swanson', school='West Central', grade=9, gender='M', time=1190.0}
+{place=36, name='Caleb Wutzke', school='Frazee', grade=12, gender='M', time=1196.5}
+{place=37, name='Steven Sellin', school='Hawley', grade=8, gender='M', time=1199.0}
+{place=38, name='Tyler  Bjerke', school='Lake Park-Audubon', grade=11, gender='M', time=1200.0}
+{place=39, name='Austin Snobl', school='Breckenridge-Wahpeton', grade=12, gender='M', time=1201.0}
+{place=40, name='Lewis Helmers', school='Frazee', grade=10, gender='M', time=1202.9}
+{place=41, name='Jonah Kalsnes', school='Thief River Falls', grade=10, gender='M', time=1206.0}
+{place=42, name='Bailey Johnson', school='Lake Park-Audubon', grade=12, gender='M', time=1218.5}
+{place=43, name='Will Daggett', school='Hawley', grade=11, gender='M', time=1221.6}
+{place=44, name='Nolan Lemna', school='Breckenridge-Wahpeton', grade=12, gender='M', time=1223.5}
+{place=45, name='Ethan Lundsetter', school='Thief River Falls', grade=10, gender='M', time=1225.5}
+{place=46, name='Brevin Stoa', school='Hawley', grade=7, gender='M', time=1243.8}
+{place=47, name='Ian Kronbeck', school='Hawley', grade=8, gender='M', time=1250.4}
+{place=48, name='Seth Torgerson', school='Lake Park-Audubon', grade=8, gender='M', time=1253.2}
+{place=49, name='Billy Renner', school='Hawley', grade=10, gender='M', time=1261.5}
+{place=50, name='Garret Cossette', school='Lake Park-Audubon', grade=10, gender='M', time=1266.5}
+{place=51, name='Devin Haugen', school='Thief River Falls', grade=11, gender='M', time=1271.0}
+{place=52, name='Oliver Jesme', school='Dilworth-Glyndon-Felton ', grade=9, gender='M', time=1271.8}
+{place=53, name='Logan Petznick', school='Pelican Rapids', grade=11, gender='M', time=1277.9}
+{place=54, name='Zeb Lewis', school='Lake Park-Audubon', grade=10, gender='M', time=1278.8}
+{place=55, name='Sam Moe', school='Pelican Rapids', grade=9, gender='M', time=1283.2}
+{place=56, name='Paul Koppenhaver', school='Thief River Falls', grade=10, gender='M', time=1291.2}
+{place=57, name='Masyn Johnson', school='Hawley', grade=11, gender='M', time=1292.0}
+{place=58, name='Julian Diaz', school='Pelican Rapids', grade=9, gender='M', time=1295.0}
+{place=59, name='Colby  Erickson', school='Frazee', grade=10, gender='M', time=1298.9}
+{place=60, name='Drew Peterson', school='Hawley', grade=9, gender='M', time=1312.5}
+{place=61, name='Adam Hoover', school='Pelican Rapids', grade=11, gender='M', time=1439.9}

@@ -1,0 +1,63 @@
+Race : 2249
+{place=1, name='Noah Bundrock', school='Howard Lake-Waverly', grade=12, gender='M', time=1038.771}
+{place=2, name='Jake Andres', school='Pierz', grade=11, gender='M', time=1048.42}
+{place=3, name='Christopher Borash', school='Royalton', grade=10, gender='M', time=1076.451}
+{place=4, name='Michael Miller', school='Maple Lake', grade=11, gender='M', time=1088.021}
+{place=5, name='Jeremiah Christiansen', school='Holdingford', grade=11, gender='M', time=1098.24}
+{place=6, name='Andrew Zwiefel', school='Paynesville', grade=11, gender='M', time=1106.728}
+{place=7, name='Luke Ryan', school='Holdingford', grade=12, gender='M', time=1110.369}
+{place=8, name='Jared Thell', school='Holdingford', grade=12, gender='M', time=1111.181}
+{place=9, name='William Alverson', school='Osakis', grade=11, gender='M', time=1111.779}
+{place=10, name='Luc Westling', school='St Johns Prep', grade=10, gender='M', time=1112.611}
+{place=11, name='Carter Grove', school='Osakis', grade=10, gender='M', time=1112.779}
+{place=12, name='Thomas Horn', school='Howard Lake-Waverly', grade=12, gender='M', time=1113.209}
+{place=13, name='Riley Zimmermann', school='Paynesville', grade=12, gender='M', time=1121.771}
+{place=14, name='Ben Grebinoski', school='Holdingford', grade=11, gender='M', time=1123.431}
+{place=15, name='Cody Skwira', school='Holdingford', grade=12, gender='M', time=1131.56}
+{place=16, name='Stuart Hawn', school='Holdingford', grade=11, gender='M', time=1145.779}
+{place=17, name='Vincent Kahlhamer', school='Holdingford', grade=12, gender='M', time=1148.63}
+{place=18, name='Eric Johnson', school='Paynesville', grade=11, gender='M', time=1155.779}
+{place=19, name='Cole Andres', school='Pierz', grade=10, gender='M', time=1163.74}
+{place=20, name='Nick Czanstkowski', school='Howard Lake-Waverly', grade=11, gender='M', time=1166.021}
+{place=21, name='Collin Frieler', school='Paynesville', grade=11, gender='M', time=1167.599}
+{place=22, name='Trevin Olund', school='Howard Lake-Waverly', grade=11, gender='M', time=1172.029}
+{place=23, name='Preston Carlson', school='Paynesville', grade=11, gender='M', time=1179.529}
+{place=24, name='Brandon Boogaard', school='Osakis', grade=11, gender='M', time=1181.162}
+{place=25, name='James Pritchett', school='Paynesville', grade=11, gender='M', time=1194.529}
+{place=26, name='Jason Hoeft', school='Paynesville', grade=10, gender='M', time=1195.021}
+{place=27, name='Cole Leukuma', school='Howard Lake-Waverly', grade=9, gender='M', time=1198.42}
+{place=28, name='Matthew  Notch', school='EV-W-K', grade=12, gender='M', time=1202.88}
+{place=29, name='Ben  Smail', school='Maple Lake', grade=12, gender='M', time=1207.529}
+{place=30, name='Andrew Moen', school='St Johns Prep', grade=12, gender='M', time=1213.271}
+{place=31, name='Gerrick Prine', school='Howard Lake-Waverly', grade=11, gender='M', time=1216.759}
+{place=32, name='Jeremiah Weber', school='St Johns Prep', grade=10, gender='M', time=1225.029}
+{place=33, name='Jacob Fynboh', school='Maple Lake', grade=12, gender='M', time=1231.38}
+{place=34, name='Brently Boogaard', school='Osakis', grade=9, gender='M', time=1232.529}
+{place=35, name='William Heschke', school='Pierz', grade=9, gender='M', time=1232.529}
+{place=36, name='Zach Koosman', school='Howard Lake-Waverly', grade=10, gender='M', time=1235.412}
+{place=37, name='Jaden Hennen', school='Pierz', grade=10, gender='M', time=1248.63}
+{place=38, name='Tristan  Aasen', school='Maple Lake', grade=8, gender='M', time=1275.779}
+{place=39, name='Nate Salzl ', school='St Johns Prep', grade=11, gender='M', time=1278.779}
+{place=40, name='Javonte Victor', school='EV-W-K', grade=11, gender='M', time=1285.009}
+{place=41, name='Logan Grove', school='Osakis', grade=9, gender='M', time=1285.029}
+{place=42, name='Nathan Kolbo', school='Royalton', grade=9, gender='M', time=1290.029}
+{place=43, name='Mathew Bolton', school='St Johns Prep', grade=8, gender='M', time=1292.521}
+{place=44, name='Chris Ramirez', school='Royalton', grade=9, gender='M', time=1299.529}
+{place=45, name='Jake Blommer', school='EV-W-K', grade=10, gender='M', time=1301.029}
+{place=46, name='Gregory  Gathje', school='EV-W-K', grade=11, gender='M', time=1304.138}
+{place=47, name='Simon Kroll', school='Pierz', grade=10, gender='M', time=1306.779}
+{place=48, name='Sam  Meyer', school='St Johns Prep', grade=8, gender='M', time=1309.412}
+{place=49, name='Patrick Montoya', school='St Johns Prep', grade=11, gender='M', time=1311.029}
+{place=50, name='Xavier Pahl', school='Osakis', grade=10, gender='M', time=1311.88}
+{place=51, name='Shane  Massmann', school='Osakis', grade=12, gender='M', time=1329.759}
+{place=52, name='Matt Loch', school='EV-W-K', grade=9, gender='M', time=1333.002}
+{place=53, name='Landon Schomer', school='Pierz', grade=9, gender='M', time=1351.728}
+{place=54, name='Jack Walburn', school='Royalton', grade=9, gender='M', time=1357.529}
+{place=55, name='Gabe Smail', school='Maple Lake', grade=10, gender='M', time=1357.861}
+{place=56, name='Marcos Gandara', school='Maple Lake', grade=11, gender='M', time=1364.681}
+{place=57, name='Neal Wertish', school='EV-W-K', grade=9, gender='M', time=1374.459}
+{place=58, name='Bradley Pawlu', school='Pierz', grade=9, gender='M', time=1387.08}
+{place=59, name='Riley  Spoden', school='EV-W-K', grade=9, gender='M', time=1421.779}
+{place=60, name='Thomas Klisch', school='Royalton', grade=8, gender='M', time=1422.029}
+{place=61, name='Caleb Beneke', school='Maple Lake', grade=11, gender='M', time=1444.002}
+{place=62, name='Bradley Fernelius', school='Royalton', grade=8, gender='M', time=1460.451}

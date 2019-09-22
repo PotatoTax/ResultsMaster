@@ -1,0 +1,108 @@
+Race : 58
+{place=1, name='Andrew Quinn', school='Benilde-St Margaret', grade=12, gender='M', time=1000.75}
+{place=2, name='Kyle Neumann', school='Andover', grade=12, gender='M', time=1005.47}
+{place=3, name='Josh Letofsky', school='Osseo', grade=12, gender='M', time=1007.37}
+{place=4, name='Andy Hawkinson', school='Osseo', grade=12, gender='M', time=1008.02}
+{place=5, name='Ben Rodriguez', school='Buffalo', grade=11, gender='M', time=1012.97}
+{place=6, name='Pat Brown', school='Benilde-St Margaret', grade=12, gender='M', time=1016.91}
+{place=7, name='Nick Nygaard', school='STMA', grade=11, gender='M', time=1023.1}
+{place=8, name='Jeremy Kuhn', school='STMA', grade=12, gender='M', time=1026.48}
+{place=9, name='Spencer Siddons', school='Andover', grade=11, gender='M', time=1027.95}
+{place=10, name='Brad Lester', school='Robbinsdale Armstrong', grade=11, gender='M', time=1028.37}
+{place=11, name='Max Robinson', school='Osseo', grade=11, gender='M', time=1028.87}
+{place=12, name='Emmu Wakai', school='Robbinsdale Armstrong', grade=9, gender='M', time=1029.24}
+{place=13, name='Mark Miller', school='Benilde-St Margaret', grade=12, gender='M', time=1029.7}
+{place=14, name='Charlie Lapham', school='Robbinsdale Armstrong', grade=11, gender='M', time=1030.18}
+{place=15, name='Nick Jamnick', school='Becker', grade=12, gender='M', time=1030.6}
+{place=16, name='Brandon Lewis', school='Robbinsdale Armstrong', grade=12, gender='M', time=1031.0}
+{place=17, name='Paul Rasmussen', school='Maple Grove', grade=11, gender='M', time=1031.35}
+{place=18, name='Adam Schmidt', school='Andover', grade=10, gender='M', time=1031.77}
+{place=19, name='Sam Greeno', school='STMA', grade=11, gender='M', time=1033.6}
+{place=20, name='Adam DePaolis', school='Robbinsdale Armstrong', grade=10, gender='M', time=1034.52}
+{place=21, name='Andrew Johnson', school='Andover', grade=10, gender='M', time=1035.79}
+{place=22, name='Joah Schwecke', school='Rockford', grade=12, gender='M', time=1038.2}
+{place=23, name='Zac Mellon', school='Buffalo', grade=10, gender='M', time=1041.27}
+{place=24, name='Ryan  Evans', school='Centennial', grade=10, gender='M', time=1047.06}
+{place=25, name='Benjamin Hoegh', school='Andover', grade=11, gender='M', time=1053.39}
+{place=26, name='Scott Twelves', school='Benilde-St Margaret', grade=12, gender='M', time=1053.83}
+{place=27, name='Dylan King', school='Princeton', grade=12, gender='M', time=1054.97}
+{place=28, name='Leland Abide', school='Robbinsdale Cooper', grade=12, gender='M', time=1055.41}
+{place=29, name='Pat Geiwitz', school='Benilde-St Margaret', grade=12, gender='M', time=1055.89}
+{place=30, name='Kevin Clark', school='Andover', grade=11, gender='M', time=1056.95}
+{place=31, name='Aaron Oie', school='Buffalo', grade=10, gender='M', time=1057.97}
+{place=32, name='Andrew Heitzmann', school='Andover', grade=9, gender='M', time=1058.43}
+{place=33, name='Joel Rasmussen', school='Maple Grove', grade=10, gender='M', time=1058.81}
+{place=34, name='Matt Oestreich', school='Benilde-St Margaret', grade=10, gender='M', time=1059.72}
+{place=35, name='Jerett Knoblock', school='Robbinsdale Cooper', grade=12, gender='M', time=1062.83}
+{place=36, name='Ken St Marie', school='Big Lake', grade=9, gender='M', time=1064.46}
+{place=37, name='Andy Clasen', school='Robbinsdale Armstrong', grade=11, gender='M', time=1065.29}
+{place=38, name='Zach Haskins', school='Providence Academy', grade=10, gender='M', time=1066.64}
+{place=39, name='Erik Elmstrand', school='Cambridge-Isanti', grade=12, gender='M', time=1068.54}
+{place=40, name='Adam Arveson', school='Delano', grade=9, gender='M', time=1068.93}
+{place=41, name='Carl Salonek', school='STMA', grade=10, gender='M', time=1070.39}
+{place=42, name='Alex Johnson', school='Maple Grove', grade=8, gender='M', time=1070.85}
+{place=43, name='Christian Labissoniare', school='Robbinsdale Armstrong', grade=11, gender='M', time=1071.62}
+{place=44, name='Jimmy Simonse', school='Providence Academy', grade=11, gender='M', time=1075.41}
+{place=45, name='Jacob Gifford', school='Osseo', grade=11, gender='M', time=1076.06}
+{place=46, name='Michael Williams', school='Maple Grove', grade=12, gender='M', time=1078.98}
+{place=47, name='Kip Anderson', school='Delano', grade=12, gender='M', time=1083.25}
+{place=48, name='Mark Rustad', school='Benilde-St Margaret', grade=12, gender='M', time=1087.62}
+{place=49, name='Tim Lasch', school='Centennial', grade=11, gender='M', time=1093.47}
+{place=50, name='Connor Flynn', school='Buffalo', grade=12, gender='M', time=1094.1}
+{place=51, name='Kevin Hayes', school='Buffalo', grade=10, gender='M', time=1094.97}
+{place=52, name='Zach Higgens', school='Osseo', grade=12, gender='M', time=1095.66}
+{place=53, name='David  Christenson', school='STMA', grade=10, gender='M', time=1098.37}
+{place=54, name='Jordan Bring', school='Big Lake', grade=12, gender='M', time=1100.27}
+{place=55, name='Grant Dornfeld', school='Maple Grove', grade=12, gender='M', time=1104.66}
+{place=56, name='Max Abrahamson', school='Rockford', grade=11, gender='M', time=1106.21}
+{place=57, name='Kevin Andresen', school='Robbinsdale Cooper', grade=11, gender='M', time=1108.14}
+{place=58, name='Shane Goblirsch', school='STMA', grade=11, gender='M', time=1109.0}
+{place=59, name='David Arlt', school='STMA', grade=10, gender='M', time=1110.62}
+{place=60, name='Kevin  Jachymowski', school='Centennial', grade=11, gender='M', time=1115.48}
+{place=61, name='BJ Elvendahl', school='Cambridge-Isanti', grade=12, gender='M', time=1116.83}
+{place=62, name='Max Hendrickson', school='Providence Academy', grade=12, gender='M', time=1117.97}
+{place=63, name='Jake Mason', school='Osseo', grade=9, gender='M', time=1119.1}
+{place=64, name='Mike  Rasmussen', school='Centennial', grade=11, gender='M', time=1120.68}
+{place=65, name='Bradley Johnson', school='Robbinsdale Cooper', grade=10, gender='M', time=1124.62}
+{place=66, name='Shane Sontag', school='Big Lake', grade=10, gender='M', time=1125.1}
+{place=67, name='Chris Flegel', school='Maple Grove', grade=10, gender='M', time=1125.5}
+{place=68, name='Joseph Perrault', school='Rockford', grade=11, gender='M', time=1126.27}
+{place=69, name='Andrew  Lund', school='Centennial', grade=10, gender='M', time=1126.66}
+{place=70, name='Tyler Dirks', school='Osseo', grade=11, gender='M', time=1128.87}
+{place=71, name='Luke Iverson', school='Maple Grove', grade=8, gender='M', time=1130.31}
+{place=72, name='Kevin Walen', school='Centennial', grade=11, gender='M', time=1131.33}
+{place=73, name='Ben Ruter', school='Buffalo', grade=12, gender='M', time=1132.56}
+{place=74, name='Ryne  Kittock', school='Cambridge-Isanti', grade=12, gender='M', time=1134.75}
+{place=75, name='Mason Hart', school='Delano', grade=11, gender='M', time=1135.77}
+{place=76, name='Seth Holmquist', school='Cambridge-Isanti', grade=12, gender='M', time=1136.33}
+{place=77, name='David  Kringen', school='Big Lake', grade=11, gender='M', time=1142.66}
+{place=78, name='Zach House', school='Robbinsdale Cooper', grade=11, gender='M', time=1143.02}
+{place=79, name='Clayton Whitacre', school='Big Lake', grade=10, gender='M', time=1149.64}
+{place=80, name='Jeremy Lewis', school='Cambridge-Isanti', grade=12, gender='M', time=1154.87}
+{place=81, name='Jaryd Pugh', school='Big Lake', grade=10, gender='M', time=1157.04}
+{place=82, name='Mikal Applewhite', school='Cambridge-Isanti', grade=12, gender='M', time=1158.62}
+{place=83, name='Tyler Purcell', school='Rockford', grade=12, gender='M', time=1161.5}
+{place=84, name='Chris Kopp', school='Providence Academy', grade=11, gender='M', time=1161.87}
+{place=85, name='Adam Mankowski', school='Delano', grade=11, gender='M', time=1168.64}
+{place=86, name='Jesse Doyle', school='Buffalo', grade=10, gender='M', time=1170.31}
+{place=87, name='Cameron Husom', school='Cambridge-Isanti', grade=12, gender='M', time=1172.33}
+{place=88, name='Andrew Crocker', school='Big Lake', grade=9, gender='M', time=1174.18}
+{place=89, name='Kyle Andres', school='Becker', grade=10, gender='M', time=1177.62}
+{place=90, name='Ryan  Fenner', school='Centennial', grade=11, gender='M', time=1181.64}
+{place=91, name='Reece Lindquist', school='Delano', grade=8, gender='M', time=1183.91}
+{place=92, name='Logan Sakry', school='Becker', grade=12, gender='M', time=1191.1}
+{place=93, name='Eric Lavanger', school='Rockford', grade=12, gender='M', time=1191.5}
+{place=94, name='Brad Repinski', school='Robbinsdale Cooper', grade=12, gender='M', time=1193.16}
+{place=95, name='John Larkin', school='Delano', grade=9, gender='M', time=1195.91}
+{place=96, name='Shane Rollings', school='Becker', grade=12, gender='M', time=1197.02}
+{place=97, name='Scott Collins', school='Princeton', grade=10, gender='M', time=1197.96}
+{place=98, name='Robert Blais', school='Princeton', grade=12, gender='M', time=1200.56}
+{place=99, name='Ross Haugberg', school='Robbinsdale Cooper', grade=9, gender='M', time=1214.64}
+{place=100, name='Sam Ross', school='Delano', grade=11, gender='M', time=1216.04}
+{place=101, name='William Miller', school='Providence Academy', grade=9, gender='M', time=1225.04}
+{place=102, name='Travis Bue', school='Becker', grade=10, gender='M', time=1241.79}
+{place=103, name='Daniel Heikkinen', school='Rockford', grade=11, gender='M', time=1269.58}
+{place=104, name='Randall Dombeck', school='Rockford', grade=10, gender='M', time=1313.33}
+{place=105, name='Stephen Palmquist', school='Becker', grade=9, gender='M', time=1334.08}
+{place=106, name='Josh Loken', school='Becker', grade=10, gender='M', time=1375.7}
+{place=107, name='Daniel Collins', school='Princeton', grade=12, gender='M', time=1613.93}

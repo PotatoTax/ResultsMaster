@@ -1,0 +1,57 @@
+Race : 1003
+{place=1, name='Cam Arndt', school='MACA', grade=9, gender='M', time=1196.42}
+{place=2, name='Sean Stone', school='St Johns Prep', grade=12, gender='M', time=1203.25}
+{place=3, name='Brady Tongen', school='Maple Lake', grade=11, gender='M', time=1212.65}
+{place=4, name='Sam Scherping', school='Albany', grade=10, gender='M', time=1217.13}
+{place=5, name='Solomon Johnson', school='MACA', grade=9, gender='M', time=1240.67}
+{place=6, name='Elisha Duckson', school='Albany', grade=10, gender='M', time=1242.9}
+{place=7, name='Nathan Smith', school='Holdingford', grade=9, gender='M', time=1243.72}
+{place=8, name='Ben Grebinoski', school='Holdingford', grade=9, gender='M', time=1243.8}
+{place=9, name='Jacob Wolter', school='Holdingford', grade=9, gender='M', time=1262.19}
+{place=10, name='Tyler Reimers', school='MACA', grade=10, gender='M', time=1277.83}
+{place=11, name='Kyle Schwinghamer', school='Albany', grade=10, gender='M', time=1284.51}
+{place=12, name='Quinn Youngs', school='Maple Lake', grade=10, gender='M', time=1290.1}
+{place=13, name='Luke Schmitt', school='Albany', grade=10, gender='M', time=1292.66}
+{place=14, name='Nathan  Tamm', school='Albany', grade=9, gender='M', time=1296.26}
+{place=15, name='Stuart Hawn', school='Holdingford', grade=9, gender='M', time=1306.26}
+{place=16, name='Tyler Fischer', school='Albany', grade=11, gender='M', time=1310.12}
+{place=17, name='Mitchell Schirmers', school='Albany', grade=12, gender='M', time=1310.12}
+{place=18, name='Austin Clavin', school='West Central-Evansville', grade=11, gender='M', time=1323.71}
+{place=19, name='Holden Youngs', school='Maple Lake', grade=12, gender='M', time=1330.51}
+{place=20, name='Hunter Manka', school='Maple Lake', grade=10, gender='M', time=1337.1}
+{place=21, name='Jeremiah Christiansen', school='Holdingford', grade=9, gender='M', time=1342.17}
+{place=22, name='George Bigalk', school='Sauk Centre', grade=10, gender='M', time=1346.84}
+{place=23, name='Tyler Cranston', school='Maple Lake', grade=11, gender='M', time=1348.27}
+{place=24, name='Brock Anderson', school='MACA', grade=10, gender='M', time=1349.26}
+{place=25, name='Jackson Gallagher', school='Maple Lake', grade=9, gender='M', time=1352.26}
+{place=26, name='Caleb Beneke', school='Maple Lake', grade=9, gender='M', time=1367.12}
+{place=27, name='Tanner Severson', school='Maple Lake', grade=11, gender='M', time=1382.56}
+{place=28, name='Tyler Willard', school='Maple Lake', grade=11, gender='M', time=1382.96}
+{place=29, name='Maxwell Seymore', school='St Johns Prep', grade=11, gender='M', time=1389.13}
+{place=30, name='Jose Gonzalez', school='St Johns Prep', grade=10, gender='M', time=1401.44}
+{place=31, name='Matt Poyzer', school='West Central-Evansville', grade=10, gender='M', time=1403.87}
+{place=32, name='Christian Thielke', school='MACA', grade=11, gender='M', time=1405.15}
+{place=33, name='Evan Czajkowski', school='Albany', grade=10, gender='M', time=1413.4}
+{place=34, name='Tyler Huls', school='Holdingford', grade=9, gender='M', time=1416.15}
+{place=35, name='Simon Duncan', school='Sauk Centre', grade=10, gender='M', time=1421.52}
+{place=36, name='Timothy Ruud', school='West Central-Evansville', grade=9, gender='M', time=1423.13}
+{place=37, name='Trent Ostby', school='MACA', grade=12, gender='M', time=1440.51}
+{place=38, name='Cody Welch', school='Maple Lake', grade=12, gender='M', time=1445.16}
+{place=39, name='Nathan Broman', school='St Johns Prep', grade=11, gender='M', time=1451.58}
+{place=40, name='Corbin Woods', school='Holdingford', grade=10, gender='M', time=1452.18}
+{place=41, name='Joe  Elsenpeter', school='Maple Lake', grade=10, gender='M', time=1466.4}
+{place=42, name='Kody Nelson', school='Holdingford', grade=10, gender='M', time=1508.63}
+{place=43, name='Joseph Goulet', school='MACA', grade=9, gender='M', time=1549.82}
+{place=44, name='Kevin  Burgess', school='Sauk Centre', grade=11, gender='M', time=1580.87}
+{place=45, name='Kellen Erdahl', school='MACA', grade=9, gender='M', time=1600.18}
+{place=46, name='HaoPeng  Xue', school='St Johns Prep', grade=11, gender='M', time=1600.38}
+{place=47, name='Justin Zheng', school='St Johns Prep', grade=10, gender='M', time=1607.3}
+{place=48, name='Justin Terhaar', school='St Johns Prep', grade=12, gender='M', time=1611.93}
+{place=49, name='Noah Thielke', school='MACA', grade=9, gender='M', time=1612.95}
+{place=50, name='Garner Swenson', school='MACA', grade=12, gender='M', time=1620.71}
+{place=51, name='Cormac Smith ', school='St Johns Prep', grade=9, gender='M', time=1677.1}
+{place=52, name='John Greeley', school='Albany', grade=10, gender='M', time=1684.26}
+{place=53, name='Sichi Onyemeh', school='St Johns Prep', grade=9, gender='M', time=1795.28}
+{place=54, name='Kamso Onyemeh', school='St Johns Prep', grade=10, gender='M', time=1821.48}
+{place=55, name='Stone Shi', school='St Johns Prep', grade=10, gender='M', time=1864.53}
+{place=56, name='Cullin Egge', school='St Johns Prep', grade=7, gender='M', time=1900.39}

@@ -1,0 +1,79 @@
+Race : 445
+{place=1, name='Nate Johnson', school='Eagan', grade=10, gender='M', time=1088.73}
+{place=2, name='Tommy Linder', school='Rosemount', grade=10, gender='M', time=1102.19}
+{place=3, name='Samuel Wolde', school='Rosemount', grade=9, gender='M', time=1116.8}
+{place=4, name='Stanley Kirshner-Breen', school='Minneapolis Southwest', grade=10, gender='M', time=1123.61}
+{place=5, name='Austin Knowlton', school='Minneapolis Southwest', grade=10, gender='M', time=1130.34}
+{place=6, name='Augustine Metzdorff', school='Minneapolis Southwest', grade=10, gender='M', time=1132.13}
+{place=7, name='Sam Groth', school='Minneapolis Southwest', grade=10, gender='M', time=1132.88}
+{place=8, name='Jack Crippes', school='Apple Valley', grade=9, gender='M', time=1137.38}
+{place=9, name='Ryan Condon', school='Rosemount', grade=9, gender='M', time=1137.98}
+{place=10, name='Carter Rock', school='Rosemount', grade=9, gender='M', time=1140.0}
+{place=11, name='Joey Mach', school='Rosemount', grade=9, gender='M', time=1149.11}
+{place=12, name='Jon Opdahl', school='Minneapolis Southwest', grade=10, gender='M', time=1152.38}
+{place=13, name='Gabe Yismaw', school='Eagan', grade=10, gender='M', time=1156.23}
+{place=14, name='Michael Gutierrez', school='St Croix Prep', grade=8, gender='M', time=1164.78}
+{place=15, name='Luke Tansey', school='Apple Valley', grade=9, gender='M', time=1165.5}
+{place=16, name='Noah Ford', school='Apple Valley', grade=10, gender='M', time=1167.57}
+{place=17, name='Carter Nelson', school='Apple Valley', grade=9, gender='M', time=1172.32}
+{place=18, name='Dan  Podpeskar', school='Eagan', grade=9, gender='M', time=1180.11}
+{place=19, name='Luke Anderson', school='Rosemount', grade=9, gender='M', time=1180.59}
+{place=20, name='Josh Podpeskar', school='Eagan', grade=9, gender='M', time=1182.5}
+{place=21, name='Nick Acton', school='Eagan', grade=10, gender='M', time=1183.0}
+{place=22, name='Nick  Forsha', school='Eagan', grade=10, gender='M', time=1183.44}
+{place=23, name='Jon Estes', school='Eagan', grade=10, gender='M', time=1185.55}
+{place=24, name='Daniel Rosa', school='Rosemount', grade=10, gender='M', time=1187.44}
+{place=25, name='Caleb Ayers', school='Eagan', grade=10, gender='M', time=1189.34}
+{place=26, name='Jack  Pilney', school='Eagan', grade=9, gender='M', time=1190.34}
+{place=27, name='Liam Gonzo', school='Apple Valley', grade=9, gender='M', time=1191.8}
+{place=28, name='Cato Valandra', school='Eagan', grade=10, gender='M', time=1206.0}
+{place=29, name='Evan  Esslinger', school='Eagan', grade=10, gender='M', time=1207.0}
+{place=30, name='Noah Stout', school='Math & Science Academy', grade=8, gender='M', time=1214.5}
+{place=31, name='Kevin Sutton', school='Rosemount', grade=10, gender='M', time=1214.88}
+{place=32, name='Andrew McGillivary', school='Minneapolis Southwest', grade=10, gender='M', time=1216.98}
+{place=33, name='Jonah Shaw', school='Minneapolis Southwest', grade=9, gender='M', time=1219.42}
+{place=34, name='Jared Gullikson', school='Apple Valley', grade=10, gender='M', time=1222.67}
+{place=35, name='Chris Bruns', school='Henry Sibley', grade=7, gender='M', time=1227.21}
+{place=36, name='Eric Holm', school='Minneapolis Southwest', grade=10, gender='M', time=1233.84}
+{place=37, name='Jack Richardson', school='St Croix Prep', grade=10, gender='M', time=1235.59}
+{place=38, name='Nathan Blakely', school='Eagan', grade=10, gender='M', time=1263.5}
+{place=39, name='Kohl Ordahl', school='Apple Valley', grade=9, gender='M', time=1264.63}
+{place=40, name='Daniel Plappert', school='Math & Science Academy', grade=9, gender='M', time=1269.57}
+{place=41, name='Max Lewis', school='Minneapolis Southwest', grade=10, gender='M', time=1275.17}
+{place=42, name='Kiran Mekala', school='Math & Science Academy', grade=8, gender='M', time=1278.73}
+{place=43, name='Michael Sampers', school='Rosemount', grade=9, gender='M', time=1282.19}
+{place=44, name='Joe Dill', school='Henry Sibley', grade=9, gender='M', time=1284.63}
+{place=45, name='Sam Orfield', school='Minneapolis Southwest', grade=9, gender='M', time=1285.5}
+{place=46, name='Sam  Wegner', school='Nova Classical Academy', grade=9, gender='M', time=1290.0}
+{place=47, name='Andrew Zellar', school='Eagan', grade=10, gender='M', time=1295.77}
+{place=48, name='Gabe  Murray', school='Eagan', grade=10, gender='M', time=1301.9}
+{place=49, name='Sam Caspers', school='St Croix Prep', grade=10, gender='M', time=1305.32}
+{place=50, name='Connor Lorsung', school='Apple Valley', grade=9, gender='M', time=1305.76}
+{place=51, name='Han Yong Wunrow', school='Math & Science Academy', grade=10, gender='M', time=1318.84}
+{place=52, name='Stig Carlson', school='Minneapolis Southwest', grade=9, gender='M', time=1319.3}
+{place=53, name='Joshua Kirk', school='Minneapolis Southwest', grade=9, gender='M', time=1343.09}
+{place=54, name='Devon DeJong', school='St Croix Prep', grade=10, gender='M', time=1345.13}
+{place=55, name='Peter Doebler', school='Eagan', grade=9, gender='M', time=1347.63}
+{place=56, name='Miles French', school='Minneapolis Southwest', grade=9, gender='M', time=1358.03}
+{place=57, name='Anthony Dupont', school='Henry Sibley', grade=8, gender='M', time=1365.32}
+{place=58, name='Bradley Parsons', school='Minneapolis Southwest', grade=9, gender='M', time=1369.88}
+{place=59, name='Sam Moeller', school='Rosemount', grade=10, gender='M', time=1385.92}
+{place=60, name='Peter Jones', school='Nova Classical Academy', grade=9, gender='M', time=1393.11}
+{place=61, name='Joe Neuens', school='Rosemount', grade=9, gender='M', time=1396.78}
+{place=62, name='Alex Scheller', school='Eagan', grade=10, gender='M', time=1404.55}
+{place=63, name='Jeremiah Rogers', school='Nova Classical Academy', grade=7, gender='M', time=1406.4}
+{place=64, name='Michael Richardson', school='Apple Valley', grade=9, gender='M', time=1407.77}
+{place=65, name='Jordan Lofgren', school='Apple Valley', grade=10, gender='M', time=1450.57}
+{place=66, name='Myles Fleming', school='Henry Sibley', grade=10, gender='M', time=1463.98}
+{place=67, name='Blake Maloney', school='Apple Valley', grade=9, gender='M', time=1470.77}
+{place=68, name='Eric Burrell', school='Henry Sibley', grade=8, gender='M', time=1481.25}
+{place=69, name='Hugh Strohbehn', school='St Croix Prep', grade=10, gender='M', time=1505.71}
+{place=70, name='Peter Irvine', school='Math & Science Academy', grade=9, gender='M', time=1521.09}
+{place=71, name='Adam Ham', school='Apple Valley', grade=10, gender='M', time=1600.3}
+{place=72, name='Miles Kramer', school='Nova Classical Academy', grade=8, gender='M', time=1644.88}
+{place=73, name='Morgan Ling', school='Apple Valley', grade=9, gender='M', time=1645.42}
+{place=74, name='Elan Nelson', school='Nova Classical Academy', grade=8, gender='M', time=1647.98}
+{place=75, name='Ryan Matchinski', school='St Croix Prep', grade=10, gender='M', time=1681.96}
+{place=76, name='Sammy Gruber', school='Math & Science Academy', grade=7, gender='M', time=1683.69}
+{place=77, name='Gustav Honl-Stuenkel', school='Nova Classical Academy', grade=8, gender='M', time=1869.73}
+{place=78, name='DJ Corrigan', school='Nova Classical Academy', grade=7, gender='M', time=1872.42}

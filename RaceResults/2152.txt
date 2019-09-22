@@ -1,0 +1,60 @@
+Race : 2152
+{place=1, name='Geno Uhrbom', school='GNK', grade=9, gender='M', time=1014.59}
+{place=2, name='Jackson Wichtendahl', school='Alexandria', grade=12, gender='M', time=1036.359}
+{place=3, name='Keaton Gruber', school='Alexandria', grade=12, gender='M', time=1056.559}
+{place=4, name='Nolan Christenson', school='Alexandria', grade=12, gender='M', time=1065.609}
+{place=5, name='Kyle Vandertuin', school='Alexandria', grade=12, gender='M', time=1076.422}
+{place=6, name='Tommy Ryan', school='Pine City', grade=11, gender='M', time=1081.738}
+{place=7, name='Greg Peterson', school='GNK', grade=10, gender='M', time=1084.109}
+{place=8, name='Nate Webster', school='Pine City', grade=10, gender='M', time=1093.609}
+{place=9, name='Drew Peterson', school='Little Falls', grade=11, gender='M', time=1110.91}
+{place=10, name='Noah Struck', school='Alexandria', grade=10, gender='M', time=1113.352}
+{place=11, name='Nolan Zimny', school='Little Falls', grade=12, gender='M', time=1124.121}
+{place=12, name='Cody Staydohar', school='GNK', grade=12, gender='M', time=1126.109}
+{place=13, name='Daniel Bartkowitz', school='Little Falls', grade=11, gender='', time=1127.121}
+{place=14, name='Lemieur Seth', school='Crosby-Ironton', grade=10, gender='M', time=1134.25}
+{place=15, name='Evan Storbakken', school='Brainerd', grade=11, gender='M', time=1141.781}
+{place=16, name='Jonah Ploof', school='Little Falls', grade=12, gender='M', time=1144.129}
+{place=17, name='Daniel Olson', school='GNK', grade=8, gender='M', time=1146.238}
+{place=18, name='Spencer Engel', school='GNK', grade=9, gender='M', time=1146.859}
+{place=19, name='Garrett Goeden', school='Brainerd', grade=11, gender='M', time=1147.859}
+{place=20, name='Dane Galloway', school='Alexandria', grade=10, gender='M', time=1148.121}
+{place=21, name='Tucker Ringhand', school='Crosby-Ironton', grade=10, gender='M', time=1149.621}
+{place=22, name='Max Johnston', school='Pequot Lakes', grade=10, gender='M', time=1150.488}
+{place=23, name='Jack Englund', school='Alexandria', grade=11, gender='M', time=1153.551}
+{place=24, name='Maxim Osborne', school='Brainerd', grade=11, gender='M', time=1156.18}
+{place=25, name='Isaac Herrlich', school='Brainerd', grade=10, gender='M', time=1156.621}
+{place=26, name='Austin Eckert', school='Pine City', grade=10, gender='M', time=1156.789}
+{place=27, name='Hayden Kulzer', school='Albany', grade=12, gender='M', time=1156.98}
+{place=28, name='David Kelm', school='Brainerd', grade=12, gender='M', time=1166.121}
+{place=29, name='Griffin Severson', school='Crosby-Ironton', grade=12, gender='M', time=1174.121}
+{place=30, name='Peyton Melby', school='Brainerd', grade=12, gender='M', time=1174.219}
+{place=31, name='Eli Weiss', school='Albany', grade=11, gender='M', time=1177.488}
+{place=32, name='Andrew Wasniewski', school='Brainerd', grade=12, gender='M', time=1185.871}
+{place=33, name='Jackson Grant', school='Little Falls', grade=9, gender='M', time=1190.621}
+{place=34, name='Jacob Bushman', school='Albany', grade=12, gender='M', time=1208.738}
+{place=35, name='William Riitters', school='Little Falls', grade=11, gender='M', time=1214.371}
+{place=36, name='Sam Scherping', school='Albany', grade=12, gender='M', time=1222.559}
+{place=37, name='Wyatt  Shay', school='Albany', grade=10, gender='M', time=1222.969}
+{place=38, name='Dakota Kern', school='Little Falls', grade=12, gender='M', time=1224.379}
+{place=39, name='Ryan Olson', school='GNK', grade=10, gender='M', time=1224.801}
+{place=40, name='Quinn Clapper', school='Albany', grade=11, gender='M', time=1224.801}
+{place=41, name='TJ Rank', school='Pine City', grade=11, gender='M', time=1228.859}
+{place=42, name='Noah Miller', school='Pine City', grade=10, gender='M', time=1250.531}
+{place=43, name='Brennen Bordwell', school='Pillager', grade=12, gender='M', time=1252.0}
+{place=44, name='Jake Adams', school='Pine City', grade=11, gender='M', time=1256.422}
+{place=45, name='John Kauder', school='Albany', grade=4, gender='M', time=1258.52}
+{place=46, name='Remington Steele', school='Pine City', grade=12, gender='M', time=1268.852}
+{place=47, name='Michael Butterfield', school='GNK', grade=9, gender='M', time=1271.66}
+{place=48, name='Sam Lemieur', school='Crosby-Ironton', grade=10, gender='M', time=1278.16}
+{place=49, name='Colten Turk', school='Crosby-Ironton', grade=10, gender='M', time=1278.969}
+{place=50, name='Cayden Turk', school='Crosby-Ironton', grade=10, gender='M', time=1280.391}
+{place=51, name='Anthony Jansen', school='Pillager', grade=12, gender='M', time=1317.379}
+{place=52, name='Collin Yahn', school='Pequot Lakes', grade=9, gender='M', time=1354.82}
+{place=53, name='Isaac Burley', school='Crosby-Ironton', grade=10, gender='M', time=1380.25}
+{place=54, name='Zeke Gilbertson', school='Pillager', grade=12, gender='M', time=1427.879}
+{place=55, name='Riley Henry', school='Pequot Lakes', grade=9, gender='M', time=1448.59}
+{place=56, name='Caleb Davis', school='Pequot Lakes', grade=9, gender='M', time=1463.609}
+{place=57, name='Gray Gitchell', school='Pequot Lakes', grade=9, gender='M', time=1567.629}
+{place=58, name='Dray Turner', school='Pillager', grade=9, gender='M', time=1604.352}
+{place=59, name='Gabe Grimsley', school='Pillager', grade=9, gender='M', time=1734.301}

@@ -1,0 +1,101 @@
+Race : 1373
+{place=1, name='Alexa Havon', school='Andover', grade=10, gender='F', time=1221.02}
+{place=2, name='Sarah Olson', school='Blaine', grade=10, gender='F', time=1231.51}
+{place=3, name='Isabelle Brezinka', school='Anoka', grade=12, gender='F', time=1233.86}
+{place=4, name='Julia Nielsen', school='Andover', grade=10, gender='F', time=1239.26}
+{place=5, name='Bryna DelCastillo', school='Coon Rapids', grade=12, gender='F', time=1253.48}
+{place=6, name='Taylor Krone', school='Anoka', grade=11, gender='F', time=1255.51}
+{place=7, name='Alaina Hedlund', school='Coon Rapids', grade=8, gender='F', time=1260.86}
+{place=8, name='Sydney Paulson', school='Anoka', grade=11, gender='F', time=1270.71}
+{place=9, name='Jena Wachowiak', school='Champlin Park', grade=12, gender='F', time=1286.36}
+{place=10, name='Alli Becker', school='Anoka', grade=10, gender='F', time=1310.51}
+{place=11, name='Diana Glebova', school='Champlin Park', grade=12, gender='F', time=1322.46}
+{place=12, name='Lauren Johnson', school='Andover', grade=10, gender='F', time=1327.11}
+{place=13, name='Sarina Lindell', school='Champlin Park', grade=11, gender='F', time=1328.11}
+{place=14, name='Skylar Sandin', school='Andover', grade=11, gender='F', time=1337.05}
+{place=15, name='Alysse DeFoe', school='Andover', grade=12, gender='F', time=1338.61}
+{place=16, name='Abby Ellenbecker', school='Coon Rapids', grade=9, gender='F', time=1357.36}
+{place=17, name='Brianna  Fischer', school='Anoka', grade=12, gender='F', time=1358.36}
+{place=18, name='Ellen Mickelson', school='Blaine', grade=11, gender='F', time=1360.8}
+{place=19, name='Emily Lindell', school='Champlin Park', grade=9, gender='F', time=1371.98}
+{place=20, name='Olivia Ellenbecker', school='Coon Rapids', grade=10, gender='F', time=1377.04}
+{place=21, name='Delaney Butler', school='Anoka', grade=11, gender='F', time=1379.07}
+{place=22, name='Elizabeth Donner', school='Andover', grade=10, gender='F', time=1383.32}
+{place=23, name='Kirstie Ziegler', school='Blaine', grade=12, gender='F', time=1383.52}
+{place=24, name='Lauren Janowiec', school='Andover', grade=11, gender='F', time=1384.55}
+{place=25, name='Brooke Powell', school='Champlin Park', grade=12, gender='F', time=1387.59}
+{place=26, name='Abigail Johnson', school='Anoka', grade=8, gender='F', time=1411.32}
+{place=27, name='Rachel  Davis', school='Coon Rapids', grade=12, gender='F', time=1413.36}
+{place=28, name='Sarah Eichstadt', school='Coon Rapids', grade=9, gender='F', time=1415.36}
+{place=29, name='Kasidy Chileen', school='Blaine', grade=12, gender='F', time=1416.61}
+{place=30, name='Brianna Bergerson', school='Blaine', grade=10, gender='F', time=1424.86}
+{place=31, name='Michelle Onyekaba', school='Coon Rapids', grade=12, gender='F', time=1430.61}
+{place=32, name='Claire Olson', school='Blaine', grade=9, gender='F', time=1433.87}
+{place=33, name='Katheryn Opansky', school='Champlin Park', grade=12, gender='F', time=1434.07}
+{place=34, name='Claire Lund', school='Champlin Park', grade=12, gender='F', time=1437.88}
+{place=35, name='Atley Schreiner', school='Champlin Park', grade=8, gender='F', time=1438.09}
+{place=36, name='Noelle Josephson', school='Anoka', grade=11, gender='F', time=1445.87}
+{place=37, name='Alexandra Hondl', school='Andover', grade=10, gender='F', time=1448.36}
+{place=38, name='Jennifer Omann', school='Champlin Park', grade=9, gender='F', time=1453.52}
+{place=39, name='Whitney Beberg', school='Andover', grade=10, gender='F', time=1459.8}
+{place=40, name='Haddy Bayo', school='Coon Rapids', grade=11, gender='F', time=1461.02}
+{place=41, name='Madeline Greelis', school='Andover', grade=9, gender='F', time=1475.86}
+{place=42, name='Jessie Wensel', school='Champlin Park', grade=10, gender='F', time=1487.36}
+{place=43, name='Lily Larson', school='Anoka', grade=11, gender='F', time=1497.36}
+{place=44, name='Sarah Shogren', school='Blaine', grade=11, gender='F', time=1498.98}
+{place=45, name='Olivia Haak', school='Andover', grade=9, gender='F', time=1500.8}
+{place=46, name='Alyssa Gerth', school='Andover', grade=8, gender='F', time=1502.23}
+{place=47, name='Jenna Beccam', school='Andover', grade=11, gender='F', time=1503.23}
+{place=48, name='Brook DelCastillo', school='Coon Rapids', grade=7, gender='F', time=1509.32}
+{place=49, name='Ellen Vaillant', school='Anoka', grade=12, gender='F', time=1514.61}
+{place=50, name='Larissa Minshull', school='Anoka', grade=8, gender='F', time=1529.61}
+{place=51, name='Annie Steinmetz', school='Blaine', grade=11, gender='F', time=1531.23}
+{place=52, name='Jade Kurtz', school='Blaine', grade=10, gender='F', time=1535.51}
+{place=53, name='Julianna Charlesworth', school='Andover', grade=10, gender='F', time=1539.86}
+{place=54, name='Maddie O'Connor', school='Anoka', grade=9, gender='F', time=1542.61}
+{place=55, name='Amelia Lund', school='Champlin Park', grade=10, gender='F', time=1560.61}
+{place=56, name='Kara Klingenberg', school='Coon Rapids', grade=12, gender='F', time=1562.61}
+{place=57, name='Alysa Thieschafer', school='Anoka', grade=10, gender='F', time=1568.77}
+{place=58, name='Cassandra Adams', school='Champlin Park', grade=10, gender='F', time=1579.34}
+{place=59, name='Keturena Henrich', school='Andover', grade=9, gender='F', time=1587.05}
+{place=60, name='Madi Rowe', school='Anoka', grade=11, gender='F', time=1590.36}
+{place=61, name='Maggie Holm', school='Champlin Park', grade=11, gender='F', time=1592.86}
+{place=62, name='Britta Kamrath', school='Champlin Park', grade=12, gender='F', time=1604.13}
+{place=63, name='Adriana Potts', school='Anoka', grade=7, gender='F', time=1608.36}
+{place=64, name='Hannah Tuomela', school='Anoka', grade=11, gender='F', time=1611.01}
+{place=65, name='Kayla Dittberner', school='Andover', grade=12, gender='F', time=1622.59}
+{place=66, name='Anika Spaude', school='Champlin Park', grade=9, gender='F', time=1625.02}
+{place=67, name='Sydney Crandall', school='Champlin Park', grade=10, gender='F', time=1649.77}
+{place=68, name='Ashley Tilke', school='Coon Rapids', grade=11, gender='F', time=1686.68}
+{place=69, name='Rebekah Weimholt', school='Coon Rapids', grade=9, gender='F', time=1690.91}
+{place=70, name='Julie Hedlund', school='Coon Rapids', grade=7, gender='F', time=1694.55}
+{place=71, name='Angela Hancock', school='Coon Rapids', grade=10, gender='F', time=1700.45}
+{place=72, name='Taylor Bidon', school='Blaine', grade=10, gender='F', time=1701.48}
+{place=73, name='Yvette Tomczyk', school='Coon Rapids', grade=10, gender='F', time=1707.57}
+{place=74, name='Aria Daly', school='Blaine', grade=11, gender='F', time=1711.82}
+{place=75, name='Leah  Johnson', school='Coon Rapids', grade=12, gender='F', time=1713.32}
+{place=76, name='Courtney Killian', school='Coon Rapids', grade=10, gender='F', time=1721.89}
+{place=77, name='Selena Garcia', school='Blaine', grade=12, gender='F', time=1728.66}
+{place=78, name='Ashley Coffrin', school='Andover', grade=10, gender='F', time=1740.61}
+{place=79, name='Jessica Jarosz', school='Andover', grade=10, gender='F', time=1741.43}
+{place=80, name='Tayah Lindsay', school='Blaine', grade=12, gender='F', time=1763.51}
+{place=81, name='Mina Merrick-Melberg', school='Anoka', grade=9, gender='F', time=1764.34}
+{place=82, name='Addie Hoseck', school='Coon Rapids', grade=10, gender='F', time=1765.95}
+{place=83, name='Greta Bahe', school='Champlin Park', grade=9, gender='F', time=1784.64}
+{place=84, name='Saije Dann', school='Champlin Park', grade=11, gender='F', time=1787.86}
+{place=85, name='Skye Juneau', school='Coon Rapids', grade=12, gender='F', time=1788.48}
+{place=86, name='Kether Laszlo', school='Anoka', grade=10, gender='F', time=1795.57}
+{place=87, name='Jessica McDonald', school='Coon Rapids', grade=12, gender='F', time=1798.38}
+{place=88, name='Skyler Hennig', school='Blaine', grade=11, gender='F', time=1834.88}
+{place=89, name='Grace Fink', school='Anoka', grade=9, gender='F', time=1848.3}
+{place=90, name='Karah Stangret', school='Andover', grade=11, gender='F', time=1848.88}
+{place=91, name='Miranda Lathrop', school='Anoka', grade=9, gender='F', time=1849.53}
+{place=92, name='Elizabeth Schue', school='Blaine', grade=9, gender='F', time=1874.09}
+{place=93, name='Stephanie Dalen', school='Andover', grade=10, gender='F', time=1887.07}
+{place=94, name='Yen Duong', school='Coon Rapids', grade=10, gender='F', time=1895.78}
+{place=95, name='Summer Juneau', school='Coon Rapids', grade=12, gender='F', time=1908.38}
+{place=96, name='Isabella Nortrom', school='Coon Rapids', grade=8, gender='F', time=1914.64}
+{place=97, name='Merveille Mutamba', school='Andover', grade=9, gender='F', time=2029.07}
+{place=98, name='Jenny Lidberg', school='Andover', grade=11, gender='F', time=2050.64}
+{place=99, name='Isabella Que', school='Blaine', grade=10, gender='F', time=2073.89}
+{place=100, name='Emma Richmond', school='Blaine', grade=10, gender='F', time=2121.59}

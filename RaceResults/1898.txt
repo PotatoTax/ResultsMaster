@@ -1,0 +1,73 @@
+Race : 1898
+{place=1, name='SOPHIE WHICHER', school='Minnetonka', grade=12, gender='F', time=1114.662}
+{place=2, name='ELIZABETH HALBMAIER', school='Minnetonka', grade=12, gender='F', time=1166.592}
+{place=3, name='Annalise Johnson', school='Minnetonka', grade=9, gender='F', time=1188.931}
+{place=4, name='Allison Hendrickson', school='Becker', grade=12, gender='F', time=1195.42}
+{place=5, name='Ilana Levine', school='Minnetonka', grade=11, gender='F', time=1202.72}
+{place=6, name='Lexi Dehmer', school='Becker', grade=10, gender='F', time=1205.51}
+{place=7, name='Alexa Davis', school='Osseo', grade=8, gender='F', time=1213.26}
+{place=8, name='Victoria Kolbinger', school='Becker', grade=11, gender='F', time=1215.502}
+{place=9, name='Kate LeBlanc', school='Minnetonka', grade=8, gender='F', time=1219.162}
+{place=10, name='Ava Cusciotta', school='Rockford', grade=8, gender='F', time=1222.4}
+{place=11, name='GRACE HOELSCHER', school='Minnetonka', grade=12, gender='F', time=1232.51}
+{place=12, name='Adeline Kent', school='Becker', grade=8, gender='F', time=1237.24}
+{place=13, name='Danielle Nuest', school='Becker', grade=7, gender='F', time=1240.252}
+{place=14, name='Lauren Steinke', school='St Cloud Tech', grade=12, gender='F', time=1260.97}
+{place=15, name='Lexi Duscher', school='Princeton', grade=10, gender='F', time=1263.209}
+{place=16, name='Ellie Sather', school='Rockford', grade=9, gender='F', time=1267.861}
+{place=17, name='Johanna Schwinghamer', school='Mora', grade=10, gender='F', time=1277.24}
+{place=18, name='Mia Pankoff', school='Minnetonka', grade=12, gender='F', time=1277.24}
+{place=19, name='Peyton Oslin', school='Mora', grade=9, gender='F', time=1284.728}
+{place=20, name='Gabby Hennes', school='St Cloud Tech', grade=12, gender='F', time=1288.431}
+{place=21, name='Lily Opay', school='Princeton', grade=10, gender='F', time=1309.978}
+{place=22, name='Lily Peterson', school='Mora', grade=10, gender='F', time=1312.201}
+{place=23, name='Katie Baumann', school='Princeton', grade=12, gender='F', time=1313.22}
+{place=24, name='Tess Houglum', school='Mora', grade=9, gender='F', time=1317.291}
+{place=25, name='Abigail Gans', school='St Cloud Tech', grade=11, gender='F', time=1319.709}
+{place=26, name='Brittany Hansen', school='Milaca', grade=9, gender='F', time=1320.271}
+{place=27, name='Morgan Mann', school='Mora', grade=9, gender='F', time=1320.271}
+{place=28, name='Rachel Anderson', school='Mora', grade=11, gender='F', time=1335.181}
+{place=29, name='Alix Gifford', school='Rockford', grade=8, gender='F', time=1341.279}
+{place=30, name='Abigail Nelson', school='Becker', grade=9, gender='F', time=1341.76}
+{place=31, name='Elizabeth Danilyuk', school='Milaca', grade=10, gender='F', time=1353.67}
+{place=32, name='Hailey Thielen', school='Mora', grade=12, gender='F', time=1355.502}
+{place=33, name='Bethany Ten Haken', school='Milaca', grade=11, gender='F', time=1367.31}
+{place=34, name='Ellie Horton', school='Princeton', grade=8, gender='F', time=1372.959}
+{place=35, name='Becca Luebke', school='Osseo', grade=11, gender='F', time=1375.092}
+{place=36, name='Emma Sather', school='Rockford', grade=8, gender='F', time=1380.092}
+{place=37, name='Ellie Murphy', school='Big Lake', grade=12, gender='F', time=1384.521}
+{place=38, name='Natasha James', school='Rockford', grade=8, gender='F', time=1387.318}
+{place=39, name='Jerica Ploeger', school='Milaca', grade=11, gender='F', time=1389.228}
+{place=40, name='Camille Corniea', school='Osseo', grade=10, gender='F', time=1389.502}
+{place=41, name='Kassie Bastian', school='Princeton', grade=10, gender='F', time=1410.271}
+{place=42, name='Liz Vang', school='Osseo', grade=11, gender='F', time=1413.631}
+{place=43, name='Shelby Mueller', school='Watertown-Mayer', grade=10, gender='F', time=1420.912}
+{place=44, name='Hailey Dickson', school='Big Lake', grade=9, gender='F', time=1421.099}
+{place=45, name='Erika Fenstad', school='St Cloud Tech', grade=11, gender='F', time=1438.521}
+{place=46, name='Josie Parks', school='Big Lake', grade=7, gender='F', time=1440.209}
+{place=47, name='Emily Frisbie', school='Foley', grade=11, gender='F', time=1450.51}
+{place=48, name='Grace Clark', school='Rockford', grade=11, gender='F', time=1456.279}
+{place=49, name='Alexa Pomerleau', school='Princeton', grade=11, gender='F', time=1459.271}
+{place=50, name='Hillevi Fridstroem', school='Milaca', grade=12, gender='F', time=1461.728}
+{place=51, name='Makayla Graunke', school='Rockford', grade=8, gender='F', time=1481.842}
+{place=52, name='Madison McDonald', school='Becker', grade=9, gender='F', time=1490.17}
+{place=53, name='Rachel Simon', school='Foley', grade=12, gender='F', time=1500.111}
+{place=54, name='Mackenzie Bialka', school='Princeton', grade=10, gender='F', time=1511.318}
+{place=55, name='Lauren Osborn', school='Watertown-Mayer', grade=10, gender='F', time=1513.271}
+{place=56, name='Marrisa Sienko', school='Milaca', grade=11, gender='F', time=1513.521}
+{place=57, name='Elle Wertish', school='Big Lake', grade=10, gender='F', time=1515.201}
+{place=58, name='Cherramae Erickson', school='Milaca', grade=11, gender='F', time=1522.912}
+{place=59, name='Nicole Bastian', school='Foley', grade=11, gender='F', time=1533.271}
+{place=60, name='Rachel Merchlewicz', school='St Cloud Tech', grade=12, gender='F', time=1539.209}
+{place=61, name='Leah Vraspir', school='Watertown-Mayer', grade=11, gender='F', time=1539.4}
+{place=62, name='Trista Knebel', school='Watertown-Mayer', grade=11, gender='F', time=1543.47}
+{place=63, name='Ellie Inkster', school='St Cloud Tech', grade=11, gender='F', time=1554.22}
+{place=64, name='Erin Collins', school='Osseo', grade=11, gender='F', time=1571.888}
+{place=65, name='Catherine Wagener', school='St Cloud Tech', grade=12, gender='F', time=1574.381}
+{place=66, name='Erin Iaquinto', school='Big Lake', grade=9, gender='F', time=1583.791}
+{place=67, name='Alexis Kluk', school='Big Lake', grade=12, gender='F', time=1598.72}
+{place=68, name='Maria Garrido-Lavender', school='Osseo', grade=9, gender='F', time=1613.728}
+{place=69, name='Gracelyn Ferguson', school='Watertown-Mayer', grade=10, gender='F', time=1617.611}
+{place=70, name='Megan Braun', school='Foley', grade=11, gender='F', time=1628.529}
+{place=71, name='Mackenzie Frederick', school='Big Lake', grade=12, gender='F', time=1664.502}
+{place=72, name='Emily Falk', school='Foley', grade=12, gender='F', time=1716.611}

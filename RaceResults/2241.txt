@@ -1,0 +1,68 @@
+Race : 2241
+{place=1, name='Kristine Kalthoff', school='Albany', grade=10, gender='F', time=1216.2}
+{place=2, name='Sophia Kluver', school='Sauk Centre', grade=11, gender='F', time=1227.5}
+{place=3, name='Sophie Pribyl', school='Maple Lake', grade=9, gender='F', time=1256.2}
+{place=4, name='Rachael Neu', school='Albany', grade=11, gender='F', time=1259.5}
+{place=5, name='Maddie Carrington', school='MACA', grade=11, gender='F', time=1278.5}
+{place=6, name='Libby Yozamp', school='EV-W-K', grade=12, gender='F', time=1289.3}
+{place=7, name='Andrea Fromelt', school='St Cloud Cathedral', grade=12, gender='F', time=1291.5}
+{place=8, name='Ava Mergen', school='Maple Lake', grade=12, gender='F', time=1298.2}
+{place=9, name='Olivia  Kuechle', school='EV-W-K', grade=11, gender='F', time=1305.5}
+{place=10, name='Augusta Demarais', school='Maple Lake', grade=10, gender='F', time=1308.6}
+{place=11, name='Mary Miller', school='Maple Lake', grade=10, gender='F', time=1313.9}
+{place=12, name='Kate O'Brien', school='Sauk Centre', grade=12, gender='F', time=1320.5}
+{place=13, name='Abbie  Christen', school='Albany', grade=10, gender='F', time=1329.2}
+{place=14, name='Meredith Carrington', school='MACA', grade=9, gender='F', time=1347.9}
+{place=15, name='Grace Gratton', school='New London-Spicer', grade=8, gender='F', time=1351.7}
+{place=16, name='Grace Heying', school='Maple Lake', grade=11, gender='F', time=1358.0}
+{place=17, name='Cailyn  Kuechle', school='EV-W-K', grade=11, gender='F', time=1359.2}
+{place=18, name='Erin Borash', school='Royalton', grade=9, gender='F', time=1367.0}
+{place=19, name='Kayle Trisko', school='Sauk Centre', grade=11, gender='F', time=1376.7}
+{place=20, name='Carissa Andres', school='Pierz', grade=8, gender='F', time=1378.2}
+{place=21, name='Brenna Andres', school='Pierz', grade=11, gender='F', time=1387.0}
+{place=22, name='Jaden Coahran', school='New London-Spicer', grade=8, gender='F', time=1389.7}
+{place=23, name='Amaya Lyrek', school='EV-W-K', grade=12, gender='F', time=1389.9}
+{place=24, name='Stella Depuydt', school='New London-Spicer', grade=11, gender='F', time=1393.8}
+{place=25, name='Angeline Bigalk', school='Sauk Centre', grade=11, gender='F', time=1393.8}
+{place=26, name='Alexandra  Christen', school='Sauk Centre', grade=11, gender='F', time=1394.8}
+{place=27, name='Kate Graham', school='Maple Lake', grade=10, gender='F', time=1397.0}
+{place=28, name='Eva McClelland', school='Maple Lake', grade=9, gender='F', time=1397.2}
+{place=29, name='Kayla Meyer', school='Melrose', grade=8, gender='F', time=1400.2}
+{place=30, name='Crystal Nohl', school='MACA', grade=10, gender='F', time=1425.2}
+{place=31, name='Malory Anderson', school='MACA', grade=11, gender='F', time=1425.5}
+{place=32, name='Kaylie Raths', school='MACA', grade=10, gender='F', time=1440.5}
+{place=33, name='Grace Rieland', school='Albany', grade=10, gender='F', time=1440.7}
+{place=34, name='Eva Gay', school='St Cloud Cathedral', grade=8, gender='F', time=1445.6}
+{place=35, name='Becky Lampert', school='Holdingford', grade=9, gender='F', time=1448.3}
+{place=36, name='Sawyer Kuechle', school='EV-W-K', grade=11, gender='F', time=1451.1}
+{place=37, name='Jessica Rosenberger', school='Albany', grade=10, gender='F', time=1454.5}
+{place=38, name='Gina Wege', school='Albany', grade=10, gender='F', time=1457.8}
+{place=39, name='Laura Funk', school='Melrose', grade=11, gender='F', time=1465.3}
+{place=40, name='Caryn Marty', school='MACA', grade=9, gender='F', time=1477.6}
+{place=41, name='Brooke Wuertz', school='Melrose', grade=10, gender='F', time=1481.8}
+{place=42, name='Rachel Kasper', school='Pierz', grade=8, gender='F', time=1483.7}
+{place=43, name='Alyssa Gall', school='Pierz', grade=9, gender='F', time=1488.7}
+{place=44, name='Brooke Kotten', school='Albany', grade=10, gender='F', time=1490.0}
+{place=45, name='Lily Blenkush', school='St Cloud Cathedral', grade=7, gender='F', time=1492.5}
+{place=46, name='Jessica Klopfleisch', school='Sauk Centre', grade=11, gender='F', time=1492.9}
+{place=47, name='Bella Lee', school='St Cloud Cathedral', grade=8, gender='F', time=1496.6}
+{place=48, name='Tayler Harrier', school='New London-Spicer', grade=11, gender='F', time=1501.7}
+{place=49, name='Raeann Holmquist', school='New London-Spicer', grade=8, gender='F', time=1504.2}
+{place=50, name='Madison Christenson', school='Melrose', grade=11, gender='F', time=1530.0}
+{place=51, name='Grace Neutz', school='Royalton', grade=10, gender='F', time=1545.5}
+{place=52, name='Jami Rudolph', school='Royalton', grade=10, gender='F', time=1562.3}
+{place=53, name='Kara Bakke', school='Pierz', grade=8, gender='F', time=1567.6}
+{place=54, name='Chloe Ellering', school='Melrose', grade=11, gender='F', time=1569.2}
+{place=55, name='Ellie Lochner', school='Pierz', grade=9, gender='F', time=1569.7}
+{place=56, name='Abby Heinen', school='Melrose', grade=10, gender='F', time=1577.6}
+{place=57, name='Allie Dockedorf', school='EV-W-K', grade=11, gender='F', time=1582.2}
+{place=58, name='Rebeka Daniel', school='Royalton', grade=12, gender='F', time=1603.9}
+{place=59, name='Lili Sampson', school='New London-Spicer', grade=10, gender='F', time=1609.9}
+{place=60, name='Claire Hagen', school='St Cloud Cathedral', grade=11, gender='F', time=1615.7}
+{place=61, name='Katie John', school='St Johns Prep', grade=12, gender='F', time=1623.8}
+{place=62, name='Kathleen Thompson', school='St Cloud Cathedral', grade=12, gender='F', time=1628.1}
+{place=63, name='Cari Simon', school='Royalton', grade=11, gender='F', time=1630.7}
+{place=64, name='Olivia Schleper', school='EV-W-K', grade=12, gender='F', time=1650.9}
+{place=65, name='Stella Stalboerger', school='Melrose', grade=9, gender='F', time=1697.5}
+{place=66, name='Alison Skwira', school='Holdingford', grade=11, gender='F', time=1820.2}
+{place=67, name='Katie Schaefer', school='Pierz', grade=11, gender='F', time=1834.5}

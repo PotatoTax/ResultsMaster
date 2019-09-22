@@ -1,0 +1,75 @@
+Race : 1287
+{place=1, name='Michael Mitchell', school='Blake', grade=11, gender='M', time=1003.36}
+{place=2, name='Garrett Williams', school='Robbinsdale Cooper', grade=12, gender='M', time=1028.28}
+{place=3, name='George Elsesser', school='Spring Lake Park', grade=11, gender='M', time=1048.68}
+{place=4, name='Sam Abbegglen', school='Mound-Westonka', grade=12, gender='M', time=1063.35}
+{place=5, name='Jackson Sokolowski', school='St Louis Park', grade=11, gender='M', time=1066.7}
+{place=6, name='Michael Milner', school='Mound-Westonka', grade=12, gender='M', time=1074.0}
+{place=7, name='Evan Richter', school='Mound-Westonka', grade=12, gender='M', time=1080.1}
+{place=8, name='Cyrus Ashrafzadeh-Kian', school='Minneapolis Southwest', grade=12, gender='M', time=1080.12}
+{place=9, name='Andrew Beukelman', school='Providence Academy', grade=12, gender='M', time=1088.72}
+{place=10, name='Reed Trende', school='Providence Academy', grade=12, gender='M', time=1095.06}
+{place=11, name='Max Owens', school='Blake', grade=10, gender='M', time=1101.25}
+{place=12, name='Conlan Olson', school='Minneapolis Southwest', grade=12, gender='M', time=1103.67}
+{place=13, name='Kareem Elbakkal', school='Blake', grade=10, gender='M', time=1111.12}
+{place=14, name='Blaine Madson', school='Breck', grade=10, gender='M', time=1116.88}
+{place=15, name='Cody Vacek', school='St Peter', grade=12, gender='M', time=1124.77}
+{place=16, name='Kevin Kvern', school='Orono', grade=12, gender='M', time=1126.0}
+{place=17, name='Quinn Whitlow', school='St Louis Park', grade=9, gender='M', time=1133.75}
+{place=18, name='Zach Dekko', school='Blake', grade=10, gender='M', time=1137.17}
+{place=19, name='Matt Humbert', school='Mound-Westonka', grade=10, gender='M', time=1140.81}
+{place=20, name='Isaac Griffin-Wiesner', school='Robbinsdale Cooper', grade=12, gender='M', time=1145.06}
+{place=21, name='Jack Elias', school='St Louis Park', grade=11, gender='M', time=1145.32}
+{place=22, name='Charlie Reinhardt', school='Mound-Westonka', grade=9, gender='M', time=1153.06}
+{place=23, name='Kyle Suek', school='DeLaSalle', grade=11, gender='M', time=1154.69}
+{place=24, name='Anders Nackerud', school='St Louis Park', grade=11, gender='M', time=1160.8}
+{place=25, name='Vincent Callahan', school='St Louis Park', grade=11, gender='M', time=1162.64}
+{place=26, name='Schaffer Denno', school='Spring Lake Park', grade=11, gender='M', time=1167.19}
+{place=27, name='Anthony Knode', school='Providence Academy', grade=12, gender='M', time=1169.97}
+{place=28, name='Chris  Gill', school='Blake', grade=10, gender='M', time=1178.78}
+{place=29, name='Gavin Charpentier', school='St Louis Park', grade=9, gender='M', time=1179.47}
+{place=30, name='Bailey More', school='St Peter', grade=9, gender='M', time=1182.0}
+{place=31, name='Tommy Guddal', school='St Louis Park', grade=10, gender='M', time=1190.31}
+{place=32, name='Sulayman Gibba', school='Robbinsdale Cooper', grade=12, gender='M', time=1195.23}
+{place=33, name='Jon Ekberg', school='Breck', grade=11, gender='M', time=1198.47}
+{place=34, name='Reed Kohls', school='Mound-Westonka', grade=10, gender='M', time=1199.28}
+{place=35, name='Rob Stokes', school='Mound-Westonka', grade=12, gender='M', time=1213.06}
+{place=36, name='Lukas van Dyck', school='Orono', grade=10, gender='M', time=1215.0}
+{place=37, name='Jonah Kester', school='DeLaSalle', grade=10, gender='M', time=1216.89}
+{place=38, name='Louis Carlson', school='DeLaSalle', grade=12, gender='M', time=1218.02}
+{place=39, name='Samuel Rex', school='Breck', grade=11, gender='M', time=1229.44}
+{place=40, name='Jack Holthusen', school='DeLaSalle', grade=9, gender='M', time=1237.2}
+{place=41, name='Michael Smith', school='Blake', grade=11, gender='M', time=1242.28}
+{place=42, name='Tait Helgaas', school='Breck', grade=12, gender='M', time=1248.14}
+{place=43, name='Tom Eide', school='St Peter', grade=9, gender='M', time=1250.07}
+{place=44, name='Timmy Dudley', school='Orono', grade=10, gender='M', time=1252.8}
+{place=45, name='Kyle De Jesus', school='Robbinsdale Cooper', grade=12, gender='M', time=1258.11}
+{place=46, name='Shawn Lehtinen', school='St Peter', grade=8, gender='M', time=1263.22}
+{place=47, name='Sam Kulesa', school='DeLaSalle', grade=9, gender='M', time=1264.17}
+{place=48, name='Paul Sarles', school='Orono', grade=12, gender='M', time=1266.48}
+{place=49, name='Carter Steinhagen', school='DeLaSalle', grade=11, gender='M', time=1272.33}
+{place=50, name='Tyler Gearin', school='Northwest', grade=9, gender='M', time=1280.89}
+{place=51, name='Justin Whyte', school='Orono', grade=11, gender='M', time=1286.13}
+{place=52, name='Gus Spencer', school='Northwest', grade=10, gender='M', time=1292.06}
+{place=53, name='Emmett Halloran', school='Orono', grade=9, gender='M', time=1294.82}
+{place=54, name='Shiv Jhanjee', school='Blake', grade=10, gender='M', time=1304.95}
+{place=55, name='Quinn Olsen', school='Spring Lake Park', grade=9, gender='M', time=1310.01}
+{place=56, name='Sebrum Herron', school='Spring Lake Park', grade=11, gender='M', time=1310.63}
+{place=57, name='Alex Guzman', school='Breck', grade=12, gender='M', time=1321.24}
+{place=58, name='Stephen Parlow', school='Robbinsdale Cooper', grade=11, gender='M', time=1324.28}
+{place=59, name='Brendan Smith', school='Spring Lake Park', grade=7, gender='M', time=1333.25}
+{place=60, name='Kyle Cadwallader', school='Orono', grade=11, gender='M', time=1333.25}
+{place=61, name='Nolan Boswell', school='Robbinsdale Cooper', grade=8, gender='M', time=1340.32}
+{place=62, name='Zachary Westerlund', school='Robbinsdale Cooper', grade=12, gender='M', time=1342.0}
+{place=63, name='Jacob Ney', school='DeLaSalle', grade=12, gender='M', time=1355.5}
+{place=64, name='Max Jundt', school='Breck', grade=12, gender='M', time=1363.98}
+{place=65, name='Peter Partoll', school='Providence Academy', grade=12, gender='M', time=1366.82}
+{place=66, name='Finn Salveson', school='Breck', grade=9, gender='M', time=1368.19}
+{place=67, name='Trevor Gurrola', school='St Peter', grade=10, gender='M', time=1370.68}
+{place=68, name='Nolan Farnam', school='Providence Academy', grade=11, gender='M', time=1385.82}
+{place=69, name='Lane O'Meara', school='Providence Academy', grade=9, gender='M', time=1395.08}
+{place=70, name='Quinn Shroyer', school='Spring Lake Park', grade=12, gender='M', time=1395.33}
+{place=71, name='Spencer Gearin', school='Northwest', grade=11, gender='M', time=1395.62}
+{place=72, name='Sam Sheedlo', school='Spring Lake Park', grade=7, gender='M', time=1415.76}
+{place=73, name='Kevin O'Neill', school='Providence Academy', grade=12, gender='M', time=1422.82}
+{place=74, name='Hunter Braun', school='St Peter', grade=10, gender='M', time=1768.2}

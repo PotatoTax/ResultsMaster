@@ -1,0 +1,67 @@
+Race : 1304
+{place=1, name='Emily Weiss', school='Albany', grade=12, gender='F', time=1321.45}
+{place=2, name='Marissa Kremers', school='Albany', grade=11, gender='F', time=1400.43}
+{place=3, name='Tricia Castro', school='St Cloud Cathedral', grade=9, gender='F', time=1401.5}
+{place=4, name='Meredith Carrington', school='MACA', grade=7, gender='F', time=1416.25}
+{place=5, name='Natalie Cigelske', school='Albany', grade=10, gender='F', time=1418.9}
+{place=6, name='Amanda Kollodge', school='Albany', grade=10, gender='F', time=1420.04}
+{place=7, name='Bionca Peterson', school='Maple Lake', grade=10, gender='F', time=1423.27}
+{place=8, name='Bethany Christen', school='Albany', grade=12, gender='F', time=1423.35}
+{place=9, name='Caitlin Weege', school='Maple Lake', grade=11, gender='F', time=1429.75}
+{place=10, name='Hannah Killmer', school='Albany', grade=9, gender='F', time=1430.25}
+{place=11, name='Josie Fourre', school='Albany', grade=12, gender='F', time=1438.5}
+{place=12, name='Alison Skwira', school='Holdingford', grade=9, gender='F', time=1466.18}
+{place=13, name='Jenna Bardson', school='Albany', grade=11, gender='F', time=1472.25}
+{place=14, name='Olivia Maus', school='Albany', grade=12, gender='F', time=1478.5}
+{place=15, name='Quinn Jensen', school='Albany', grade=11, gender='F', time=1500.0}
+{place=16, name='Auddy Sperr', school='MACA', grade=11, gender='F', time=1503.08}
+{place=17, name='Katie John', school='St Johns Prep', grade=10, gender='F', time=1504.49}
+{place=18, name='Allie Sia Su', school='St Cloud Cathedral', grade=11, gender='F', time=1525.75}
+{place=19, name='Ellie Haney', school='Maple Lake', grade=12, gender='F', time=1529.08}
+{place=20, name='Isabelle Burg', school='Albany', grade=9, gender='F', time=1531.25}
+{place=21, name='Hannah Pfannenstein', school='St Cloud Cathedral', grade=12, gender='F', time=1532.1}
+{place=22, name='Rose Olson', school='Albany', grade=12, gender='F', time=1536.25}
+{place=23, name='Sarah Dvoracek', school='St Cloud Cathedral', grade=11, gender='F', time=1538.8}
+{place=24, name='Rachel  Loch', school='Maple Lake', grade=11, gender='F', time=1544.7}
+{place=25, name='Ashlee Martie', school='Maple Lake', grade=12, gender='F', time=1556.25}
+{place=26, name='Emily Weinreis', school='St Cloud Cathedral', grade=10, gender='F', time=1590.25}
+{place=27, name='Katelynn Kramer', school='Maple Lake', grade=11, gender='F', time=1612.5}
+{place=28, name='Kathleen Thompson', school='St Cloud Cathedral', grade=10, gender='F', time=1622.9}
+{place=29, name='Peyton Tongen', school='Maple Lake', grade=9, gender='F', time=1627.7}
+{place=30, name='Emily Herdering', school='Melrose', grade=11, gender='F', time=1633.6}
+{place=31, name='Hannah Weldon', school='St Cloud Cathedral', grade=10, gender='F', time=1634.52}
+{place=32, name='Brynn Rogers', school='St Johns Prep', grade=12, gender='F', time=1634.6}
+{place=33, name='Madalyn Zack', school='St Cloud Cathedral', grade=10, gender='F', time=1641.3}
+{place=34, name='Molly Herker', school='St Cloud Cathedral', grade=10, gender='F', time=1642.02}
+{place=35, name='Chloe Notch', school='Melrose', grade=12, gender='F', time=1644.74}
+{place=36, name='Alexis Studniski', school='Albany', grade=9, gender='F', time=1654.3}
+{place=37, name='Kathryn Sands', school='Albany', grade=11, gender='F', time=1669.02}
+{place=38, name='Chloe Riviere', school='Maple Lake', grade=11, gender='F', time=1680.77}
+{place=39, name='Abigail Malek', school='MACA', grade=9, gender='F', time=1695.68}
+{place=40, name='Carly Wohlers', school='MACA', grade=11, gender='F', time=1698.27}
+{place=41, name='Brooke Schwieters', school='St Cloud Cathedral', grade=10, gender='F', time=1699.54}
+{place=42, name='Alexis Akre', school='St Johns Prep', grade=10, gender='F', time=1700.55}
+{place=43, name='Katelyn Zimmer', school='St Cloud Cathedral', grade=10, gender='F', time=1701.77}
+{place=44, name='Anna Schultzenberg', school='Albany', grade=12, gender='F', time=1710.02}
+{place=45, name='Hope Schueller', school='St Cloud Cathedral', grade=9, gender='F', time=1721.77}
+{place=46, name='Josie Wagner', school='Maple Lake', grade=9, gender='F', time=1724.1}
+{place=47, name='Catie Fobbe', school='Maple Lake', grade=11, gender='F', time=1733.27}
+{place=48, name='Allison Windfeldt', school='St Cloud Cathedral', grade=9, gender='F', time=1733.47}
+{place=49, name='Claire Kissela', school='St Johns Prep', grade=9, gender='F', time=1761.45}
+{place=50, name='Kateri Fischer', school='St Cloud Cathedral', grade=10, gender='F', time=1787.4}
+{place=51, name='Katie Schaefer', school='Pierz', grade=9, gender='F', time=1787.4}
+{place=52, name='Claire Hagen', school='St Cloud Cathedral', grade=9, gender='F', time=1798.58}
+{place=53, name='Rebecca Loberg', school='St Cloud Cathedral', grade=9, gender='F', time=1826.52}
+{place=54, name='Emma Carlson', school='Maple Lake', grade=12, gender='F', time=1852.35}
+{place=55, name='Jordyn Hausladen', school='Maple Lake', grade=11, gender='F', time=1858.65}
+{place=56, name='Tess Jacobson', school='St Cloud Cathedral', grade=11, gender='F', time=1865.32}
+{place=57, name='Victoria Dorn', school='St Cloud Cathedral', grade=11, gender='F', time=1869.2}
+{place=58, name='Hanna Stewig', school='Maple Lake', grade=11, gender='F', time=1875.27}
+{place=59, name='Maria Williams', school='St Cloud Cathedral', grade=10, gender='F', time=1893.92}
+{place=60, name='Morgan Steinessen', school='St Cloud Cathedral', grade=12, gender='F', time=1962.25}
+{place=61, name='Bailey Budde', school='Albany', grade=9, gender='F', time=1981.88}
+{place=62, name='Emily Rasset', school='Maple Lake', grade=11, gender='F', time=2043.77}
+{place=63, name='Elizabeth Raya', school='Melrose', grade=9, gender='F', time=2090.79}
+{place=64, name='Chloe Huang', school='St Johns Prep', grade=11, gender='F', time=1250.47}
+{place=65, name='Christine Xu', school='St Johns Prep', grade=11, gender='F', time=1271.35}
+{place=66, name='ToTo Chen', school='St Johns Prep', grade=12, gender='F', time=1540.52}

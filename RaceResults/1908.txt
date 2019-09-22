@@ -1,0 +1,111 @@
+Race : 1908
+{place=1, name='Maiah Aanenson', school='Moorhead', grade=6, gender='F', time=783.4}
+{place=2, name='Jade  Rypkema ', school='Nevis', grade=7, gender='F', time=804.4}
+{place=3, name='Ella Grafstrom', school='Moorhead', grade=8, gender='F', time=806.3}
+{place=4, name='Anna Nelson', school='Moorhead', grade=7, gender='F', time=808.4}
+{place=5, name='McCall Clark', school='Moorhead', grade=8, gender='F', time=810.1}
+{place=6, name='Molly Hendrickson', school='United North Central', grade=8, gender='F', time=821.7}
+{place=7, name='Joslyn Jackson', school='Cheney Middle School', grade=7, gender='F', time=831.4}
+{place=8, name='Evie Olson', school='Fargo North', grade=8, gender='F', time=833.9}
+{place=9, name='Therese Oduor', school='Cheney Middle School', grade=7, gender='F', time=835.7}
+{place=10, name='Alicia Maddux', school='Moorhead', grade=8, gender='F', time=836.2}
+{place=11, name='Josie LaValley', school='Bemidji', grade=6, gender='F', time=850.5}
+{place=12, name='Ellia Soydara', school='Fergus Falls', grade=8, gender='F', time=850.7}
+{place=13, name='Krista Kramer', school='Fargo Shanley', grade=8, gender='F', time=851.3}
+{place=14, name='Ellie Hoang', school='Cheney Middle School', grade=8, gender='F', time=852.1}
+{place=15, name='Mackenzie Williams', school='Bemidji', grade=8, gender='F', time=852.1}
+{place=16, name='Mia  Hoffman', school='Bemidji', grade=6, gender='F', time=853.8}
+{place=17, name='Lexi Wuebker', school='Fargo Shanley', grade=8, gender='F', time=862.9}
+{place=18, name='Jordan Knudsvig', school='Cheney Middle School', grade=7, gender='F', time=864.9}
+{place=19, name='Olivia Rosenthal', school='Perham', grade=7, gender='F', time=868.4}
+{place=20, name='Julia Puhl', school='Fargo North', grade=7, gender='F', time=869.1}
+{place=21, name='Maddie McCrary', school='Perham', grade=12, gender='F', time=874.5}
+{place=22, name='Tevia Sannes-Venhuizen', school='Frazee', grade=7, gender='', time=882.2}
+{place=23, name='Molly  Lindow ', school='Nevis', grade=7, gender='F', time=883.8}
+{place=24, name='Katelyn Gulbranson', school='Moorhead', grade=8, gender='F', time=885.8}
+{place=25, name='Karley Braeger', school='Fergus Falls', grade=7, gender='F', time=886.9}
+{place=26, name='Aliza Kresha', school='Little Falls', grade=7, gender='F', time=887.2}
+{place=27, name='Madelyn Rohrich', school='Fargo North', grade=8, gender='F', time=887.8}
+{place=28, name='Abigail Lovelace', school='Fargo North', grade=7, gender='F', time=888.2}
+{place=29, name='Lindsay Anderson', school='Cheney Middle School', grade=7, gender='F', time=893.4}
+{place=30, name='Morgan Nystrom', school='Liberty Middle School', grade=8, gender='F', time=893.5}
+{place=31, name='Johanna Brunsberg', school='Wadena-Deer Creek', grade=8, gender='F', time=897.8}
+{place=32, name='Madison Ahlers', school='Fargo Shanley', grade=9, gender='F', time=902.3}
+{place=33, name='Myriah Tharaldson', school='Perham', grade=7, gender='F', time=905.7}
+{place=34, name='Issy Segler', school='Little Falls', grade=6, gender='F', time=909.2}
+{place=35, name='Grace Hoselton', school='Fargo South', grade=7, gender='F', time=912.3}
+{place=36, name='Rachael Smith', school='United North Central', grade=8, gender='F', time=917.7}
+{place=37, name='Mattea Steeke', school='Perham', grade=8, gender='F', time=919.1}
+{place=38, name='Jerzay Bachmeier', school='Cheney Middle School', grade=8, gender='F', time=919.9}
+{place=39, name='Grace Lanners', school='Fargo North', grade=8, gender='F', time=924.4}
+{place=40, name='Sydnie Wgeishofski', school='Pequot Lakes', grade=8, gender='F', time=924.6}
+{place=41, name='Molly Hanson', school='Fargo South', grade=8, gender='F', time=927.2}
+{place=42, name='Ramsey Mikahla', school='Liberty Middle School', grade=7, gender='F', time=927.6}
+{place=43, name='Ella Peterson', school='Pequot Lakes', grade=8, gender='F', time=932.9}
+{place=44, name='Carly  Scherzer', school='Bagley-Fosston', grade=7, gender='F', time=935.3}
+{place=45, name='Bethany Becker', school='Little Falls', grade=6, gender='F', time=937.6}
+{place=46, name='Layla Eisenzimmer', school='Moorhead', grade=6, gender='F', time=941.2}
+{place=47, name='Kieren Johnson', school='Bemidji', grade=6, gender='F', time=941.6}
+{place=48, name='Rebecca Schindler', school='Fergus Falls', grade=7, gender='F', time=941.9}
+{place=49, name='Paige Harry', school='Liberty Middle School', grade=8, gender='F', time=948.3}
+{place=50, name='Chloe Pesek', school='Moorhead', grade=6, gender='F', time=952.8}
+{place=51, name='Ella Cole', school='Moorhead', grade=7, gender='F', time=953.6}
+{place=52, name='Emily Becker', school='Little Falls', grade=8, gender='F', time=954.3}
+{place=53, name='Allyson Harvala', school='Moorhead', grade=7, gender='F', time=954.4}
+{place=54, name='Allyson Goodman', school='Otter Tail Central', grade=7, gender='F', time=956.3}
+{place=55, name='Kiara Wheelright', school='Perham', grade=8, gender='F', time=957.3}
+{place=56, name='Alexis Rude', school='Dilworth-Glyndon-Felton', grade=6, gender='F', time=957.4}
+{place=57, name='Bailey Larsen', school='Frazee', grade=7, gender='F', time=957.7}
+{place=58, name='Sherry Yan', school='Liberty Middle School', grade=7, gender='F', time=958.9}
+{place=59, name='McKenzie Wake', school='Frazee', grade=7, gender='F', time=960.7}
+{place=60, name='Frohling Courtney', school='Perham', grade=8, gender='F', time=968.9}
+{place=61, name='Lilianna Blomer', school='Pequot Lakes', grade=7, gender='F', time=971.7}
+{place=62, name='Mallory Docktor', school='Cheney Middle School', grade=7, gender='F', time=973.1}
+{place=63, name='Hope Ollom', school='Little Falls', grade=6, gender='F', time=975.4}
+{place=64, name='Kelsa Steiner', school='Cheney Middle School', grade=7, gender='F', time=977.9}
+{place=65, name='Anya Roe', school='Perham', grade=8, gender='F', time=978.2}
+{place=66, name='Mia Lowell', school='Cheney Middle School', grade=7, gender='F', time=979.8}
+{place=67, name='Emma Adams', school='Moorhead', grade=8, gender='F', time=981.8}
+{place=68, name='Alexus Beito', school='Cheney Middle School', grade=8, gender='F', time=986.7}
+{place=69, name='Benson Emma', school='Liberty Middle School', grade=7, gender='F', time=987.5}
+{place=70, name='Jamie Raske', school='Moorhead', grade=8, gender='F', time=993.7}
+{place=71, name='Hannah Olson', school='Little Falls', grade=8, gender='F', time=997.7}
+{place=72, name='Katarina Malterud', school='Bemidji', grade=8, gender='F', time=1004.4}
+{place=73, name='Camille McDermott', school='Bemidji', grade=8, gender='F', time=1004.6}
+{place=74, name='Siri Overturf', school='Moorhead', grade=8, gender='F', time=1008.4}
+{place=75, name='Katie Dolezal', school='Otter Tail Central', grade=7, gender='F', time=1016.2}
+{place=76, name='Jaydin Bjorland', school='Cheney Middle School', grade=7, gender='F', time=1020.4}
+{place=77, name='Soniey Gurung', school='Fargo South', grade=7, gender='F', time=1021.4}
+{place=78, name='Julia Smithmeyer', school='Moorhead', grade=7, gender='F', time=1021.4}
+{place=79, name='Anderson  Savannah ', school='Nevis', grade=7, gender='F', time=1022.4}
+{place=80, name='Emily Sell', school='Cheney Middle School', grade=8, gender='F', time=1035.7}
+{place=81, name='Jayda Smith', school='Cheney Middle School', grade=7, gender='F', time=1041.4}
+{place=82, name='Jessa  Dahl', school='Roseau', grade=7, gender='F', time=1041.5}
+{place=83, name='Abagale McKibbin', school='Cheney Middle School', grade=7, gender='F', time=1041.9}
+{place=84, name='Emily Restad', school='Roseau', grade=7, gender='F', time=1044.8}
+{place=85, name='Violet Swisher', school='Little Falls', grade=6, gender='F', time=1049.8}
+{place=86, name='Emma Gonshorowski', school='Fargo North', grade=7, gender='F', time=1050.8}
+{place=87, name='Sara Carr', school='Fargo South', grade=8, gender='F', time=1050.9}
+{place=88, name='Whitney Beck', school='Fargo North', grade=8, gender='F', time=1052.7}
+{place=89, name='Lily  Aakre', school='Perham', grade=7, gender='F', time=1055.5}
+{place=90, name='Kiarra Watts', school='Moorhead', grade=8, gender='F', time=1055.7}
+{place=91, name='Amber  Gabriel ', school='Nevis', grade=8, gender='F', time=1061.2}
+{place=92, name='Eliana Paurus', school='Perham', grade=8, gender='F', time=1063.6}
+{place=93, name='Mariah Faults', school='Fergus Falls', grade=7, gender='F', time=1064.9}
+{place=94, name='Kristy Vo', school='Fargo South', grade=8, gender='F', time=1067.1}
+{place=95, name='Miah Schmidt', school='Fergus Falls', grade=7, gender='F', time=1067.2}
+{place=96, name='Emma Scott', school='Fargo North', grade=8, gender='F', time=1068.4}
+{place=97, name='Nevaiah Butler', school='Roseau', grade=7, gender='F', time=1075.8}
+{place=98, name='Emilia Arntson', school='Cheney Middle School', grade=7, gender='F', time=1083.8}
+{place=99, name='Lainey Searles', school='Bemidji', grade=7, gender='F', time=1090.4}
+{place=100, name='Ava Kluck', school='Moorhead', grade=7, gender='F', time=1092.7}
+{place=101, name='Quinn Huntley', school='West Central', grade=7, gender='F', time=1101.4}
+{place=102, name='Ellie Hale', school='Wadena-Deer Creek', grade=7, gender='F', time=1116.4}
+{place=103, name='Grace Nordlie', school='Little Falls', grade=7, gender='F', time=1136.7}
+{place=104, name='Lauren Dow', school='Bemidji', grade=6, gender='F', time=1177.2}
+{place=105, name='Alexis Heaton', school='Frazee', grade=7, gender='F', time=1177.7}
+{place=106, name='Makayla Rzab', school='Bemidji', grade=6, gender='F', time=1178.9}
+{place=107, name='Jacey Denman', school='Cheney Middle School', grade=7, gender='F', time=1197.9}
+{place=108, name='Meghan Reed', school='Perham', grade=7, gender='F', time=1286.4}
+{place=109, name='Shaelyn Falcon', school='Moorhead', grade=7, gender='F', time=1666.5}
+{place=110, name='Katherine Bessie', school='Moorhead', grade=7, gender='F', time=1802.0}

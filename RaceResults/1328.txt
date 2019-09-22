@@ -1,0 +1,82 @@
+Race : 1328
+{place=1, name='Claire Boersma', school='Marshall', grade=11, gender='F', time=1114.36}
+{place=2, name='Natalee Sample', school='Marshall', grade=8, gender='F', time=1147.4}
+{place=3, name='Kayla Rudie', school='Willmar', grade=11, gender='F', time=1147.61}
+{place=4, name='Jackie Turner', school='Marshall', grade=12, gender='F', time=1147.62}
+{place=5, name='Jessa Hanson', school='Willmar', grade=11, gender='F', time=1153.92}
+{place=6, name='Renae Anderson', school='Hopkins', grade=11, gender='F', time=1158.15}
+{place=7, name='Sophie Schmitz', school='Willmar', grade=11, gender='F', time=1165.87}
+{place=8, name='Kaia Sueker', school='Marshall', grade=9, gender='F', time=1177.15}
+{place=9, name='Nichole Sample', school='Marshall', grade=10, gender='F', time=1180.1}
+{place=10, name='Leah Hansen', school='Willmar', grade=9, gender='F', time=1199.36}
+{place=11, name='Morgan Radel', school='Marshall', grade=10, gender='F', time=1201.6}
+{place=12, name='Elizabeth Klecker', school='Hopkins', grade=11, gender='F', time=1208.54}
+{place=13, name='Vera  Lindhorst', school='St Cloud Tech', grade=12, gender='F', time=1229.4}
+{place=14, name='Lexi Maddux', school='Moorhead', grade=10, gender='F', time=1229.4}
+{place=15, name='Theresa Versen', school='Hopkins', grade=11, gender='F', time=1230.67}
+{place=16, name='Lauren Steinke', school='St Cloud Tech', grade=10, gender='F', time=1234.65}
+{place=17, name='Courtney Hanson', school='Willmar', grade=12, gender='F', time=1235.66}
+{place=18, name='Heidi Schmitz', school='Willmar', grade=9, gender='F', time=1239.9}
+{place=19, name='Sofie Overturf', school='Moorhead', grade=10, gender='F', time=1242.18}
+{place=20, name='Anna Bachmeier', school='Hopkins', grade=9, gender='F', time=1242.6}
+{place=21, name='Katelyn Barclay', school='Jordan', grade=10, gender='F', time=1242.79}
+{place=22, name='Ana Cristina Carretero', school='Hopkins', grade=12, gender='F', time=1244.19}
+{place=23, name='Makayla Maher', school='Hutchinson', grade=10, gender='F', time=1246.27}
+{place=24, name='Grace Laudenbach', school='St Cloud Tech', grade=11, gender='F', time=1249.12}
+{place=25, name='Angel Martens', school='Pipestone', grade=10, gender='F', time=1251.35}
+{place=26, name='Kate Ludwig', school='Moorhead', grade=10, gender='F', time=1256.83}
+{place=27, name='Addie Plath', school='Hutchinson', grade=8, gender='F', time=1260.89}
+{place=28, name='Lucy Avenson', school='Hopkins', grade=9, gender='F', time=1262.72}
+{place=29, name='Livia Wallace', school='Pipestone', grade=11, gender='F', time=1262.91}
+{place=30, name='Annica Carr', school='Elk River', grade=9, gender='F', time=1264.14}
+{place=31, name='Meghan Ford', school='Jamestown', grade=7, gender='F', time=1268.65}
+{place=32, name='Maria Brown', school='Elk River', grade=11, gender='F', time=1272.57}
+{place=33, name='Abigail Reiter', school='Hutchinson', grade=9, gender='F', time=1286.4}
+{place=34, name='Mickayla Allen', school='Moorhead', grade=10, gender='F', time=1286.8}
+{place=35, name='Ellie Kunz', school='Elk River', grade=8, gender='F', time=1286.8}
+{place=36, name='Jessica Holmquist', school='Elk River', grade=10, gender='F', time=1289.11}
+{place=37, name='Erika Fenstad', school='St Cloud Tech', grade=9, gender='F', time=1290.12}
+{place=38, name='Sydney Blomme', school='Marshall', grade=10, gender='F', time=1290.66}
+{place=39, name='Teralyn Coombs', school='Jamestown', grade=10, gender='F', time=1291.33}
+{place=40, name='Anna Christian', school='Moorhead', grade=12, gender='F', time=1300.66}
+{place=41, name='Abigail Gans', school='St Cloud Tech', grade=9, gender='F', time=1304.16}
+{place=42, name='Peyton Rudnick', school='Jamestown', grade=9, gender='F', time=1306.62}
+{place=43, name='Andrea Lofquist', school='Hopkins', grade=11, gender='F', time=1309.51}
+{place=44, name='Gabby Hennes', school='St Cloud Tech', grade=10, gender='F', time=1310.41}
+{place=45, name='Brooke Duncan', school='Moorhead', grade=11, gender='F', time=1310.46}
+{place=46, name='Lindsey Johnson', school='Moorhead', grade=12, gender='F', time=1316.14}
+{place=47, name='Marah Hart', school='Marshall', grade=10, gender='F', time=1318.66}
+{place=48, name='Alexis Strobel', school='St Cloud Tech', grade=11, gender='F', time=1320.61}
+{place=49, name='Maddie Bisek', school='New London-Spicer', grade=9, gender='F', time=1323.84}
+{place=50, name='Rachel Morin', school='Jamestown', grade=11, gender='F', time=1330.66}
+{place=51, name='Anne Ahlquist', school='Hopkins', grade=11, gender='F', time=1331.91}
+{place=52, name='Gracianne Scheid', school='Elk River', grade=12, gender='F', time=1332.76}
+{place=53, name='Lily Den Hartog', school='Hopkins', grade=10, gender='F', time=1336.41}
+{place=54, name='Lydia Carr', school='Elk River', grade=12, gender='F', time=1347.4}
+{place=55, name='Emily Goering', school='Hopkins', grade=10, gender='F', time=1349.41}
+{place=56, name='Lydia Haack', school='Elk River', grade=8, gender='F', time=1352.89}
+{place=57, name='Maya Moltzen', school='Jamestown', grade=11, gender='F', time=1354.91}
+{place=58, name='Jennifer Schommer', school='Hutchinson', grade=11, gender='F', time=1361.41}
+{place=59, name='Tayler Harrier', school='New London-Spicer', grade=8, gender='F', time=1364.25}
+{place=60, name='Kyra Lussier', school='Jordan', grade=8, gender='F', time=1364.66}
+{place=61, name='Lexie Chambers', school='Jordan', grade=11, gender='F', time=1365.48}
+{place=62, name='Danni Jamison', school='New London-Spicer', grade=11, gender='F', time=1369.66}
+{place=63, name='Laura Bolin', school='Marshall', grade=9, gender='F', time=1373.6}
+{place=64, name='Lily Nunvar', school='Hutchinson', grade=12, gender='F', time=1374.82}
+{place=65, name='Amanda Sargeant', school='Jamestown', grade=9, gender='F', time=1375.42}
+{place=66, name='Lindi Chadwick', school='Jamestown', grade=12, gender='F', time=1388.82}
+{place=67, name='Madison Radel', school='Marshall', grade=12, gender='F', time=1405.71}
+{place=68, name='Abby Vizenor', school='Jordan', grade=7, gender='F', time=1412.4}
+{place=69, name='Kylie Hughes', school='Hutchinson', grade=12, gender='F', time=1428.41}
+{place=70, name='Rachel Skyberg', school='Pipestone', grade=11, gender='F', time=1452.77}
+{place=71, name='Olivia Vincent', school='New London-Spicer', grade=7, gender='F', time=1456.79}
+{place=72, name='Claire Femrite', school='Pipestone', grade=12, gender='F', time=1480.56}
+{place=73, name='Casey O'Hern', school='Jordan', grade=12, gender='F', time=1489.69}
+{place=74, name='Morgan Hazelton', school='Pipestone', grade=12, gender='F', time=1503.67}
+{place=75, name='Chelsea Duevel', school='Jordan', grade=11, gender='F', time=1505.12}
+{place=76, name='Maria Spanier', school='Pipestone', grade=12, gender='F', time=1510.6}
+{place=77, name='Miranda Hulstein', school='Pipestone', grade=9, gender='F', time=1512.62}
+{place=78, name='Savita  Sidhu', school='Jordan', grade=12, gender='F', time=1527.83}
+{place=79, name='Kristin Nohner', school='Jordan', grade=12, gender='F', time=1529.46}
+{place=80, name='Rheanna Lobbins', school='New London-Spicer', grade=9, gender='F', time=1610.71}
+{place=81, name='Georgia Wachtler', school='New London-Spicer', grade=10, gender='F', time=1714.15}

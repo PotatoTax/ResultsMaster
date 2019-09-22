@@ -1,0 +1,89 @@
+Race : 907
+{place=1, name='Isaac Griffin-Wiesner', school='Robbinsdale Cooper', grade=11, gender='M', time=1159.86}
+{place=2, name='Nick Behnken', school='St Louis Park', grade=11, gender='M', time=1167.08}
+{place=3, name='Cyrus Ashrafzadeh-Kian', school='Minneapolis Southwest', grade=11, gender='M', time=1167.89}
+{place=4, name='Will Tieleman', school='Minneapolis Southwest', grade=10, gender='M', time=1167.91}
+{place=5, name='Kwin Retterath', school='Mound-Westonka', grade=11, gender='M', time=1176.41}
+{place=6, name='Cameron Brickley', school='Mound-Westonka', grade=12, gender='M', time=1181.46}
+{place=7, name='Rob Stokes', school='Mound-Westonka', grade=11, gender='M', time=1203.19}
+{place=8, name='Alex Mastin', school='Mound-Westonka', grade=12, gender='M', time=1215.17}
+{place=9, name='Chris Prokosh', school='Henry Sibley', grade=12, gender='M', time=1221.67}
+{place=10, name='Noah Rothman', school='Minneapolis Southwest', grade=12, gender='M', time=1224.12}
+{place=11, name='Andres Meyer', school='Minneapolis Southwest', grade=10, gender='M', time=1244.2}
+{place=12, name='Reed Kohls', school='Mound-Westonka', grade=9, gender='M', time=1250.08}
+{place=13, name='Shiv Jhanjee', school='Blake', grade=9, gender='M', time=1253.32}
+{place=14, name='Brandon Ung', school='Mound-Westonka', grade=9, gender='M', time=1261.91}
+{place=15, name='Gabe Blum', school='Blake', grade=10, gender='M', time=1261.91}
+{place=16, name='Sulayman Gibba', school='Robbinsdale Cooper', grade=11, gender='M', time=1270.2}
+{place=17, name='Jacob Willette', school='St Louis Park', grade=10, gender='M', time=1273.22}
+{place=18, name='Josh Kline', school='Mound-Westonka', grade=11, gender='M', time=1273.86}
+{place=19, name='Quinn Shroyer', school='Spring Lake Park', grade=11, gender='M', time=1273.87}
+{place=20, name='Will Huyck', school='St Louis Park', grade=10, gender='M', time=1279.14}
+{place=21, name='Andrew Sletten', school='Mound-Westonka', grade=11, gender='M', time=1279.96}
+{place=22, name='Adam Whitcomb', school='Henry Sibley', grade=12, gender='M', time=1294.82}
+{place=23, name='Nic Brustad', school='St Croix Lutheran', grade=10, gender='M', time=1303.09}
+{place=24, name='Nathan Sixel', school='St Louis Park', grade=12, gender='M', time=1304.31}
+{place=25, name='Cole Woerner', school='Blake', grade=9, gender='M', time=1304.47}
+{place=26, name='Seay Zagar', school='Minneapolis Southwest', grade=8, gender='M', time=1305.12}
+{place=27, name='George Petermeier', school='Minneapolis Southwest', grade=10, gender='M', time=1308.37}
+{place=28, name='Elijah  Kozak', school='St Louis Park', grade=9, gender='M', time=1312.05}
+{place=29, name='Erik Furberg', school='Mound-Westonka', grade=12, gender='M', time=1312.64}
+{place=30, name='Andy Tse', school='St Croix Lutheran', grade=12, gender='M', time=1316.1}
+{place=31, name='Dylan Surprise', school='Minneapolis Southwest', grade=8, gender='M', time=1322.97}
+{place=32, name='Paul Junker', school='St Croix Lutheran', grade=9, gender='M', time=1323.21}
+{place=33, name='Spencer Gearin', school='Northwest', grade=11, gender='M', time=1323.97}
+{place=34, name='Dalton Huonder', school='St Croix Lutheran', grade=11, gender='M', time=1326.97}
+{place=35, name='Isaac Leif', school='Mound-Westonka', grade=12, gender='M', time=1327.97}
+{place=36, name='Frankie Carlson', school='DeLaSalle', grade=9, gender='M', time=1333.93}
+{place=37, name='Drew Mueller', school='Northwest', grade=9, gender='M', time=1335.39}
+{place=38, name='Ben Archambeau', school='Henry Sibley', grade=9, gender='M', time=1335.97}
+{place=39, name='Caleb Hill', school='St Louis Park', grade=12, gender='M', time=1336.41}
+{place=40, name='Alexander Naslund', school='Spring Lake Park', grade=12, gender='M', time=1336.6}
+{place=41, name='Sam Bader', school='Henry Sibley', grade=9, gender='M', time=1341.22}
+{place=42, name='David Hope', school='St Louis Park', grade=12, gender='M', time=1341.22}
+{place=43, name='Jansoper Ly', school='Robbinsdale Cooper', grade=11, gender='M', time=1343.1}
+{place=44, name='Owen Dean', school='Minneapolis Southwest', grade=8, gender='M', time=1349.97}
+{place=45, name='Jacob Locker', school='Mound-Westonka', grade=12, gender='M', time=1357.96}
+{place=46, name='Quinn Olsen', school='Spring Lake Park', grade=8, gender='M', time=1361.18}
+{place=47, name='Jacob Blum', school='Blake', grade=9, gender='M', time=1367.25}
+{place=48, name='Charles Vaaler', school='Minneapolis Southwest', grade=8, gender='M', time=1368.23}
+{place=49, name='Kallman Parry', school='Henry Sibley', grade=11, gender='M', time=1379.22}
+{place=50, name='Owen Carruth', school='Henry Sibley', grade=9, gender='M', time=1382.96}
+{place=51, name='Jenson Draper', school='DeLaSalle', grade=11, gender='M', time=1389.6}
+{place=52, name='Caleb Raasch', school='St Croix Lutheran', grade=11, gender='M', time=1390.6}
+{place=53, name='Christian  Huonder', school='St Croix Lutheran', grade=9, gender='M', time=1397.22}
+{place=54, name='Jackson Goins', school='St Louis Park', grade=9, gender='M', time=1397.31}
+{place=55, name='Jason Mercado', school='DeLaSalle', grade=12, gender='M', time=1404.22}
+{place=56, name='James Pfister', school='Minneapolis Southwest', grade=10, gender='M', time=1404.46}
+{place=57, name='Bailey Kwong', school='Spring Lake Park', grade=9, gender='M', time=1405.89}
+{place=58, name='Nick Nassif', school='DeLaSalle', grade=11, gender='M', time=1406.48}
+{place=59, name='Tristan Khotsombath', school='Spring Lake Park', grade=9, gender='M', time=1411.14}
+{place=60, name='Ben Mueller', school='Northwest', grade=11, gender='M', time=1419.22}
+{place=61, name='Nathan Czlapinski', school='St Croix Lutheran', grade=12, gender='M', time=1430.97}
+{place=62, name='William Pannell', school='Blake', grade=9, gender='M', time=1435.48}
+{place=63, name='Jacob Hanson', school='DeLaSalle', grade=11, gender='M', time=1435.52}
+{place=64, name='Joe Thompson', school='Robbinsdale Cooper', grade=11, gender='M', time=1438.98}
+{place=65, name='George Copeland', school='Spring Lake Park', grade=9, gender='M', time=1450.98}
+{place=66, name='Carlos Zeigle', school='St Louis Park', grade=10, gender='M', time=1455.21}
+{place=67, name='Collin Perkins', school='St Louis Park', grade=9, gender='M', time=1461.89}
+{place=68, name='Aidan Petrilla', school='Minneapolis Southwest', grade=10, gender='M', time=1468.6}
+{place=69, name='Emmet Whitely', school='Blake', grade=9, gender='M', time=1470.43}
+{place=70, name='Aedan Foner', school='St Louis Park', grade=11, gender='M', time=1477.95}
+{place=71, name='Anthony Sixta', school='Northwest', grade=10, gender='M', time=1490.31}
+{place=72, name='Harrison Rowe', school='DeLaSalle', grade=9, gender='M', time=1497.81}
+{place=73, name='Connor Yu', school='Blake', grade=9, gender='M', time=1499.23}
+{place=74, name='Josh Bayer', school='Spring Lake Park', grade=12, gender='M', time=1509.76}
+{place=75, name='Kyle Swing', school='Blake', grade=9, gender='M', time=1510.22}
+{place=76, name='Quinn Carpenter', school='DeLaSalle', grade=10, gender='M', time=1514.98}
+{place=77, name='Marco Thul', school='Spring Lake Park', grade=10, gender='M', time=1531.96}
+{place=78, name='Logan Miller', school='Spring Lake Park', grade=7, gender='M', time=1558.98}
+{place=79, name='Bennett Putnam', school='Spring Lake Park', grade=9, gender='M', time=1566.62}
+{place=80, name='Torin McConkey', school='Spring Lake Park', grade=9, gender='M', time=1585.7}
+{place=81, name='Zach Gustafson', school='DeLaSalle', grade=10, gender='M', time=1585.7}
+{place=82, name='Abdi Mohamud', school='St Louis Park', grade=12, gender='M', time=1594.98}
+{place=83, name='Tyler Columbus', school='Henry Sibley', grade=10, gender='M', time=1597.89}
+{place=84, name='Sam Herman', school='Robbinsdale Cooper', grade=10, gender='M', time=1632.08}
+{place=85, name='Joe Stinson', school='Robbinsdale Cooper', grade=11, gender='M', time=1632.98}
+{place=86, name='David Lindgren', school='Robbinsdale Cooper', grade=9, gender='M', time=1637.1}
+{place=87, name='Jason Flakne', school='Spring Lake Park', grade=11, gender='M', time=1785.35}
+{place=88, name='Carter Schmelzle', school='St Louis Park', grade=10, gender='M', time=1861.25}

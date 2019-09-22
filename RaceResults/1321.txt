@@ -1,0 +1,213 @@
+Race : 1321
+{place=1, name='Logan Klinzman', school='Monticello', grade=9, gender='M', time=1104.28}
+{place=2, name='Joe Stangler', school='St Cloud Cathedral', grade=10, gender='M', time=1136.73}
+{place=3, name='Dominick DeIeso', school='St Cloud Cathedral', grade=11, gender='M', time=1137.97}
+{place=4, name='Wyatt Jacobsen-Hansen', school='Buffalo', grade=12, gender='M', time=1142.22}
+{place=5, name='Clayton Teff', school='St Cloud Cathedral', grade=11, gender='M', time=1142.82}
+{place=6, name='Travis Kray', school='Waconia', grade=12, gender='M', time=1152.8}
+{place=7, name='Nicholas Linn', school='St Cloud Cathedral', grade=10, gender='M', time=1154.23}
+{place=8, name='Tyler Zabinski', school='St Cloud Cathedral', grade=10, gender='M', time=1155.47}
+{place=9, name='Matt Gohman', school='Waconia', grade=12, gender='M', time=1160.72}
+{place=10, name='Max Stangret', school='Waconia', grade=10, gender='M', time=1164.73}
+{place=11, name='Mitchell Hughes', school='Monticello', grade=11, gender='M', time=1164.98}
+{place=12, name='Logan Wright', school='Monticello', grade=10, gender='M', time=1164.98}
+{place=13, name='Jacob Thole', school='STMA', grade=9, gender='M', time=1169.23}
+{place=14, name='Lucas Barth', school='St Francis', grade=9, gender='M', time=1171.23}
+{place=15, name='Cade Anderson', school='St Cloud Cathedral', grade=9, gender='M', time=1173.92}
+{place=16, name='Logan Nagorski', school='Big Lake', grade=9, gender='M', time=1174.95}
+{place=17, name='Joshua Thompson', school='Waconia', grade=11, gender='M', time=1175.95}
+{place=18, name='Matt Fenton', school='Buffalo', grade=11, gender='M', time=1177.35}
+{place=19, name='Evan Kalthoff', school='Waconia', grade=12, gender='M', time=1177.38}
+{place=20, name='Mitchell Rebehl', school='Buffalo', grade=9, gender='M', time=1180.98}
+{place=21, name='Joey Och', school='STMA', grade=10, gender='M', time=1182.85}
+{place=22, name='Tyler Bartholomew', school='STMA', grade=9, gender='M', time=1183.47}
+{place=23, name='Natnan  Smith', school='Buffalo', grade=9, gender='M', time=1184.09}
+{place=24, name='Rylan Grose', school='St Cloud Tech', grade=9, gender='M', time=1185.48}
+{place=25, name='Joe Elliot', school='Cambridge-Isanti', grade=12, gender='M', time=1187.23}
+{place=26, name='Luke Maiers', school='St Francis', grade=11, gender='M', time=1188.48}
+{place=27, name='Jeff Schultz', school='Waconia', grade=11, gender='M', time=1188.73}
+{place=28, name='Jack  Hennen', school='Cambridge-Isanti', grade=9, gender='M', time=1189.35}
+{place=29, name='Eric Scriver', school='STMA', grade=9, gender='M', time=1193.8}
+{place=30, name='Jaret Eiynck', school='Cambridge-Isanti', grade=12, gender='M', time=1194.65}
+{place=31, name='Riley Halstrom', school='St Cloud Cathedral', grade=9, gender='M', time=1196.22}
+{place=32, name='Keifer Holcomb', school='Waconia', grade=10, gender='M', time=1198.23}
+{place=33, name='Andrew  Rios', school='Cambridge-Isanti', grade=10, gender='M', time=1203.48}
+{place=34, name='Tommy Hamilton', school='STMA', grade=9, gender='M', time=1205.73}
+{place=35, name='Mason Friesz', school='Cambridge-Isanti', grade=10, gender='M', time=1206.8}
+{place=36, name='Sullivan McKinley', school='Buffalo', grade=11, gender='M', time=1207.01}
+{place=37, name='Nick Dinkel', school='STMA', grade=11, gender='M', time=1207.98}
+{place=38, name='Matthew Helser', school='Big Lake', grade=9, gender='M', time=1208.98}
+{place=39, name='Austin Willey', school='Buffalo', grade=9, gender='M', time=1209.26}
+{place=40, name='David Putz', school='Buffalo', grade=11, gender='M', time=1209.47}
+{place=41, name='Alex White', school='Big Lake', grade=10, gender='M', time=1211.73}
+{place=42, name='Zach Revenig', school='Monticello', grade=9, gender='M', time=1212.48}
+{place=43, name='Luke Peterson', school='STMA', grade=9, gender='M', time=1213.23}
+{place=44, name='Connor Behrens', school='Waconia', grade=7, gender='M', time=1213.48}
+{place=45, name='Nathan Stracke', school='St Cloud Cathedral', grade=12, gender='M', time=1215.48}
+{place=46, name='Thaddeus Noel', school='STMA', grade=11, gender='M', time=1216.75}
+{place=47, name='Aubrey Hartfiel', school='Big Lake', grade=10, gender='M', time=1217.73}
+{place=48, name='Davis Wendt', school='St Cloud Tech', grade=10, gender='M', time=1218.23}
+{place=49, name='Caden Turner', school='Waconia', grade=10, gender='M', time=1219.73}
+{place=50, name='Ben Fife', school='Rogers', grade=11, gender='M', time=1219.98}
+{place=51, name='Tanner McDonald', school='Waconia', grade=8, gender='M', time=1221.23}
+{place=52, name='Jack Smith', school='Monticello', grade=9, gender='M', time=1223.05}
+{place=53, name='Josh Anderson', school='Buffalo', grade=10, gender='M', time=1223.98}
+{place=54, name='Tom  Mickelson', school='Cambridge-Isanti', grade=12, gender='M', time=1225.92}
+{place=55, name='Christian Eidahl', school='Delano', grade=11, gender='M', time=1225.92}
+{place=56, name='Chandler Karki', school='St Cloud Cathedral', grade=12, gender='M', time=1226.98}
+{place=57, name='Ryan Russek', school='Buffalo', grade=9, gender='M', time=1228.48}
+{place=58, name='Shane Vachal', school='St Cloud Tech', grade=9, gender='M', time=1228.78}
+{place=59, name='Magnus Mannor', school='Delano', grade=8, gender='M', time=1231.2}
+{place=60, name='Trigg Capistrant-Kinney', school='Waconia', grade=9, gender='M', time=1231.98}
+{place=61, name='Dylan  Remsik', school='Monticello', grade=11, gender='M', time=1236.07}
+{place=62, name='Ty Ulven', school='Monticello', grade=9, gender='M', time=1238.48}
+{place=63, name='Christian Lommel', school='Monticello', grade=12, gender='M', time=1238.73}
+{place=64, name='Dan Forslund', school='Cambridge-Isanti', grade=10, gender='M', time=1240.73}
+{place=65, name='Logan Johnson', school='Big Lake', grade=10, gender='M', time=1242.8}
+{place=66, name='Berit Sell', school='Waconia', grade=9, gender='M', time=1248.88}
+{place=67, name='Jacob  Rath', school='St Francis', grade=12, gender='M', time=1258.73}
+{place=68, name='Ben Luder', school='Waconia', grade=12, gender='M', time=1261.47}
+{place=69, name='Max Drescow', school='St Cloud Tech', grade=11, gender='M', time=1262.7}
+{place=70, name='Rishi Gulati', school='St Cloud Cathedral', grade=9, gender='M', time=1265.73}
+{place=71, name='Michael Aubol', school='Big Lake', grade=9, gender='M', time=1266.35}
+{place=72, name='Benjamin Cravens', school='Waconia', grade=10, gender='M', time=1266.73}
+{place=73, name='Gavin Wightman', school='Waconia', grade=8, gender='M', time=1270.4}
+{place=74, name='Kyle Christen', school='St Cloud Tech', grade=7, gender='M', time=1271.42}
+{place=75, name='Alex Sirovy', school='Monticello', grade=9, gender='M', time=1273.45}
+{place=76, name='Eithan Warne', school='Buffalo', grade=9, gender='M', time=1275.48}
+{place=77, name='Blaise Ebel', school='St Cloud Cathedral', grade=11, gender='M', time=1277.92}
+{place=78, name='Dan Vogt', school='St Cloud Cathedral', grade=10, gender='M', time=1278.73}
+{place=79, name='Asher Mason', school='Monticello', grade=12, gender='M', time=1279.53}
+{place=80, name='Will Theyson', school='Monticello', grade=12, gender='M', time=1279.67}
+{place=81, name='Zack Turner', school='Monticello', grade=11, gender='M', time=1281.4}
+{place=82, name='Nick Rath', school='St Francis', grade=11, gender='M', time=1281.48}
+{place=83, name='Jack Cloutier', school='STMA', grade=9, gender='M', time=1281.73}
+{place=84, name='Reier Sjomeling', school='Delano', grade=9, gender='M', time=1282.03}
+{place=85, name='Ian Gibis', school='Big Lake', grade=11, gender='M', time=1286.47}
+{place=86, name='Evan Peters', school='STMA', grade=10, gender='M', time=1289.72}
+{place=87, name='Reed Brown', school='STMA', grade=9, gender='M', time=1291.98}
+{place=88, name='Adam Reiter', school='Rogers', grade=10, gender='M', time=1292.98}
+{place=89, name='Brendan Stark', school='Rogers', grade=9, gender='M', time=1294.42}
+{place=90, name='Jackson Boberg', school='Waconia', grade=9, gender='M', time=1294.63}
+{place=91, name='Alex Prom', school='Big Lake', grade=10, gender='M', time=1295.73}
+{place=92, name='Nicholas Claveau', school='Cambridge-Isanti', grade=9, gender='M', time=1296.85}
+{place=93, name='Blake Jenson', school='St Francis', grade=9, gender='M', time=1296.98}
+{place=94, name='Aidan Carver', school='Waconia', grade=10, gender='M', time=1297.67}
+{place=95, name='Ethan Steen', school='Waconia', grade=9, gender='M', time=1300.48}
+{place=96, name='Sam Yunker', school='Delano', grade=10, gender='M', time=1302.98}
+{place=97, name='Coty Beckstrom', school='STMA', grade=10, gender='M', time=1305.55}
+{place=98, name='Erik Reshetar', school='Rogers', grade=10, gender='M', time=1306.23}
+{place=99, name='Drake Fiske', school='Buffalo', grade=11, gender='M', time=1306.38}
+{place=100, name='Ross Lieverman', school='Waconia', grade=10, gender='M', time=1307.6}
+{place=101, name='Roman Parpart', school='Waconia', grade=9, gender='M', time=1308.42}
+{place=102, name='Alex Murphy', school='Waconia', grade=8, gender='M', time=1309.45}
+{place=103, name='Aric Anderson', school='STMA', grade=9, gender='M', time=1310.23}
+{place=104, name='Ulises Ramirez', school='St Cloud Tech', grade=10, gender='M', time=1311.88}
+{place=105, name='Braydon Wald', school='Rogers', grade=9, gender='M', time=1312.9}
+{place=106, name='Keagan Kearney', school='St Cloud Cathedral', grade=10, gender='M', time=1313.48}
+{place=107, name='Stefan  Jones', school='Big Lake', grade=10, gender='M', time=1315.55}
+{place=108, name='Christian Wiebe', school='Cambridge-Isanti', grade=10, gender='M', time=1317.23}
+{place=109, name='Dylan Harbaugh', school='Big Lake', grade=9, gender='M', time=1317.38}
+{place=110, name='Peter Weinand', school='Waconia', grade=11, gender='M', time=1317.95}
+{place=111, name='Eric Christopherson', school='Monticello', grade=11, gender='M', time=1318.48}
+{place=112, name='Henry Skuza', school='St Cloud Cathedral', grade=9, gender='M', time=1318.73}
+{place=113, name='Riley Marsolek', school='STMA', grade=10, gender='M', time=1319.07}
+{place=114, name='Evan Campbell', school='Waconia', grade=8, gender='M', time=1320.23}
+{place=115, name='Michael Markiewicz', school='Waconia', grade=11, gender='M', time=1321.98}
+{place=116, name='Wyatt Vietmeier', school='Monticello', grade=10, gender='M', time=1322.67}
+{place=117, name='Hinton Hobza', school='STMA', grade=10, gender='M', time=1322.67}
+{place=118, name='Sam Hart', school='Big Lake', grade=9, gender='M', time=1323.48}
+{place=119, name='Logan Karls', school='Big Lake', grade=12, gender='M', time=1323.98}
+{place=120, name='Samson Streachek', school='Delano', grade=9, gender='M', time=1326.73}
+{place=121, name='Carter Lommel', school='Monticello', grade=9, gender='M', time=1327.76}
+{place=122, name='Noah Zimmerman', school='Buffalo', grade=9, gender='M', time=1332.98}
+{place=123, name='Dawson Weleski', school='St Cloud Tech', grade=10, gender='M', time=1338.73}
+{place=124, name='Caleb Schrein', school='Delano', grade=7, gender='M', time=1339.73}
+{place=125, name='Cole Todaro', school='St Francis', grade=9, gender='M', time=1340.98}
+{place=126, name='Casey  Bunting', school='Big Lake', grade=9, gender='M', time=1341.8}
+{place=127, name='Jake Thompson', school='STMA', grade=11, gender='M', time=1343.23}
+{place=128, name='Max Buskey', school='STMA', grade=10, gender='M', time=1344.23}
+{place=129, name='Danyan Blazek', school='STMA', grade=10, gender='M', time=1350.95}
+{place=130, name='Tyler Swenson', school='STMA', grade=11, gender='M', time=1352.55}
+{place=131, name='Josh Nelson', school='STMA', grade=9, gender='M', time=1360.68}
+{place=132, name='Nathan Conrad', school='STMA', grade=10, gender='M', time=1361.07}
+{place=133, name='Kyle Enfeld', school='St Francis', grade=9, gender='M', time=1361.48}
+{place=134, name='Coy Bailey', school='Big Lake', grade=10, gender='M', time=1362.23}
+{place=135, name='Jaydon Dickey', school='Big Lake', grade=10, gender='M', time=1362.7}
+{place=136, name='Carson Roehl', school='Waconia', grade=7, gender='M', time=1362.9}
+{place=137, name='Paul Decker', school='St Cloud Cathedral', grade=11, gender='M', time=1364.09}
+{place=138, name='Zander Kuerschner', school='Waconia', grade=9, gender='M', time=1366.97}
+{place=139, name='Drew Dorenbush', school='STMA', grade=9, gender='M', time=1368.76}
+{place=140, name='Isaiah Moorefield', school='St Cloud Cathedral', grade=11, gender='M', time=1368.9}
+{place=141, name='Ryan Ferris', school='St Cloud Cathedral', grade=10, gender='M', time=1369.2}
+{place=142, name='Ben Hanzsek-Brill', school='St Cloud Tech', grade=9, gender='M', time=1369.59}
+{place=143, name='Simon Razidlo', school='Waconia', grade=9, gender='M', time=1369.75}
+{place=144, name='Logan Vogt', school='STMA', grade=11, gender='M', time=1373.98}
+{place=145, name='Ryan Hyde', school='STMA', grade=10, gender='M', time=1374.48}
+{place=146, name='Dallas Hooper', school='St Cloud Tech', grade=10, gender='M', time=1375.72}
+{place=147, name='John Goebel', school='Delano', grade=11, gender='M', time=1376.73}
+{place=148, name='Hunter Lommel', school='Monticello', grade=9, gender='M', time=1383.82}
+{place=149, name='Alex Voigt', school='St Cloud Cathedral', grade=10, gender='M', time=1385.03}
+{place=150, name='Arne  Kvaal', school='St Cloud Tech', grade=10, gender='M', time=1385.45}
+{place=151, name='Conner Woodman', school='St Cloud Tech', grade=10, gender='M', time=1386.73}
+{place=152, name='Carson Dock', school='Waconia', grade=9, gender='M', time=1388.7}
+{place=153, name='Jacob Everswick', school='Monticello', grade=9, gender='M', time=1391.95}
+{place=154, name='Kyle Langer', school='Rogers', grade=10, gender='M', time=1392.73}
+{place=155, name='Garrett Stroud', school='Big Lake', grade=11, gender='M', time=1395.98}
+{place=156, name='William Hjort', school='St Cloud Cathedral', grade=9, gender='M', time=1400.98}
+{place=157, name='Noah Peterson', school='Waconia', grade=10, gender='M', time=1404.32}
+{place=158, name='Cole  Olson', school='Cambridge-Isanti', grade=9, gender='M', time=1407.73}
+{place=159, name='Joe Anderson', school='Waconia', grade=10, gender='M', time=1408.6}
+{place=160, name='Connor Senkyr', school='St Cloud Cathedral', grade=10, gender='M', time=1410.82}
+{place=161, name='Jake Oehrlein', school='St Cloud Tech', grade=12, gender='M', time=1413.23}
+{place=162, name='Eli Bragge', school='St Cloud Tech', grade=10, gender='M', time=1417.23}
+{place=163, name='Erik Johnson', school='Waconia', grade=10, gender='M', time=1418.73}
+{place=164, name='Brett Barbeln', school='STMA', grade=9, gender='M', time=1420.4}
+{place=165, name='Patrick Tollefsrud', school='St Cloud Cathedral', grade=10, gender='M', time=1420.48}
+{place=166, name='Nate Schindler', school='STMA', grade=11, gender='M', time=1422.8}
+{place=167, name='Carl Blake', school='STMA', grade=11, gender='M', time=1423.22}
+{place=168, name='Nic Poll', school='Delano', grade=10, gender='M', time=1425.65}
+{place=169, name='Maison Stamson', school='Waconia', grade=9, gender='M', time=1428.72}
+{place=170, name='Owen Sorby', school='STMA', grade=9, gender='M', time=1429.48}
+{place=171, name='Ben Anderson', school='Waconia', grade=9, gender='M', time=1432.35}
+{place=172, name='Shane Grunke', school='STMA', grade=10, gender='M', time=1441.25}
+{place=173, name='Ben Garnatz', school='Waconia', grade=12, gender='M', time=1456.9}
+{place=174, name='Ethan Liebsch', school='Waconia', grade=9, gender='M', time=1463.4}
+{place=175, name='Ben Beise', school='STMA', grade=11, gender='M', time=1464.42}
+{place=176, name='Nicolas Lage', school='Waconia', grade=9, gender='M', time=1466.0}
+{place=177, name='noah patterson', school='STMA', grade=10, gender='M', time=1467.98}
+{place=178, name='Michael  Elliot', school='Cambridge-Isanti', grade=10, gender='M', time=1472.5}
+{place=179, name='Jarod Walstrom', school='STMA', grade=10, gender='M', time=1477.63}
+{place=180, name='Griffin Johnson', school='St Cloud Cathedral', grade=10, gender='M', time=1483.28}
+{place=181, name='Lucius LaFromboise', school='Delano', grade=9, gender='M', time=1486.48}
+{place=182, name='Matt Clark', school='Delano', grade=9, gender='M', time=1486.55}
+{place=183, name='Andrew Behrens', school='STMA', grade=10, gender='M', time=1488.8}
+{place=184, name='Tristan  Benson', school='STMA', grade=9, gender='M', time=1488.98}
+{place=185, name='Robbie Jandik', school='St Cloud Cathedral', grade=10, gender='M', time=1506.23}
+{place=186, name='Brett VonRuden', school='STMA', grade=10, gender='M', time=1522.28}
+{place=187, name='Michael Friesen', school='Rogers', grade=11, gender='M', time=1525.72}
+{place=188, name='Connor Peterson', school='STMA', grade=10, gender='M', time=1537.32}
+{place=189, name='Alan Leukuma', school='Delano', grade=8, gender='M', time=1540.98}
+{place=190, name='Michael Lanz', school='St Cloud Cathedral', grade=9, gender='M', time=1545.0}
+{place=191, name='Tyson Peitz', school='Waconia', grade=9, gender='M', time=1545.4}
+{place=192, name='Ben Widseth', school='Waconia', grade=11, gender='M', time=1546.22}
+{place=193, name='Kameron Henderson', school='Cambridge-Isanti', grade=9, gender='M', time=1553.73}
+{place=194, name='Riley Nielsen-Tschritter', school='Rogers', grade=9, gender='M', time=1586.45}
+{place=195, name='Wyatt McCarthy', school='STMA', grade=9, gender='M', time=1588.25}
+{place=196, name='Steven Valerius', school='Big Lake', grade=10, gender='M', time=1600.03}
+{place=197, name='Joey Lindberg', school='Big Lake', grade=10, gender='M', time=1601.26}
+{place=198, name='Dalton Chouinard', school='Big Lake', grade=10, gender='M', time=1601.26}
+{place=199, name='Max Wageman', school='Rogers', grade=12, gender='M', time=1618.76}
+{place=200, name='Shane Antoine', school='STMA', grade=9, gender='M', time=1625.5}
+{place=201, name='Reece Shadden', school='Big Lake', grade=10, gender='M', time=1643.68}
+{place=202, name='David Perrault', school='St Cloud Tech', grade=11, gender='M', time=1660.32}
+{place=203, name='Tyler Gaetz', school='St Cloud Cathedral', grade=9, gender='M', time=1686.9}
+{place=204, name='Sam Strege', school='STMA', grade=9, gender='M', time=1703.26}
+{place=205, name='Benson Josh', school='St Cloud Tech', grade=12, gender='M', time=1707.2}
+{place=206, name='George Horobin', school='Delano', grade=9, gender='M', time=1720.98}
+{place=207, name='Ryan Balken', school='STMA', grade=10, gender='M', time=1732.98}
+{place=208, name='Gabe Voronyak', school='Rogers', grade=9, gender='M', time=1812.01}
+{place=209, name='Glenn Benson', school='Cambridge-Isanti', grade=9, gender='M', time=1923.76}
+{place=210, name='Dale Reshetar', school='Rogers', grade=11, gender='M', time=1995.98}
+{place=211, name='Sakthiram Sureshbabu', school='St Cloud Cathedral', grade=9, gender='M', time=2377.04}
+{place=212, name='Jacob Ibs', school='Monticello', grade=9, gender='M', time=1426.47}

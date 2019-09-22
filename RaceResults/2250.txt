@@ -1,0 +1,61 @@
+Race : 2250
+{place=1, name='Gwen Helgeson', school='Howard Lake-Waverly', grade=11, gender='F', time=1216.559}
+{place=2, name='Sophie Pribyl', school='Maple Lake', grade=8, gender='F', time=1256.571}
+{place=3, name='Cailyn  Kuechle', school='EV-W-K', grade=10, gender='F', time=1257.352}
+{place=4, name='Lauren Savageau', school='Osakis', grade=12, gender='F', time=1261.039}
+{place=5, name='Ava Mergen', school='Maple Lake', grade=11, gender='F', time=1266.52}
+{place=6, name='Augusta Demarais', school='Maple Lake', grade=9, gender='F', time=1268.25}
+{place=7, name='Gracie Mallak', school='Howard Lake-Waverly', grade=10, gender='F', time=1269.352}
+{place=8, name='Libby Yozamp', school='EV-W-K', grade=11, gender='F', time=1271.211}
+{place=9, name='Zya  Lueders', school='EV-W-K', grade=9, gender='F', time=1285.602}
+{place=10, name='Olivia  Kuechle', school='EV-W-K', grade=10, gender='F', time=1287.852}
+{place=11, name='Olivia Mokhtary', school='Holdingford', grade=12, gender='F', time=1300.352}
+{place=12, name='Brooke Baumann', school='Howard Lake-Waverly', grade=8, gender='F', time=1307.102}
+{place=13, name='Rachel Utecht', school='EV-W-K', grade=11, gender='F', time=1311.0391}
+{place=14, name='Grace Heying', school='Maple Lake', grade=10, gender='F', time=1314.508}
+{place=15, name='Mary Miller', school='Maple Lake', grade=9, gender='F', time=1319.578}
+{place=16, name='Katelyn Routhier', school='Howard Lake-Waverly', grade=8, gender='F', time=1328.11}
+{place=17, name='Erin Brabec', school='Howard Lake-Waverly', grade=11, gender='F', time=1330.61}
+{place=18, name='Grace Praska', school='Maple Lake', grade=8, gender='F', time=1330.801}
+{place=19, name='Carissa Andres', school='Pierz', grade=7, gender='F', time=1338.578}
+{place=20, name='Ellie Zimmermann', school='Paynesville', grade=8, gender='F', time=1352.352}
+{place=21, name='Rachel Kasper', school='Pierz', grade=7, gender='F', time=1353.828}
+{place=22, name='Grace Oeltjen', school='Osakis', grade=9, gender='F', time=1361.852}
+{place=23, name='Amaya Lyrek', school='EV-W-K', grade=11, gender='F', time=1366.45}
+{place=24, name='Sam Winscher', school='Pierz', grade=12, gender='F', time=1370.68}
+{place=25, name='Macy Carlson', school='Paynesville', grade=8, gender='F', time=1373.852}
+{place=26, name='Kate Graham', school='Maple Lake', grade=9, gender='F', time=1380.239}
+{place=27, name='Becky Lampert', school='Holdingford', grade=8, gender='F', time=1382.852}
+{place=28, name='Erin Borash', school='Royalton', grade=8, gender='F', time=1387.559}
+{place=29, name='Allyssa Gall', school='Pierz', grade=8, gender='F', time=1399.602}
+{place=30, name='Lailah Corrigan', school='St Johns Prep', grade=10, gender='F', time=1405.149}
+{place=31, name='Kara Bakke', school='Pierz', grade=7, gender='F', time=1405.34}
+{place=32, name='Abbey Schiefelbein', school='EV-W-K', grade=12, gender='F', time=1405.34}
+{place=33, name='Natalie Lieser', school='Paynesville', grade=9, gender='F', time=1406.852}
+{place=34, name='Destiny Dorman', school='Osakis', grade=9, gender='F', time=1410.602}
+{place=35, name='Brenna Andres', school='Pierz', grade=10, gender='F', time=1426.0391}
+{place=36, name='Erica Gaebe', school='Paynesville', grade=9, gender='F', time=1433.16}
+{place=37, name='Mari Shumaker', school='Paynesville', grade=12, gender='F', time=1435.2}
+{place=38, name='Sophia Strand', school='Paynesville', grade=11, gender='F', time=1449.352}
+{place=39, name='Danielle Wood', school='Howard Lake-Waverly', grade=9, gender='F', time=1459.321}
+{place=40, name='Alyssa Berendt', school='Holdingford', grade=10, gender='F', time=1459.852}
+{place=41, name='Grace Neutz', school='Royalton', grade=9, gender='F', time=1468.11}
+{place=42, name='Ivy Fasching', school='Howard Lake-Waverly', grade=7, gender='F', time=1482.129}
+{place=43, name='Alison Skwira', school='Holdingford', grade=10, gender='F', time=1483.352}
+{place=44, name='Anna Wolf', school='Osakis', grade=9, gender='F', time=1486.301}
+{place=45, name='Rachel Walsh', school='Osakis', grade=11, gender='F', time=1490.77}
+{place=46, name='Sonja Johnson', school='St Johns Prep', grade=12, gender='F', time=1498.86}
+{place=47, name='Elizabeth Kolb', school='St Johns Prep', grade=11, gender='F', time=1499.11}
+{place=48, name='Molly Higgins', school='Holdingford', grade=12, gender='F', time=1533.489}
+{place=49, name='Ellie Lochner', school='Pierz', grade=8, gender='F', time=1543.61}
+{place=50, name='Hailey Hagedon', school='Osakis', grade=10, gender='F', time=1558.61}
+{place=51, name='Kora Welch', school='St Johns Prep', grade=9, gender='F', time=1564.328}
+{place=52, name='Reid Nydeen', school='St Johns Prep', grade=11, gender='F', time=1564.719}
+{place=53, name='Sylvia Johnson', school='St Johns Prep', grade=8, gender='F', time=1568.789}
+{place=54, name='Elizabeth Pahl', school='Osakis', grade=11, gender='F', time=1581.36}
+{place=55, name='Cari Simon', school='Royalton', grade=10, gender='F', time=1596.61}
+{place=56, name='Jami Rudolph', school='Royalton', grade=9, gender='F', time=1603.309}
+{place=57, name='Katie John', school='St Johns Prep', grade=11, gender='F', time=1610.782}
+{place=58, name='Karley Lieser', school='Paynesville', grade=12, gender='F', time=1614.7}
+{place=59, name='Rachel Erickson', school='Royalton', grade=12, gender='F', time=1633.61}
+{place=60, name='Rebeka Daniel', school='Royalton', grade=11, gender='F', time=1657.36}

@@ -1,0 +1,51 @@
+Race : 240
+{place=1, name='Zach Mellon', school='Buffalo', grade=12, gender='M', time=995.7}
+{place=2, name='Jake Autio', school='STMA', grade=11, gender='M', time=1030.74}
+{place=3, name='Stephen Thibodeaus', school='Buffalo', grade=9, gender='M', time=1050.83}
+{place=4, name='Andy Wentzel', school='Rogers', grade=12, gender='M', time=1057.29}
+{place=5, name='Joel  Allen', school='Cambridge-Isanti', grade=10, gender='M', time=1059.35}
+{place=6, name='Billy Eifert', school='Cambridge-Isanti', grade=11, gender='M', time=1059.79}
+{place=7, name='Caleb LeClaire', school='Rogers', grade=9, gender='M', time=1064.35}
+{place=8, name='Nick Teetzel', school='Buffalo', grade=11, gender='M', time=1066.56}
+{place=9, name='Tony Aeshliman', school='Rogers', grade=11, gender='M', time=1067.7}
+{place=10, name='Jon Bianchi', school='Rogers', grade=12, gender='M', time=1068.47}
+{place=11, name='Steve  Jones', school='Cambridge-Isanti', grade=11, gender='M', time=1071.81}
+{place=12, name='Nathan Robeck', school='STMA', grade=11, gender='M', time=1077.77}
+{place=13, name='Joe Renier', school='Cambridge-Isanti', grade=11, gender='M', time=1078.54}
+{place=14, name='Jesse Doyle', school='Buffalo', grade=12, gender='M', time=1081.91}
+{place=15, name='Aric Hoeschen', school='STMA', grade=12, gender='M', time=1083.06}
+{place=16, name='Desmond Cariveau', school='Cambridge-Isanti', grade=11, gender='M', time=1084.16}
+{place=17, name='Carl J. Salonek', school='STMA', grade=12, gender='M', time=1087.16}
+{place=18, name='Clayton C Whitacre', school='Big Lake', grade=12, gender='M', time=1088.89}
+{place=19, name='Shane Sontag', school='Big Lake', grade=12, gender='M', time=1096.76}
+{place=20, name='Tommy Jossart', school='STMA', grade=12, gender='M', time=1099.74}
+{place=21, name='Ken St Marie', school='Big Lake', grade=11, gender='M', time=1100.77}
+{place=22, name='Jeremy Nelson', school='Rogers', grade=12, gender='M', time=1103.97}
+{place=23, name='Andrew Crocker', school='Big Lake', grade=11, gender='M', time=1105.29}
+{place=24, name='Scott Albares', school='Monticello', grade=11, gender='M', time=1106.04}
+{place=25, name='Nathan Engfer', school='Buffalo', grade=12, gender='M', time=1106.6}
+{place=26, name='Sam  Westerberg', school='Cambridge-Isanti', grade=10, gender='M', time=1108.64}
+{place=27, name='Kevin Hayes', school='Buffalo', grade=12, gender='M', time=1114.06}
+{place=28, name='Charlie Michaelis', school='Monticello', grade=10, gender='M', time=1114.72}
+{place=29, name='Dylan Hass', school='Princeton', grade=10, gender='M', time=1115.64}
+{place=30, name='Charlie  Abraham', school='Cambridge-Isanti', grade=11, gender='M', time=1118.51}
+{place=31, name='Blake Solberg', school='Buffalo', grade=11, gender='M', time=1119.79}
+{place=32, name='Matt  Nelson', school='Big Lake', grade=10, gender='M', time=1125.89}
+{place=33, name='David Arlt', school='STMA', grade=12, gender='M', time=1129.91}
+{place=34, name='Dan Schuler', school='Rogers', grade=10, gender='M', time=1133.22}
+{place=35, name='Colin Lyndorff', school='Monticello', grade=8, gender='M', time=1135.5}
+{place=36, name='Hunter Kopff', school='Monticello', grade=10, gender='M', time=1140.0}
+{place=37, name='Dustin Muehler', school='Rogers', grade=9, gender='M', time=1140.0}
+{place=38, name='Jake Maschoff', school='STMA', grade=12, gender='M', time=1147.52}
+{place=39, name='Miles Anderson', school='Monticello', grade=11, gender='M', time=1148.14}
+{place=40, name='Luke Gruhlke', school='Monticello', grade=9, gender='M', time=1150.49}
+{place=41, name='Phillip LaVallee', school='Monticello', grade=9, gender='M', time=1152.22}
+{place=42, name='Justin Prosser', school='Big Lake', grade=9, gender='M', time=1153.56}
+{place=43, name='Travs Bue', school='Becker', grade=12, gender='M', time=1161.68}
+{place=44, name='Tommy Markley', school='Big Lake', grade=11, gender='M', time=1187.22}
+{place=45, name='Kyle Palmer', school='Princeton', grade=10, gender='M', time=1187.64}
+{place=46, name='Trent Hoffer', school='Princeton', grade=10, gender='M', time=1218.35}
+{place=47, name='Carl Wold', school='Princeton', grade=9, gender='M', time=1231.14}
+{place=48, name='Scott Meyer', school='Princeton', grade=11, gender='M', time=1245.68}
+{place=49, name='Ian Collins', school='Princeton', grade=8, gender='M', time=1270.43}
+{place=50, name='Scott Collins', school='Princeton', grade=12, gender='M', time=1311.31}

@@ -1,0 +1,112 @@
+Race : 496
+{place=1, name='Lauren Guse', school='Irondale', grade=10, gender='F', time=1069.41}
+{place=2, name='Dani Johnson', school='Champlin Park', grade=8, gender='F', time=1093.93}
+{place=3, name='Kara Steele', school='Monticello', grade=11, gender='F', time=1097.95}
+{place=4, name='Elle Ubl', school='Anoka', grade=11, gender='F', time=1099.27}
+{place=5, name='Bailey Rasmussen', school='Monticello', grade=10, gender='F', time=1104.26}
+{place=6, name='Haley Putnam', school='Anoka', grade=12, gender='F', time=1111.49}
+{place=7, name='Patty Bray', school='Monticello', grade=9, gender='F', time=1123.54}
+{place=8, name='Shawna Thieschafer', school='Anoka', grade=11, gender='F', time=1125.81}
+{place=9, name='Mareesa Roo', school='Anoka', grade=11, gender='F', time=1127.35}
+{place=10, name='Carli Lastavich', school='Big Lake', grade=11, gender='F', time=1135.06}
+{place=11, name='Tess Voller', school='Monticello', grade=9, gender='F', time=1139.35}
+{place=12, name='Jena Wilkening', school='Becker', grade=9, gender='F', time=1143.7}
+{place=13, name='Lisa Nygaard', school='Monticello', grade=11, gender='F', time=1151.93}
+{place=14, name='Colleen Alama', school='Annandale', grade=12, gender='F', time=1155.62}
+{place=15, name='Katelyn Lavrenz', school='Monticello', grade=9, gender='F', time=1158.81}
+{place=16, name='Chelsea Payeur', school='Anoka', grade=11, gender='F', time=1164.77}
+{place=17, name='Molly  Wuollet', school='Robbinsdale Cooper', grade=10, gender='F', time=1172.29}
+{place=18, name='Samantha  Kasper', school='Annandale', grade=12, gender='F', time=1179.27}
+{place=19, name='Megan Doherty', school='Irondale', grade=11, gender='F', time=1187.08}
+{place=20, name='Erica  Salhus', school='Robbinsdale Cooper', grade=10, gender='F', time=1188.47}
+{place=21, name='Rachel Nelson', school='Marshall', grade=9, gender='F', time=1189.33}
+{place=22, name='Taylor Johnson', school='STMA', grade=11, gender='F', time=1189.74}
+{place=23, name='Andrea Caron', school='Marshall', grade=8, gender='F', time=1191.43}
+{place=24, name='Jenna Sypnieski', school='Monticello', grade=10, gender='F', time=1192.97}
+{place=25, name='Cassidy Kottke', school='STMA', grade=11, gender='F', time=1194.99}
+{place=26, name='Krista Rambo', school='STMA', grade=9, gender='F', time=1197.49}
+{place=27, name='Michelle Weber', school='Champlin Park', grade=12, gender='F', time=1207.2}
+{place=28, name='Ashley Holman', school='Champlin Park', grade=12, gender='F', time=1208.06}
+{place=29, name='Rayna  Egdorf', school='Becker', grade=9, gender='F', time=1211.06}
+{place=30, name='Courtney Muenchow', school='Monticello', grade=11, gender='F', time=1211.68}
+{place=31, name='Courtney Wall', school='Monticello', grade=11, gender='F', time=1212.29}
+{place=32, name='Cheyenne Vavrina', school='STMA', grade=9, gender='F', time=1212.68}
+{place=33, name='Alexandra Stevens', school='Anoka', grade=12, gender='F', time=1213.37}
+{place=34, name='Ashley Ages', school='Big Lake', grade=12, gender='F', time=1214.95}
+{place=35, name='Katlyn Douvier', school='Irondale', grade=12, gender='F', time=1216.89}
+{place=36, name='Shannon Wald', school='Champlin Park', grade=10, gender='F', time=1222.43}
+{place=37, name='Katy Riggenberg', school='Champlin Park', grade=10, gender='F', time=1225.89}
+{place=38, name='Nissa Grina', school='Hutchinson', grade=11, gender='F', time=1231.6}
+{place=39, name='Esther Watson', school='Monticello', grade=10, gender='F', time=1234.54}
+{place=40, name='Shelby Wilcox', school='Anoka', grade=11, gender='F', time=1234.89}
+{place=41, name='Brooke Voigt', school='Monticello', grade=9, gender='F', time=1235.58}
+{place=42, name='Caitlyn Perry', school='Champlin Park', grade=9, gender='F', time=1236.04}
+{place=43, name='Megan Picha', school='Anoka', grade=11, gender='F', time=1239.89}
+{place=44, name='Allison Urevig', school='Robbinsdale Cooper', grade=8, gender='F', time=1241.33}
+{place=45, name='McKenna Ekholm', school='Annandale', grade=10, gender='F', time=1242.22}
+{place=46, name='Mavis Ekholm', school='Annandale', grade=9, gender='F', time=1242.6}
+{place=47, name='Sara Belden', school='Robbinsdale Cooper', grade=8, gender='F', time=1244.52}
+{place=48, name='Madaline Malone', school='STMA', grade=11, gender='F', time=1245.7}
+{place=49, name='Hannah Rorvick', school='Champlin Park', grade=10, gender='F', time=1250.68}
+{place=50, name='Krystal Kraemer', school='Robbinsdale Cooper', grade=12, gender='F', time=1251.06}
+{place=51, name='Mina Kotara', school='Marshall', grade=11, gender='F', time=1251.51}
+{place=52, name='Jenna Loch', school='Annandale', grade=9, gender='F', time=1251.91}
+{place=53, name='Rachel Baarson', school='Champlin Park', grade=12, gender='F', time=1263.87}
+{place=54, name='Anne Atkins', school='Champlin Park', grade=10, gender='F', time=1270.99}
+{place=55, name='Adrienne Barberg', school='Robbinsdale Cooper', grade=10, gender='F', time=1286.45}
+{place=56, name='Maddie Jesser', school='STMA', grade=9, gender='F', time=1290.1}
+{place=57, name='Nicole Pexa', school='Anoka', grade=11, gender='F', time=1291.39}
+{place=58, name='Kartina Bigalk', school='Annandale', grade=9, gender='F', time=1292.95}
+{place=59, name='Hannah Eichens', school='Irondale', grade=9, gender='F', time=1295.85}
+{place=60, name='Abigail Skaalerud', school='Anoka', grade=9, gender='F', time=1296.12}
+{place=61, name='Alicia Peterson', school='Anoka', grade=9, gender='F', time=1299.45}
+{place=62, name='Olivia McCall', school='Robbinsdale Cooper', grade=8, gender='F', time=1311.6}
+{place=63, name='Jewel Bertzyk', school='Anoka', grade=12, gender='F', time=1313.6}
+{place=64, name='Allie Graving', school='Big Lake', grade=12, gender='F', time=1323.83}
+{place=65, name='Cody Vander Heyden', school='Monticello', grade=10, gender='F', time=1330.62}
+{place=66, name='Haley  Heitz', school='Monticello', grade=11, gender='F', time=1333.1}
+{place=67, name='Katelyn Gilbertson', school='Annandale', grade=10, gender='F', time=1338.52}
+{place=68, name='Kalie Manke', school='Anoka', grade=10, gender='F', time=1339.45}
+{place=69, name='Samantha Penn', school='Monticello', grade=11, gender='F', time=1340.6}
+{place=70, name='Kelsey Jonason', school='Champlin Park', grade=9, gender='F', time=1341.68}
+{place=71, name='Marissa Broten', school='Hutchinson', grade=11, gender='F', time=1343.1}
+{place=72, name='Erin Daly', school='STMA', grade=9, gender='F', time=1343.41}
+{place=73, name='Kristin Flemming', school='Annandale', grade=9, gender='F', time=1360.64}
+{place=74, name='Kendra Smith', school='Champlin Park', grade=12, gender='F', time=1361.99}
+{place=75, name='Abby Esser', school='Hutchinson', grade=10, gender='F', time=1362.66}
+{place=76, name='Kate Crnokrak', school='Monticello', grade=10, gender='F', time=1366.89}
+{place=77, name='Rachael Miller', school='Annandale', grade=12, gender='F', time=1367.45}
+{place=78, name='Alysa Cross', school='Anoka', grade=11, gender='F', time=1368.49}
+{place=79, name='Natalie Skoglund', school='Champlin Park', grade=12, gender='F', time=1369.77}
+{place=80, name='Erika Gudmundson', school='Becker', grade=12, gender='F', time=1375.87}
+{place=81, name='Michelle Garmon', school='Annandale', grade=10, gender='F', time=1378.58}
+{place=82, name='Somer Soli', school='Champlin Park', grade=11, gender='F', time=1384.93}
+{place=83, name='Hanna Boleman', school='Irondale', grade=11, gender='F', time=1386.56}
+{place=84, name='Kalley Gunderson', school='Big Lake', grade=9, gender='F', time=1387.93}
+{place=85, name='Andrea  Paumen', school='Annandale', grade=12, gender='F', time=1388.24}
+{place=86, name='Bri Maki', school='Anoka', grade=11, gender='F', time=1393.62}
+{place=87, name='Erin Kinney', school='Big Lake', grade=9, gender='F', time=1393.89}
+{place=88, name='Cora Zackrison', school='Hutchinson', grade=9, gender='F', time=1415.01}
+{place=89, name='Anna Schmitz', school='Champlin Park', grade=11, gender='F', time=1430.64}
+{place=90, name='Shaina Nelson', school='Anoka', grade=11, gender='F', time=1432.1}
+{place=91, name='Laura Drew', school='Monticello', grade=11, gender='F', time=1439.45}
+{place=92, name='Rachel Bossuyt', school='Marshall', grade=9, gender='F', time=1440.7}
+{place=93, name='Maria Sweeney', school='Irondale', grade=12, gender='F', time=1441.45}
+{place=94, name='Ayla Witschen', school='Monticello', grade=9, gender='F', time=1446.43}
+{place=95, name='Katie LaBau', school='Monticello', grade=11, gender='F', time=1454.52}
+{place=96, name='Beau Thomas', school='Irondale', grade=12, gender='F', time=1488.39}
+{place=97, name='Elizabeth Johnson', school='Irondale', grade=12, gender='F', time=1492.54}
+{place=98, name='Shantel Suelter', school='Monticello', grade=10, gender='F', time=1527.62}
+{place=99, name='Hannah Lorentzen', school='Champlin Park', grade=11, gender='F', time=1545.66}
+{place=100, name='Maddie Heie', school='Champlin Park', grade=11, gender='F', time=1546.76}
+{place=101, name='Gabby Ockluy', school='Champlin Park', grade=11, gender='F', time=1552.26}
+{place=102, name='Emma Clarine', school='Irondale', grade=9, gender='F', time=1555.77}
+{place=103, name='Michelle Babb', school='Irondale', grade=12, gender='F', time=1581.58}
+{place=104, name='Kristi Welle', school='Monticello', grade=9, gender='F', time=1598.83}
+{place=105, name='Emily Jansen', school='Rogers', grade=10, gender='F', time=1641.72}
+{place=106, name='Cassie Conrad', school='Rogers', grade=10, gender='F', time=1726.51}
+{place=107, name='Lauren VanBeek', school='Monticello', grade=12, gender='F', time=1826.37}
+{place=108, name='Megan Johnson', school='Champlin Park', grade=10, gender='F', time=4234.81}
+{place=109, name='Kelsey Weimerskirch', school='Champlin Park', grade=12, gender='F', time=4253.84}
+{place=110, name='Katherine Novak', school='Champlin Park', grade=9, gender='F', time=5134.3}
+{place=111, name='Alex Goldsberry', school='Champlin Park', grade=9, gender='F', time=5167.05}
